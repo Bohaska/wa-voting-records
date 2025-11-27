@@ -53,7 +53,7 @@ def process_polling_request():
 
             resolution_tag = root.find('RESOLUTION')
             # Handle empty tag case when no resolution is at vote.
-            if resolution_tag is None or not resolution_tag.find('ID'):
+            if resolution_tag is None or resolution_tag.find('ID') is None:
                 print(f"Council {council_id}: No resolution currently at vote.")
                 continue
 
@@ -97,7 +97,7 @@ def process_execution_request():
         voting_end_timestamp = council_state.get("voting_end_timestamp", 0)
 
         # Skip if no resolution is currently tracked for this council.
-        if voting_end_timestamp == 0 or not resolution_id:
+        if voting_end_timestamp == 0 or resolution_id is None:
             continue
 
         ONE_HOUR_SECONDS = 60 * 60
