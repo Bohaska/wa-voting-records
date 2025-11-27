@@ -86,7 +86,8 @@ def process_polling_request():
 
 def process_execution_request():
     """
-    Called hourly to check if any resolution is within the final hour of voting.
+    Called hourly to check if any resolution is active, save its vote record,
+    and reset monitoring once the voting has ended.
     """
     current_state = load_state()
     current_timestamp = int(datetime.now(tz=TZ).timestamp())
@@ -96,15 +97,11 @@ def process_execution_request():
         resolution_id = council_state.get("id")
         voting_end_timestamp = council_state.get("voting_end_timestamp", 0)
 
-        # Skip if no resolution is currently tracked for this council.
         if voting_end_timestamp == 0 or resolution_id is None:
             continue
 
-        ONE_HOUR_SECONDS = 60 * 60
-
-        # Execute if the current time is within the final hour (before the exact end time).
-        if current_timestamp >= (voting_end_timestamp - ONE_HOUR_SECONDS):
-            print(f"WA {council_id}: Executing final API call for {resolution_id}...")
+        if current_timestamp < voting_end_timestamp:
+            print(f"WA {council_id}: Overwriting hourly vote record for {resolution_id}...")
 
             try:
                 raw_xml = fetch_api_xml(council_id)
@@ -116,21 +113,23 @@ def process_execution_request():
                 os.system('git config user.name "GitHub Actions Bot"')
                 os.system('git config user.email "github-actions-bot@users.noreply.github.com"')
                 os.system(f'git add {filename}')
-                os.system(f'git commit -m "ARCHIVE: Voting records for resolution {resolution_id}"')
+                # Use || true in case the file hasn't changed since the last hour.
+                os.system(f'git commit -m "UPDATE: Hourly vote record for resolution {resolution_id}" || true')
                 os.system('git push')
 
-                # Clear the state for this council to prevent duplicate saves.
-                current_state[str(council_id)] = {"id": "", "voting_end_timestamp": 0}
-                print(f"WA {council_id}: Successfully saved {filename}. Monitoring reset.")
+                remaining_seconds = voting_end_timestamp - current_timestamp
+                remaining_time = str(timedelta(seconds=remaining_seconds))
+                end_dt = datetime.fromtimestamp(voting_end_timestamp, tz=TZ).strftime('%Y-%m-%d %H:%M:%S UTC')
+                print(f"WA {council_id}: Successfully saved {filename}. {remaining_time} remaining. End: {end_dt}")
+
 
             except Exception as e:
                 print(f"Error during execution/save for WA {council_id} ({resolution_id}): {e}")
-        else:
-            # Report remaining time for resolutions if not yet time to save
-            remaining_seconds = voting_end_timestamp - current_timestamp
-            remaining_time = str(timedelta(seconds=remaining_seconds))
-            end_dt = datetime.fromtimestamp(voting_end_timestamp, tz=TZ).strftime('%Y-%m-%d %H:%M:%S UTC')
-            print(f"WA {council_id}: Waiting. {remaining_time} remaining. End: {end_dt}")
+
+        # If the resolution ended
+        elif current_timestamp >= voting_end_timestamp:
+            current_state[str(council_id)] = {"id": "", "voting_end_timestamp": 0}
+            print(f"WA {council_id}: Resolution {resolution_id} has ended. Monitoring reset.")
 
     save_state(current_state)
 
