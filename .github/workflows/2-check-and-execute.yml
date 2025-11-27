@@ -1,0 +1,32 @@
+name: 2. Fetch Voting Records
+
+on:
+  schedule:
+    - cron: '59 * * * *'
+  workflow_dispatch:
+
+jobs:
+  check_and_execute:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Save voting records
+        env:
+          MONITOR_MODE: EXECUTE
+          # Set your user agent here
+          USER_AGENT: 'WA voting recorder (by: Jiangbei)'
+        run: python scripts/monitor.py
