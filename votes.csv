@@ -126,7 +126,7 @@ tzechni,1,
 disregardwork,1,
 the_empire_of_alerba,1,0
 manseria,1,
-delitai,1,
+delitai,1,0
 vennos,1,0
 theroria,1,
 vulpea,1,
@@ -148,7 +148,7 @@ zeibs,1,
 chipoli,1,
 haymarket_riot,1,0
 national_coraland_of_fishery,1,
-san_lumen,1,
+san_lumen,1,0
 astropole,1,
 the_grand_snake_empire,1,1
 miraglio,1,
@@ -219,7 +219,7 @@ hesker,1,1
 ye_olde_patria,1,
 new_alterna,1,1
 jaegerpondonia,1,0
-cashmoneyistan,1,
+cashmoneyistan,1,1
 whelaen,1,
 coopera_social,1,0
 northwest_queensland,1,
@@ -426,7 +426,7 @@ aranagra,1,
 reborn_america,1,
 new_arbuckle,1,0
 vicoria,1,
-ruganthosia,1,
+ruganthosia,1,0
 greater_theowherveld,1,
 xericinan,1,
 northeastern_appalachia,1,
@@ -444,7 +444,7 @@ greater_rostoria,1,
 mardatan,1,
 tyrsbord,1,1
 separatist_alliance,1,
-lireira,1,
+lireira,1,0
 krute_empire,1,0
 mistersap_and_krajola,1,0
 brazen_ii,1,
@@ -462,7 +462,7 @@ ulm-memmingen,1,0
 nirvanic,1,
 spaceballers,1,
 the_western_union_of_communitas,1,1
-centas,1,
+centas,1,0
 garlanator,1,
 staidear,1,
 usagiland,1,
@@ -496,7 +496,7 @@ democratic_wer,1,0
 trondime,1,
 royal_kingdom_of_australia,1,
 olyglea,1,1
-mirahge,1,
+mirahge,1,1
 the_central_islands,1,0
 tallstarr,1,
 marggadon,1,1
@@ -507,7 +507,7 @@ terraric_cermania,1,0
 ruairia,1,1
 kalmra,1,
 masterium,1,
-the_nightmare_and_dreams,1,
+the_nightmare_and_dreams,1,0
 all_hail_adriana,1,
 fated,1,
 freetopia12,1,
@@ -631,7 +631,7 @@ castrolaysia,1,1
 saint_barks-webados,1,0
 bloni,1,
 fallgriffin,1,
-overthinkers,1,
+overthinkers,1,0
 respyanodor,1,
 mjnallen5555,1,
 taurid,1,0
@@ -658,7 +658,7 @@ chaotic_khaos,1,
 daulmark,1,0
 new_bubastis,1,0
 dreamers_for_hope,1,
-super_democria,1,
+super_democria,1,1
 the_grand_alliance_of_goons,1,
 hibernia_kaas,1,0
 the_holy_principality_of_saint_mark,1,0
@@ -745,11 +745,11 @@ cind,1,
 sveniland,1,1
 hustlertwo,1,
 aarden_nations,1,1
-socialist_xlyvania,1,
+socialist_xlyvania,1,0
 neverourland,1,0
 ragnaria,1,
 shuckletopia,1,
-zintai,1,
+zintai,1,0
 harleying,1,
 urunk_helia,1,
 mariarty,1,
@@ -872,7 +872,7 @@ vegaga,1,
 sophiasworld,1,
 pluvie,1,1
 tarbock_road,1,
-yungerdash,1,
+yungerdash,1,0
 fartington,1,1
 la_france_sociale,1,
 resaza,1,1
@@ -901,7 +901,7 @@ capridam,1,
 republica_federal_de_catalunya,1,1
 narvatus,1,1
 jozia,1,
-yhudfg_khanate,1,
+yhudfg_khanate,1,0
 mehmetliler,1,
 ecchi_unlimited,1,
 free_augsburg,1,
@@ -959,14 +959,14 @@ caminexiantrinaria,1,
 dramancass,1,
 bangea,1,0
 islanalcatatuffles,1,
-iston,1,
+iston,1,0
 alainian_otters,1,
 annakendrickland,1,0
 crusadal,1,
 molson_iceland,1,
 mount_cashmore,1,
 the_united_states_of_austin,1,0
-elwher,1,
+elwher,1,0
 thr-1000,1,0
 stalmarc,1,0
 argent_hind,1,
@@ -979,7 +979,7 @@ unsophisticate,1,
 glom,1,
 koyun,1,
 tschabelia,1,
-charolsia,1,
+charolsia,1,0
 trimounts,1,
 hyperion_prime,1,0
 sanctum_teriaris,1,0
@@ -1172,7 +1172,7 @@ arucaria,1,
 sincorp,1,
 kazackhistan,1,
 crooked_truth,1,
-synaire,1,0
+synaire,1,1
 phigosa,1,
 the_krakle_people,1,
 new_gilboa,1,
@@ -1222,7 +1222,7 @@ rhodevus,1,
 amabilis,1,0
 drakenden,1,
 phoenicia-,1,0
-vobron,1,
+vobron,1,0
 unsna,1,0
 russila,1,
 threyon,1,
@@ -1522,7 +1522,7 @@ molotossia,1,
 nurdia,1,
 luminerra,1,0
 kasekyl,1,
-brightwalden,1,
+brightwalden,1,0
 krestasrijh,1,
 forio,1,
 new_babilonions,1,1
@@ -1552,8 +1552,8 @@ parnumaa,1,0
 kalartalin,1,
 korumos,1,
 dumbases,1,
-slaine_theocracy,1,
-epsilon_alpha,1,
+slaine_theocracy,1,1
+epsilon_alpha,1,0
 scotriana,1,1
 rumine,1,1
 the_midori_kaeru,1,
@@ -1581,7 +1581,7 @@ parrots_den,1,
 koendesh,1,
 tinell,1,0
 samund_facobs,1,
-cypheri,1,
+cypheri,1,0
 the_dark_aether,1,1
 baldorium,1,1
 sloap,1,
@@ -1610,7 +1610,7 @@ hongyuan,1,0
 kingdom_of_the_focke-wulf_islands,1,
 ibernet,1,
 big_pennieginnieginnie,1,0
-bet_naharin,1,
+bet_naharin,1,1
 rizzman_empire,1,0
 floweville,1,
 sapphica_sororitas,1,
@@ -1655,7 +1655,7 @@ cookies_and_cream_pizza,1,
 montopholous,1,1
 the_lagrangian_colonies,1,
 staypuftonia,1,
-comia_noracon,1,
+comia_noracon,1,0
 memememe-,1,
 heristal_raposhystru,1,1
 vivarex,1,
@@ -1740,7 +1740,7 @@ gastravon,1,
 republica_chingona,1,
 neo_imperial_america,1,
 sti_vismana,1,1
-lurusitania,1,
+lurusitania,1,0
 new_rainbow_falls,1,0
 kimonoko,1,
 salaniouca,1,
@@ -1863,7 +1863,7 @@ saint_saul_and_shirley,1,0
 chuuist_republic_of_new_jersey,1,0
 fruit_kingdom,1,0
 waisnor,1,1
-westswedia,1,
+westswedia,1,0
 west_ferris,1,0
 nymany,1,0
 the_martian_realm,1,
@@ -1890,7 +1890,7 @@ shardventoria,1,
 far_distant_land,1,0
 prydania,1,
 republic_of_botiya,1,0
-golinistan,1,
+golinistan,1,1
 little_hell,1,0
 greater_charlza,1,
 the_chill_union,1,0
@@ -2009,7 +2009,7 @@ new_charles,1,
 setnei,1,
 vichtander,1,
 austrasul,1,
-heritagela,1,
+heritagela,1,0
 democratic_states_of_zokshia,1,
 the_lowtown_resistance,1,
 tund_rhilra,1,1
@@ -2143,7 +2143,7 @@ twindrill_territory,1,1
 nas_crustium,1,0
 azflebrigan,1,
 girthalium,1,1
-nordiv,1,
+nordiv,1,0
 al_abamistan,1,0
 ecologist_hegemony,1,
 crazy_firemen,1,
@@ -2183,7 +2183,7 @@ islands_of_the_northern_ocean,1,0
 nauvira,1,
 new_vedlar,1,
 malenkia,1,1
-zavea,1,
+zavea,1,0
 peheewland,1,0
 relevantia,1,
 uragia,1,
@@ -2216,7 +2216,7 @@ krastum,1,
 magadia,1,
 wyrdas,1,
 michaliav,1,
-cyberpunk_nation,1,
+cyberpunk_nation,1,0
 norland_angre,1,
 galgenbeck,1,
 legionary_poland,1,1
@@ -2267,7 +2267,7 @@ merv_gryphon,1,
 pultorland,1,0
 eggtowne,1,0
 kosova,1,1
-free_german_republic,1,
+free_german_republic,1,1
 poisonangel,1,
 azov_steel_2022,1,
 principado_blake,1,
@@ -2293,7 +2293,7 @@ great_clucky,1,
 benria,1,
 st_jose,1,0
 ventusky,1,0
-tria_shas,1,
+tria_shas,1,1
 gandoor,1,1
 sinra,1,
 azurefront,1,
@@ -2572,7 +2572,7 @@ nuting,1,
 athamioway,1,
 gesternsturz,1,0
 bonelisse,1,0
-lyariona,1,
+lyariona,1,0
 scillion,1,1
 indesputatio,1,0
 federal_republic_of_whangarei,1,
@@ -2746,7 +2746,7 @@ hereditas,1,
 adorian,1,0
 da_chunghwa,1,
 the_imperial_volovia,1,0
-memestw,1,
+memestw,1,0
 potatopelago,1,
 ostlantis,1,
 walter_jackson,1,
@@ -2974,7 +2974,7 @@ the_swiftest_warriors,1,
 the_lamia,1,
 pakitsk,1,
 uncreative_name,1,0
-tatalia-nkisi,1,
+tatalia-nkisi,1,1
 wasd12,1,0
 venico,1,0
 cartorian_empire,1,0
@@ -3138,7 +3138,7 @@ novaportugalidade,0,0
 novus_canadis,0,0
 galorical,0,0
 dacaro,0,1
-the_immortal_fire_nation,0,
+the_immortal_fire_nation,0,0
 democratic_republic_of_isgard,0,1
 mongolz,0,1
 west_alria,0,0
@@ -3170,7 +3170,7 @@ lunvaria,0,1
 cordaposi,0,0
 aruvenai,0,1
 bruinswik,0,1
-galadia,0,
+galadia,0,1
 final_international,0,1
 -eunomia,0,1
 prussian_socialist_regime,0,
@@ -3183,7 +3183,7 @@ wozmania,0,
 lac_yue,0,
 dushina,0,
 jzonim,0,
-commisariat_malyvenisk_order,0,
+commisariat_malyvenisk_order,0,0
 warrince,0,0
 blobian,0,
 hanoch,0,
@@ -3197,7 +3197,7 @@ poram_companies,0,1
 xtorot,0,1
 kingdom_of_algaris,0,
 western_isles_of_denmark,0,
-imperial_regnum,0,
+imperial_regnum,0,1
 elucubria,0,1
 eclipse_imperium,0,
 votak_matim,0,
@@ -3235,7 +3235,7 @@ skalba,0,
 stonewall720,0,
 mambanistan,0,
 sheepstate,0,1
-atavi,0,
+atavi,0,1
 isle_of_ducks,0,
 deism,0,1
 francanada,0,1
@@ -3246,7 +3246,7 @@ blablavania,0,
 rhyssuan_peoples,0,
 bobraqia,0,1
 lenkurg,0,
-di_mentago,0,
+di_mentago,0,1
 hong_kong_kowloon_and_new_territories,0,
 kethania,0,1
 uteda,0,0
@@ -3472,7 +3472,7 @@ the_dovahkiin_caliphate,0,1
 the_socialist_society,0,
 samariki,0,
 absent_human_rights,0,
-oxyformal,0,
+oxyformal,0,1
 utarah,0,0
 wolfhawk,0,
 volkodor,0,
@@ -3500,7 +3500,7 @@ the_multiversal_system,0,
 bolian_island,0,
 drapeta,0,1
 dutch_states_and_territories,0,1
-northwest_north_america,0,
+northwest_north_america,0,1
 ball_cra_sec,0,
 fireactu,0,
 kaufmagne,0,
@@ -3568,7 +3568,7 @@ erlovia,0,
 eridium,0,
 raptorcraft,0,
 africanskiy_soyz,0,
-valendrose,0,
+valendrose,0,1
 rellenia,0,
 santa_saber,0,1
 rosettan_overwatch,0,0
@@ -3718,7 +3718,7 @@ the_europians,0,
 youtos_vom,0,
 magna_mediterranea,0,1
 arsula,0,1
-draski,0,
+draski,0,1
 engelhardenia,0,1
 bicdic,0,1
 the_weirdo,0,
@@ -3763,7 +3763,7 @@ jamhuristan,0,
 icarema,0,0
 uson,0,1
 floofith,0,
-rad_asia,0,
+rad_asia,0,0
 yachil,0,
 aseanindia,0,
 unia_mexy,0,
@@ -3801,7 +3801,7 @@ teays,0,
 demilon,0,1
 nacupopej,0,
 theedaria,0,1
-vardanyia,0,
+vardanyia,0,1
 grand_avaritia,0,1
 the_lide_collective,0,0
 typica,0,
@@ -3828,7 +3828,7 @@ viysalion,0,
 larbiec,0,1
 chalistine,0,
 limboese,0,
-imperio_de_castilho,0,
+imperio_de_castilho,0,1
 palractus,0,
 zenjen,0,
 pax_zealandia,0,1
@@ -3918,7 +3918,7 @@ anuadh,0,1
 sangrinaria,0,
 herya,0,0
 safj,0,
-the_independent_island_of_vis,0,
+the_independent_island_of_vis,0,1
 soem,0,0
 egairo,0,
 duga,0,0
@@ -3934,7 +3934,7 @@ new_bon,0,1
 deutscheschina,0,
 elkremxia,0,
 summerset_sea,0,0
-therme,0,
+therme,0,1
 free_ganalia,0,
 edgestall,0,
 citycity,0,0
@@ -4056,7 +4056,7 @@ the_united_capital_of_adam,0,
 lawattsia,0,
 ironblood,0,1
 great_jameston,0,0
-zemshar,0,
+zemshar,0,0
 new_scratchiland,0,1
 atomic_garden,0,
 zaleandist_zackistan,0,
@@ -4126,7 +4126,7 @@ des_sawuzavilockaver_islands,0,
 newtonio,0,1
 lael_piotr,0,0
 skwar,0,
-antons_key,0,
+antons_key,0,0
 fransmany,0,1
 lytaran,0,1
 terre_di_oros,0,
@@ -4291,7 +4291,7 @@ ferrumetlapis,0,
 leastestevia,0,
 killiani,0,1
 stanindanius,0,
-skynidos,0,
+skynidos,0,1
 gwenova,0,
 carolignie,0,1
 virentis,0,1
@@ -4318,6 +4318,7 @@ grest_jjangllia,0,1
 gawaland,0,
 isle_royale,0,
 edenhold,0,0
+iujhj,,1
 42forever,,1
 alheri,,1
 spudnikia,,1
@@ -4339,14 +4340,15 @@ karlera,,1
 of_courscant,,1
 askeletonland,,1
 independent_state_of_novgorod,,1
+resististan,,1
 demena,,1
 statimpia,,1
 laka_squuia,,1
 the_republics_of_the_federation_of_gulf,,1
 bextoria,,1
 ructar,,1
-tareqiyyah,,1
 henkinsia,,1
+tareqiyyah,,1
 caxina,,1
 v217a,,1
 kaszubskie,,1
@@ -4369,8 +4371,8 @@ british_socialist_nations,,1
 the_opac_islands,,1
 samosil,,1
 papiv_nappon,,1
-mesothallania,,1
 arcadia_and_elysium,,1
+mesothallania,,1
 smert_terram,,1
 notsunnerland,,1
 zemerinsk,,1
@@ -4409,8 +4411,8 @@ sovni-aguirre,,1
 patricia_and_the_marcus_islands,,1
 cachard_calia,,1
 qwertian,,1
-artexeiana,,1
 scottrick,,1
+artexeiana,,1
 neo-hermitius,,1
 kuvo,,1
 lakayev,,1
@@ -4422,6 +4424,7 @@ n0bia,,1
 kelesi,,1
 texais,,1
 charavent,,1
+lascandra,,1
 karelo-finnish_sr,,1
 new_libertalia_kingdom,,1
 north_verulas,,1
@@ -4433,11 +4436,13 @@ maryania,,1
 ateria12,,1
 new_saint_peters,,1
 langren,,1
+lycori,,1
 consolari,,1
 whole_foods_market,,1
 amirante,,1
 sorchland,,1
 liberviri,,1
+the_leamid_empire,,1
 crestvale_republic,,1
 djeeta,,1
 big_plus,,1
@@ -4445,8 +4450,8 @@ pilipinas_and_malaya,,1
 gine_caruttiva,,1
 blue_king,,1
 mercuwury,,1
-unified_lost_city_states,,1
 pengutan,,1
+unified_lost_city_states,,1
 tygualles,,1
 north_gloucesterstan,,1
 northern_york,,1
@@ -4476,15 +4481,18 @@ regna_loreau,,0
 technogium,,0
 crowtania,,0
 ectovoid,,0
+fincy,,0
 altades,,0
 donkervader,,0
 nordrune,,0
 morikono,,0
 kephallogne,,0
 so_called_hater,,0
+lionsroar,,0
 ulancia,,0
 isle_of_quelteff,,0
 zestovakia,,0
+great_majorca,,0
 talstand,,0
 ufafe,,0
 kartauistan,,0
@@ -4510,6 +4518,7 @@ theres_more,,0
 zuhayera,,0
 kasdados,,0
 beltitia,,0
+the_united_austro-hungarian_commonwealth,,0
 larsovania,,0
 beddia,,0
 north_varitsha,,0
@@ -4518,6 +4527,7 @@ mcenousa,,0
 alentejo_and_algarve,,0
 borehole,,0
 unogonduria,,0
+mejor_estado,,0
 north_charight_island,,0
 autius,,0
 lovilonnum,,0
@@ -4529,6 +4539,7 @@ pinchin,,0
 seranis,,0
 bohol,,0
 dawn_fleet,,0
+verconia,,0
 john_countrys_country,,0
 nova_enlasia,,0
 art_landia,,0
@@ -4599,16 +4610,20 @@ phoidoss,,0
 adeligne,,0
 phoneada,,0
 auroream,,0
+sir_cumberbun_of_gloucester,,0
 alterra_corporations,,0
 interes,,0
 basston,,0
 tradila,,0
 the_crimson_isles,,0
+mceneryia,,0
 amach,,0
+yugonostalgia,,0
 the_terren_dominion,,0
 cerdenian_states,,0
 fukos_star_y,,0
 black_ivars,,0
+berejiklistanian,,0
 exilias,,0
 merriddia,,0
 xaeloa,,0
@@ -4619,9 +4634,10 @@ khorasan_razavi,,0
 siarki,,0
 the_stenchdom,,0
 masteau,,0
+islands_of_ventro,,0
 daganwaash,,0
-afria_thebel,,0
 cobra_sahara,,0
+afria_thebel,,0
 kad_jake,,0
 technocratic_tagalog,,0
 cahokians,,0
