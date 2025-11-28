@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WA Office - Nation Vote Search</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <div id="top_banner">
+            <h1 class="welcome" title="Information for Europe">WA Office</h1>
+        </div>
+
+        <div class="navbar">
+            <a href="index.html">InfoEurope</a>
+            <div class="dropdown">
+                <button class="dropbtn">WA Office <span style="font-size: 75%;">▼</span>
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a href="index.html">Voting records</a>
+                    <a href="nation-search.html">Individual nation vote records</a>
+                </div>
+            </div>
+            <a href="/about/">About</a>
+        </div>
+
+        <h1>Search Nation Votes</h1>
+
+        <p>Enter a nation's name to view their historical voting record.</p>
+
+        <form onsubmit="event.preventDefault(); searchNationVotes();">
+            <table>
+                <tbody>
+                    <tr>
+                        <th><label for="nation_id_search">Nation ID:</label></th>
+                        <td>
+                            <input type="text" id="nation_id_search" maxlength="40" aria-describedby="nation_id_search_helptext">
+                            <br>
+                            <span class="helptext" id="nation_id_search_helptext">Search for a nation name (e.g., 'Jiangbei').</span>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <input type="submit" value="Search">
+        </form>
+
+        <div id="nation-votes-result">
+            <p>Ready to search.</p>
+        </div>
+
+    </div>
+
+    <div class="footer">InfoEurope, by Imperium Anglorum
+    </div>
+
+    <script>
+        let allResolutions = {};
+        let allVotes = [];
+        let votesHeader = [];
+
+        /**
+         * Converts a Unix timestamp (seconds) to a YYYY-MM-DD UTC date string.
+         * @param {string} timestamp - The Unix timestamp string.
+         * @returns {string} Formatted date string or 'N/A'.
+         */
+        function timestampToDate(timestamp) {
+            if (!timestamp) return 'N/A';
+            const date = new Date(parseInt(timestamp) * 1000); // timestamp is in seconds
+            if (isNaN(date)) return 'N/A';
+            const year = date.getUTCFullYear();
+            const month = String(date.getUTCMonth() + 1).padStart(2, '0');
+            const day = String(date.getUTCDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
+        /**
+         * Parses a CSV string into an array of objects.
+         * @param {string} text - The CSV content.
+         * @returns {{headers: string[], data: Array<Object>}} Parsed data.
+         */
+        function parseCSV(text) {
+            const lines = text.trim().split('\n');
+            const headers = lines[0].split(',').map(h => h.trim().replace(/"/g, ''));
+            const data = [];
+            for (let i = 1; i < lines.length; i++) {
+                const values = lines[i].split(',').map(v => v.trim().replace(/"/g, ''));
+                if (values.length === headers.length) {
+                    const row = {};
+                    headers.forEach((header, index) => {
+                        row[header] = values[index];
+                    });
+                    data.push(row);
+                }
+            }
+            return { headers, data };
+        }
+
+        /**
+         * Converts council ID (1 or 2) to chamber name (GA or SC).
+         * @param {string} council_id
+         * @returns {string} Chamber name.
+         */
+        function getChamber(council_id) {
+            return council_id === '1' ? 'GA' : (council_id === '2' ? 'SC' : '');
+        }
+
+        /** Fetches and loads CSV data. */
+        async function loadData() {
+            try {
+                let response = await fetch('resolutions.csv');
+                let text = await response.text();
+                const resData = parseCSV(text).data;
+                allResolutions = resData.reduce((map, res) => {
+                    map[res.id] = res;
+                    return map;
+                }, {});
+
+                response = await fetch('votes.csv');
+                text = await response.text();
+                const votesData = parseCSV(text);
+                votesHeader = votesData.headers;
+                allVotes = votesData.data;
+
+                // Check for URL parameter for direct link from index.html
+                const urlParams = new URLSearchParams(window.location.search);
+                const prefillId = urlParams.get('id');
+                if (prefillId) {
+                    document.getElementById('nation_id_search').value = prefillId.replace(/_/g, ' ');
+                    searchNationVotes();
+                }
+
+            } catch (error) {
+                console.error("Error loading CSV data:", error);
+                document.getElementById('nation-votes-result').innerHTML = '<p>Error loading data. Check console for details.</p>';
+            }
+        }
+
+        /** Performs client-side search for a nation's votes. */
+        function searchNationVotes() {
+            const searchInput = document.getElementById('nation_id_search').value.trim();
+            const nationIdSearch = searchInput.toLowerCase().replace(/ /g, '_');
+            const resultDiv = document.getElementById('nation-votes-result');
+            resultDiv.innerHTML = '';
+
+            if (!nationIdSearch) {
+                resultDiv.innerHTML = '<p>Please enter a nation ID.</p>';
+                return;
+            }
+
+            const nationVotesRecord = allVotes.find(record => record.nation_id.toLowerCase().replace(/ /g, '_') === nationIdSearch);
+
+            if (!nationVotesRecord) {
+                resultDiv.innerHTML = `<p>No voting record found for nation ID: ${searchInput}</p>`;
+                return;
+            }
+
+            let html = `<h2>Voting record for: ${nationIdSearch.replace(/_/g, ' ')}</h2>`;
+            html += `<table class="decorated"><thead><tr><th>Date (UTC)</th><th>Chamber</th><th>Resolution ID</th><th>Resolution Title</th><th>Author</th><th>Vote</th></tr></thead><tbody>`;
+
+            const resolutionIds = votesHeader.filter(h => h !== 'nation_id');
+
+            resolutionIds.sort((a, b) => {
+                const resA = allResolutions[a];
+                const resB = allResolutions[b];
+                return parseInt(resB.promoted) - parseInt(resA.promoted);
+            });
+
+            resolutionIds.forEach(resId => {
+                const vote = nationVotesRecord[resId];
+                const res = allResolutions[resId];
+                if (!res) return;
+
+                const voteDisplay = vote === '1' ? 'FOR' : vote === '0' ? 'AGAINST' : 'N/A';
+                const chamber = getChamber(res.council);
+                const date_part = timestampToDate(res.promoted);
+
+                html += `
+                        <tr>
+                            <td class="min">${date_part}</td>
+                            <td class="min">${chamber}</td>
+                            <td class="min">${res.id}</td>
+                            <td><a href="index.html" onclick="localStorage.setItem('showDetail', '${res.id}');">${res.title}</a></td>
+                            <td>${res.proposed_by}</td>
+                            <td class="min">${voteDisplay}</td>
+                        </tr>
+                    `;
+            });
+
+            html += `</tbody></table>`;
+            resultDiv.innerHTML = html;
+        }
+
+        document.addEventListener('DOMContentLoaded', loadData);
+    </script>
+</body>
+</html>

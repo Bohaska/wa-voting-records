@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WA Office - Voting Records</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <div id="top_banner">
+            <h1 class="welcome" title="WA Office">WA Office</h1>
+        </div>
+
+        <div class="navbar">
+            <a href="index.html">InfoEurope</a>
+            <div class="dropdown">
+                <button class="dropbtn">WA Office <span style="font-size: 75%;">▼</span>
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a href="index.html">Voting records</a>
+                    <a href="nation-search.html">Individual nation vote records</a>
+                </div>
+            </div>
+            <a href="/about/">About</a>
+        </div>
+
+        <!-- Main List View -->
+        <div id="resolutions-list-view">
+            <h1>Browse resolutions</h1>
+            <p>The following is a list of all the voting records which the WA Office keeps. Click on the <i>title</i> of the
+                resolution for more information.</p>
+
+            <h2>Search by resolution</h2>
+            <form onsubmit="event.preventDefault(); filterResolutions();">
+                <table>
+                    <tbody>
+                        <tr>
+                            <th><label for="id_author_name">Author name:</label></th>
+                            <td>
+                                <input type="text" id="id_author_name" maxlength="40" aria-describedby="id_author_name_helptext">
+                                <br>
+                                <span class="helptext" id="id_author_name_helptext">Search for an author (substring match; primary author only).</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th><label for="id_keyword">Keyword:</label></th>
+                            <td>
+                                <input type="text" id="id_keyword" maxlength="60" aria-describedby="id_keyword_helptext">
+                                <br>
+                                <span class="helptext" id="id_keyword_helptext">Search for keyword appearing in proposal title.</span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <input type="submit" value="Filter" onclick="filterResolutions()">
+                <input type="button" value="Clear" onclick="document.getElementById('id_author_name').value=''; document.getElementById('id_keyword').value=''; filterResolutions();">
+            </form>
+            <br>
+
+            <table class="decorated">
+                <thead>
+                    <tr>
+                        <th>Date (UTC)</th>
+                        <th>Chamber</th>
+                        <th>Title</th>
+                        <th>Author</th>
+                        <th>Co-authors</th>
+                    </tr>
+                </thead>
+                <tbody id="resolutions-table-body">
+                    <tr><td colspan="5">Loading data...</td></tr>
+                </tbody>
+            </table>
+
+            <p><span style="font-size: 12px">Date based on resolution promotion time (UTC).</span></p>
+        </div>
+
+        <!-- Resolution View (Client-Side) -->
+        <div id="resolution-detail-view" style="display: none;">
+            <button onclick="showListView()" style="margin-bottom: 20px;">← Back to Resolutions List</button>
+            <h1 id="detail-title"></h1>
+            <p id="detail-metadata"></p>
+            <p>Full resolution text and complete history is available <a id="detail-link" target="_blank" href="#">here</a> (link is for display purposes, actual URL depends on external site).</p>
+
+            <div style="display: flex; justify-content: space-around;">
+                <div style="width: 45%;">
+                    <h2>Nations Voted FOR</h2>
+                    <ul id="voters-for" style="list-style-type: none; padding: 0;"></ul>
+                </div>
+                <div style="width: 45%;">
+                    <h2>Nations Voted AGAINST</h2>
+                    <ul id="voters-against" style="list-style-type: none; padding: 0;"></ul>
+                </div>
+            </div>
+
+            <p style="margin-top: 30px;">
+                <a id="download-csv" href="votes.csv" download="votes.csv">Download Full Votes CSV</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="footer">InfoEurope, by Imperium Anglorum
+        <br>
+        <a href="/accounts/login/">Login</a>
+    </div>
+
+    <script>
+        let allResolutions = [];
+        let allVotes = [];
+        let votesHeader = [];
+
+        /**
+         * Converts a Unix timestamp (seconds) to a YYYY-MM-DD UTC date string.
+         * @param {string} timestamp - The Unix timestamp string.
+         * @returns {string} Formatted date string or 'N/A'.
+         */
+        function timestampToDate(timestamp) {
+            if (!timestamp) return 'N/A';
+            const date = new Date(parseInt(timestamp) * 1000); // timestamp is in seconds
+            if (isNaN(date)) return 'N/A';
+            const year = date.getUTCFullYear();
+            const month = String(date.getUTCMonth() + 1).padStart(2, '0');
+            const day = String(date.getUTCDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
+        /**
+         * Parses a CSV string into an array of objects.
+         * @param {string} text - The CSV content.
+         * @returns {{headers: string[], data: Array<Object>}} Parsed data.
+         */
+        function parseCSV(text) {
+            const lines = text.trim().split('\n');
+            const headers = lines[0].split(',').map(h => h.trim().replace(/"/g, ''));
+            const data = [];
+            for (let i = 1; i < lines.length; i++) {
+                const values = lines[i].split(',').map(v => v.trim().replace(/"/g, ''));
+                if (values.length === headers.length) {
+                    const row = {};
+                    headers.forEach((header, index) => {
+                        row[header] = values[index];
+                    });
+                    data.push(row);
+                }
+            }
+            return { headers, data };
+        }
+
+        /** Fetches and processes resolution and vote data from CSV files. */
+        async function loadData() {
+            try {
+                let response = await fetch('resolutions.csv');
+                let text = await response.text();
+                allResolutions = parseCSV(text).data;
+
+                response = await fetch('votes.csv');
+                text = await response.text();
+                const votesData = parseCSV(text);
+                votesHeader = votesData.headers;
+                allVotes = votesData.data;
+
+                allResolutions = allResolutions.map(res => {
+                    res.date_part = timestampToDate(res.promoted);
+                    return res;
+                });
+
+                populateTable(allResolutions);
+
+            } catch (error) {
+                console.error("Error loading CSV data:", error);
+                document.getElementById('resolutions-table-body').innerHTML = '<tr><td colspan="5">Error loading data. Check console for details.</td></tr>';
+            }
+        }
+
+        /**
+         * Converts council ID (1 or 2) to chamber name (GA or SC).
+         * @param {string} council_id
+         * @returns {string} Chamber name.
+         */
+        function getChamber(council_id) {
+            return council_id === '1' ? 'GA' : (council_id === '2' ? 'SC' : '');
+        }
+
+        /** Populates the resolution table with filtered or all data. */
+        function populateTable(resList) {
+            const tbody = document.getElementById('resolutions-table-body');
+            tbody.innerHTML = '';
+
+            // Sort by promoted timestamp descending
+            resList.sort((a, b) => parseInt(b.promoted) - parseInt(a.promoted));
+
+            resList.forEach((res, index) => {
+                const row = tbody.insertRow();
+                row.className = (index % 2 === 1) ? 'grey-background' : '';
+
+                // Date (UTC YYYY-MM-DD)
+                row.insertCell().textContent = res.date_part;
+
+                row.insertCell().textContent = getChamber(res.council);
+
+                let cell = row.insertCell();
+                const link = document.createElement('a');
+                link.href = "#";
+                link.textContent = res.title;
+                link.onclick = (e) => {
+                    e.preventDefault();
+                    showDetailView(res.id);
+                };
+                cell.appendChild(link);
+
+                row.insertCell().textContent = res.proposed_by;
+
+                // Co-authors (empty string if none)
+                row.insertCell().textContent = res.coauthor || '';
+            });
+        }
+
+        /** Filters the resolutions table based on author and keyword input. */
+        function filterResolutions() {
+            const keyword = document.getElementById('id_keyword').value.toLowerCase();
+            const author = document.getElementById('id_author_name').value.toLowerCase();
+
+            const filtered = allResolutions.filter(res => {
+                const titleMatch = res.title.toLowerCase().includes(keyword);
+                // Search in both proposed_by and coauthor fields
+                const authorMatch = res.proposed_by.toLowerCase().includes(author) ||
+                                    (res.coauthor && res.coauthor.toLowerCase().includes(author));
+                return titleMatch && authorMatch;
+            });
+            populateTable(filtered);
+        }
+
+        /** Shows the detailed view for a specific resolution ID. */
+        function showDetailView(resId) {
+            const res = allResolutions.find(r => r.id === resId);
+            if (!res) return;
+
+            document.getElementById('detail-title').textContent = res.title;
+            const chamber = getChamber(res.council);
+            document.getElementById('detail-metadata').innerHTML =
+                `The ${chamber} resolution (ID: ${res.id}) was authored by "<strong>${res.proposed_by}</strong>" ` +
+                (res.coauthor ? `(Co-authors: ${res.coauthor}) ` : '') +
+                `and promoted on ${res.date_part} (UTC).`;
+
+            const resLink = `https://ifly6.no-ip.org/wa-proposal/${res.id}/`;
+            document.getElementById('detail-link').href = resLink;
+
+            const votersFor = [];
+            const votersAgainst = [];
+
+            allVotes.forEach(nationVoteRecord => {
+                const nationId = nationVoteRecord.nation_id;
+                const vote = nationVoteRecord[resId];
+                if (vote === '1') {
+                    votersFor.push(nationId);
+                } else if (vote === '0') {
+                    votersAgainst.push(nationId);
+                }
+            });
+
+            const ulFor = document.getElementById('voters-for');
+            const ulAgainst = document.getElementById('voters-against');
+            const mapVoter = n => `<li><a href="nation-search.html?id=${n}">${n.replace(/_/g, ' ')}</a></li>`;
+            ulFor.innerHTML = votersFor.map(mapVoter).join('');
+            ulAgainst.innerHTML = votersAgainst.map(mapVoter).join('');
+
+            document.getElementById('resolutions-list-view').style.display = 'none';
+            document.getElementById('resolution-detail-view').style.display = 'block';
+            window.scrollTo(0, 0);
+        }
+
+        /** Switches back to the main list view. */
+        function showListView() {
+            document.getElementById('resolution-detail-view').style.display = 'none';
+            document.getElementById('resolutions-list-view').style.display = 'block';
+            window.scrollTo(0, 0);
+        }
+
+        document.addEventListener('DOMContentLoaded', loadData);
+    </script>
+</body>
+</html>
