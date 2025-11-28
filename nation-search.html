@@ -75,22 +75,39 @@
         }
 
         /**
-         * Parses a CSV string into an array of objects.
+         * Parses a CSV string into an array of objects,  handling commas within double-quoted fields.
          * @param {string} text - The CSV content.
          * @returns {{headers: string[], data: Array<Object>}} Parsed data.
          */
         function parseCSV(text) {
-            const lines = text.trim().split('\n');
+            // Regex to split only on commas that are NOT inside double quotes.
+            const CSV_SPLIT_REGEX = /,(?=(?:(?:[^"]*"){2})*[^"]*$)/;
+
+            const lines = text.trim().split('\n').filter(line => line.trim() !== '');
+            if (lines.length < 2) return { headers: [], data: [] };
+
+            // Header line split: assumes headers do not contain quoted commas. Removes all quotes from headers.
             const headers = lines[0].split(',').map(h => h.trim().replace(/"/g, ''));
             const data = [];
+
             for (let i = 1; i < lines.length; i++) {
-                const values = lines[i].split(',').map(v => v.trim().replace(/"/g, ''));
+                const line = lines[i].trim();
+
+                const values = line.split(CSV_SPLIT_REGEX);
+
                 if (values.length === headers.length) {
                     const row = {};
                     headers.forEach((header, index) => {
-                        row[header] = values[index];
+                        let val = values[index].trim();
+                        // If value is enclosed in quotes, strip the outer quotes
+                        if (val.startsWith('"') && val.endsWith('"')) {
+                            val = val.substring(1, val.length - 1);
+                        }
+                        row[header] = val;
                     });
                     data.push(row);
+                } else {
+                     console.warn(`Skipping line ${i+1} in CSV: expected ${headers.length} columns, got ${values.length}. Line: ${line}`);
                 }
             }
             return { headers, data };
