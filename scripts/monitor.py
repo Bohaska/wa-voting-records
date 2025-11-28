@@ -1,6 +1,6 @@
 import os
 import requests
-import xml.etree.ElementTree as ET
+import lxml.etree as ET
 from datetime import datetime, timedelta, timezone
 import csv
 from os import listdir
@@ -216,7 +216,7 @@ def backfill_missing_votes_via_happenings(council_id, res_id, res_name, last_ts,
         elif vote_type == 'against':
             ET.SubElement(votes_against_tag, 'N').text = nation_id
 
-    final_xml_string = ET.tostring(root, encoding='utf-8').decode('utf-8')
+    final_xml_string = ET.tostring(root, encoding='utf-8', pretty_print=True, xml_declaration=True).decode('utf-8')
 
     with open(filename, 'w') as f:
         f.write(final_xml_string)
