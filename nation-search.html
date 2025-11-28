@@ -71,8 +71,8 @@ custom_scripts: |
                 return;
             }
 
-            let html = `<h2>Voting record for: ${nationIdSearch.replace(/_/g, ' ')}</h2>`;
-            html += `<table class="decorated"><thead><tr><th>Date (UTC)</th><th>Chamber</th><th>Resolution ID</th><th>Resolution Title</th><th>Author</th><th>Vote</th></tr></thead><tbody>`;
+            let html = `<h2>Voting record for: <a href="https://www.nationstates.net/nation=${nationIdSearch}">${nationIdSearch.replace(/_/g, ' ')}</a></h2>`;
+            html += `<table class="decorated"><thead><tr><th>Date (UTC)</th><th>Chamber</th><th>Resolution Title</th><th>Author</th><th>Vote</th></tr></thead><tbody>`;
 
             const resolutionIds = votesHeader.filter(h => h !== 'nation_id');
 
@@ -95,9 +95,8 @@ custom_scripts: |
                 html += `<tr>
                             <td class="min">${date_part}</td>
                             <td class="min">${chamber}</td>
-                            <td class="min">${res.id}</td>
                             <td><a href="index.html" onclick="localStorage.setItem('showDetail', '${res.id}');">${res.name}</a></td>
-                            <td>${res.proposed_by}</td>
+                            <td>${generateAuthorLinksHTML(res.proposed_by)}</td>
                             <td class="${tdClasses}">${voteDisplay}</td>
                         </tr>`;
             });
