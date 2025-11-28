@@ -52,7 +52,6 @@ def process_execution_request():
             os.system(f'git add {filename}')
             # Use || true in case the file hasn't changed since the last hour.
             os.system(f'git commit -m "UPDATE: Hourly vote record for resolution {resolution_id}" || true')
-            os.system('git push')
 
             promoted_ts = int(resolution_tag.find('PROMOTED').text)
             # Resolutions last exactly 4 days (345600 seconds).
