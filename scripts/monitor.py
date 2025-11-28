@@ -40,50 +40,6 @@ def fetch_api_xml(council_id):
     return response.text
 
 
-def process_polling_request():
-    """
-    Called daily to check for new resolutions and store their expected end time.
-    """
-    current_state = load_state()
-
-    for council_id in COUNCILS:
-        try:
-            xml_data = fetch_api_xml(council_id)
-            root = ET.fromstring(xml_data)
-
-            resolution_tag = root.find('RESOLUTION')
-            # Handle empty tag case when no resolution is at vote.
-            if resolution_tag is None or resolution_tag.find('ID') is None:
-                print(f"Council {council_id}: No resolution currently at vote.")
-                continue
-
-            resolution_id = resolution_tag.find('ID').text
-            promoted_ts = int(resolution_tag.find('PROMOTED').text)
-
-            council_state = current_state[str(council_id)]
-
-            # Only update if the current resolution is different from the saved one.
-            if council_state.get("id") != resolution_id:
-                # Resolutions last exactly 4 days (345600 seconds).
-                TIME_TO_VOTE_END_SECONDS = 345600
-                voting_end_timestamp = promoted_ts + TIME_TO_VOTE_END_SECONDS
-
-                end_dt = datetime.fromtimestamp(voting_end_timestamp, tz=TZ)
-                print(f"New Resolution (WA {council_id}): {resolution_id}. Ends: {end_dt} UTC.")
-
-                current_state[str(council_id)] = {
-                    "id": resolution_id,
-                    "voting_end_timestamp": voting_end_timestamp
-                }
-            else:
-                print(f"Council {council_id}: Resolution {resolution_id} is already monitored.")
-
-        except Exception as e:
-            print(f"Error during polling for Council {council_id}: {e}")
-
-    save_state(current_state)
-
-
 def process_execution_request():
     """
     Called hourly to check if any resolution is active, save its vote record,
@@ -93,52 +49,51 @@ def process_execution_request():
     current_timestamp = int(datetime.now(tz=TZ).timestamp())
 
     for council_id in COUNCILS:
-        council_state = current_state[str(council_id)]
-        resolution_id = council_state.get("id")
-        voting_end_timestamp = council_state.get("voting_end_timestamp", 0)
+        print(f"WA {council_id}: Overwriting hourly vote record...")
 
-        if voting_end_timestamp == 0 or resolution_id is None:
-            continue
+        try:
+            raw_xml = fetch_api_xml(council_id)
+            root = ET.fromstring(raw_xml)
 
-        if current_timestamp < voting_end_timestamp:
-            print(f"WA {council_id}: Overwriting hourly vote record for {resolution_id}...")
+            resolution_tag = root.find('RESOLUTION')
+            # Handle empty tag case when no resolution is at vote.
+            if resolution_tag is None or resolution_tag.find('ID') is None:
+                print(f"Council {council_id}: No resolution currently at vote.")
+                continue
 
-            try:
-                raw_xml = fetch_api_xml(council_id)
-                filename = f"{resolution_id}_votes.xml"
+            resolution_id = resolution_tag.find('ID').text
+            filename = f"{resolution_id}_votes.xml"
 
-                with open(filename, 'w') as f:
-                    f.write(raw_xml)
+            with open(filename, 'w') as f:
+                f.write(raw_xml)
 
-                os.system('git config user.name "GitHub Actions Bot"')
-                os.system('git config user.email "github-actions-bot@users.noreply.github.com"')
-                os.system(f'git add {filename}')
-                # Use || true in case the file hasn't changed since the last hour.
-                os.system(f'git commit -m "UPDATE: Hourly vote record for resolution {resolution_id}" || true')
-                os.system('git push')
+            os.system('git config user.name "GitHub Actions Bot"')
+            os.system('git config user.email "github-actions-bot@users.noreply.github.com"')
+            os.system(f'git add {filename}')
+            # Use || true in case the file hasn't changed since the last hour.
+            os.system(f'git commit -m "UPDATE: Hourly vote record for resolution {resolution_id}" || true')
+            os.system('git push')
 
-                remaining_seconds = voting_end_timestamp - current_timestamp
-                remaining_time = str(timedelta(seconds=remaining_seconds))
-                end_dt = datetime.fromtimestamp(voting_end_timestamp, tz=TZ).strftime('%Y-%m-%d %H:%M:%S UTC')
-                print(f"WA {council_id}: Successfully saved {filename}. {remaining_time} remaining. End: {end_dt}")
+            promoted_ts = int(resolution_tag.find('PROMOTED').text)
+            # Resolutions last exactly 4 days (345600 seconds).
+            TIME_TO_VOTE_END_SECONDS = 345600
+            voting_end_timestamp = promoted_ts + TIME_TO_VOTE_END_SECONDS
+
+            remaining_seconds = voting_end_timestamp - current_timestamp
+            remaining_time = str(timedelta(seconds=remaining_seconds))
+            end_dt = datetime.fromtimestamp(voting_end_timestamp, tz=TZ).strftime('%Y-%m-%d %H:%M:%S UTC')
+            print(f"WA {council_id}: Successfully saved {filename}. {remaining_time} remaining. End: {end_dt}")
 
 
-            except Exception as e:
-                print(f"Error during execution/save for WA {council_id} ({resolution_id}): {e}")
-
-        # If the resolution ended
-        elif current_timestamp >= voting_end_timestamp:
-            current_state[str(council_id)] = {"id": "", "voting_end_timestamp": 0}
-            print(f"WA {council_id}: Resolution {resolution_id} has ended. Monitoring reset.")
+        except Exception as e:
+            print(f"Error during execution/save for WA {council_id}: {e}")
 
     save_state(current_state)
 
 
 if __name__ == "__main__":
     mode = os.environ.get("MONITOR_MODE")
-    if mode == "POLL":
-        process_polling_request()
-    elif mode == "EXECUTE":
+    if mode == "EXECUTE":
         process_execution_request()
     else:
         print("Error: MONITOR_MODE environment variable is not set correctly.")

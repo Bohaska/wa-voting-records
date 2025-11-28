@@ -1,12 +1,12 @@
-name: 1. Poll Resolutions
+name: Fetch Voting Records
 
 on:
   schedule:
-    - cron: '20 16 * * *'
+    - cron: '10 * * * *'
   workflow_dispatch:
 
 jobs:
-  poll_and_store:
+  check_and_execute:
     runs-on: ubuntu-latest
 
     permissions:
@@ -24,9 +24,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Poll NS server for WA resolutions
+      - name: Save voting records
         env:
-          MONITOR_MODE: POLL
+          MONITOR_MODE: EXECUTE
           # Set your user agent here
           USER_AGENT: 'WA voting recorder (by: Jiangbei)'
         run: python scripts/monitor.py
