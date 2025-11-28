@@ -1,11 +1,10 @@
 import os
 import requests
 import xml.etree.ElementTree as ET
-import json
 from datetime import datetime, timedelta, timezone
 import csv
 from os import listdir
-from os.path import isfile, join
+from os.path import isfile
 
 STATE_FILE = "state.json"
 TZ = timezone.utc
@@ -76,32 +75,34 @@ def csv_vote_record():
     all_res = []
     columns = ['nation_id']
     for file in res_files:
-        with open('resolutions/' + file, 'r') as f:
-            root = ET.fromstring(f.read())
-            resolution = root.find('RESOLUTION')
-            resolution_id = resolution.find('ID').text
-            columns.append(resolution_id)
-            coauthors = ','.join([x.text for x in resolution.find('COAUTHOR').findall('N')])
-            resolution_info = {
-                'id': resolution_id,
-                'council': root.find('WA').get('council'),
-                'proposed_by': resolution.find('PROPOSED_BY').text,
-                'promoted': resolution.find('PROMOTED').text,
-                'coauthor': coauthors,
-            }
-            all_res.append(resolution_info)
-            for vote in resolution.find('VOTES_FOR').findall('N'):
-                nation_id = vote.text
-                if nation_id not in all_votes:
-                    all_votes[nation_id] = {'nation_id': nation_id, resolution_id: 1}
-                else:
-                    all_votes[nation_id][resolution_id] = 1
-            for vote in resolution.find('VOTES_AGAINST').findall('N'):
-                nation_id = vote.text
-                if nation_id not in all_votes:
-                    all_votes[nation_id] = {'nation_id': nation_id, resolution_id: 0}
-                else:
-                    all_votes[nation_id][resolution_id] = 0
+        path = 'resolutions/' + file
+        if isfile(path):
+            with open(path, 'r') as f:
+                root = ET.fromstring(f.read())
+                resolution = root.find('RESOLUTION')
+                resolution_id = resolution.find('ID').text
+                columns.append(resolution_id)
+                coauthors = ','.join([x.text for x in resolution.find('COAUTHOR').findall('N')])
+                resolution_info = {
+                    'id': resolution_id,
+                    'council': root.find('WA').get('council'),
+                    'proposed_by': resolution.find('PROPOSED_BY').text,
+                    'promoted': resolution.find('PROMOTED').text,
+                    'coauthor': coauthors,
+                }
+                all_res.append(resolution_info)
+                for vote in resolution.find('VOTES_FOR').findall('N'):
+                    nation_id = vote.text
+                    if nation_id not in all_votes:
+                        all_votes[nation_id] = {'nation_id': nation_id, resolution_id: 1}
+                    else:
+                        all_votes[nation_id][resolution_id] = 1
+                for vote in resolution.find('VOTES_AGAINST').findall('N'):
+                    nation_id = vote.text
+                    if nation_id not in all_votes:
+                        all_votes[nation_id] = {'nation_id': nation_id, resolution_id: 0}
+                    else:
+                        all_votes[nation_id][resolution_id] = 0
     with open('resolutions.csv', 'w', newline='') as resfile:
         res_columns = ['id', 'council', 'proposed_by', 'promoted', 'coauthor']
         writer = csv.DictWriter(resfile, fieldnames=res_columns)
