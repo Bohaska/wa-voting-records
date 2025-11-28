@@ -120,7 +120,7 @@ def csv_vote_record():
 
     os.system('git config user.name "GitHub Actions Bot"')
     os.system('git config user.email "github-actions-bot@users.noreply.github.com"')
-    os.system(f'git add votes.csv')
+    os.system(f'git add votes.csv resolutions.csv')
     # Use || true in case the file hasn't changed since the last hour.
     os.system(f'git commit -m "UPDATE: Vote record CSV" || true')
     os.system('git push')
