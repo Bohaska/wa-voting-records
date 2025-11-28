@@ -55,7 +55,7 @@ async function loadAllData() {
         // 1. Fetch and process resolutions
         let response = await fetch('resolutions.csv');
         let text = await response.text();
-        const resData = Papa.parse(text, {header: true, skipEmptyLines: false}).data;
+        const resData = Papa.parse(text, {header: true, skipEmptyLines: true}).data;
 
         const resolutionsArray = resData.map(res => ({
             ...res,
@@ -70,7 +70,7 @@ async function loadAllData() {
         // 2. Fetch and process votes
         response = await fetch('votes.csv');
         text = await response.text();
-        const votesData = Papa.parse(text, {header: true, skipEmptyLines: false});
+        const votesData = Papa.parse(text, {header: true, skipEmptyLines: true});
 
         return {
             resolutionsArray: resolutionsArray,
