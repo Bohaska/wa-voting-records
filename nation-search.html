@@ -88,7 +88,7 @@ custom_scripts: |
                 const res = allResolutions[resId];
 
                 const voteDisplay = vote === '1' ? 'FOR' : vote === '0' ? 'AGAINST' : 'N/A';
-                const tdClasses = `min vote ${'1' ? 'for' : vote === '0' ? 'against' : ''}`.trim();
+                const tdClasses = `min vote ${vote === '1' ? 'for' : vote === '0' ? 'against' : ''}`.trim();
                 const chamber = getChamber(res.council);
                 const date_part = res.date_part;
 
