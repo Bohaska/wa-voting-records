@@ -57,13 +57,8 @@
                 };
                 cell.appendChild(link);
 
-                let authorCell = row.insertCell();
-                const authorLink = document.createElement('a');
-                authorLink.href = `nation-search.html?id=${encodeURIComponent(res.proposed_by)}`;
-                authorLink.textContent = res.proposed_by;
-                authorCell.appendChild(authorLink);
-
-                row.insertCell().textContent = res.coauthor || '';
+                row.insertCell().innerHTML = generateAuthorLinksHTML(res.proposed_by);
+                row.insertCell().innerHTML = generateAuthorLinksHTML(res.coauthor);
             });
         }
 
@@ -89,8 +84,8 @@
             document.getElementById('detail-title').textContent = res.name;
             const chamber = getChamber(res.council);
             document.getElementById('detail-metadata').innerHTML =
-                `The ${chamber} resolution (ID: ${res.id}) was authored by "<strong>${res.proposed_by}</strong>" ` +
-                (res.coauthor ? `(Co-authors: ${res.coauthor}) ` : '') +
+                `The ${chamber} resolution (ID: ${res.id}) was authored by "${generateAuthorLinksHTML(res.proposed_by)}" ` +
+                (res.coauthor ? `(Co-authors: ${generateAuthorLinksHTML(res.coauthor)}) ` : '') +
                 `and promoted on ${res.date_part} (UTC).`;
 
             const resLink = `https://ifly6.no-ip.org/wa-proposal/${res.id}/`;

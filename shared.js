@@ -26,6 +26,27 @@ function getChamber(council_id) {
 }
 
 /**
+ * Generates an HTML string for an author or list of authors,
+ * where each author is wrapped in a link.
+ * @param {string} authorsString - Author names. Multiple names should be separated by commas.
+ * @returns {string} The HTML string containing linked authors separated by commas and spaces.
+ */
+function generateAuthorLinksHTML(authorsString) {
+    if (!authorsString) {
+        return '';
+    }
+
+    const authors = authorsString.split(',').map(author => author.trim());
+
+    const linkedAuthors = authors.map(authorName => {
+        const encodedName = encodeURIComponent(authorName);
+        return `<a href="nation-search.html?id=${encodedName}">${authorName}</a>`;
+    });
+
+    return linkedAuthors.join(', ');
+}
+
+/**
  * Fetches and processes all application data.
  * @returns {Promise<{ resolutionsArray: Array<Object>, resolutionsMap: Object, allVotes: Array<Object>, votesHeader: Array<string> }>}
  */
