@@ -2,73 +2,96 @@
 layout: default
 title: WA Nation Vote Search
 custom_scripts: |
-    <script>
-        let allResolutions = {};
-        let allVotes = [];
-        let votesHeader = [];
+<script src="scripts/fuse.basic.min.js"></script>
+<script>
+    let allResolutions = {};
+    let allVotes = [];
+    let votesHeader = [];
 
-        /** Fetches and loads CSV data using the shared loader. */
-        async function loadData() {
-            try {
-                const data = await loadAllData();
-                allResolutions = data.resolutionsMap;
-                allVotes = data.allVotes;
-                votesHeader = data.votesHeader;
+    /** Fetches and loads CSV data using the shared loader. */
+    async function loadData() {
+        try {
+            const data = await loadAllData();
+            allResolutions = data.resolutionsMap;
+            allVotes = data.allVotes;
+            votesHeader = data.votesHeader;
 
-                // Check for URL parameter for direct link from index.html
-                const urlParams = new URLSearchParams(window.location.search);
-                const prefillId = urlParams.get('id');
-                if (prefillId) {
-                    document.getElementById('nation_id_search').value = decodeURIComponent(prefillId).replace(/_/g, ' ');
-                    searchNationVotes();
-                }
-
-            } catch (error) {
-                console.error("Error initializing search page:", error);
-                document.getElementById('nation-votes-result').innerHTML = '<p>Error loading data. Check console for details.</p>';
+            // Check for URL parameter for direct link from index.html
+            const urlParams = new URLSearchParams(window.location.search);
+            const prefillId = urlParams.get('id');
+            if (prefillId) {
+                document.getElementById('nation_id_search').value = decodeURIComponent(prefillId).replace(/_/g, ' ');
+                searchNationVotes();
             }
+
+        } catch (error) {
+            console.error("Error initializing search page:", error);
+            document.getElementById('nation-votes-result').innerHTML = '<p>Error loading data. Check console for details.</p>';
+        }
+    }
+
+    /** Performs client-side search for a nation's votes. */
+    function searchNationVotes() {
+        const searchInput = document.getElementById('nation_id_search').value.trim();
+        const nationIdSearch = searchInput.toLowerCase().replace(/ /g, '_');
+        const resultDiv = document.getElementById('nation-votes-result');
+        resultDiv.innerHTML = '';
+
+        if (!nationIdSearch) {
+            resultDiv.innerHTML = '<p>Please enter a nation ID.</p>';
+            return;
         }
 
-        /** Performs client-side search for a nation's votes. */
-        function searchNationVotes() {
-            const searchInput = document.getElementById('nation_id_search').value.trim();
-            const nationIdSearch = searchInput.toLowerCase().replace(/ /g, '_');
-            const resultDiv = document.getElementById('nation-votes-result');
-            resultDiv.innerHTML = '';
+        const nationVotesRecord = allVotes.find(record => record.nation_id === nationIdSearch);
 
-            if (!nationIdSearch) {
-                resultDiv.innerHTML = '<p>Please enter a nation ID.</p>';
-                return;
-            }
+        if (!nationVotesRecord) {
+            // Fuzzy search fallback
+            const options = {
+                includeScore: true,
+                keys: ['nation_id'],
+                threshold: 0.6
+            };
+            const fuse = new Fuse(allVotes, options);
+            const result = fuse.search(nationIdSearch);
 
-            const nationVotesRecord = allVotes.find(record => record.nation_id === nationIdSearch);
-
-            if (!nationVotesRecord) {
+            if (result.length > 0) {
+                const suggestions = result.slice(0, 5).map(r => r.item.nation_id);
+                let suggestionHtml = `<p>No voting record found for nation ID: ${searchInput}</p>`;
+                suggestionHtml += `<p>Did you mean:</p><ul>`;
+                suggestions.forEach(s => {
+                    const displayName = s.replace(/_/g, ' ');
+                    // Use encodeURIComponent for the value in the onclick handler to be safe
+                    suggestionHtml += `<li><a href="#" onclick="document.getElementById('nation_id_search').value='${displayName.replace(/'/g, "\\'")}'; searchNationVotes(); return false;">${displayName}</a></li>`;
+                });
+                suggestionHtml += `</ul>`;
+                resultDiv.innerHTML = suggestionHtml;
+            } else {
                 resultDiv.innerHTML = `<p>No voting record found for nation ID: ${searchInput}</p>`;
-                return;
             }
+            return;
+        }
 
-            let html = `<h2>Voting record for: ${nationIdSearch.replace(/_/g, ' ')}</h2>`;
-            html += `<table class="decorated"><thead><tr><th>Date (UTC)</th><th>Chamber</th><th>Resolution ID</th><th>Resolution Title</th><th>Author</th><th>Vote</th></tr></thead><tbody>`;
+        let html = `<h2>Voting record for: ${nationIdSearch.replace(/_/g, ' ')}</h2>`;
+        html += `<table class="decorated"><thead><tr><th>Date (UTC)</th><th>Chamber</th><th>Resolution ID</th><th>Resolution Title</th><th>Author</th><th>Vote</th></tr></thead><tbody>`;
 
-            const resolutionIds = votesHeader.filter(h => h !== 'nation_id');
+        const resolutionIds = votesHeader.filter(h => h !== 'nation_id');
 
-            // Sort resolutions by promoted timestamp descending
-            resolutionIds.sort((a, b) => {
-                const resA = allResolutions[a];
-                const resB = allResolutions[b];
-                return (parseInt(resB?.promoted) || 0) - (parseInt(resA?.promoted) || 0);
-            });
+        // Sort resolutions by promoted timestamp descending
+        resolutionIds.sort((a, b) => {
+            const resA = allResolutions[a];
+            const resB = allResolutions[b];
+            return (parseInt(resB?.promoted) || 0) - (parseInt(resA?.promoted) || 0);
+        });
 
-            resolutionIds.forEach(resId => {
-                const vote = nationVotesRecord[resId];
-                const res = allResolutions[resId];
+        resolutionIds.forEach(resId => {
+            const vote = nationVotesRecord[resId];
+            const res = allResolutions[resId];
 
-                const voteDisplay = vote === '1' ? 'FOR' : vote === '0' ? 'AGAINST' : 'N/A';
-                const chamber = getChamber(res.council);
-                const date_part = res.date_part;
+            const voteDisplay = vote === '1' ? 'FOR' : vote === '0' ? 'AGAINST' : 'N/A';
+            const chamber = getChamber(res.council);
+            const date_part = res.date_part;
 
-                html += `
+            html += `
                             <tr>
                                 <td class="min">${date_part}</td>
                                 <td class="min">${chamber}</td>
@@ -78,14 +101,14 @@ custom_scripts: |
                                 <td class="min">${voteDisplay}</td>
                             </tr>
                         `;
-            });
+        });
 
-            html += `</tbody></table>`;
-            resultDiv.innerHTML = html;
-        }
+        html += `</tbody></table>`;
+        resultDiv.innerHTML = html;
+    }
 
-        document.addEventListener('DOMContentLoaded', loadData);
-    </script>
+    document.addEventListener('DOMContentLoaded', loadData);
+</script>
 ---
 <h1>Search Nation Votes</h1>
 
@@ -94,14 +117,16 @@ custom_scripts: |
 <form onsubmit="event.preventDefault(); searchNationVotes();">
     <table>
         <tbody>
-        <tr>
-            <th><label for="nation_id_search">Nation ID:</label></th>
-            <td>
-                <input type="text" id="nation_id_search" maxlength="40" aria-describedby="nation_id_search_helptext">
-                <br>
-                <span class="helptext" id="nation_id_search_helptext">Search for a nation name (e.g., 'Jiangbei').</span>
-            </td>
-        </tr>
+            <tr>
+                <th><label for="nation_id_search">Nation ID:</label></th>
+                <td>
+                    <input type="text" id="nation_id_search" maxlength="40"
+                        aria-describedby="nation_id_search_helptext">
+                    <br>
+                    <span class="helptext" id="nation_id_search_helptext">Search for a nation name (e.g.,
+                        'Jiangbei').</span>
+                </td>
+            </tr>
         </tbody>
     </table>
     <input type="submit" value="Search">
