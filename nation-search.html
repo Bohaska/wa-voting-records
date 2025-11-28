@@ -88,6 +88,7 @@ custom_scripts: |
                 const res = allResolutions[resId];
 
                 const voteDisplay = vote === '1' ? 'FOR' : vote === '0' ? 'AGAINST' : 'N/A';
+                const tdClasses = `min vote ${'1' ? 'for' : vote === '0' ? 'against' : ''}`.trim();
                 const chamber = getChamber(res.council);
                 const date_part = res.date_part;
 
@@ -97,7 +98,7 @@ custom_scripts: |
                             <td class="min">${res.id}</td>
                             <td><a href="index.html" onclick="localStorage.setItem('showDetail', '${res.id}');">${res.name}</a></td>
                             <td>${res.proposed_by}</td>
-                            <td class="min">${voteDisplay}</td>
+                            <td class="${tdClasses}">${voteDisplay}</td>
                         </tr>`;
             });
 

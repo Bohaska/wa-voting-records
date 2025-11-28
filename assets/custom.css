@@ -1,0 +1,12 @@
+/* Styling of WA votes */
+.vote {
+    font-weight: bold;
+}
+
+.for {
+    color: #4572a7;
+}
+
+.against {
+    color: #aa4643;
+}
