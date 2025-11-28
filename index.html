@@ -57,7 +57,12 @@
                 };
                 cell.appendChild(link);
 
-                row.insertCell().textContent = res.proposed_by;
+                let authorCell = row.insertCell();
+                const authorLink = document.createElement('a');
+                authorLink.href = `nation-search.html?id=${encodeURIComponent(res.proposed_by)}`;
+                authorLink.textContent = res.proposed_by;
+                authorCell.appendChild(authorLink);
+
                 row.insertCell().textContent = res.coauthor || '';
             });
         }
@@ -104,6 +109,10 @@
                 }
             });
 
+            const nfObject = new Intl.NumberFormat('en-US')
+            document.getElementById('voted-for-hd').textContent = `Nations Voted FOR (${nfObject.format(votersFor.length)} nations)`
+            document.getElementById('voted-against-hd').textContent = `Nations Voted AGAINST (${nfObject.format(votersAgainst.length)} nations)`
+
             const ulFor = document.getElementById('voters-for');
             const ulAgainst = document.getElementById('voters-against');
             const mapVoter = n => `<li><a href="nation-search.html?id=${encodeURIComponent(n)}">${n.replace(/_/g, ' ')}</a></li>`;
@@ -148,7 +157,7 @@
         <!-- Main List View -->
         <div id="resolutions-list-view">
             <h1>Browse resolutions</h1>
-            <p>The following is a list of all WA voting records recorded by Jiangbei. Click on the <i>title</i> of the
+            <p>The following is a list of all WA voting records recorded. Click on the <i>title</i> of the
                 resolution for more information.</p>
 
             <h2>Search by resolution</h2>
@@ -201,15 +210,15 @@
             <button onclick="showListView()" style="margin-bottom: 20px;">← Back to Resolutions List</button>
             <h1 id="detail-title"></h1>
             <p id="detail-metadata"></p>
-            <p>Full resolution text and complete history is available <a id="detail-link" target="_blank" href="#">here</a> (link is for display purposes, actual URL depends on external site).</p>
+            <p>Full resolution text and complete history is available <a id="detail-link" target="_blank" href="#">here</a>.</p>
 
             <div style="display: flex; justify-content: space-around;">
                 <div style="width: 45%;">
-                    <h2>Nations Voted FOR</h2>
+                    <h2 id="voted-for-hd">Nations Voted FOR</h2>
                     <ul id="voters-for" style="list-style-type: none; padding: 0;"></ul>
                 </div>
                 <div style="width: 45%;">
-                    <h2>Nations Voted AGAINST</h2>
+                    <h2 id="voted-against-hd">Nations Voted AGAINST</h2>
                     <ul id="voters-against" style="list-style-type: none; padding: 0;"></ul>
                 </div>
             </div>
