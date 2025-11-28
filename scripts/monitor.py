@@ -82,7 +82,10 @@ def csv_vote_record():
                 resolution = root.find('RESOLUTION')
                 resolution_id = resolution.find('ID').text
                 columns.append(resolution_id)
-                coauthors = ','.join([x.text for x in resolution.find('COAUTHOR').findall('N')])
+                if resolution.find('COAUTHOR') is not None:
+                    coauthors = ','.join([x.text for x in resolution.find('COAUTHOR').findall('N')])
+                else:
+                    coauthors = ''
                 resolution_info = {
                     'id': resolution_id,
                     'council': root.get('council'),
