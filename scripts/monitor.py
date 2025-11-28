@@ -3,6 +3,9 @@ import requests
 import xml.etree.ElementTree as ET
 import json
 from datetime import datetime, timedelta, timezone
+import csv
+from os import listdir
+from os.path import isfile, join
 
 STATE_FILE = "state.json"
 TZ = timezone.utc
@@ -91,9 +94,40 @@ def process_execution_request():
     save_state(current_state)
 
 
+def csv_vote_record():
+    res_files = listdir('resolutions')
+    res_files.sort(key=lambda x: int(x.split('_')[1]))
+    all_votes = {}
+    columns = ['nation_id']
+    for file in res_files:
+        with open('resolutions/' + file, 'r') as f:
+            root = ET.fromstring(f.read())
+            resolution = root.find('RESOLUTION')
+            resolution_id = resolution.find('ID').text
+            columns.append(resolution_id)
+            for vote in resolution.find('VOTES_FOR').findall('N'):
+                nation_id = vote.text
+                if nation_id not in all_votes:
+                    all_votes[nation_id] = {'nation_id': nation_id, resolution_id: 1}
+                else:
+                    all_votes[nation_id][resolution_id] = 1
+            for vote in resolution.find('VOTES_AGAINST').findall('N'):
+                nation_id = vote.text
+                if nation_id not in all_votes:
+                    all_votes[nation_id] = {'nation_id': nation_id, resolution_id: 0}
+                else:
+                    all_votes[nation_id][resolution_id] = 0
+    with open('votes.csv', 'w', newline='') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=columns)
+        writer.writeheader()
+        for nation_id, votes in all_votes:
+            writer.writerow(votes)
+
+
 if __name__ == "__main__":
     mode = os.environ.get("MONITOR_MODE")
     if mode == "EXECUTE":
         process_execution_request()
+        csv_vote_record()
     else:
         print("Error: MONITOR_MODE environment variable is not set correctly.")
