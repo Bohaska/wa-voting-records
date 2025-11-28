@@ -73,6 +73,7 @@ def csv_vote_record():
     res_files = listdir('resolutions')
     res_files.sort(key=lambda x: int(x.split('_')[1]))
     all_votes = {}
+    all_res = []
     columns = ['nation_id']
     for file in res_files:
         with open('resolutions/' + file, 'r') as f:
@@ -80,6 +81,15 @@ def csv_vote_record():
             resolution = root.find('RESOLUTION')
             resolution_id = resolution.find('ID').text
             columns.append(resolution_id)
+            coauthors = ','.join([x.text for x in resolution.find('COAUTHOR').findall('N')])
+            resolution_info = {
+                'id': resolution_id,
+                'council': root.find('WA').get('council'),
+                'proposed_by': resolution.find('PROPOSED_BY').text,
+                'promoted': resolution.find('PROMOTED').text,
+                'coauthor': coauthors,
+            }
+            all_res.append(resolution_info)
             for vote in resolution.find('VOTES_FOR').findall('N'):
                 nation_id = vote.text
                 if nation_id not in all_votes:
@@ -92,6 +102,12 @@ def csv_vote_record():
                     all_votes[nation_id] = {'nation_id': nation_id, resolution_id: 0}
                 else:
                     all_votes[nation_id][resolution_id] = 0
+    with open('resolutions.csv', 'w', newline='') as resfile:
+        res_columns = ['id', 'council', 'proposed_by', 'promoted', 'coauthor']
+        writer = csv.DictWriter(resfile, fieldnames=res_columns)
+        writer.writeheader()
+        for res in all_res:
+            writer.writerow(res)
     with open('votes.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=columns)
         writer.writeheader()
