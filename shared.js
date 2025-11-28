@@ -17,40 +17,6 @@ function timestampToDate(timestamp) {
 }
 
 /**
- * Parses a CSV string into an array of objects, handling commas within double-quoted fields.
- * @param {string} text - The CSV content.
- * @returns {{headers: string[], data: Array<Object>}} Parsed data.
- */
-function parseCSV(text) {
-    const lines = text.trim().split('\n').filter(line => line.trim() !== '');
-    if (lines.length < 2) return { headers: [], data: [] };
-
-    const headers = lines[0].split(',').map(h => h.trim().replace(/"/g, ''));
-    const data = [];
-
-    for (let i = 1; i < lines.length; i++) {
-        const line = lines[i].trim();
-        const values = line.split(CSV_SPLIT_REGEX);
-
-        if (values.length === headers.length) {
-            const row = {};
-            headers.forEach((header, index) => {
-                let val = values[index].trim();
-                // Strip outer quotes if present
-                if (val.startsWith('"') && val.endsWith('"')) {
-                    val = val.substring(1, val.length - 1);
-                }
-                row[header] = val;
-            });
-            data.push(row);
-        } else {
-             console.warn(`Skipping line ${i+1} in CSV: expected ${headers.length} columns, got ${values.length}. Line: ${line}`);
-        }
-    }
-    return { headers, data };
-}
-
-/**
  * Converts council ID (1 or 2) to chamber name (GA or SC).
  * @param {string} council_id
  * @returns {string} Chamber name.
@@ -68,7 +34,7 @@ async function loadAllData() {
         // 1. Fetch and process resolutions
         let response = await fetch('resolutions.csv');
         let text = await response.text();
-        const resData = parseCSV(text).data;
+        const resData = Papa.parse(text).data;
 
         const resolutionsArray = resData.map(res => ({
             ...res,
@@ -83,7 +49,7 @@ async function loadAllData() {
         // 2. Fetch and process votes
         response = await fetch('votes.csv');
         text = await response.text();
-        const votesData = parseCSV(text);
+        const votesData = Papa.parse(text);
 
         return {
             resolutionsArray: resolutionsArray,
