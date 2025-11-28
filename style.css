@@ -2,7 +2,7 @@ html {
     min-height: 100%;
     border-top: 10px solid #ECEEF1;
     border-bottom: 10px solid #ECEEF1;
-    color: #61666c;
+    color: #222222;
     font-size: 1em;
     font-family: 'Helvetica Neue', Helvetica, "Arial Light", Arial, "Lucida Grande", sans-serif;
     line-height: 1.5;
@@ -21,7 +21,7 @@ code {
 }
 
 a {
-    color: #61666c;
+    color: #222222;
 }
 
 a.clear {
@@ -304,7 +304,7 @@ textarea#id_recommendation {
 /* Navbar container */
 .navbar {
     overflow: hidden;
-    background-color: rgba(97, 102, 108, 0.9);
+    background-color: #222222;
 }
 
 /* Links inside the navbar */
@@ -352,7 +352,7 @@ textarea#id_recommendation {
 /* Links inside the dropdown */
 .dropdown-content a {
     float: none;
-    color: #61666c;
+    color: #222222;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
