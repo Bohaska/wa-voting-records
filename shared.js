@@ -55,7 +55,7 @@ async function loadAllData() {
             resolutionsArray: resolutionsArray,
             resolutionsMap: resolutionsMap,
             allVotes: votesData.data,
-            votesHeader: votesData.headers
+            votesHeader: votesData.meta.fields
         };
 
     } catch (error) {
