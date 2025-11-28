@@ -80,7 +80,7 @@ custom_scripts: |
             document.getElementById('detail-title').textContent = res.name;
             const chamber = getChamber(res.council);
             document.getElementById('detail-metadata').innerHTML =
-                `The ${chamber} resolution (ID: ${res.id}) was authored by "${generateAuthorLinksHTML(res.proposed_by)}" ` +
+                `The ${chamber} resolution (ID: ${res.id}) was authored by ${generateAuthorLinksHTML(res.proposed_by)} ` +
                 (res.coauthor ? `(Co-authors: ${generateAuthorLinksHTML(res.coauthor)}) ` : '') +
                 `and promoted on ${res.date_part} (UTC).`;
 
@@ -139,7 +139,7 @@ custom_scripts: |
                 <td>
                     <input type="text" id="id_author_name" maxlength="40" aria-describedby="id_author_name_helptext">
                     <br>
-                    <span class="helptext" id="id_author_name_helptext">Search for an author (primary author only).</span>
+                    <span class="helptext" id="id_author_name_helptext">Search for an author (also includes coauthors)</span>
                 </td>
             </tr>
             <tr>
