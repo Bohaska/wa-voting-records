@@ -12,27 +12,6 @@ TZ = timezone.utc
 COUNCILS = ["1", "2"]  # Monitor both General Assembly (1) and Security Council (2)
 
 
-def load_state():
-    """Loads the state for all monitored councils."""
-    if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, 'r') as f:
-            return json.load(f)
-    return {str(c): {"id": "", "voting_end_timestamp": 0} for c in COUNCILS}
-
-
-def save_state(state):
-    """Saves the state and commits the change to the repository."""
-    with open(STATE_FILE, 'w') as f:
-        json.dump(state, f, indent=2)
-
-    os.system('git config user.name "GitHub Actions Bot"')
-    os.system('git config user.email "github-actions-bot@users.noreply.github.com"')
-    os.system(f'git add {STATE_FILE}')
-    # Use || true so the job doesn't fail if there's nothing new to commit.
-    os.system('git commit -m "ACTION: Updated WA monitoring state" || true')
-    os.system('git push')
-
-
 def fetch_api_xml(council_id):
     """Fetches the raw XML from the NationStates API for a given council."""
     # NationStates requires a User-Agent header to identify the script.
@@ -48,7 +27,6 @@ def process_execution_request():
     Called hourly to check if any resolution is active, save its vote record,
     and reset monitoring once the voting has ended.
     """
-    current_state = load_state()
     current_timestamp = int(datetime.now(tz=TZ).timestamp())
 
     for council_id in COUNCILS:
@@ -91,9 +69,6 @@ def process_execution_request():
         except Exception as e:
             print(f"Error during execution/save for WA {council_id}: {e}")
 
-    save_state(current_state)
-
-
 def csv_vote_record():
     res_files = listdir('resolutions')
     res_files.sort(key=lambda x: int(x.split('_')[1]))
@@ -122,6 +97,13 @@ def csv_vote_record():
         writer.writeheader()
         for nation_id, votes in all_votes.items():
             writer.writerow(votes)
+
+    os.system('git config user.name "GitHub Actions Bot"')
+    os.system('git config user.email "github-actions-bot@users.noreply.github.com"')
+    os.system(f'git add votes.csv')
+    # Use || true in case the file hasn't changed since the last hour.
+    os.system(f'git commit -m "UPDATE: Vote record CSV" || true')
+    os.system('git push')
 
 
 if __name__ == "__main__":
