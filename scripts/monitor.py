@@ -62,7 +62,7 @@ def process_execution_request():
                 continue
 
             resolution_id = resolution_tag.find('ID').text
-            filename = f"{resolution_id}_votes.xml"
+            filename = f"resolutions/{resolution_id}_votes.xml"
 
             with open(filename, 'w') as f:
                 f.write(raw_xml)
