@@ -85,7 +85,7 @@ def csv_vote_record():
                 coauthors = ','.join([x.text for x in resolution.find('COAUTHOR').findall('N')])
                 resolution_info = {
                     'id': resolution_id,
-                    'council': root.find('WA').get('council'),
+                    'council': root.get('council'),
                     'proposed_by': resolution.find('PROPOSED_BY').text,
                     'promoted': resolution.find('PROMOTED').text,
                     'coauthor': coauthors,
