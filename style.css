@@ -154,7 +154,6 @@ table.decorated td {
 }
 
 td a {
-    display: block;
     text-decoration: none;
     line-height: 1.5;
 }

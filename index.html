@@ -58,7 +58,7 @@
                 cell.appendChild(link);
 
                 row.insertCell().innerHTML = generateAuthorLinksHTML(res.proposed_by);
-                row.insertCell().innerHTML = `<p>${generateAuthorLinksHTML(res.coauthor)}</p>`;
+                row.insertCell().innerHTML = `${generateAuthorLinksHTML(res.coauthor)}`;
             });
         }
 
