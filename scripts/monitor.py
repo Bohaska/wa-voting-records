@@ -89,6 +89,7 @@ def csv_vote_record():
                 resolution_info = {
                     'id': resolution_id,
                     'council': root.get('council'),
+                    'name': resolution.find('NAME').text,
                     'proposed_by': resolution.find('PROPOSED_BY').text,
                     'promoted': resolution.find('PROMOTED').text,
                     'coauthor': coauthors,
@@ -107,7 +108,7 @@ def csv_vote_record():
                     else:
                         all_votes[nation_id][resolution_id] = 0
     with open('resolutions.csv', 'w', newline='') as resfile:
-        res_columns = ['id', 'council', 'proposed_by', 'promoted', 'coauthor']
+        res_columns = ['id', 'council', 'name', 'proposed_by', 'promoted', 'coauthor']
         writer = csv.DictWriter(resfile, fieldnames=res_columns)
         writer.writeheader()
         for res in all_res:

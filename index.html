@@ -219,7 +219,7 @@
                 let cell = row.insertCell();
                 const link = document.createElement('a');
                 link.href = "#";
-                link.textContent = res.title;
+                link.textContent = res.name;
                 link.onclick = (e) => {
                     e.preventDefault();
                     showDetailView(res.id);
@@ -239,7 +239,7 @@
             const author = document.getElementById('id_author_name').value.toLowerCase();
 
             const filtered = allResolutions.filter(res => {
-                const titleMatch = res.title.toLowerCase().includes(keyword);
+                const titleMatch = res.name.toLowerCase().includes(keyword);
                 // Search in both proposed_by and coauthor fields
                 const authorMatch = res.proposed_by.toLowerCase().includes(author) ||
                                     (res.coauthor && res.coauthor.toLowerCase().includes(author));
@@ -253,7 +253,7 @@
             const res = allResolutions.find(r => r.id === resId);
             if (!res) return;
 
-            document.getElementById('detail-title').textContent = res.title;
+            document.getElementById('detail-title').textContent = res.name;
             const chamber = getChamber(res.council);
             document.getElementById('detail-metadata').innerHTML =
                 `The ${chamber} resolution (ID: ${res.id}) was authored by "<strong>${res.proposed_by}</strong>" ` +
