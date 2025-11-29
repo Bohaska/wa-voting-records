@@ -15,11 +15,11 @@ custom_scripts: |
 
                 populateTable(allResolutions);
 
-                // Handle the case where a user clicked a link from nation-search.html
-                const detailId = localStorage.getItem('showDetail');
-                if (detailId) {
-                    localStorage.removeItem('showDetail');
-                    showDetailView(detailId);
+                // Check for URL parameter for direct link from nation-search.html
+                const urlParams = new URLSearchParams(window.location.search);
+                const prefillId = urlParams.get('id');
+                if (prefillId) {
+                    showDetailView(prefillId);
                 }
 
             } catch (error) {

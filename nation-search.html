@@ -95,7 +95,7 @@ custom_scripts: |
                 html += `<tr>
                             <td class="min">${date_part}</td>
                             <td class="min">${chamber}</td>
-                            <td><a href="index.html" onclick="localStorage.setItem('showDetail', '${res.id}');">${res.name}</a></td>
+                            <td><a href="index.html?id=${res.id}">${res.name}</a></td>
                             <td>${generateAuthorLinksHTML(res.proposed_by)}</td>
                             <td class="${tdClasses}">${voteDisplay}</td>
                         </tr>`;
