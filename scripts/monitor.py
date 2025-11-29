@@ -366,7 +366,7 @@ def csv_vote_record():
     with open('votes.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=columns)
         writer.writeheader()
-        for nation_id, votes in all_votes.items():
+        for nation_id, votes in sorted(all_votes.items()):
             writer.writerow(votes)
 
     os.system('git config user.name "GitHub Actions Bot"')
