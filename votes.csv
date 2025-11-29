@@ -47,7 +47,7 @@ adutya,0,
 aegisfell,1,0
 aeljae,1,0
 aelstatd,1,
-aequitas_iii,0,
+aequitas_iii,0,0
 aequiteria,1,
 aerdholm,1,
 aestorn,0,
@@ -198,6 +198,7 @@ antarc,1,
 anthropoelpis,1,1
 anti-goatsack,1,1
 anti-tomatoes,1,
+antilu,,1
 antons_key,0,0
 antontia,0,0
 anuadh,0,1
@@ -255,6 +256,7 @@ arlandia_and_arzovia,1,
 armengolia,0,1
 armeriea,1,0
 armorian_union,1,0
+arnten,,0
 arolaun,1,0
 arrakian,1,
 arscanesia,0,
@@ -286,7 +288,7 @@ ashennia,0,
 ashkaban,1,
 ashkenazi_regime,1,
 askeletonland,,1
-asriellia,0,
+asriellia,0,0
 asswiper,0,
 astanecia,1,0
 asteran,1,
@@ -367,6 +369,7 @@ azflebrigan,1,
 azgaaristan,0,1
 azov_steel_2022,1,
 azure_mines,0,1
+azure_normandy,,0
 azurefront,1,
 azurth,1,0
 azzarel,1,0
@@ -781,7 +784,7 @@ cordaposi,0,0
 corfad,1,0
 cormensa,1,1
 cornelia,1,0
-corporate-paradise,1,0
+corporate-paradise,1,
 corsuva,1,
 cortes_de_pallas,0,
 cortlandt_manor,1,
@@ -797,6 +800,7 @@ covenentia,1,0
 cow_hunters,1,
 coyn,1,
 crabunism,1,
+crackerland,,0
 craff,1,
 cramberria,0,
 crazari,,0
@@ -1057,7 +1061,7 @@ east_catlandia,1,1
 east_coggins,1,
 east_emory,1,
 east_grestin_military_district,,1
-east_jamaica,1,
+east_jamaica,1,1
 east_kazekia,1,0
 east_mediterranean,1,1
 east_methanland,0,1
@@ -1274,7 +1278,7 @@ federation_of_knights,1,0
 federation_of_sheera,1,1
 federation_of_the_resentine_kingdom,0,1
 federation_states_of_america,0,1
-federative_empire,1,
+federative_empire,1,0
 felix_islands,0,
 felornis,1,0
 femboy_fishermen,1,
@@ -1307,7 +1311,7 @@ flee_and_never_return,,0
 flippland,1,
 floofith,0,
 flop_ivory_island,1,1
-flor-fina,1,
+flor-fina,1,0
 floralbranca,1,0
 floria-byrnia,,1
 florindale,1,0
@@ -2562,6 +2566,7 @@ molly_is_pretty,1,
 molotossia,1,1
 molson_iceland,1,0
 money_nation_money,1,
+money_printer,,0
 moneyandgold,1,0
 monezambique,0,
 mongolz,0,1
@@ -2584,6 +2589,7 @@ mornala,0,0
 mornangren,1,0
 morrawia,,0
 mortionia,0,1
+morvedre,,1
 moryazvia,1,0
 morzova,1,0
 moscovien,1,0
@@ -2683,7 +2689,7 @@ nectapromisia,,0
 nederlandse_staat,0,0
 nelenkorp,1,
 nemete_land,1,0
-neo-cyberborea,1,
+neo-cyberborea,1,1
 neo-hermitius,,1
 neo-zulthyrland,1,1
 neo_american_states,1,
@@ -2864,6 +2870,7 @@ norg_brostikia,1,
 nori_dratourat,0,1
 norland_angre,1,
 nortallius,0,
+norte_de_america,,0
 north-west_commland,1,0
 north_borealia,,1
 north_bratislava,0,
@@ -3015,6 +3022,7 @@ ogaku,1,0
 oganing,1,1
 oghuz-yabgu_republic,0,
 ohioianss,1,
+okhema_the_eternal_holy_land,,1
 oktotheio,1,1
 olamh,,1
 olarista,0,1
@@ -3383,6 +3391,7 @@ regnumgermanicum,1,1
 reichsbrazil,,0
 rein_delossinarryomi,1,0
 reino_de_portvgal,0,
+reino_scarlatta,,1
 relevantia,1,
 rellenia,0,
 remenents_of_the_enclave,1,0
@@ -3411,6 +3420,7 @@ requand,0,1
 resaza,1,1
 reshadiya,0,
 resististan,,1
+resolia_kander,,0
 respidon,0,1
 respyanodor,1,0
 resurged_atlantis,1,1
@@ -3538,6 +3548,7 @@ saint-normand,1,
 saint_asiocia,0,
 saint_asperes,1,0
 saint_barks-webados,1,0
+saint_bleu,,1
 saint_david_of_wales,0,
 saint_glinda,1,
 saint_saul_and_shirley,1,0
@@ -3644,7 +3655,7 @@ seattle_bay,1,1
 seclusionalists,1,
 second_peenadian,0,1
 secretanomaly,1,
-sederum,1,
+sederum,1,0
 sedgistan,1,0
 seeker_alpha,0,0
 sefat,1,1
@@ -3855,7 +3866,7 @@ south_parter,1,0
 south_poopistan,1,0
 south_unstunstia,0,
 southeast_celebes,0,1
-southern_folising_euctandered,1,
+southern_folising_euctandered,1,0
 southern_maluku,1,
 southern_maus,1,0
 southern_middle_earth,1,
@@ -4018,7 +4029,7 @@ taimanokuni,1,0
 taiwan_semicon_manufacturing_company,1,
 talassar,,0
 talitoa,1,
-tallstarr,1,
+tallstarr,1,0
 talsien,1,0
 talstand,,0
 tamilpesum,1,
@@ -4066,6 +4077,7 @@ tetaguasu,,0
 teto_federation,1,
 tetoslavya,1,0
 tevokoso,1,
+texaca,,0
 texais,,1
 texel_and_vlieland,1,0
 texhoas,1,
@@ -4110,6 +4122,7 @@ the_central_islands,1,0
 the_cerberus_union,1,
 the_cerulean_nation,1,1
 the_cevanti_free_council,1,1
+the_chaffinches,,1
 the_champions_league,,0
 the_championz,1,
 the_chef_of_the_bar,,0
@@ -4140,6 +4153,7 @@ the_dome,0,0
 the_doomsday_islands,1,1
 the_dovahkiin_caliphate,0,1
 the_ecalpan_kangun,1,0
+the_embassy_3_2,,1
 the_empire_of_alerba,1,0
 the_empire_of_brazilwood,,1
 the_empire_of_italian_dutch,1,0
@@ -4178,6 +4192,7 @@ the_great_states_of_mexico,1,0
 the_greater_ottomans,1,0
 the_grene_knyght,0,
 the_haplic_hegemony,1,0
+the_hidden_sand_village,,1
 the_hiyah_empire,1,1
 the_holy_astonic_empire,1,
 the_holy_baptist_church,1,0
@@ -4185,6 +4200,7 @@ the_holy_caltro,1,
 the_holy_empire_of_the_stars,1,0
 the_holy_eucharist,1,
 the_holy_principality_of_saint_mark,1,0
+the_holy_union_of_italy,,0
 the_hungarian_republic,1,
 the_immaculate_plebeian,1,1
 the_immortal_fire_nation,0,0
@@ -4248,7 +4264,7 @@ the_opac_islands,,1
 the_orca_space_program,0,
 the_other_margaret,1,0
 the_pacific_enclave,1,
-the_pacific_northwest,0,
+the_pacific_northwest,0,1
 the_palace_of_god_2,0,1
 the_palentine,,0
 the_party_communist_republics,0,0
