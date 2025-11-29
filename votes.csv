@@ -70,7 +70,7 @@ aigania,1,
 aigeus,1,
 aina_kuokoa,0,
 aina_pomaikai,1,0
-ainslie,0,
+ainslie,0,0
 airerby,1,1
 ajakor,0,0
 akarea,1,
@@ -353,6 +353,7 @@ av_libertas_vindex,,1
 avalonium,0,1
 avaneesh,1,0
 avengisian_nyx,1,
+aventuris,,1
 averiano,1,1
 avinis,0,1
 aweentitante,,0
@@ -419,6 +420,7 @@ bassyria,1,0
 bastile,0,1
 basvelantia,0,1
 bathera,,0
+batona,,0
 battadia,0,1
 bavarian_soviet_repulic,1,1
 bavo,1,0
@@ -985,6 +987,7 @@ domas,0,0
 dombaness,1,1
 domesticis,1,0
 dometius,1,0
+domhan_runda,,0
 domiatia,0,1
 dominion_of_dinguses,1,
 domusfirma,1,0
@@ -1125,7 +1128,7 @@ ekopia,0,0
 ekpatanus,1,
 ekrea,1,1
 ekreli,1,0
-ekygon,0,
+ekygon,0,0
 el_bababooey,1,0
 el_eras,1,
 el_grenitadia,0,
@@ -1159,7 +1162,7 @@ emmovakia,0,
 emodea,1,
 empire_of_dabiristan,1,
 empire_of_ftia,1,1
-empire_of_impiria,1,
+empire_of_impiria,1,0
 empire_of_kyrania,1,
 emrenya,0,1
 enclave_world_government,1,
@@ -1388,6 +1391,7 @@ friul,1,0
 frodozrout,,0
 frontiera,1,1
 froshar,1,
+frosthafen,,0
 frostilandia,,0
 frosty_orbit,1,0
 frothensia,0,0
@@ -1458,6 +1462,7 @@ german_screaming_ghosts,1,
 germanic_cat,1,
 germanicreich,1,
 germanicrusso,1,
+germaniej,,1
 germansium,1,
 germany_fasces,1,0
 gerniam,1,
@@ -1480,7 +1485,7 @@ ginnara,1,1
 ginsuzustan,1,
 giri_kedhaton,0,1
 girthalium,1,1
-gitchie_manito,0,
+gitchie_manito,0,1
 giumdi,1,0
 give_me_cash,1,0
 glaciertop,1,0
@@ -2148,7 +2153,7 @@ kraunian,1,1
 krean,0,
 krematoria,1,0
 kreshlia,,1
-krestasrijh,1,
+krestasrijh,1,0
 kreutzland,1,
 kreuzung,1,0
 kriegsreich_of_iron,1,0
@@ -2183,7 +2188,7 @@ kwaj,0,1
 kwampangazitha,,1
 kwiztshen,1,
 kyaksbel,1,1
-kyievan_dynasty,1,
+kyievan_dynasty,1,1
 kylarnatia,1,
 kyldania,1,1
 kyogre_67,,0
@@ -2193,6 +2198,7 @@ kyrgyzstanistan,1,
 kyriarsk,0,1
 kyrindor_puppet,1,0
 kyubia,0,1
+l_v_m_h,,0
 la_baja_california,1,
 la_catalina,1,0
 la_france_sociale,1,
@@ -2305,6 +2311,7 @@ lindebeau,0,
 lionsroar,,0
 lipaland,0,1
 lipnitia2,1,0
+lirastania,,0
 lireira,1,0
 litchenstienen,0,0
 little_hell,1,0
@@ -2615,6 +2622,7 @@ mucc,1,
 mueslibar,1,
 mujistan,0,1
 mulaonia,1,1
+mulouccello,,1
 multiple_bounty,1,0
 multum_reprimere,1,
 mundus_novia,1,1
@@ -2699,7 +2707,7 @@ nemete_land,1,0
 neo-cyberborea,1,1
 neo-hermitius,,1
 neo-zulthyrland,1,1
-neo_american_states,1,
+neo_american_states,1,0
 neo_imperial_america,1,0
 neo_makhnovia,1,
 neo_mikolania,0,
@@ -2838,7 +2846,7 @@ niel,1,0
 nightralia,,0
 nikosias,1,1
 nininskia,1,
-ninjago_lightland,1,
+ninjago_lightland,1,0
 nirvanic,1,1
 nishikaigan,,0
 nistriabar,1,0
@@ -2971,6 +2979,7 @@ novo_acadia,1,
 novo_prosperitas,0,0
 novostovia,1,
 novrystan,0,
+novum_mediolanum,,0
 novus_canadis,0,0
 novus_imperium_romanum_borealis,1,
 nowa_europa,0,1
@@ -3285,7 +3294,7 @@ pretty_boy,0,0
 pries_united,,0
 primexia,1,1
 principado_blake,1,1
-prodives,1,
+prodives,1,0
 proletarian_technate_of_heimdall,1,1
 proletariatit,0,1
 prosopon,1,
@@ -3650,6 +3659,7 @@ scimitarra,1,0
 sciuridae,1,
 sconymalm,1,
 scorpialand,1,0
+scorpion_empire,,0
 scorpionica,0,1
 scorpions_army,1,0
 scotriana,1,1
@@ -3974,6 +3984,7 @@ stravonskaya,0,1
 strawberry_moon,1,0
 striynia,1,0
 strogamehouf,1,0
+stryker_corp,,0
 student_loan_debt,0,
 suave,1,0
 subhamnation,1,0
@@ -4335,7 +4346,8 @@ the_soviet_republic_of_hickory,0,1
 the_soviet_state_of_svalbard,0,1
 the_soviet_states_of_europe,1,1
 the_soviet_texas_union,,0
-the_soylent_green_party,0,
+the_soylent_green_party,0,1
+the_spire_of_shadows,,0
 the_state_of_baathist_iraq,1,1
 the_state_of_maddin,0,
 the_states_of_ashkanza,0,1
@@ -4581,7 +4593,7 @@ united_antarctic_territories,1,
 united_autonomus_states,1,
 united_beherbia,0,0
 united_bongo_states_of_the_new_america,1,1
-united_californian_republic,0,
+united_californian_republic,0,1
 united_cattania,1,1
 united_cities_of_australia,1,
 united_commonwealth_of_mora,1,
