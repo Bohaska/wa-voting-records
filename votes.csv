@@ -25,7 +25,7 @@ aberliada,1,
 aboranada,0,
 abrilandia,1,
 absent_human_rights,0,
-acara_shura,1,
+acara_shura,1,0
 acejr,1,
 achias,1,0
 acrotraria,1,0
@@ -143,7 +143,7 @@ americatain,1,
 amerion,1,
 amestny,1,
 amestrris,1,0
-amexipania,0,
+amexipania,0,1
 amina_kodu,1,
 amirante,,1
 ammehoela,1,
@@ -441,10 +441,11 @@ berlitria,,1
 bernelia,1,
 bervia,1,
 bessarasia,0,1
+best_cussteelliccaamiiamartsul,,1
 bet_naharin,1,1
 betashock,0,
 betchioviche,0,
-better_indonesia,0,
+better_indonesia,0,0
 bexsomb,1,
 bextoria,,1
 bhang_bhang_duc,1,0
@@ -463,7 +464,7 @@ bingism,1,1
 bingleborpia,1,
 bingobongos,1,
 birand,,0
-birczia,1,
+birczia,1,1
 bireuen,,0
 birtonia,1,1
 bisexualitism,1,0
@@ -485,7 +486,7 @@ blazefire2,1,0
 blobian,0,
 blobular,0,1
 bloesser,1,
-bloni,1,
+bloni,1,1
 blorpshire,0,
 bludisia,1,0
 blue_king,,1
@@ -669,7 +670,7 @@ chillicothe,0,0
 chillin,,0
 china_reclamation_government,0,1
 chinesasia,1,0
-chinese_republic_of_chad,1,
+chinese_republic_of_chad,1,0
 chinese_soviet_anti_furry_empire,,0
 chineva,0,
 chioganah,0,
@@ -1215,6 +1216,7 @@ fadnesia,0,1
 faeciba,1,1
 fairigone,1,0
 faledano,1,0
+falernesia,,1
 fallgriffin,1,
 falloa,1,
 fallowat,1,0
@@ -1233,7 +1235,7 @@ farlaklia,0,
 farmcraft,1,1
 fartington,1,1
 farville,1,0
-fasan_venus,1,
+fasan_venus,1,0
 fasharia,0,
 fashoda,1,1
 fat_angel,0,1
@@ -1290,6 +1292,7 @@ foderales_konigreich_schlesien,0,
 foderatico,,0
 folcvania,,0
 foldaka,1,
+foraldn,,0
 forfishing,1,1
 forgawik,1,
 forgoriton,1,
@@ -1346,6 +1349,7 @@ friaritat,1,0
 frier_pie-rats,1,0
 frismana,1,1
 friul,1,0
+frodozrout,,0
 frontiera,1,1
 froshar,1,
 frosty_orbit,1,0
@@ -1586,7 +1590,7 @@ halsoni,1,0
 haltyas,1,
 hamburg_neo,1,1
 hamdawggin,0,
-han_guk,0,
+han_guk,0,1
 hanalia,0,1
 hanguk-nippon,0,
 hanli,1,1
@@ -2053,7 +2057,7 @@ koleno,0,
 kolher,1,0
 kolistri,0,0
 komunno,0,0
-komyounists,0,
+komyounists,0,1
 konark,1,0
 kond_mex_ethostorgel,1,0
 kondausia,1,
@@ -2288,7 +2292,7 @@ lower_unfentaria,0,
 lsk,1,
 luaja,1,0
 luaskenia,,1
-lucasson,0,
+lucasson,0,1
 luckae,1,
 lucy_the_hell,1,
 lugmeltistan,0,
@@ -2368,7 +2372,7 @@ mania_sims,0,
 manila-central,0,
 manitouqua,,0
 mankitownland,,0
-manseria,1,
+manseria,1,1
 manuelian_empire,1,0
 manyger,1,
 manymens,,1
@@ -2537,6 +2541,7 @@ morzova,1,0
 moscovien,1,
 mosfelania,1,0
 moskva_and_stalingrad,1,0
+mostomonia,,1
 moukden_and_kirin,1,0
 mount_cashmore,1,0
 mourningrad,,1
@@ -2639,7 +2644,8 @@ neopunk-brazil,1,
 neoxoleria,1,
 neporestine,1,
 nepri,0,1
-neptunian,1,0
+neptunian,1,
+neptunian_military_administration,,0
 nergtul,1,1
 netc_archipelago,0,
 neue_albania,,1
@@ -2856,7 +2862,7 @@ nouveau_strasbourg,1,
 nouvel_acadie,1,0
 nova-arcadia,0,1
 nova-rolanda,1,0
-nova_absittera,1,
+nova_absittera,1,0
 nova_angelus,0,0
 nova_auroras,1,
 nova_cabralia,1,
@@ -3005,6 +3011,7 @@ oswaldtheluckyrabbit,1,
 otaxinland,1,
 otayo,1,
 othonom,1,
+otome_and_bl_games,,0
 otsur,0,
 ottoman_empireee,1,
 ouesopa,1,
@@ -3082,6 +3089,7 @@ penguins_states_of_antartica,1,1
 pengutan,,1
 penning,1,
 peopir,0,0
+people_freedom_nation,,0
 peoples_council_republics,1,
 peoples_dismarscthen,1,1
 peoples_republic_of_solovie,,1
@@ -3122,6 +3130,7 @@ pillaro,1,0
 pinchin,,0
 pipi_pampers,1,0
 pirarujapontokio,1,
+pirates_2,,1
 pirates_and_buccaneers,1,1
 pitbull,1,
 pitcairn_empire,1,1
@@ -3152,6 +3161,7 @@ polleend,1,0
 pomerena,1,
 pont-a-mousson,1,
 ponta_tropical,0,1
+pontisia,,0
 pontolia,1,
 poolanxi,1,0
 pooters,,0
@@ -3528,6 +3538,7 @@ satyadesa,1,
 sauros,1,1
 savazara,1,0
 saventra,1,1
+savxeuir,,0
 saxon-anglaland,,0
 saxxony,0,
 scandaland,0,0
@@ -3582,6 +3593,7 @@ septentrica,1,1
 seranis,,0
 seraphiniaw,,1
 serbska-novica,1,0
+serenitium,,0
 serovgrad,1,0
 serpenii,1,
 serpleddyland,,1
@@ -3763,7 +3775,7 @@ south-central_rhodesia,1,
 south_boston_irishmen,1,
 south_helvetia,,0
 south_otselic,1,0
-south_parter,1,
+south_parter,1,0
 south_poopistan,1,0
 south_unstunstia,0,
 southeast_celebes,0,1
@@ -4226,7 +4238,7 @@ the_technocratic_authority,0,1
 the_teddy,1,
 the_terapins,1,0
 the_terren_dominion,,0
-the_third_french_colonial_empire,0,
+the_third_french_colonial_empire,0,1
 the_three_hammers,1,
 the_tophet_shades,1,0
 the_tree_states,,0
@@ -4705,7 +4717,7 @@ western_forestria,0,1
 western_hatiagingtorldur,1,1
 western_isles_of_denmark,0,
 western_osowiec,1,
-western_rhomania,1,
+western_rhomania,1,0
 western_vitermaet,0,
 western_yakutsk,1,0
 westinghous,0,1
@@ -4779,7 +4791,7 @@ yarktralia,1,
 yarumab-corriopankt,,1
 yasutaka,1,1
 yazhoo,1,
-ybova,1,
+ybova,1,0
 ydrenia,1,
 ye_olde_patria,1,0
 yedhudasia,1,
@@ -4808,7 +4820,7 @@ yugarritia,0,
 yugonostalgia,,0
 yugoscavia,,1
 yugoslawia,0,
-yukolia,1,
+yukolia,1,1
 yukti,,0
 yun_tan,,1
 yungerdash,1,0
