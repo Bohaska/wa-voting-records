@@ -90,7 +90,7 @@ alainian_otters,1,
 alam_melayu,0,
 alangrad,0,1
 alans_land,0,1
-alardonia,1,
+alardonia,1,0
 alasbourg,,1
 alaskan_free_state1,0,1
 albdear,1,0
@@ -255,7 +255,7 @@ ardelburg,1,0
 ardemar,0,1
 ardis,1,
 ardyallia,,0
-aredita,0,
+aredita,0,1
 argent_hind,1,
 argish,1,
 argondy,1,1
@@ -1042,6 +1042,7 @@ doge_flower,1,0
 doge_republics,1,0
 dogteeth,1,
 dojestan,0,
+domais,,0
 domas,0,0
 dombaness,1,1
 domesticis,1,0
@@ -1417,7 +1418,7 @@ foldaka,1,0
 fololavakia,,1
 foraldn,,0
 forfishing,1,1
-forgawik,1,
+forgawik,1,1
 forgoriton,1,
 forgotten_beauty,0,
 forio,1,1
@@ -1507,7 +1508,7 @@ galactic_furry_empire,,1
 galactic_imperial_republic,,0
 galactic_super-earth,1,
 galadia,0,1
-galenila,1,
+galenila,1,0
 galgenbeck,1,
 galindo_prime,1,0
 gallantia,1,0
@@ -1767,6 +1768,7 @@ haz_island,1,
 hearteland,0,
 heathershire,1,0
 heavens_reach,1,0
+hefenland,,1
 heiligiesland,1,
 heitoria,0,
 hekp_2,1,
@@ -2254,6 +2256,7 @@ kopits,1,1
 koragrad,1,0
 koralsk,1,
 koranvistan,1,
+koravani,,0
 korbalis,1,0
 korbaros-tarkaris,1,0
 korbu_tribes,1,0
@@ -2269,6 +2272,7 @@ korvenska,1,0
 kosova,1,1
 kossenburk,1,0
 kotiko_socialist_communist_republic,0,0
+kotuwia_sarle,,0
 koyun,1,
 kraj,1,1
 kralenos,1,0
@@ -2424,6 +2428,7 @@ libersan,1,
 libersophia,1,
 libertarian_confederation_of_terranova,,0
 libertarian_washington,1,0
+libertarii,,0
 libertas_minor,1,1
 libertmore,1,
 libertopia_land_23,1,
@@ -2897,7 +2902,7 @@ new_bon,0,1
 new_bosnia,0,1
 new_bradfordsburg,1,0
 new_bubastis,1,0
-new_bulacan,0,
+new_bulacan,0,0
 new_bulgar,0,
 new_butchart,1,1
 new_camoter,1,1
@@ -3133,6 +3138,7 @@ novele_anjou,1,0
 novespes,0,
 novgoristan,0,1
 novia_pan_wes,0,
+novisiberskov,,1
 novist,0,1
 novo_acadia,1,
 novo_prosperitas,0,0
@@ -3194,7 +3200,7 @@ of_jason,,1
 of_men,,0
 of_the_golden_harp,1,0
 of_the_greater_british_empire,1,
-of_the_republic_27,0,
+of_the_republic_27,0,0
 of_the_supremacist_union,1,1
 ofdessa,1,
 oflia,1,0
@@ -3288,6 +3294,7 @@ pakitsk,1,0
 pakozia,1,
 palastrade,,0
 palatan,1,1
+palatinate_state,,0
 palaubania,0,
 palish,1,
 palmalintin,1,
@@ -3370,7 +3377,7 @@ phansomr,0,
 phantomism,,0
 phigosa,1,
 phii,1,0
-philipinesdw,1,0
+philipinesdw,1,1
 philosopy,1,0
 phlontopia,1,0
 phoenicia-,1,0
@@ -3482,6 +3489,7 @@ pruszia,0,1
 prydaein,0,
 prydania,1,
 pryskiva,1,0
+psilocyberio,,1
 psionic_hive,1,1
 psychopantachy,1,0
 pubuh-zog,1,
@@ -3568,6 +3576,7 @@ rebel_new,1,0
 reberydinigzadaland,,0
 reborn_america,1,1
 rebulica_das_bananas,1,
+recaxa_alt,,0
 rechol,0,0
 rectonia,,1
 red_mones,,1
@@ -3588,7 +3597,7 @@ regnum_sanctae_crucis,1,
 regnumgermanicum,1,1
 reichsbrazil,,0
 rein_delossinarryomi,1,0
-reino_de_portvgal,0,
+reino_de_portvgal,0,0
 reino_scarlatta,,1
 relevantia,1,
 rellenia,0,1
@@ -3950,7 +3959,7 @@ silverpaw69,1,0
 silverstein,,0
 silves,1,
 simone_republic,,0
-sin_city_topia,1,
+sin_city_topia,1,0
 sincorp,1,0
 sinderwood,0,
 sindoesia,1,
@@ -4290,6 +4299,7 @@ technocratic_tagalog,,0
 technogium,,0
 tekong_island,1,0
 tellotictacious_whindlewharf,0,1
+tenebronous,,0
 tennesseen,1,1
 tepertopia,1,1
 ter_voland,1,
@@ -4873,6 +4883,7 @@ united_units,1,1
 unixizkand,0,1
 unobrunoland,0,1
 unogonduria,,0
+unruliness,,0
 unsna,1,0
 unsophisticate,1,0
 untermite,0,1
@@ -4906,6 +4917,7 @@ vaderia,1,
 vadsal,1,0
 vaeruio,,1
 vainola,1,
+vakore,,0
 valadin,1,1
 valard,1,1
 valcouria,1,
@@ -4991,7 +5003,7 @@ vigh,,0
 vikarion,1,0
 vilanaland,,0
 vile_island,0,1
-villora,0,
+villora,0,1
 viltraam,1,
 viltrum_1,0,0
 vimaran,1,
@@ -5127,7 +5139,7 @@ wilhelmsstadt,0,1
 wilkshire,0,1
 willofthepeople,1,
 willomania,1,
-willow_gate,1,
+willow_gate,1,0
 wind_spire,,0
 windurst,1,
 wing-chester-lyon,1,0
@@ -5291,6 +5303,7 @@ zioniae,,0
 zitronensaft,1,0
 zlapadoslavia,0,0
 zoenova,1,0
+zolystia,,1
 zombiedolphins,1,0
 zoran,1,
 zordennox,,0
