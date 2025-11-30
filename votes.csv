@@ -17,7 +17,7 @@ nation_id,varanius_1758501414,tinhampton_1758643240
 6th_vallean_armoured_regiment,,1
 88th_seige_korps_of_kreig,1,1
 9005,0,
-911,1,
+911,1,0
 a_familys_nation,,0
 a_mean_old_man,1,0
 aarden_nations,1,1
@@ -97,6 +97,7 @@ albetian,1,
 alcaria,0,1
 alcrosnia,1,1
 alder_alderaan,,0
+aldlandia,,1
 alentejo_and_algarve,,0
 alesina,1,1
 aletz,1,
@@ -104,6 +105,7 @@ alexandria-hyperion,0,1
 alexein,1,0
 alexxiah,1,
 alf_landon,0,
+algueneia,,0
 alhai,0,0
 alheri,,1
 ali_baba_and_the_40_fleas,0,
@@ -143,6 +145,7 @@ amabilis,1,0
 amach,,0
 amazon_states,0,1
 ambarinadino,1,0
+amenicasia,,1
 american-cascadia,1,
 american_generations,1,0
 american_labor_republics,1,1
@@ -300,6 +303,7 @@ ascending_stars,,1
 ascentida,,0
 aseanam,0,
 aseanindia,0,1
+asfid,,0
 ashennia,0,
 ashkaban,1,
 ashkenazi_regime,1,
@@ -431,7 +435,7 @@ barfleur,0,
 barredo,1,
 bartonia_nova,0,0
 barvo,1,
-basaroa,1,
+basaroa,1,0
 basque_dominion,1,0
 basshunter,1,0
 bassi_xiii,1,0
@@ -915,6 +919,7 @@ dancing_ninja_island,1,0
 daneka,1,0
 danganronpia,,0
 danilama,1,
+danistrians,,1
 danjou,1,0
 dannemarie,1,1
 darakin,0,
@@ -1156,6 +1161,7 @@ eclipse_imperium,0,
 ecnesia,1,
 eco-paris_reformation,1,
 ecologist_hegemony,1,
+econmani,,0
 economic_soviet_republic,0,
 economy_stimulators,0,1
 ectovoid,,0
@@ -1183,7 +1189,7 @@ eisenbansk,,0
 eisentach,0,1
 eivalia,0,
 ekopia,0,0
-ekpatanus,1,
+ekpatanus,1,0
 ekrea,1,1
 ekreli,1,0
 ekygon,0,0
@@ -1850,6 +1856,7 @@ humsawy,1,
 hundermenschen,1,0
 hundregland,1,
 hungarion,1,
+hunger_panem,,0
 hunterdon,1,0
 husseberg,,0
 hustlertwo,1,
@@ -1871,7 +1878,6 @@ i_always_come_bak,1,
 i_couldnt_come_up_with_a_name,0,0
 i_den_nue,1,0
 i_lick_pig,,0
-i_love-capitalism,,0
 iadras,1,0
 iasonia,0,
 ibarabayashi,0,1
@@ -1920,6 +1926,7 @@ impertan,1,1
 imun_libre,1,
 inazuma_sogunate,1,0
 independant_islands_of_walanjuva,,1
+independent_gagion,,1
 independent_state_of_novgorod,,1
 indesputatio,1,0
 indiajwwjwj,1,0
@@ -2137,6 +2144,7 @@ kaufmagne,0,
 kawastyselir,0,
 kazackhistan,1,
 kazanqa,1,0
+kazmor,,1
 kebecois,1,
 kediya,,1
 keep_humble,1,0
@@ -2159,6 +2167,7 @@ kethania,0,1
 kevin3,1,
 kharkov,1,0
 khmaunia,1,
+khodestan,,0
 khorasan_razavi,,0
 khurun-marrakh,,1
 kianland,1,0
@@ -2838,7 +2847,7 @@ neo-zulthyrland,1,1
 neo_american_states,1,0
 neo_imperial_america,1,0
 neo_makhnovia,1,
-neo_mikolania,0,
+neo_mikolania,0,0
 neo_namea,0,
 neo_soviets,0,
 neopunk-brazil,1,
@@ -2956,7 +2965,7 @@ new_vulcan,1,0
 new_wrangler,,1
 new_yankmoth,0,1
 new_yordania,,0
-new_zacharianasville,1,
+new_zacharianasville,1,0
 new_zendo,1,0
 new_zibolroakia,0,0
 newdays,1,0
@@ -4308,7 +4317,7 @@ the_ancient_albuquerque,1,
 the_ancient_world,0,1
 the_animalists,,0
 the_arroyan_federation,1,0
-the_astora_empire,1,
+the_astora_empire,1,0
 the_augustans,1,1
 the_authority_of_the_underwater_cities,1,
 the_bahamian_states,1,
@@ -4335,6 +4344,7 @@ the_chill_isles,0,
 the_chill_union,1,0
 the_chizan,0,1
 the_citrus_republic,0,
+the_city_of_evil,,0
 the_cn,,1
 the_cobaltian_reublic,1,
 the_coca_cola_islands,1,1
@@ -4653,6 +4663,7 @@ tiodann,1,1
 tir_gaelach,0,1
 tircis,1,1
 titanaria,0,
+tithio,,0
 tkeignaoen,,0
 tnp-ed,1,1
 to-yu,0,
@@ -4942,7 +4953,7 @@ very_new_republic_of_madinia,0,1
 vesilen_island,0,1
 vespertina,0,
 vestyria-greland-liermark,1,
-veszcota,0,
+veszcota,0,1
 vetement,1,0
 vexilia,0,1
 vibe_town,1,
@@ -5077,6 +5088,7 @@ western_visayas,,1
 western_vitermaet,0,
 western_yakutsk,1,0
 westinghous,0,1
+westkapelle,,0
 westswedia,1,0
 weveto,1,1
 whelaen,1,
@@ -5119,6 +5131,7 @@ wulfsdenne,0,1
 wutar_katari,0,1
 wydad,1,0
 wyndland,1,
+wyoma,,0
 wyrdas,1,
 wystronya,,1
 x_country,1,0
@@ -5153,6 +5166,7 @@ yarenja,1,0
 yarktralia,1,
 yarumab-corriopankt,,1
 yasutaka,1,1
+yatodoshi,,1
 yazhoo,1,1
 ybova,1,0
 ydrenia,1,1
