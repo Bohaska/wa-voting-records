@@ -2,7 +2,7 @@ nation_id,varanius_1758501414,tinhampton_1758643240
 -absurdistan-,1,
 -eunomia,0,1
 -shizouka-,0,1
--sordland,1,
+-sordland,1,0
 -urzikstan,1,
 0000001,0,0
 0cala,1,0
@@ -399,6 +399,7 @@ baconlandica,1,0
 badan_federation,1,
 badger,1,0
 bagojo,1,0
+bahalbha_island,,1
 bai_lung,1,0
 bakannabdursordia,1,
 bakunawa,,0
@@ -428,7 +429,6 @@ barredo,1,
 bartonia_nova,0,
 barvo,1,
 basaroa,1,
-baseball_rules,,0
 basque_dominion,1,0
 basshunter,1,0
 bassi_xiii,1,0
@@ -485,7 +485,7 @@ better_indonesia,0,0
 bexsomb,1,
 bextoria,,1
 bhang_bhang_duc,1,0
-bharat_3,1,
+bharat_3,1,0
 bharat_desham,0,0
 bharathvarsh,1,0
 biaten,0,1
@@ -609,7 +609,6 @@ byzantiium,1,
 cachard_calia,,1
 cadonio,0,1
 caesargrad,,0
-cahokians,,0
 caiolendi,0,
 calabo,0,0
 caladonne,1,0
@@ -756,7 +755,8 @@ ciurlionis,1,
 civilinia_and_herbisine,1,1
 civitalux,0,1
 clamorande,1,0
-clano_rigin,1,
+clankasa,,0
+clano_rigin,1,0
 clantonia,1,0
 claysville,0,0
 clialaad,0,0
@@ -778,7 +778,7 @@ cola_peninsula,1,0
 coliperland,0,1
 collar,1,0
 college_corner,1,0
-colloms_golden_circle,0,
+colloms_golden_circle,0,1
 colmis,1,1
 colocia,1,1
 colonino,0,0
@@ -833,7 +833,7 @@ costaim-spanch,1,
 councerland,0,1
 coune,1,0
 courage_caverns,0,1
-courtlantis,1,
+courtlantis,1,0
 covant,1,1
 covenentia,1,0
 cow_hunters,1,
@@ -1249,7 +1249,7 @@ erlovia,0,
 erosodom,1,1
 erstavik,0,1
 erstvaal,1,
-ervald,1,
+ervald,1,0
 eryaurt,1,1
 erytol,0,
 erzone,,0
@@ -1351,6 +1351,7 @@ femboy_republics,0,1
 femvania,0,1
 feninor,1,
 fererland,1,0
+ferganistan,,1
 feristaat_sudetenland,1,0
 ferrianona,1,1
 ferrra,1,0
@@ -1378,6 +1379,7 @@ floofith,0,
 flop_ivory_island,1,1
 flor-fina,1,0
 floralbranca,1,0
+florgelia,,0
 floria-byrnia,,1
 florindale,1,0
 flower_isle,1,
@@ -1540,6 +1542,7 @@ ghost_of_the_order,0,
 ghurana_nent,1,1
 gi-sra,1,1
 giant_redwoods,1,0
+giantino,,1
 gibbervoln,1,0
 gibsoniana,0,
 gideon,1,0
@@ -1858,6 +1861,7 @@ i_always_come_bak,1,
 i_couldnt_come_up_with_a_name,0,0
 i_den_nue,1,0
 i_lick_pig,,0
+i_love-capitalism,,0
 iadras,1,0
 iasonia,0,
 ibarabayashi,0,1
@@ -1917,7 +1921,7 @@ ineritia,0,1
 ineva,0,0
 inevitable_poverty,1,1
 infitum,0,1
-ingentus_progressia,1,
+ingentus_progressia,1,1
 ingrosia,1,0
 inkare,,1
 inkoposlisquare,1,
@@ -2203,6 +2207,7 @@ kolatis,1,1
 koleno,0,
 kolher,1,0
 kolistri,0,0
+kombee,,0
 komunno,0,0
 komyounists,0,1
 konark,1,0
@@ -2327,7 +2332,7 @@ latrous,1,0
 latvian_state,1,1
 laura_fun_land_iii,1,
 lauramerica,0,0
-laurendon,1,
+laurendon,1,0
 laurentrum,1,1
 lavinsworth_united_islands,0,
 lawattsia,0,
@@ -2575,6 +2580,7 @@ matidonia,0,
 matika,0,1
 matinatios,,1
 mattville,0,1
+maurdea,,0
 maurras,1,1
 mavenu,0,
 mavilay,1,
@@ -2769,6 +2775,7 @@ naralovian,0,
 narax,,1
 nardin,,1
 nargis,1,0
+narkenia,,1
 narla,0,0
 narodovya,1,0
 naronya,0,
@@ -2932,6 +2939,7 @@ new_vorarlberg,0,
 new_vulcan,1,0
 new_wrangler,,1
 new_yankmoth,0,1
+new_yordania,,0
 new_zacharianasville,1,
 new_zendo,1,0
 new_zibolroakia,0,0
@@ -2997,7 +3005,7 @@ nordurstjarna,0,1
 norg_brostikia,1,
 nori_dratourat,0,1
 norland_angre,1,
-nortallius,0,
+nortallius,0,0
 norte_de_america,,0
 north-west_commland,1,0
 north_borealia,,1
@@ -3022,6 +3030,7 @@ northeast_urg,,0
 northeastern_appalachia,1,
 northern_caliburugeve,1,1
 northern_canadian_people,1,0
+northern_cheek,,0
 northern_excelria,,0
 northern_german_federation,1,0
 northern_isla_of_cocoa,1,
@@ -3267,6 +3276,7 @@ paskaa,1,0
 pasveria,1,0
 patagonion,1,1
 patapole,0,1
+pathonia,,0
 patria_augusta,1,
 patricia_and_the_marcus_islands,,1
 patrickclarke,1,
@@ -3351,8 +3361,9 @@ plata_basin,,1
 plateana,1,0
 platinum_skills,1,0
 playmobilandia_del_este,1,1
+pleroma_sans_romans,,1
 plexaris,1,
-plpfu-l-7,1,1
+plpfu-l-7,1,
 plus_nova_imperii,1,
 pluvie,1,1
 podria,1,0
@@ -3416,6 +3427,7 @@ proletariatit,0,1
 prosopon,1,
 prosquine,1,1
 protectistan,0,1
+proto_dacia,,1
 protzka,1,
 proud_balkan,0,
 prov,0,
@@ -3768,7 +3780,7 @@ savazara,1,0
 saventra,1,1
 savxeuir,,0
 saxon-anglaland,,0
-saxxony,0,
+saxxony,0,1
 scandaland,0,0
 scarlettjohansson,1,0
 scartap,1,1
@@ -4027,6 +4039,7 @@ southern_folising_euctandered,1,0
 southern_maluku,1,
 southern_maus,1,0
 southern_middle_earth,1,
+southern_neeztopican,,1
 southern_numenor,1,1
 southern_peo_swandad,0,
 southern_phia_aght,0,1
@@ -4037,7 +4050,7 @@ southwest_crayonstan,0,
 sova_vista,0,
 sovereign_state1,1,
 sovereign_states_of_kyria,,0
-sovetsky-soyuz,1,
+sovetsky-soyuz,1,1
 sovfedezi,0,1
 soviet_federative_socialists,1,1
 soviet_reuinion_part_two,0,0
@@ -4449,7 +4462,7 @@ the_peoples_place_of_living,1,0
 the_peoples_republic_of_guangzhou,1,
 the_peoples_republic_of_kyle,1,0
 the_persian_territories,0,1
-the_pharaohship,1,0
+the_pharaohship,1,
 the_philippine_islands_and_formosa,1,0
 the_philosophical_kingdom_of_heathcliffe,0,
 the_pillow_labyrinth,1,1
@@ -4998,6 +5011,7 @@ warmth,0,
 warnen,1,
 warom,1,
 warrince,0,0
+wars_forever,,0
 wasd12,1,0
 watao,1,1
 watidge,1,
