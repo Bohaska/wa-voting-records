@@ -641,7 +641,7 @@ castlacha,1,0
 castle_in_confidence,1,
 castrolaysia,1,1
 castroreale,0,
-cat_army,1,0
+cat_army,1,
 cat_is_cool,1,
 cat_is_empire,1,0
 catacorpo,1,1
@@ -1394,6 +1394,7 @@ free_proletariat,1,
 free_socialist_republik_of_novastovia,0,1
 free_stalliongrad,1,0
 free_state_of_lokix,1,
+free_terra,,1
 free_transhumanists,1,1
 free_turtle,1,0
 free_uris,0,1
@@ -1498,6 +1499,7 @@ gerowellia,1,
 gesternsturz,1,0
 getlibim,1,
 gewisse,,0
+ghanndi,,1
 ghojingles,1,1
 ghost,1,0
 ghost_of_the_order,0,
@@ -1636,6 +1638,7 @@ gresillia,1,
 grest_jjangllia,0,1
 grete_maria,1,
 greythorne,1,0
+greywater_coast,,1
 grinkiscoll,1,
 grod_dratia,,0
 groostalei,1,
@@ -2169,7 +2172,7 @@ koralsk,1,
 koranvistan,1,
 korbalis,1,0
 korbaros-tarkaris,1,0
-korbu_tribes,1,
+korbu_tribes,1,0
 kordat,1,0
 kordia,0,1
 koroniathan,1,
@@ -2788,7 +2791,7 @@ new_babilonions,1,1
 new_bacalao_and_the_aurora_islands,0,1
 new_blanc,1,
 new_bon,0,1
-new_bosnia,0,
+new_bosnia,0,1
 new_bradfordsburg,1,0
 new_bubastis,1,0
 new_bulacan,0,
@@ -2842,7 +2845,7 @@ new_rainbow_falls,1,0
 new_resilience,,1
 new_roos,0,
 new_rustonia,1,1
-new_ryansville,1,0
+new_ryansville,1,
 new_saint_peters,,1
 new_salty,0,0
 new_samba,1,
@@ -3035,6 +3038,7 @@ nozania,,1
 nuara,0,1
 nublas,1,
 nudim,,0
+nudityfast,,0
 nueva_alta_california,1,0
 nukerida,1,0
 nulkia,1,0
@@ -3248,6 +3252,7 @@ pestillance,1,
 petraland,1,
 petromond,0,
 petronellania,1,0
+pettlland,,1
 phansomr,0,
 phantomism,,0
 phigosa,1,
@@ -3541,7 +3546,7 @@ riyadh_al-baraka,1,0
 riziand,0,0
 rizzman_empire,1,0
 rj805sere,0,
-rkd,1,
+rkd,1,1
 roberto_garcia,0,1
 robo_topia,1,
 rocilia,0,1
@@ -3911,6 +3916,7 @@ soletmaris,1,0
 solicetine,1,1
 solinarien,1,1
 soliron_collective,1,
+solomon-randomcrap_union,,0
 soloriania,1,
 solova,0,1
 solracland,,1
@@ -4080,7 +4086,7 @@ suzi_island,0,0
 svarteyjar,0,
 svartkladd,0,
 svedria,1,1
-svenhavn,1,
+svenhavn,1,0
 sveniland,1,1
 svetogradia,1,1
 svetzia,1,
@@ -4318,7 +4324,7 @@ the_lastest_crusade,,0
 the_leamid_empire,,1
 the_legionarian_isles,0,
 the_lide_collective,0,0
-the_lizard_army,1,0
+the_lizard_army,1,
 the_lowtown_resistance,1,
 the_malaysian_tamil_nadu,1,1
 the_marineri_islands,0,1
