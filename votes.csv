@@ -23,7 +23,7 @@ a_mean_old_man,1,0
 aarden_nations,1,1
 abdalnka,,0
 aberliada,1,
-aboranada,0,
+aboranada,0,1
 abrilandia,1,
 absent_human_rights,0,
 acara_shura,1,0
@@ -105,7 +105,7 @@ alheri,,1
 ali_baba_and_the_40_fleas,0,
 alien_a,1,1
 alinek,0,1
-alinore,0,
+alinore,0,1
 aliona,0,
 alixe,,1
 all_hail_adriana,1,
@@ -143,7 +143,7 @@ american_labor_republics,1,1
 american_rojava,1,1
 americanican,1,0
 americatain,1,
-amerion,1,
+amerion,1,0
 amestny,1,
 amestrris,1,0
 amexipania,0,1
@@ -409,7 +409,7 @@ bankowiata,1,1
 bannba,1,0
 banstria,1,
 barbara_howard,1,
-bardonia_islands,1,
+bardonia_islands,1,1
 bareu,1,1
 barfleur,0,
 barredo,1,
@@ -535,7 +535,7 @@ borkmaster,1,0
 borrin_quen,0,
 borthe_fren,,1
 borunsia,1,1
-bossost,1,
+bossost,1,0
 boston_mass,1,
 bostoniax,0,0
 bostro,0,
@@ -612,7 +612,7 @@ canland_islands,1,
 cansne,1,0
 cantuss,0,0
 canvania,1,0
-canvee,1,
+canvee,1,1
 capand_dodia,1,
 capitalisia,0,0
 capitalismo_occidental,0,
@@ -823,7 +823,7 @@ creajoin,1,
 creationis,1,1
 creator_land,1,1
 creberg,1,0
-creetaurt,1,
+creetaurt,1,0
 cref_frua,1,
 crestvale_republic,,1
 cretian_territories,1,
@@ -977,6 +977,7 @@ dinosors,1,
 diocean_school,,1
 diogo_alves,,1
 diollo,0,0
+dioswania,,0
 dir_union,0,
 dirmia,1,0
 disburgensia,1,1
@@ -1011,6 +1012,7 @@ dootinbow,1,0
 dormill_and_stiura,1,0
 dorpatia2,1,0
 dosiano,,0
+dossec_hills,,1
 doultrenia,0,1
 doumeira,1,1
 dovineistan,,0
@@ -1195,6 +1197,7 @@ enteral_whimsy,,0
 entisia,,1
 eodi_and_its_autonomous_regions,1,1
 eoksia,1,
+epistemology,,0
 epsilon_alpha,1,0
 equatorial_tobia,,0
 equestria_socialist,1,
@@ -1239,6 +1242,7 @@ ethnon,1,0
 etlajhia,1,0
 etoile_arcture,,1
 euclidya,,0
+eudaimonea,,1
 euraziea,,0
 euricanis,1,0
 europan_union,1,
@@ -1281,7 +1285,7 @@ far_isles,1,
 faralried,1,0
 farbelia,0,
 fardel,,0
-farello,0,
+farello,0,1
 farinalia,,1
 farlaklia,0,
 farmcraft,1,1
@@ -1402,6 +1406,7 @@ freewheel,1,
 freidonia_empire,0,
 french_kanaidia,0,0
 frep_caymut,1,0
+fret_zenith_of_alaska,,0
 fria_arland,1,
 friaritat,1,0
 frier_pie-rats,1,0
@@ -1602,7 +1607,7 @@ greater_finnish_fascist_state,1,0
 greater_gerpliternstan,1,
 greater_gibraltar,1,0
 greater_granskiye,0,
-greater_grobdeutchland,1,
+greater_grobdeutchland,1,0
 greater_hispanolia,1,
 greater_new_russia,1,1
 greater_perkele,1,
@@ -2002,6 +2007,7 @@ jozia,1,1
 jre_nation,1,
 juiulia,,1
 juli,1,
+jusanctopiaville,,1
 justmea,,0
 jzonim,0,
 kabran,1,1
@@ -2116,8 +2122,8 @@ kings_of_kings,1,
 kingsbrew,1,
 kinsantinsuyu,1,1
 kionga,1,
-kirby-land,1,
-kirginst,,0
+kirby-land,1,0
+kirginst,,1
 kirkas,0,
 kirkeness,,1
 kirrlark,0,
@@ -2215,7 +2221,7 @@ kurukita,0,
 kuvo,,1
 kwaj,0,1
 kwampangazitha,,1
-kwiztshen,1,
+kwiztshen,1,1
 kyaksbel,1,1
 kyievan_dynasty,1,1
 kylarnatia,1,
@@ -2223,7 +2229,7 @@ kyldania,1,1
 kyogre_67,,0
 kyrakan,1,0
 kyrek,1,
-kyrgyzstanistan,1,
+kyrgyzstanistan,1,1
 kyriarsk,0,1
 kyrindor_puppet,1,0
 kyubia,0,1
@@ -2531,6 +2537,7 @@ mediobogdum,1,0
 mediternia,,0
 medvefold,1,1
 mehmetliler,1,
+meino,,0
 mejor_estado,,0
 melanie_long,1,0
 meline,1,0
@@ -2704,7 +2711,7 @@ nas_crustium,1,0
 nascadia,1,0
 nastrova,1,0
 naterraleh_priais,0,
-nathvia,1,
+nathvia,1,0
 nation_kingpuma,1,
 nation_of_hel,1,
 nation_of_phillipines,,1
@@ -2885,6 +2892,7 @@ nirvanic,1,1
 nishikaigan,,0
 nistriabar,1,0
 nitropol,0,
+nivloria,,1
 no_freedom_and_war_land,,0
 no_freedoom,1,0
 no_hope,1,0
@@ -2900,7 +2908,7 @@ non_western_friesland,1,
 nonessel,1,0
 nonfredom,0,1
 noobbia,1,1
-noobia_and_solare,0,
+noobia_and_solare,0,1
 noodle_cats,1,
 nor_chical,0,
 norcoast,1,0
@@ -2959,7 +2967,7 @@ northernloin,0,0
 northportugal,0,1
 northwest_korea,,1
 northwest_north_america,0,1
-northwest_queensland,1,
+northwest_queensland,1,1
 northwestern_alpinia,0,1
 norvarxilaland,1,0
 norveeba,0,1
@@ -2992,7 +3000,7 @@ nova_finis_terrae,1,0
 nova_foundation,1,
 nova_grecia,1,0
 nova_imperial,1,0
-nova_loca,1,
+nova_loca,1,1
 nova_mesthuania,1,
 nova_moldavia,1,
 nova_renascentia,1,0
@@ -3186,7 +3194,7 @@ parrots_den,1,0
 parzillum,0,1
 paskaa,1,0
 pasveria,1,0
-patagonion,1,
+patagonion,1,1
 patapole,0,
 patria_augusta,1,
 patricia_and_the_marcus_islands,,1
@@ -3392,6 +3400,7 @@ quirkaland,,0
 quirrelsit,1,
 quiveron,1,0
 quortiaa,0,
+qusban,,0
 qwertian,,1
 qwitzikaka,1,
 qyra,1,1
@@ -3429,6 +3438,7 @@ reberydinigzadaland,,0
 reborn_america,1,1
 rebulica_das_bananas,1,
 rechol,0,0
+rectonia,,1
 red_mones,,1
 red_prosperity,1,
 redakadia,0,
@@ -3731,7 +3741,7 @@ sensoria,1,0
 senter,0,1
 separatist_alliance,1,
 separtia,1,0
-septentrea,0,
+septentrea,0,0
 septentrica,1,1
 seranis,,0
 seraphiniaw,,1
@@ -3919,7 +3929,7 @@ soughts_souble,1,
 sougra,1,
 souladasnea,1,
 south-central_rhodesia,1,
-south_boston_irishmen,1,
+south_boston_irishmen,1,1
 south_helvetia,,0
 south_otselic,1,0
 south_parter,1,0
@@ -4015,11 +4025,13 @@ stephine21,,0
 sti_vismana,1,1
 stickofark,1,0
 stigya,0,
+stocial_toldac,,1
 stonewall720,0,
+stonewall_union,,0
 storalia,1,
 stotecia,1,0
 stravonskaya,0,1
-strawberry_moon,1,
+strawberry_moon,1,0
 striynia,1,0
 strogamehouf,1,0
 stryker_corp,,0
@@ -4158,6 +4170,7 @@ the-armageddon,1,1
 the-midwest,0,1
 the_1mperium_0f_man,,0
 the_251,0,1
+the_2nd_amendment,,0
 the_akasha_colony,1,
 the_all_enduring_peoples,,1
 the_almightyy,0,
@@ -4432,6 +4445,7 @@ the_united_nations_of_kvenland,0,
 the_united_neptumousian_empire,1,1
 the_united_patagonian_states,1,0
 the_united_republic_of_westend,,0
+the_united_sovereign_state,,0
 the_united_states_of_austin,1,0
 the_united_terran_syndicates,0,
 the_utes,0,1
@@ -4450,6 +4464,7 @@ the_weirdo,0,
 the_welzian_archipelago,1,1
 the_western_american_coalition,1,1
 the_western_european_commonwealth,1,1
+the_western_states_of_canada,,0
 the_western_union_of_communitas,1,1
 the_windmilluminati,1,0
 the_winter_islands,1,
@@ -4554,7 +4569,7 @@ trondime,1,
 trong-hai,0,
 trudaq_thunds,1,1
 true_sikhs,1,0
-trumpiff,0,
+trumpiff,0,1
 trumpomania,1,0
 trupska,,1
 truskawkoland,0,
@@ -4871,6 +4886,7 @@ wakesrea,1,
 walkabout,1,
 walkernaria,0,1
 wallanda,0,0
+walloonia,,1
 walnesntcuma,0,
 walter_jackson,1,
 wanoria,1,
@@ -4915,6 +4931,7 @@ western_hatiagingtorldur,1,1
 western_isles_of_denmark,0,
 western_osowiec,1,
 western_rhomania,1,0
+western_visayas,,1
 western_vitermaet,0,
 western_yakutsk,1,0
 westinghous,0,1
