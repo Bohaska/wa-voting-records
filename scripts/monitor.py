@@ -321,7 +321,7 @@ def process_execution_request():
 
 def csv_vote_record():
     res_files = listdir('resolutions')
-    res_files.sort(key=lambda x: int(x.split('_')[1]))
+    res_files.sort(key=lambda x: int(x.split('_')[-2]))
     all_votes = {}
     all_res = []
     columns = ['nation_id']
