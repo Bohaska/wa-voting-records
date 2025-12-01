@@ -7,7 +7,7 @@ nation_id,varanius_1758501414,tinhampton_1758643240
 0000001,0,0
 0cala,1,0
 1-502nd_airborne_inf,,0
-11_templar_knights,0,
+11_templar_knights,0,1
 1ammok,,0
 28th_socialist_brigade,,1
 3_reix12,0,
@@ -208,7 +208,7 @@ anhtegna,1,
 ankhion,,0
 ankokurama,1,
 ankyappu,1,
-anli,1,
+anli,1,0
 annabelland,,1
 annak,1,0
 annakendrickland,1,0
@@ -221,7 +221,7 @@ antara,1,0
 antarc,1,
 anthropoelpis,1,1
 anti-goatsack,1,1
-anti-tomatoes,1,
+anti-tomatoes,1,0
 antilu,,1
 antons_key,0,0
 antontia,0,0
@@ -472,7 +472,7 @@ beadle_mac,,1
 bean,,0
 bean-firia,,1
 beanastan,0,0
-beancurd,1,
+beancurd,1,0
 beandadistan,1,
 beansopolis,1,
 bearstackof2015,0,1
@@ -539,7 +539,7 @@ bismillah_rih,,0
 bisofeyri_world_assembly_mission,0,1
 bizarrotan,1,
 bkakc,0,0
-blablavania,0,
+blablavania,0,1
 black_army_territories,,1
 black_duncan,0,0
 black_ivars,,0
@@ -1572,6 +1572,7 @@ gallus,0,1
 galopascia,,0
 galorical,0,0
 gamble_topia,,1
+gambling_addictions,,0
 gameran_autocracy,1,0
 gandavarga,0,0
 gandieland,1,
@@ -2409,7 +2410,7 @@ kwampangazitha,,1
 kwiztshen,1,1
 kyaksbel,1,1
 kyievan_dynasty,1,1
-kylarnatia,1,
+kylarnatia,1,0
 kyldania,1,1
 kyogre_67,,0
 kyrakan,1,0
@@ -2566,7 +2567,7 @@ loomari,1,1
 lopsided_goat,1,
 lorden_lands,,0
 lordhowe_island,1,
-los_enquirers,1,
+los_enquirers,1,0
 los_phoenix,1,
 los_santos,1,0
 lost_bananamen,1,0
@@ -3227,7 +3228,7 @@ nova_angelus,0,0
 nova_angleterre,,1
 nova_aohr,,0
 nova_auroras,1,
-nova_cabralia,1,
+nova_cabralia,1,1
 nova_danzig,1,0
 nova_enlasia,,0
 nova_finis_terrae,1,0
@@ -3445,7 +3446,7 @@ patapole,0,1
 pathonia,,0
 patria_augusta,1,
 patricia_and_the_marcus_islands,,1
-patrickclarke,1,
+patrickclarke,1,0
 patterthippe,0,1
 pavlistania-suden,0,
 pawlands,1,1
@@ -3712,7 +3713,7 @@ redakadia,0,
 redbaronia,1,0
 redwingvksm,1,0
 redwood_bureau,1,0
-reformed_russian_states,0,
+reformed_russian_states,0,0
 refugeeria,0,1
 regelac_krus,0,1
 reggina,1,
@@ -3940,6 +3941,7 @@ sangrinaria,0,0
 sanguistan,0,0
 sankt-adalbertian_states,1,0
 sanmorgranaria,1,1
+sansierr,,1
 santa_clausewitz,,1
 santa_marana,,0
 santa_saber,0,1
@@ -3997,7 +3999,7 @@ scvortzovia,,1
 sea_dogs_rest,,0
 sealand_but_better,0,
 seattle_bay,1,1
-seclusionalists,1,
+seclusionalists,1,0
 second_peenadian,0,1
 secretanomaly,1,
 sederum,1,0
@@ -4008,6 +4010,7 @@ sefat,1,1
 segatamoa,0,1
 selagra,,0
 selfgradatude,1,
+selkhirn,,1
 sellaeta,1,
 seltsames_auge,1,0
 semper-luxuria,1,1
@@ -4069,7 +4072,7 @@ shielness,1,0
 shimmvania,1,
 shiverian_republics,0,
 shrikisthan,,1
-shuckletopia,1,
+shuckletopia,1,0
 shuddera,1,
 shui_mo,0,
 shujistan,1,
@@ -4098,6 +4101,7 @@ sincorp,1,0
 sinderwood,0,
 sindoesia,1,
 singamadri,1,0
+singaporeia,,1
 singaporen_empire,1,0
 sinra,1,
 siovale,1,0
@@ -4360,7 +4364,7 @@ sundlant,1,1
 sunny_glade,1,
 sunosycon,0,1
 sunromath,0,
-super_3arth,1,
+super_3arth,1,0
 super_democria,1,1
 super_earth_and_managed_democracy,1,
 super_nice_people,1,
@@ -4383,7 +4387,7 @@ svenhavn,1,0
 sveniland,1,1
 svetogradia,1,1
 svetzia,1,
-swanson_grove,0,
+swanson_grove,0,1
 swat-gibar,1,0
 swedias,1,
 sweway,1,1
@@ -4421,7 +4425,7 @@ talsien,1,0
 talstand,,0
 tamilpesum,1,
 tan_oria,,1
-tana_grocea,0,
+tana_grocea,0,1
 taolk,0,0
 tapirana,1,
 tarajapura,1,
@@ -4485,6 +4489,7 @@ the-midwest,0,1
 the_1mperium_0f_man,,0
 the_251,0,1
 the_2nd_amendment,,0
+the_above_grounds,,0
 the_affini_compact,,1
 the_akasha_colony,1,
 the_all_enduring_peoples,,1
@@ -4513,7 +4518,7 @@ the_bronze_star,1,0
 the_c_o_r_r_u_p_t_union,1,0
 the_californian_enlightenment,1,
 the_central_islands,1,0
-the_cerberus_union,1,
+the_cerberus_union,1,1
 the_cerulean_nation,1,1
 the_cevanti_free_council,1,1
 the_chaffinches,,1
@@ -4583,6 +4588,7 @@ the_grand_llama,1,0
 the_grand_lucas_crusades,1,
 the_grand_republic_of_mystikpolem,1,0
 the_grand_snake_empire,1,1
+the_great_city-state_of_zootopia,,0
 the_great_draga_empire,,0
 the_great_empire_of_europe_ii,0,1
 the_great_nevada_overlord,1,0
@@ -4792,7 +4798,7 @@ the_voltarum,,1
 the_warriors_of_determination,1,0
 the_washington_federation,1,0
 the_way_sun_cooperation,1,0
-the_weirdo,0,
+the_weirdo,0,0
 the_welzian_archipelago,1,1
 the_western_american_coalition,1,1
 the_western_european_commonwealth,1,1
@@ -4937,7 +4943,7 @@ turnips,1,
 turpotia,0,0
 turrimos,1,0
 tushto,0,0
-tutels,1,
+tutels,1,0
 tutsshmarain,0,0
 tvaroos,1,0
 twakagera,0,
@@ -4978,7 +4984,7 @@ umns_iznikmid,1,1
 uncreative_name,1,0
 ungroedy,,1
 uni_nova_terra,1,1
-unia_mexy,0,
+unia_mexy,0,1
 unicornlondia,,1
 unicorns_rock,1,
 unificado_del_pan,1,1
@@ -5163,7 +5169,7 @@ vicoria,1,0
 vicotis_kor,1,0
 victorh,1,
 vienna-lorraine,1,1
-vietnamese_empire,0,
+vietnamese_empire,0,1
 vigh,,0
 vikarion,1,0
 vilanaland,,0
@@ -5249,7 +5255,7 @@ warays,1,0
 warden,,0
 wariestgre,0,1
 warkus,0,1
-warmth,0,
+warmth,0,1
 warnen,1,
 warom,1,
 warrince,0,0
@@ -5380,7 +5386,7 @@ ydrenia,1,1
 ye_olde_patria,1,0
 yedhudasia,1,
 yekateria_and_farlandia,1,
-yektov,1,
+yektov,1,0
 yeneralski,1,
 yerachmeal,,1
 yhudfg_khanate,1,0
