@@ -333,7 +333,7 @@ astora_isle,1,
 astra_prime,1,0
 astradia,1,0
 astrea_celestia,1,
-astropole,1,
+astropole,1,0
 asukalia,0,0
 asulc,1,
 asvial,1,1
@@ -680,6 +680,7 @@ carpediem,1,
 carroll_inc,1,
 carthago_jadid,1,
 cartorian_empire,1,0
+cartrexia,,0
 casarian,0,0
 cashmoneyistan,1,1
 casiona,,1
@@ -824,6 +825,7 @@ commie_celadio,1,1
 commisariat_malyvenisk_order,0,0
 common_states,0,1
 commonu,1,0
+commonwealth_of_eskarel,,0
 communal_commonality,1,1
 communal_socialist_republics,0,1
 communapolis,1,
@@ -1218,6 +1220,7 @@ eight_hippopotamuses,0,0
 eiravale,1,0
 eisbington,,0
 eisenbansk,,0
+eisensturm,,0
 eisentach,0,1
 eivalia,0,1
 ekopia,0,0
@@ -1336,6 +1339,7 @@ euroski,1,0
 euskadil,0,1
 euterpee,0,0
 every_one,1,
+everywheristan,,0
 evil_iraq,,0
 evil_scary_country,,1
 evioustais,,0
@@ -1520,7 +1524,7 @@ fujianyorinki,0,
 fund_of_the_king,1,0
 funnle_kake,1,
 furilisca,1,1
-furness,1,
+furness,1,0
 fusiol,0,1
 futthe,1,
 futuo,,0
@@ -1550,6 +1554,7 @@ gandavarga,0,0
 gandieland,1,
 gandoor,1,1
 garamantia,1,0
+gargolia,,1
 garlanator,1,
 garuka,0,
 garvija,1,0
@@ -1562,6 +1567,7 @@ gayfurries,1,
 geardra,1,0
 gearian,1,0
 geastia,0,1
+geckos,,0
 geezy_for_life,,1
 gelassenheit,1,1
 gemlantis,1,0
@@ -1799,7 +1805,7 @@ havl,0,1
 haxxland,1,0
 haykeren,0,1
 haymarket_riot,1,0
-haz_island,1,
+haz_island,1,0
 hearteland,0,
 heathershire,1,0
 heavens_reach,1,0
@@ -1998,7 +2004,7 @@ inner_ted_imazahvatia,0,0
 innovaris,1,
 insaig,1,0
 intaglio,1,1
-intainia,0,
+intainia,0,1
 integralism,1,
 intelectia,1,
 intercontinental_order,,0
@@ -2333,6 +2339,7 @@ kreshlia,,1
 krestasrijh,1,0
 kreutzland,1,
 kreuzung,1,0
+kriegiersien,,0
 kriegsreich_of_iron,1,0
 krilmor,1,0
 krinenia,1,0
@@ -2813,7 +2820,6 @@ mosfelania,1,0
 moskva_and_stalingrad,1,0
 mostomonia,,1
 moszce-walvard,,0
-moubarakistan,,0
 moukden_and_kirin,1,0
 mount_cashmore,1,0
 mourningrad,,1
@@ -3252,6 +3258,7 @@ ocenyra,1,
 ocha_ria,0,1
 ode_duddis,,1
 odezya,1,1
+odiand,,1
 oesterlund,1,1
 of_barkarosa,,0
 of_courscant,,1
@@ -3344,6 +3351,7 @@ overthinkers,1,0
 ownzone,1,
 oxyformal,0,1
 oyggj_skye,0,1
+ozocrenic,,0
 ozren_gora,1,0
 oztil,1,0
 pabtlau,,0
@@ -3569,7 +3577,7 @@ puraykinia,0,0
 puriaia,,1
 purrium,0,1
 pusid_ughter,,0
-puttt,1,
+puttt,1,0
 pwichimgo,1,1
 pyatingrad,,0
 pygania,1,0
@@ -3605,7 +3613,7 @@ quiveron,1,0
 quortiaa,0,
 qusban,,1
 qwertian,,1
-qwitzikaka,1,
+qwitzikaka,1,1
 qyra,1,1
 r_h_o_m_a_n_i_a,,0
 raccquesi,,0
@@ -3745,7 +3753,7 @@ roberdian,,1
 roberto_garcia,0,1
 robo_topia,1,
 rocilia,0,1
-rockmill,0,
+rockmill,0,1
 roctubiazan,0,
 roemah,0,1
 rogramme,,1
@@ -4072,6 +4080,7 @@ slaine_theocracy,1,1
 slavagora,0,
 slavic_democratic_nations,0,0
 slavonia_and_srijem,0,1
+slazia,,0
 sleepia,1,1
 slembana,1,1
 slices_right,1,
@@ -4400,7 +4409,7 @@ tf1_task_force_1,,0
 thaetefald,0,1
 thalasselu,1,0
 thalatay,0,1
-thallassos,0,
+thallassos,0,1
 thankful_besties,,0
 tharlect,1,1
 the-armageddon,1,1
@@ -4493,7 +4502,7 @@ the_free_workers_union,,1
 the_freebird,1,0
 the_frozen_sea,1,0
 the_galactic_american_imperium,1,
-the_galactic_concordat_of_humanity,0,
+the_galactic_concordat_of_humanity,0,0
 the_galactic_triumvirate,,0
 the_gates_of_delirium,1,0
 the_gelseen_hegemony,,0
@@ -4699,6 +4708,7 @@ the_united_sovereign_state,,0
 the_united_states_of_austin,1,0
 the_united_terran_syndicates,0,
 the_utes,0,1
+the_valeron_kingdom,,1
 the_van_der_linde_gang,1,0
 the_vanguardian_system,1,0
 the_vanic_imperium,1,0
@@ -4729,7 +4739,7 @@ thefun,0,1
 thegoldenempiregermany,0,0
 thehouseofsilly,1,0
 thelandoffunfunfun,1,0
-thenarthican,1,
+thenarthican,1,1
 theologos,1,
 theorev,,1
 ther_upper_cyat,0,
@@ -4891,7 +4901,7 @@ ultimategooner,1,
 ultrazion,0,
 umanka,,1
 umeria,0,1
-umi77,1,
+umi77,1,1
 umns_iznikmid,1,1
 uncreative_name,1,0
 ungroedy,,1
@@ -5070,6 +5080,7 @@ vestyria-greland-liermark,1,
 veszcota,0,1
 vetement,1,0
 vexilia,0,1
+veyoris,,1
 vibe_town,1,
 vichtander,1,0
 vicinaleneo,,1
@@ -5278,6 +5289,7 @@ xzavaria,1,
 yachil,0,
 yaknolia,1,1
 yan_brock,1,
+yangchenia,,1
 yardies,1,0
 yarenja,1,0
 yarktralia,1,
