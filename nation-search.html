@@ -96,7 +96,7 @@ custom_scripts: |
                             <td class="min">${date_part}</td>
                             <td class="min">${chamber}</td>
                             <td><a href="index.html?id=${res.id}">${res.name}</a></td>
-                            <td>${generateAuthorLinksHTML(res.proposed_by)}</td>
+                            <td><a href="#" onclick="document.getElementById('nation_id_search').value='${res.proposed_by}'; searchNationVotes(); return false;">${res.proposed_by}</a></td>
                             <td class="${tdClasses}">${voteDisplay}</td>
                         </tr>`;
             });
