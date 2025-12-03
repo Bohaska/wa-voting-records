@@ -265,7 +265,7 @@ arab_socialist_baath_of_qatif,0,1,
 arabanoo,,,1
 arabinose,1,,
 aracelicosenera,0,0,
-arafin,,1,
+arafin,,1,1
 araktopia,1,,
 aranagra,1,,
 araragistan,1,0,1
@@ -1602,6 +1602,7 @@ fluvia,,1,
 flydale_north,1,0,1
 foderales_konigreich_schlesien,0,,0
 foderatico,,0,1
+foeke,,,0
 fograggle,,0,0
 folaso,,,1
 folcvania,,0,
@@ -1778,7 +1779,7 @@ ghurana_nent,1,1,
 gi-land,,0,
 gi-sra,1,1,1
 giant_redwoods,1,0,1
-giantino,,1,
+giantino,,1,0
 gibbervoln,1,0,0
 gibsoniana,0,,
 gideon,1,0,1
@@ -2441,7 +2442,7 @@ kaszubskie,,1,
 katarina_miltiadou,1,1,
 katiza,0,,
 katyusha_empire,,,0
-kaufmagne,0,,
+kaufmagne,0,,0
 kaulga,,1,1
 kavanos,,1,
 kawastyselir,0,,
@@ -2502,7 +2503,7 @@ kineaux,1,0,1
 king_noah,1,,
 king_of_urbino,1,0,1
 king_rankmore,1,,
-king_zhaoxiang_of_qin,0,0,
+king_zhaoxiang_of_qin,0,0,1
 kingdom_of_algaris,0,,
 kingdom_of_cambria,1,,1
 kingdom_of_east_russia,,0,1
@@ -2670,6 +2671,7 @@ lakayev,,1,
 lakenbird,1,0,
 lakesideia,1,,
 lakirta,,0,
+lakonis,,,1
 lamandica,1,1,1
 lamira,,0,
 lamoni,1,1,
@@ -2761,7 +2763,6 @@ lfe,1,0,1
 lhat,1,,
 lia_federn,0,0,
 libate,,1,1
-liberal_socialist_democracy,,,0
 liberated_peoples_of_the_republic,1,,
 liberated_polinesia,1,1,0
 liberated_working_people,,0,
@@ -3695,6 +3696,7 @@ ordogomenistan,1,,
 oreland,,,1
 orey_listov,0,,
 orgation_ii,1,0,1
+orgina,,,1
 orientia,,0,
 orientiae,1,0,
 orioni_2,0,1,
@@ -3894,7 +3896,7 @@ pluvie,1,1,1
 pnechtburg,,1,
 podria,1,0,1
 pogaria,0,,0
-poiseidonia,1,0,
+poiseidonia,1,0,1
 poisonangel,1,,
 pokemanland,0,1,0
 polabiny,,,1
@@ -4056,6 +4058,7 @@ raskana,1,1,0
 rasutafia,1,0,1
 rat_things,1,0,1
 ratateague,0,1,0
+rathanur,,,0
 ravencliff,,0,1
 rawatna,1,,
 rayakavkaz,1,,
@@ -4145,7 +4148,8 @@ rhazoria,1,1,1
 rheaser,1,1,
 rhenna,1,1,1
 rhinosport,1,1,1
-rhoadesia,1,1,
+rhixwen,,,0
+rhoadesia,1,1,1
 rhoanna,0,,
 rhodevus,1,0,1
 rhomania_eternia,1,0,1
@@ -4545,13 +4549,13 @@ sleepia,1,1,
 slembana,1,1,1
 slices_right,1,,
 slimefolk,1,0,
-slisshms,1,1,
+slisshms,1,1,1
 slivileton,,,1
 sloap,1,,
 slobodovia,1,0,
 slonful,,0,
 slongs,,0,
-slothville,1,0,
+slothville,1,0,1
 slovanov,0,1,
 sloventa,1,,
 sludgelandia,1,0,1
@@ -4694,7 +4698,7 @@ sri_lanka-eelam,1,1,
 srius,1,1,1
 srogne,1,1,
 srpski_novo_zelandjani,0,,0
-ssrab,0,0,
+ssrab,0,0,1
 st_eccles,0,0,
 st_jose,1,0,
 st_leone,,0,1
@@ -4750,6 +4754,7 @@ stonewall720,0,,1
 stonewall_union,,0,1
 storaiil,,1,
 storalia,1,,
+stormtorger,,,1
 stotecia,1,0,1
 stravonskaya,0,1,0
 strawberry_moon,1,0,1
@@ -4930,7 +4935,6 @@ the_anarchist_territorys,1,1,1
 the_ancient_albuquerque,1,,
 the_ancient_world,0,1,1
 the_animalists,,0,1
-the_anti_coruption_league,,,0
 the_apartment_doctor,,,1
 the_apple_lands,,,0
 the_arenian_republic,,,1
@@ -4989,6 +4993,7 @@ the_doomsday_islands,1,1,0
 the_dovahkiin_caliphate,0,1,0
 the_dragon_empire_of_united_states,,,1
 the_drifting_deity,,,1
+the_eastern_coast,,,1
 the_ecalpan_kangun,1,0,1
 the_eccentric_bathhouse,,1,
 the_embassy_3_2,,1,
@@ -5094,7 +5099,6 @@ the_military_of_gold_land_me,1,,
 the_millennia,0,0,
 the_mithril_city,1,,
 the_modern_byzantine_union,1,0,1
-the_money_hungry_rebelion,,,0
 the_monolopem,1,,
 the_multiversal_system,0,0,
 the_nation_of_nathan,1,0,1
@@ -5164,6 +5168,7 @@ the_republics_of_the_federation_of_gulf,,1,
 the_rico_re_ah_republic,,0,
 the_roman_catholic_imperium,0,0,
 the_royal_asmorian_federation,1,1,1
+the_royal_dominion_of_alvari,,,1
 the_royal_republic_of_kumania,0,1,1
 the_ryanist_new_order,,1,
 the_sakartvelo,1,1,1
@@ -5410,6 +5415,7 @@ tugana,1,0,1
 tukwalla,,,1
 tullia,1,,
 tuluni,0,1,0
+tumbran_world_assembly_mission,,,1
 tumpia,1,,
 tund_rhilra,1,1,1
 tundar,1,0,
@@ -5901,7 +5907,7 @@ yasutaka,1,1,1
 yatodoshi,,1,
 yazhoo,1,1,
 ybova,1,0,1
-ydrenia,1,1,
+ydrenia,1,1,1
 ye_olde_patria,1,0,0
 yearn,,,1
 yedhudasia,1,,
@@ -5929,6 +5935,7 @@ young_canada,0,0,1
 your_nation_name_here,,0,
 youtos_vom,0,,
 youtube_inc,1,,
+yrrith,,,1
 yugarritia,0,,
 yugonostalgia,,0,
 yugoscavia,,1,
