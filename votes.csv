@@ -73,7 +73,7 @@ aevana,0,,
 afaenvia,,0,
 afifray,,,1
 afria_thebel,,0,
-africanskiy_soyz,0,0,
+africanskiy_soyz,0,0,1
 afrotem,0,0,
 afterbalhae_of_republic,0,,
 agandazan,,1,
@@ -358,7 +358,7 @@ arzakhstan,1,0,1
 asahimachi,0,0,1
 asakalia,0,1,
 asasland,,1,
-ascending_stars,,1,
+ascending_stars,,1,1
 ascentida,,0,
 aseanam,0,,
 aseanindia,0,1,
@@ -801,7 +801,7 @@ castuna,,1,
 cat_army,1,0,1
 cat_is_cool,1,,
 cat_is_empire,1,0,1
-catacorpo,1,1,
+catacorpo,1,1,0
 catalapse,,,1
 catalyst_of_social_discontent,1,0,1
 catcom,1,0,1
@@ -1022,6 +1022,7 @@ creator_land,1,1,0
 creberg,1,0,1
 creetaurt,1,0,
 cref_frua,1,,
+crelya,,,1
 crestvale_republic,,1,
 cretian_territories,1,,
 cretox_state,1,,1
@@ -1073,7 +1074,7 @@ czecho-slovako-carpathia,,1,0
 czechosaxony,,0,
 czechostan,1,1,1
 da-cunha,1,,
-da_chunghwa,1,,
+da_chunghwa,1,,1
 dacarbatia,1,0,1
 dacaro,0,1,
 daganwaash,,0,
@@ -1244,7 +1245,7 @@ donorino,1,,
 doomslayers,1,,0
 doorstuvia,0,,
 dootinbow,1,0,1
-dormill_and_stiura,1,0,
+dormill_and_stiura,1,0,1
 dorpatia2,1,0,1
 dosiano,,0,
 dossec_hills,,1,0
@@ -1326,7 +1327,7 @@ east-asian_nations,1,0,1
 east_amen_zamend,1,0,
 east_avalon,1,0,1
 east_catlandia,1,1,1
-east_coggins,1,0,
+east_coggins,1,0,1
 east_durthang,,,1
 east_emory,1,0,
 east_farnia,,,1
@@ -1583,6 +1584,7 @@ fasharia,0,,
 fashoda,1,1,
 fat_angel,0,1,0
 fated,1,,1
+faurner,,,1
 fauxia,,,1
 favenland,0,,0
 feausi,1,,
@@ -1979,7 +1981,6 @@ greater_potato,1,,1
 greater_rostoria,1,,
 greater_strife,1,1,
 greater_thambarka,1,1,
-greater_the_niwes_gald,,,1
 greater_theowherveld,1,,
 greater_tyrosh,1,0,1
 greater_unalia,1,0,
@@ -2028,6 +2029,7 @@ h-zhena,1,,1
 habilis,1,,
 habsburg_netherlands,,,1
 haff,,1,
+hagastan,,,0
 hai_dao,,1,0
 haira,,0,
 haldeni,0,0,0
@@ -2645,7 +2647,7 @@ kopazivi,,,1
 kopenick,,0,
 kopeya,,,1
 kopits,1,1,1
-koragrad,1,0,
+koragrad,1,0,1
 koralsk,1,,
 koranvistan,1,,
 koravani,,0,
@@ -2660,7 +2662,7 @@ korisand,,1,
 kornapan,,0,1
 koroniathan,1,,
 korotis,1,1,
-koroto,,0,
+koroto,,0,1
 korumos,1,0,1
 korvenska,1,0,
 kosova,1,1,1
@@ -3234,6 +3236,7 @@ mooseland12,1,0,
 moravia_in_central_america,1,1,1
 moravyn,,,1
 morellian,0,1,0
+morembia,,,1
 morenian_republic,1,,
 morgantown_west_virginia,1,1,0
 morikono,,0,
@@ -3425,6 +3428,7 @@ new_cerastan,0,1,0
 new_charles,1,,1
 new_commland,,1,1
 new_consola,,,1
+new_cordyceps,,,1
 new_crywyzyxycynya,1,0,1
 new_czech_empire,,,1
 new_dreamland,,,1
@@ -3777,7 +3781,7 @@ olympian_rome,1,,
 olyndor,1,0,1
 omaha_utopia,1,0,
 omakise,0,,
-omevecta,,0,
+omevecta,,0,1
 omniaterra,1,,
 omnistria,1,0,1
 omnitech,0,0,1
@@ -4238,6 +4242,7 @@ republica_chingona,1,,1
 republica_de_ironvald,,0,
 republica_federal_de_catalunya,1,1,1
 republica_k0,1,0,1
+republicano,,,1
 republik_hintonia,0,0,0
 republiostan,,0,
 requand,0,1,0
@@ -4271,6 +4276,7 @@ rhoanna,0,,
 rhodevus,1,0,1
 rhomania_eternia,1,0,1
 rhomasia,1,0,
+rhotopia,,,1
 rhudiland,0,,
 rhyssuan_peoples,0,,
 riandera,0,0,1
@@ -5107,7 +5113,7 @@ the_californian_enlightenment,1,,
 the_celtic_unions,,,1
 the_central_islands,1,0,1
 the_cerberus_union,1,1,1
-the_cerulean_nation,1,1,
+the_cerulean_nation,1,1,0
 the_cevanti_free_council,1,1,
 the_chaffinches,,1,1
 the_champions_league,,0,1
@@ -5146,7 +5152,7 @@ the_dragon_empire_of_united_states,,,1
 the_drifting_deity,,,1
 the_eastern_coast,,,1
 the_ecalpan_kangun,1,0,1
-the_eccentric_bathhouse,,1,
+the_eccentric_bathhouse,,1,1
 the_embassy_3_2,,1,
 the_emos,,,0
 the_empire_of_alerba,1,0,1
@@ -5442,7 +5448,7 @@ the_zombay,0,0,1
 theavaion,0,,
 thebyes,1,,1
 theedaria,0,1,1
-thefun,0,1,
+thefun,0,1,0
 thegoldenempiregermany,0,0,1
 thehouseofsilly,1,0,1
 thelandoffunfunfun,1,0,1
@@ -5510,7 +5516,7 @@ toddler_corporation,,0,
 toerana,0,0,1
 tokau,1,0,1
 tokora,1,0,1
-tokuto,1,,
+tokuto,1,,1
 tomboy_nation,,0,
 tomie,1,0,1
 tomington,,,1
@@ -5779,7 +5785,7 @@ valstein,1,1,
 van_diemons_land,0,,0
 vancovaria,0,1,0
 vandermeer,1,0,1
-vandrosyr,,0,
+vandrosyr,,0,1
 vanela,,,0
 vanuzgard,1,0,1
 varangiana,1,1,0
@@ -5918,7 +5924,7 @@ vuvuvia,1,0,1
 vwandalysm,1,1,
 vyussia,,,1
 vyvonne,1,0,
-wabacha,,0,
+wabacha,,0,1
 wabberjocky,1,,1
 wacman,1,0,1
 wadelhelpia,0,0,0
