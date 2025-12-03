@@ -422,7 +422,7 @@ australian_free_states,0,,
 australian_state_of_anarchy,,1,
 austrasul,1,,0
 austria_swiss_germania,,1,0
-austriax,1,0,
+austriax,1,0,1
 ausweichenzo,1,0,1
 autius,,0,1
 autonomous_anarchist_collectives,1,,
@@ -550,7 +550,7 @@ beriad,1,0,
 berica,0,,
 berlin_and_hanover,,0,
 berlitria,,1,
-bernandium,,0,
+bernandium,,0,1
 bernelia,1,,
 bervia,1,,
 bessarasia,0,1,0
@@ -715,6 +715,7 @@ bythlan_salmia,1,0,0
 byzantiium,1,,1
 cachard_calia,,1,
 cadonio,0,1,0
+caesaraugusta,,,0
 caesargrad,,0,
 caetorinn,,,1
 caiolendi,0,,
@@ -1050,7 +1051,7 @@ da_chunghwa,1,,
 dacarbatia,1,0,1
 dacaro,0,1,
 daganwaash,,0,
-dagcistan,,0,
+dagcistan,,0,1
 daggria,0,1,0
 dakak,1,,
 damaskia,1,0,1
@@ -1229,7 +1230,7 @@ draconic_aiur,0,0,1
 draganisia,1,,1
 dragon_isles,,0,1
 dragonian_kazaman,1,0,1
-dragonpore,1,,
+dragonpore,1,,1
 draico,1,1,1
 drakenden,1,,1
 drakias,,0,
@@ -1389,7 +1390,7 @@ elisabethshagen,1,1,0
 elistiria,0,0,1
 elklan,1,0,1
 elkremxia,0,,
-ellenardia,,1,
+ellenardia,,1,0
 ellix,1,,
 elltania,1,0,
 elnir,1,0,
@@ -2064,6 +2065,7 @@ higgstonia,1,0,1
 higher_thermidor,,,0
 highlantis,1,0,
 hihihihihiiiii,1,0,
+hikasun,,,1
 hilagang_bituin,0,,
 hille_islands,,0,
 hilonde,1,1,
@@ -2473,7 +2475,7 @@ kelesi,,1,
 kellros,0,0,
 kelvaros_prime,1,0,1
 kendell,,0,
-kennington,0,,
+kennington,0,,0
 kent_valley,0,0,
 kentes,,1,1
 kenworth_heights,0,,0
@@ -2526,7 +2528,7 @@ kingdom_of_rija,,0,
 kingdom_of_romar,1,,
 kingdom_of_shay,,1,
 kingdom_of_the_focke-wulf_islands,1,0,
-kings_of_kings,1,1,
+kings_of_kings,1,1,1
 kingsbrew,1,,
 kinsantinsuyu,1,1,
 kionga,1,,1
@@ -2877,7 +2879,7 @@ luminous_incorporated,1,,1
 lumiose_land,1,,
 lumista,1,,
 lunaa,1,0,1
-lunae_et_stellae,1,0,
+lunae_et_stellae,1,0,1
 lunaeri,1,,0
 lunistilan,0,1,0
 lunvaria,0,1,0
@@ -3125,6 +3127,7 @@ mjau,1,0,1
 mjnallen5555,1,,1
 mlgdoggoland,,,1
 mockia,1,0,1
+modelia,,,0
 modernity_survivors,0,1,
 modon,1,1,
 moduland,1,1,1
@@ -3344,6 +3347,7 @@ new_charles,1,,1
 new_commland,,1,
 new_consola,,,1
 new_crywyzyxycynya,1,0,1
+new_czech_empire,,,0
 new_dreamland,,,1
 new_eastern_canada,1,0,1
 new_eastern_roma,1,,
@@ -3524,7 +3528,7 @@ northeast_urg,,0,
 northeastern_appalachia,1,,
 northern_caliburugeve,1,1,
 northern_canadian_people,1,0,1
-northern_cheek,,0,1
+northern_cheek,,0,0
 northern_dosletofe,,1,
 northern_excelria,,0,
 northern_german_federation,1,0,1
@@ -3834,6 +3838,7 @@ pel,0,0,0
 pelagon,1,0,1
 pellston,1,0,
 pen_blanityion,1,0,1
+pence,,,1
 pencil_sharpeners_2,1,,
 penguin_imperium,1,0,1
 penguins_states_of_antartica,1,1,0
@@ -4091,6 +4096,7 @@ rebulica_das_bananas,1,0,
 recaxa_alt,,0,
 rechol,0,0,1
 rectonia,,1,
+red_desert_horde,,,0
 red_mones,,1,
 red_prosperity,1,,
 redakadia,0,,1
@@ -4125,6 +4131,7 @@ renegade_duchies,0,,
 renemaran,,0,
 renkentagn,1,0,0
 republic_of_botiya,1,0,1
+republic_of_dixie,,,1
 republic_of_global_trade,1,0,
 republic_of_green_mexico,0,1,0
 republic_of_ireland1,1,,
@@ -4142,6 +4149,7 @@ republica_k0,1,0,1
 republik_hintonia,0,0,0
 republiostan,,0,
 requand,0,1,0
+res_novia,,,1
 resaza,1,1,
 reshadiya,0,,
 resististan,,1,
@@ -4364,6 +4372,7 @@ saraigni,1,,
 sararia,0,0,
 sardinavia,1,0,1
 sarorodvinsk,0,,
+sarqestan,,,1
 sarraguce,,,1
 saschen-rhineland,0,1,0
 sashilee,1,,1
@@ -4409,6 +4418,7 @@ scrumpleville,0,1,0
 scuglandia,0,1,
 scvortzovia,,1,1
 sea_dogs_rest,,0,
+seah_land,,,1
 sealand_but_better,0,,
 seattle_bay,1,1,0
 seclusionalists,1,0,1
@@ -4596,7 +4606,7 @@ socialist_america_sa,,1,
 socialist_balkan_states,0,1,0
 socialist_civil_war_2_survivors,1,1,
 socialist_hercegovina,1,0,0
-socialist_refuge,,1,
+socialist_refuge,,1,0
 socialist_republic_of_australia,1,1,1
 socialist_republic_of_monkey,1,1,1
 socialist_republic_of_russians,,0,0
@@ -5450,7 +5460,7 @@ turkhaalberg,,0,
 turnips,1,,
 turpotia,0,0,1
 turrimos,1,0,0
-tushto,0,0,
+tushto,0,0,1
 tutels,1,0,
 tutsshmarain,0,0,
 tvaroos,1,0,
@@ -5492,6 +5502,7 @@ umeria,0,1,0
 umi77,1,1,1
 umns_iznikmid,1,1,0
 uncreative_name,1,0,1
+undiebralich,,,1
 ungroedy,,1,
 uni_nova_terra,1,1,
 unia_mexy,0,1,0
@@ -6014,7 +6025,7 @@ zenjen,0,,1
 zenmanto,1,,
 zennit,,0,
 zenobiana,1,0,1
-zentrova,1,0,
+zentrova,1,0,1
 zephyrion,1,,
 zeppekash,1,0,
 zesole,1,0,1
