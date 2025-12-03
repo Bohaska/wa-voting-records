@@ -35,7 +35,7 @@ absent_human_rights,0,,
 abtracnt,,,1
 acara_shura,1,0,
 ace47,,0,
-acejr,1,0,
+acejr,1,0,1
 achias,1,0,1
 acrotraria,1,0,0
 adamnia_republic,1,,
@@ -849,6 +849,7 @@ chemung,0,1,0
 chenshan,0,0,
 cherkovija,1,0,1
 chernistiv,1,0,1
+cheyenne_freight_company,,,1
 chickenbirdland,,,0
 chilledsville,0,1,0
 chillicothe,0,0,0
@@ -874,7 +875,7 @@ christopio,1,,
 chughtaiya,1,0,1
 chukstik_illahi,1,0,
 chuuist_republic_of_new_jersey,1,0,
-chysz,1,,
+chysz,1,,1
 ciclope,1,0,1
 cimpl,,0,
 cind,1,,1
@@ -1253,6 +1254,7 @@ drentor,1,1,1
 drodor,,0,1
 druandia,,,1
 drucilla,,1,
+drussia,,,0
 druvenia,1,1,0
 druznia,0,1,1
 dryf_nation,1,,1
@@ -1412,6 +1414,7 @@ empire_of_impiria,1,0,
 empire_of_kyrania,1,0,
 emrenya,0,1,
 enclave_world_government,1,,
+endertopias,,,1
 endless_summer_2,1,0,1
 enfindania,,,1
 engalin,0,1,0
@@ -1818,7 +1821,7 @@ glom,1,,
 gloninian,0,,
 glorious_existence,1,0,1
 glorious_land_vegemite,1,0,1
-glorista,,0,
+glorista,,0,1
 glorpandia,,,0
 gmt2001,0,0,0
 goame,1,,
@@ -2050,7 +2053,7 @@ herconia,0,,
 hereditas,1,,
 herfenzir,1,0,1
 hergasst,1,0,1
-heristal_raposhystru,1,1,0
+heristal_raposhystru,1,1,1
 heritagela,1,0,1
 herna_fage,0,,
 heroica,1,0,0
@@ -2222,6 +2225,7 @@ independent_state_of_novgorod,,1,1
 indesputatio,1,0,1
 indiajwwjwj,1,0,
 indiguria,1,,
+indirapolis,,,1
 indo_states,1,1,1
 industric,0,1,
 inera,,1,
@@ -2479,7 +2483,7 @@ kellros,0,0,
 kelvaros_prime,1,0,1
 kendell,,0,
 kennington,0,,0
-kent_valley,0,0,
+kent_valley,0,0,1
 kentes,,1,1
 kenworth_heights,0,,0
 keobia,,0,1
@@ -3092,6 +3096,7 @@ mhmea,1,0,1
 mi-din,1,,
 michaliav,1,,
 midadille_chagin,0,,
+middle_ibarthelastorosa,,,0
 midnight_horrors,0,,
 migako,1,0,
 migrans,1,,
@@ -3190,7 +3195,7 @@ movovia,0,1,0
 moyerland,1,,1
 mr_allison_nation,,,1
 mrlawn,,,1
-mseskir,1,0,
+mseskir,1,0,1
 muad-dib,,0,1
 mucc,1,,
 mueslibar,1,,
@@ -3562,7 +3567,7 @@ notcommunist2,1,0,
 noterdei,1,0,1
 nothern_fores,1,0,1
 noton_mast,1,0,1
-notormea,0,1,
+notormea,0,1,1
 notre_dame_du_lac,1,0,
 notsunnerland,,1,
 nouveau_strasbourg,1,,
@@ -3815,7 +3820,7 @@ patagonion,1,1,
 patapole,0,1,0
 pathonia,,0,0
 patria_augusta,1,,
-patricia_and_the_marcus_islands,,1,
+patricia_and_the_marcus_islands,,1,1
 patrickclarke,1,0,1
 patterthippe,0,1,
 pauruizumopia,,,1
@@ -4198,6 +4203,7 @@ riotania,1,,1
 rising_of_the_forgotten,0,,
 rising_sun_empire,1,0,1
 rive_ouest_de_la_mer_rouge,,0,
+river_hill_lands,,,0
 riverbuck,,,1
 rivergarden,1,,
 rivertrot,0,,
@@ -4371,7 +4377,7 @@ sanvi_theed,,,0
 sao-paulo,0,1,0
 saperetia,1,,
 saphman,1,0,1
-sapnupuas,0,1,
+sapnupuas,0,1,1
 sapphica_sororitas,1,,1
 saradina,,,0
 saraigni,1,,
@@ -4808,7 +4814,7 @@ suecia_nova,1,0,1
 suelo_rico,1,,
 suid_holland,1,0,
 sulivannia,1,1,1
-sullaan,0,1,
+sullaan,0,1,0
 sulphur_belt_cities,0,1,
 sumatra_island,1,0,
 sumentala,1,0,1
@@ -4966,7 +4972,7 @@ the_above_grounds,,0,0
 the_affini_compact,,1,
 the_akasha_colony,1,,
 the_all_enduring_peoples,,1,
-the_almightyy,0,0,
+the_almightyy,0,0,0
 the_alter_world,0,,
 the_altrian_empire,,0,
 the_anaerobic_republic,0,,
@@ -5027,7 +5033,7 @@ the_democratic_peoples_republic_of_memes,1,,
 the_democratic_republic_of_custer,,1,
 the_devskian_revolutionary_republic,1,0,1
 the_divin_fist,1,0,1
-the_dolein,0,1,
+the_dolein,0,1,0
 the_dome,0,0,0
 the_doomsday_islands,1,1,0
 the_dovahkiin_caliphate,0,1,0
@@ -5231,7 +5237,7 @@ the_socialist_federation_nord_machadonia,1,1,1
 the_socialist_society,0,,
 the_sol_desert,,1,
 the_solace_corperation,1,0,1
-the_solarius_imperium,,0,
+the_solarius_imperium,,0,1
 the_solid_members,1,1,1
 the_somme,1,,
 the_south_korea_peninsula,1,,
@@ -5379,7 +5385,7 @@ tircoru,,,0
 titanaria,0,0,1
 tithio,,0,1
 tkeignaoen,,0,
-tnp-ed,1,1,
+tnp-ed,1,1,1
 to-yu,0,,
 toadchester,1,1,
 toastarian,0,1,
@@ -5478,6 +5484,7 @@ twisted_duality,1,0,1
 tygualles,,1,
 typica,0,1,0
 tyrannicalands,1,0,1
+tyrassueb,,,0
 tyroclausia,1,0,
 tyrsbord,1,1,1
 tystan,1,0,1
@@ -5908,7 +5915,7 @@ wutar_katari,0,1,0
 wydad,1,0,
 wyndland,1,,
 wyoma,,0,
-wyrdas,1,,
+wyrdas,1,,1
 wystronya,,1,
 x_country,1,0,1
 xaeloa,,0,1
@@ -6013,7 +6020,7 @@ zanforadon,0,1,0
 zangreba,0,,0
 zanitopia,1,1,
 zanphil,1,0,1
-zantiom,1,1,
+zantiom,1,1,1
 zany_zanes,1,0,
 zaphora,1,,1
 zarbirea,1,0,1
