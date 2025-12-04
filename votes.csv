@@ -65,7 +65,7 @@ aequiteria,1,,
 aerdholm,1,,1
 aestorn,0,,
 aethelonn,,,1
-aethenstaff,1,,
+aethenstaff,1,,1
 aether,,,1
 aetherlina,,0,
 aethernum,,0,1
@@ -1177,6 +1177,7 @@ dems_burgund,1,1,0
 den_isle,0,,0
 denadamelada,0,1,
 deneen,,1,
+dengist_china,,,1
 denmark_and_norwegian_jarldom,,1,0
 densaner,1,0,1
 deorangg,1,0,1
@@ -1359,7 +1360,7 @@ east_methanland,0,1,0
 east_owenistan,1,1,1
 east_planes,,0,
 east_sternwich,0,1,1
-east_thule,1,1,
+east_thule,1,1,1
 east_tosand,,1,
 east_vesperia,1,1,1
 east_vesta,,1,
@@ -2731,7 +2732,7 @@ krilmor,1,0,
 krinenia,1,0,1
 krisztaliszia,1,1,
 krolum,1,,1
-kronessa,1,1,
+kronessa,1,1,0
 kronzrhein,0,1,0
 krota1,,,1
 krovnara,1,0,1
@@ -2968,7 +2969,7 @@ louvrandia,1,,1
 lovarpia,,,1
 lovateria,0,1,0
 love_and_nature,0,,
-loveable_dogs,0,,
+loveable_dogs,0,,1
 lovilonnum,,0,
 lower_unfentaria,0,,1
 lsk,1,,
@@ -3024,6 +3025,7 @@ macau-hongkong,0,,
 macedon_peoples,,1,
 macieso,,0,
 macworld,0,,
+madhonia,,,1
 madja_as,1,1,
 madjack,0,1,1
 maeiland,0,,
@@ -3577,7 +3579,7 @@ nhaya,,1,
 nhoor,1,0,1
 niaram,1,1,
 nic_ratand,0,,
-nicitius,1,,
+nicitius,1,,1
 nick_carraway,,,1
 niel,1,0,1
 nightralia,,0,1
@@ -3614,7 +3616,7 @@ norcoast,1,0,1
 nordcat,1,,
 nordegard,1,,1
 nordencamo,1,1,
-nordgardia,,0,
+nordgardia,,0,1
 nordharz,1,,
 nordic_aurora,,1,
 nordiheim,1,1,1
@@ -3806,6 +3808,7 @@ ogabooga_land,,,1
 ogaku,1,0,
 oganing,1,1,1
 oghuz-yabgu_republic,0,,
+ogomia,,,1
 ohga_bohga_unga,,,1
 ohioianss,1,,
 oigni,,,1
@@ -4243,7 +4246,7 @@ rechol,0,0,1
 rectonia,,1,1
 red_desert_horde,,,0
 red_mones,,1,
-red_prosperity,1,,
+red_prosperity,1,,1
 redakadia,0,,1
 redbaronia,1,0,1
 redwingvksm,1,0,1
@@ -4497,6 +4500,7 @@ san_giuda,1,0,1
 san_lumen,1,0,
 san_pellegrino_romana,1,0,1
 san_satanos,0,0,1
+san_talian,,,1
 san_toreno,1,0,1
 san_venganza,,,1
 sanana,0,1,0
@@ -4942,7 +4946,7 @@ stella_dragon,1,,
 stellar_colonies,1,,1
 stendania,0,1,1
 stephine21,,0,
-sternburg,,0,
+sternburg,,0,0
 steve_world,,,1
 stevie_country,,0,
 stevist_guam,,0,1
@@ -5733,7 +5737,7 @@ unisiara,0,1,
 unitan_republic,1,,1
 unite_commune,1,,
 united_adaikes,1,0,1
-united_allied_systems_nations,0,,
+united_allied_systems_nations,0,,1
 united_antarctic_territories,1,,
 united_autonomus_states,1,,
 united_beherbia,0,0,1
@@ -5800,6 +5804,7 @@ uprus,,,1
 uragia,1,1,1
 urandanji,1,,
 urcea,1,0,1
+urduvan_sultanate,,,1
 uren,,0,1
 urirela,1,1,
 urlaska,,1,0
