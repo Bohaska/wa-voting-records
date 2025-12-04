@@ -382,7 +382,7 @@ asthara,,0,
 astillero,1,0,1
 astle_gua,1,1,1
 astol,,1,1
-astora_isle,1,0,
+astora_isle,1,0,1
 astra_prime,1,0,1
 astradia,1,0,1
 astrea_celestia,1,,
@@ -417,7 +417,7 @@ audesia,0,1,
 aufalconland,1,,1
 aukeland,1,1,0
 aum_shinrikyo,,0,
-aumest,1,0,
+aumest,1,0,1
 aunt_barbra,,,1
 aura_banitia,1,,
 auraesia,0,1,0
@@ -555,7 +555,7 @@ belladonnia,0,1,
 belladonnim,0,,
 belmoren,,1,
 belruse,1,1,
-beltitia,,0,
+beltitia,,0,0
 belvarium,1,,
 bendertopia,1,,
 bengaluruhome,,,1
@@ -782,6 +782,7 @@ capitalist_state_of_pangea,,,1
 capitista,,0,
 capridam,1,0,1
 capybarlend,0,0,0
+caracolia,,,1
 carahue,1,,
 carambi_da_schatstel,1,1,
 carasca,1,0,1
@@ -933,7 +934,7 @@ clingy,,1,1
 cliyf_drines,0,0,0
 clutchpearlia,0,,
 clytrat,0,,
-cobra_sahara,,0,
+cobra_sahara,,0,1
 cobrito,,0,
 cocktail_waitresses,0,,
 codiak,,1,1
@@ -1004,7 +1005,7 @@ cornelia,1,0,
 corporate-dystopia,,,1
 corporate-paradise,1,,
 corsuva,1,,
-cortes_de_pallas,0,,
+cortes_de_pallas,0,,0
 cortlandt_manor,1,0,
 corust,,0,
 corynth,,0,
@@ -1471,6 +1472,7 @@ england_1,1,1,1
 england_scotland_wales_and_north_ireland,1,0,
 england_york,1,0,1
 englandic_state,1,,
+englrike,,,1
 engojaria,1,1,
 enlil,1,1,0
 enou,1,,
@@ -1858,7 +1860,7 @@ gi-sra,1,1,1
 giant_redwoods,1,0,1
 giantino,,1,0
 gibbervoln,1,0,0
-gibsoniana,0,,
+gibsoniana,0,,0
 gideon,1,0,1
 gig_em_aggies,0,0,1
 gine_caruttiva,,1,
@@ -2352,6 +2354,7 @@ isachile_tum,,0,1
 isda,1,1,1
 isenoka,0,,0
 ishbalan_union,1,0,1
+iskard,,,0
 isla_luminara,0,,
 isla_matador,,,1
 islanalcatatuffles,1,,
@@ -3458,6 +3461,7 @@ new_consola,,,1
 new_cordyceps,,,1
 new_crywyzyxycynya,1,0,1
 new_czech_empire,,,1
+new_darian_islands,,,0
 new_dreamland,,,1
 new_eastern_canada,1,0,1
 new_eastern_roma,1,,
@@ -3508,12 +3512,12 @@ new_rainbow_falls,1,0,1
 new_resilience,,1,
 new_roos,0,,
 new_rustonia,1,1,1
-new_ryansville,1,0,
+new_ryansville,1,0,1
 new_saint_peters,,1,
 new_salty,0,0,
 new_samba,1,,
 new_samon,0,,1
-new_san_fir,,0,
+new_san_fir,,0,1
 new_sandiago,,,1
 new_scotstan,1,0,0
 new_scottika,1,0,0
@@ -3906,6 +3910,7 @@ panchimosa,,,0
 pand_alp,1,0,1
 pandaland_ii,,0,1
 panic_and_stress,,,0
+panormia,,,1
 pansnews,0,0,1
 panthalasa_empirivm,1,,
 pantheropia,1,,
@@ -4727,7 +4732,7 @@ slothville,1,0,1
 slovanov,0,1,
 sloventa,1,,
 sludgelandia,1,0,1
-smadreades,1,,
+smadreades,1,,1
 smantan,1,1,1
 smert_terram,,1,
 smiley_bob,0,1,
@@ -5127,6 +5132,7 @@ the_ancient_world,0,1,1
 the_animalists,,0,1
 the_apartment_doctor,,,1
 the_apple_lands,,,0
+the_archiepelago,,,1
 the_arenian_republic,,,1
 the_armed_union,,0,1
 the_arroyan_federation,1,0,1
@@ -5599,7 +5605,7 @@ trong-hai,0,,
 troposia,,,1
 trudaq_thunds,1,1,1
 true_sikhs,1,0,1
-trumpiff,0,1,
+trumpiff,0,1,0
 trumpomania,1,0,
 trupska,,1,
 truskawkoland,0,,
@@ -5734,6 +5740,7 @@ united_paths,,1,
 united_pomerania,,0,
 united_provinces_of_monrovia,1,,
 united_purgatory,1,0,1
+united_republic_of_manland,,,1
 united_republic_of_the_south_east,1,0,1
 united_republic_of_tiptonia,,,0
 united_socialist_islands_of_aerospatiala,1,0,
@@ -5858,6 +5865,7 @@ vellocs,1,,
 velmorria,1,,
 veln,1,0,1
 veltrinian,,,1
+velvenia,,,0
 vendonesam,1,,
 vendonesiam,0,1,0
 venezaue,,0,0
@@ -5940,7 +5948,7 @@ volkodor,0,,1
 volksrepubliek_belgie,0,1,0
 volletnia,1,1,
 volnovareach,,,1
-voluja,1,,
+voluja,1,,1
 vonstania,,0,
 voopmont,1,,1
 vorelis,,,1
@@ -6198,7 +6206,7 @@ zamboa,0,1,
 zandos,1,0,1
 zanforadon,0,1,0
 zangreba,0,,0
-zanitopia,1,1,
+zanitopia,1,1,0
 zanphil,1,0,1
 zantiom,1,1,1
 zany_zanes,1,0,
