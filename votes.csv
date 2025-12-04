@@ -1,7 +1,7 @@
 nation_id,varanius_1758501414,tinhampton_1758643240,cretox_state_1758860435
 -absurdistan-,1,,
 -eunomia,0,1,0
--shizouka-,0,1,
+-shizouka-,0,1,0
 -sordland,1,0,1
 -tim-opolis,,,1
 -urzikstan,1,,
@@ -676,7 +676,7 @@ bossost,1,0,1
 boston_mass,1,,
 bostoniax,0,0,
 bostro,0,,0
-boszap,1,0,
+boszap,1,0,1
 bouloun,1,,
 bourgeoiss,1,,
 bovia_fangum,0,1,1
@@ -803,7 +803,7 @@ castelia,1,0,1
 castino,,,1
 castlacha,1,0,
 castle_in_confidence,1,,1
-castrolaysia,1,1,
+castrolaysia,1,1,1
 castroreale,0,,
 castuna,,1,
 cat_army,1,0,1
@@ -913,7 +913,7 @@ ciostar,1,0,1
 cipher_union,,,1
 cirilo,1,0,
 citadel_of_iris,,,1
-cityballs,1,,
+cityballs,1,,1
 citycity,0,0,0
 ciurlionis,1,,
 civilinia_and_herbisine,1,1,1
@@ -1122,6 +1122,7 @@ darwinswaffen,,,0
 das_land_christi_deutschland,,,1
 daugapilis,0,0,0
 daulmark,1,0,1
+david_davidson,,,1
 dawn_fleet,,0,
 dbastion,,1,0
 de_sao_paulo,1,0,
@@ -1578,7 +1579,7 @@ fansheia,1,,
 far_andainarics,,,1
 far_distant_land,1,0,1
 far_edemyer_aion,1,,
-far_gand_par,0,0,
+far_gand_par,0,0,1
 far_isles,1,,
 far_swabia,,,1
 faralried,1,0,1
@@ -3738,7 +3739,7 @@ nuseanesia,0,1,0
 nuting,1,,1
 nutrial,1,,
 nutrixus,0,1,0
-nuttywood,,0,
+nuttywood,,0,1
 nuvona,1,1,
 nuweland,,1,
 nxrbland,,,0
@@ -4499,6 +4500,7 @@ saradina,,,0
 saraigni,1,,
 sararia,0,0,
 sardinavia,1,0,1
+sarmanov,,,1
 sarorodvinsk,0,,
 sarqestan,,,1
 sarraguce,,,1
@@ -4840,6 +4842,7 @@ sovni-aguirre,,1,1
 sowalia,1,0,1
 sowerval,1,0,1
 sozland,0,0,
+space_king,,,1
 spaceballers,1,,
 spacedevo,1,,
 spaceimperix,1,,
@@ -4977,7 +4980,7 @@ suzi_island,0,0,0
 svarteyjar,0,,
 svartkladd,0,,
 svedria,1,1,
-svenhavn,1,0,
+svenhavn,1,0,1
 sveniland,1,1,1
 svetogradia,1,1,0
 svetzia,1,,
@@ -5070,6 +5073,7 @@ tepertopia,1,1,1
 ter_voland,1,,
 tergeste,0,0,
 terkati,1,,
+terp_hands,,,1
 terra_tribensis,,0,
 terran_england,0,1,0
 terrane,1,1,1
@@ -5321,7 +5325,7 @@ the_outer_union,,0,
 the_pacific_enclave,1,0,1
 the_pacific_northwest,0,1,
 the_palace_of_god_2,0,1,0
-the_palentine,,0,
+the_palentine,,0,1
 the_party_communist_republics,0,0,1
 the_peoples_king_of_the_wildflowers,1,0,1
 the_peoples_place_of_living,1,0,1
