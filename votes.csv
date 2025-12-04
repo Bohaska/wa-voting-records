@@ -181,6 +181,7 @@ american-cascadia,1,,1
 american_generations,1,0,1
 american_labor_republics,1,1,1
 american_nation_tpusa,,1,1
+american_protestant_states,,,1
 american_rojava,1,1,1
 americanican,1,0,
 americatain,1,,
@@ -789,6 +790,7 @@ carahue,1,,
 carambi_da_schatstel,1,1,
 carasca,1,0,1
 cardiana,,,0
+carestanie,,,1
 carignanum,,,1
 carlsbad_improvement_district,1,,
 carlvonhapsburglund,1,,
@@ -900,7 +902,7 @@ chiropteran,1,,
 choi_hanji,1,,1
 choochootrain,1,,
 chopinopa,0,,
-choppyhausen,,0,
+choppyhausen,,0,1
 chorkontaria,,,0
 christian_killeshandra,1,0,1
 christianopoulos,1,0,1
@@ -943,6 +945,7 @@ codiak,,1,1
 codyn,,1,
 coercri,1,0,1
 coffeelovers,0,,
+cogdelve,,,1
 cognosco,1,,1
 cogyakeedion,1,,
 coiou,0,,1
@@ -1674,7 +1677,7 @@ floralbranca,1,0,1
 florgelia,,0,
 floria-byrnia,,1,
 florindale,1,0,1
-flower_isle,1,,
+flower_isle,1,,1
 floweville,1,0,
 flumilados,,1,
 fluminesedes,1,0,1
@@ -1777,7 +1780,7 @@ fruit_kingdom,1,0,
 frutiger-aero,0,,
 frutigeropolis,,,1
 fuchsheim,1,1,1
-fuggersburg,0,,
+fuggersburg,0,,0
 fujianyorinki,0,,
 fund_of_the_king,1,0,
 funnle_kake,1,,
@@ -2036,6 +2039,7 @@ grenzinia,1,,1
 gresillia,1,,1
 grest_jjangllia,0,1,0
 grete_maria,1,,
+greynne,,,1
 greythorne,1,0,1
 greywater_coast,,1,
 grinkiscoll,1,,
@@ -2070,6 +2074,7 @@ habsburg_netherlands,,,1
 haff,,1,
 hagastan,,,0
 hai_dao,,1,0
+haima_empire,,,1
 haira,,0,
 haldeni,0,0,0
 halexia,0,,0
@@ -2084,7 +2089,7 @@ hamburg_neo,1,1,1
 hamdawggin,0,0,1
 hammondville,,,1
 han_guk,0,1,0
-hanalia,0,1,
+hanalia,0,1,0
 hanavoria,,0,
 hanguk-nippon,0,,1
 hanli,1,1,
@@ -2162,7 +2167,7 @@ hi_nothing_to_see_here,1,1,1
 hibernia_kaas,1,0,1
 higgstonia,1,0,1
 higher_thermidor,,,0
-highlantis,1,0,
+highlantis,1,0,1
 hihihihihiiiii,1,0,1
 hikasun,,,1
 hilagang_bituin,0,,
@@ -2481,7 +2486,7 @@ jodia_pr,1,,
 joe_bart,,,1
 joedina,1,,
 joevala,,0,1
-john_countrys_country,,0,
+john_countrys_country,,0,1
 john_lee,1,,1
 johnjian,,,1
 johnstowne_island,,1,
@@ -2664,13 +2669,13 @@ kizhiratsk,,,1
 kjelllandia,1,,
 kkorea,1,,
 klanda,,1,
-klopptopolis,0,,
+klopptopolis,0,,0
 kluchassia,1,1,1
 knightfallia,1,1,1
 knights_of_lusitania,1,0,1
 knootoss,0,,1
 kobalera,0,0,1
-koda-land,1,0,
+koda-land,1,0,1
 koendesh,1,1,
 kogi,,0,
 kohanna_bay,,1,1
@@ -3715,7 +3720,7 @@ nouvel_acadie,1,0,
 nova-arcadia,0,1,0
 nova-rolanda,1,0,1
 nova_absittera,1,0,1
-nova_angelus,0,0,
+nova_angelus,0,0,0
 nova_angleterre,,1,
 nova_aohr,,0,
 nova_auroras,1,,1
@@ -3849,6 +3854,7 @@ omniaterra,1,,
 omnistria,1,0,1
 omnitech,0,0,1
 omynix,,0,
+onalandsee,,,1
 onder_kelkia,,0,1
 ondromedea,1,0,
 onebrotherhood,1,,
@@ -3862,6 +3868,7 @@ opollistoploo,,,1
 oppsydoya,0,,
 orangefield,,,0
 orasil,1,1,1
+orcassia,,,1
 ordent_ratland,1,0,1
 ording_drublene,1,,
 ordogomenistan,1,,
@@ -3917,13 +3924,14 @@ oxyformal,0,1,0
 oyggj_skye,0,1,0
 ozocrenic,,0,
 ozren_gora,1,0,1
-oztil,1,0,
+oztil,1,0,1
 ozzentiez,,,0
 pabtlau,,0,1
 pachecos,0,,
 pacificean,,1,
 padan,,1,
 paganii,1,,
+pahinna,,,1
 pakitsk,1,0,1
 pakozia,1,,
 palastrade,,0,
@@ -4137,6 +4145,7 @@ pries_united,,0,
 primexia,1,1,1
 principado_blake,1,1,
 prodives,1,0,
+professor_thomas,,,1
 proletarian_technate_of_heimdall,1,1,0
 proletariatit,0,1,0
 prosopon,1,,1
@@ -4206,6 +4215,7 @@ queen_jane_grey,1,0,1
 queephe_debal,1,0,0
 quegantordia,1,0,1
 quesbia,0,0,0
+quetornia,,,1
 quezo,0,0,1
 quia_ther,1,0,1
 quirkaland,,0,1
@@ -5137,7 +5147,7 @@ teto_federation,1,,
 tetoslavya,1,0,1
 tevokoso,1,,
 texaca,,0,
-texais,,1,
+texais,,1,0
 texaska,,0,
 texel_and_vlieland,1,0,1
 texhoas,1,,1
@@ -5604,6 +5614,7 @@ toerana,0,0,1
 tokau,1,0,1
 tokora,1,0,1
 tokuto,1,,1
+tomatosoupania,,,1
 tomboy_nation,,0,
 tomie,1,0,1
 tomington,,,1
@@ -5763,6 +5774,7 @@ united_cattania,1,1,0
 united_cities_of_australia,1,,
 united_commonwealth_of_mora,1,,
 united_communes_of_chile,1,,
+united_desri,,,1
 united_ducc_empire,0,0,1
 united_eurosiberia,,0,
 united_holiness_lands,1,1,1
@@ -6278,6 +6290,7 @@ zenjen,0,,1
 zenmanto,1,,1
 zennit,,0,
 zenobiana,1,0,1
+zenthara,,,0
 zentrova,1,0,1
 zephyrion,1,,
 zeppekash,1,0,
