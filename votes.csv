@@ -1073,7 +1073,7 @@ creationis,1,1,0,0
 creator_land,1,1,0,1
 creberg,1,0,1,0
 creetaurt,1,0,,
-cref_frua,1,,,
+cref_frua,1,,1,0
 crelya,,,1,0
 crestvale_republic,,1,0,1
 cretian_territories,1,,1,1
@@ -1132,6 +1132,7 @@ dacaro,0,1,0,
 daganwaash,,0,1,
 dagcistan,,0,1,
 daggria,0,1,0,
+dagnysdotter,,,0,0
 dakak,1,,,
 damaskia,1,0,1,0
 damieria,,0,,
@@ -1273,7 +1274,7 @@ diollo,0,0,1,
 dioswania,,0,,
 dir_union,0,,,
 dirmia,1,0,1,0
-disburgensia,1,1,1,
+disburgensia,1,1,1,0
 discgolfland,1,0,,
 discripta,0,,,
 disneylandia,1,1,1,0
@@ -1622,7 +1623,7 @@ ezaekia,,1,0,
 faarn-redhollow,,0,,
 fachumonn,0,1,1,
 factoristan,1,0,1,
-fadnesia,0,1,0,
+fadnesia,0,1,0,0
 faeciba,1,1,1,0
 fahazi,,,1,
 fairigone,1,0,0,0
@@ -1832,7 +1833,7 @@ frozen_crown,,,1,0
 fruit_kingdom,1,0,,
 frutiger-aero,0,,,
 ftia,,,1,1
-fuchsheim,1,1,1,
+fuchsheim,1,1,1,0
 fuggersburg,0,,0,
 fujianyorinki,0,,,
 fund_of_the_king,1,0,,
@@ -2218,7 +2219,7 @@ heroica,1,0,0,0
 heromerland,1,,,
 hertfordshire_and_jammbo,1,0,1,0
 herya,0,0,0,0
-hesker,1,1,0,
+hesker,1,1,0,1
 hespelo,1,0,1,0
 hesskin_empire,0,0,1,
 hesterveria,,0,1,
@@ -2365,7 +2366,7 @@ imperial_landis,1,0,,
 imperial_production,1,,1,
 imperial_regnum,0,1,0,0
 imperial_saber,,1,,
-imperialrussia,1,0,1,
+imperialrussia,1,0,1,0
 imperialstonelandia,,0,,
 imperio_de_castilho,0,1,,
 imperio_estrendor,1,,1,
@@ -2436,7 +2437,7 @@ ironclad_enterprises,,,1,1
 ironica_butterfly,1,,,
 ironnix,,,1,
 irula,0,,,
-is_there_nothing,0,,1,
+is_there_nothing,0,,1,0
 isachile_tum,,0,1,
 isda,1,1,1,0
 isenoka,0,,0,
@@ -2621,11 +2622,12 @@ karison,1,0,,
 karlera,,1,,
 karlos,,,0,
 karma_pirate,1,1,0,0
+karmalija,,,1,0
 karmosora,1,0,,
 karnica,1,,,
 karnith,1,1,,
 karnovgrad,1,0,1,0
-karsdas,1,0,1,
+karsdas,1,0,1,0
 karsinnia,,,0,0
 karsovkya,1,0,1,0
 kartauistan,,0,,
@@ -2772,7 +2774,6 @@ koragrad,1,0,1,0
 koralsk,1,,,
 koranvistan,1,,,
 koravani,,0,,
-korayahano,,,1,0
 korbalis,1,0,1,
 korbaros-tarkaris,1,0,0,0
 korbu_tribes,1,0,1,
@@ -2870,7 +2871,7 @@ la_xinga,1,0,1,0
 labubue,,0,1,0
 lac_yue,0,,,
 ladinacem_andia,1,,,
-lael_piotr,0,0,1,
+lael_piotr,0,0,1,0
 laitneiro_alicirga,,,1,
 laka_squuia,,1,,
 lakayev,,1,1,
@@ -3379,7 +3380,7 @@ moonlandio,0,,,
 moonlightpasol,,,1,0
 mooseland12,1,0,1,0
 moravia_in_central_america,1,1,1,
-moravyn,,,1,
+moravyn,,,1,0
 morellian,0,1,0,1
 morembia,,,1,0
 morenian_republic,1,,,
@@ -3410,7 +3411,7 @@ movovia,0,1,0,
 moyerland,1,,1,
 mr_allison_nation,,,1,
 mrlawn,,,1,
-mseskir,1,0,1,
+mseskir,1,0,1,0
 muad-dib,,0,1,0
 mucc,1,,,
 mueslibar,1,,,
@@ -3544,7 +3545,7 @@ nevadaia,1,,,
 never_was_new_england,,,1,
 neverourland,1,0,1,0
 new-ferytland,0,,,
-new-javarra,0,1,1,
+new-javarra,0,1,1,0
 new_aazakabat,,,1,
 new_aequalitas,1,0,1,0
 new_allegia,1,1,,
@@ -4028,7 +4029,7 @@ oxyformal,0,1,0,
 oyggj_skye,0,1,0,
 ozocrenic,,0,,
 ozren_gora,1,0,1,
-oztil,1,0,1,
+oztil,1,0,1,0
 ozzentiez,,,0,
 pabtlau,,0,1,
 pachecos,0,,,
@@ -4357,7 +4358,7 @@ ramelia,0,1,,
 randala,1,1,1,1
 randomaniaa,0,,,
 randomly_generated_technology,1,0,,
-randperland,0,,1,
+randperland,0,,1,0
 ranium,,1,,
 rapolaan,1,0,1,
 raptorcraft,0,,1,0
@@ -4371,7 +4372,7 @@ raven8,,,1,
 ravencliff,,0,1,
 rawatna,1,,,
 rayakavkaz,1,,,
-rayekka,0,0,1,
+rayekka,0,0,1,0
 rayndor,,0,,
 re_dispatch_office,1,,,
 reader,,,1,
@@ -4411,7 +4412,7 @@ reino_de_portvgal,0,0,,
 reino_scarlatta,,1,1,
 relevantia,1,,,
 rellenia,0,1,,
-remenents_of_the_enclave,1,0,1,
+remenents_of_the_enclave,1,0,1,1
 remil,1,,1,
 renanland,,,1,
 renatusia,,1,,
@@ -4633,6 +4634,7 @@ samadland,1,,,
 samanaa,0,,1,1
 samariki,0,1,0,1
 samarobriva,,,1,
+samassiresseap,,,1,
 samgreat,1,0,1,
 samicana,0,,0,
 sammae,1,1,1,
@@ -4793,7 +4795,7 @@ shakhterskiy,0,0,1,0
 shaktirajya,1,,1,
 shambhalion,1,1,0,
 shamian,0,,,
-shanaka,,1,1,
+shanaka,,1,1,0
 shandorians,1,,,
 shardventoria,1,,,
 sharkii,1,,,
@@ -4969,7 +4971,9 @@ somaal,,,1,
 somalonsne,,,1,0
 someseni,1,1,1,
 something_random,,,1,
+somethingish,,,1,1
 sommath,,1,1,0
+somniarieta,,,1,0
 sonadie,,0,,
 sonbeira,,,1,0
 sonorica,1,,1,
@@ -5573,13 +5577,13 @@ the_purples,,,1,1
 the_radiance,,0,,
 the_real_underground,1,0,1,0
 the_realm_of_dorne,,,1,
-the_reckoning,,,1,
+the_reckoning,,,1,0
 the_red_cross,1,0,1,0
 the_republic_of_buva,1,,,
 the_republic_of_fironia,1,,,
 the_republic_of_konsa,0,,,
 the_republic_of_the_united_marble_tribes,0,1,1,0
-the_republic_of_worldia,,0,1,
+the_republic_of_worldia,,0,1,0
 the_republic_of_zeronoa,0,1,,
 the_republicanoes,,,1,
 the_republics_of_the_federation_of_gulf,,1,1,
@@ -5667,7 +5671,7 @@ the_united_capital_of_adam,0,,1,
 the_united_commonwealth_of_shire_valley,,,0,
 the_united_corporate_commonwealth,1,0,1,0
 the_united_isles_of_arnor,1,1,1,
-the_united_meraldian_councils,1,1,1,
+the_united_meraldian_councils,1,1,1,0
 the_united_nations_of_kvenland,0,,,
 the_united_neptumousian_empire,1,1,1,0
 the_united_patagonian_states,1,0,1,0
@@ -6141,7 +6145,7 @@ victorh,1,,1,
 vienna-lorraine,1,1,1,0
 vietlao,,,1,
 vietnamese_empire,0,1,,
-vigh,,0,1,
+vigh,,0,1,0
 vijlomia,,,1,
 vikarion,1,0,1,0
 vilanaland,,0,,
@@ -6234,7 +6238,7 @@ wang_yao,,,1,
 wanoria,1,,1,
 wansul,,1,,
 war_dogs_wa,,,1,
-warays,1,0,1,
+warays,1,0,1,0
 warden,,0,,
 wariestgre,0,1,0,0
 warkus,0,1,0,0
@@ -6325,7 +6329,7 @@ wmds,,,1,
 wobbegong,,,1,
 wohabutu,0,0,1,0
 wolffoxia,1,0,1,0
-wolfhawk,0,1,0,
+wolfhawk,0,1,0,0
 wolflandil,1,0,,
 wolfs_brigade,,,1,
 wolfsmarken,1,0,1,0
