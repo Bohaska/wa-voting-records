@@ -102,8 +102,8 @@ custom_scripts: |
 
             const nfObject = new Intl.NumberFormat('en-US')
             const totalVoters = votersFor.length + votersAgainst.length
-            document.getElementById('voted-for-hd').textContent = `Nations Voted FOR (${nfObject.format(votersFor.length)} nations, ${(votersFor.length/(totalVoters)).toFixed(2)}%)`
-            document.getElementById('voted-against-hd').textContent = `Nations Voted AGAINST (${nfObject.format(votersAgainst.length)} nations, ${(votersAgainst.length/(totalVoters)).toFixed(2)}%)`
+            document.getElementById('voted-for-hd').textContent = `Nations Voted FOR (${nfObject.format(votersFor.length)} nations, ${(votersFor.length/(totalVoters) * 100).toFixed(2)}%)`
+            document.getElementById('voted-against-hd').textContent = `Nations Voted AGAINST (${nfObject.format(votersAgainst.length)} nations, ${(votersAgainst.length/(totalVoters) * 100).toFixed(2)}%)`
 
             const ulFor = document.getElementById('voters-for');
             const ulAgainst = document.getElementById('voters-against');
