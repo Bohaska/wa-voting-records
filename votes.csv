@@ -311,7 +311,7 @@ aracelicosenera,0,0,,1,0
 arafin,,1,1,1,1
 araktopia,1,,,,
 aranagra,1,,,,
-aranaya,,,,1,1
+aranaya,,,,1,0
 araragistan,1,0,1,1,0
 araschravia,1,0,1,1,0
 araunia,0,1,0,1,0
@@ -658,6 +658,7 @@ bingism,1,1,1,1,0
 bingleborpia,1,,0,,
 bingobongos,1,0,1,,0
 bingustopians_for_free_elections,,,1,,
+binxonia,,,,0,
 biochur,,,1,,
 birand,,0,,,
 birczia,1,1,1,,
@@ -1230,6 +1231,7 @@ das_land_christi_deutschland,,,1,,
 daugapilis,0,0,0,1,1
 daulmark,1,0,1,1,0
 david_davidson,,,1,,
+davids_republic,,,,1,
 dawn_fleet,,0,1,,0
 dazhaboslav,,,1,1,0
 dbastion,,1,0,,
@@ -1481,7 +1483,7 @@ east_methanland,0,1,0,,
 east_owenistan,1,1,1,1,1
 east_planes,,0,,,
 east_sternwich,0,1,1,1,1
-east_thule,1,1,1,,
+east_thule,1,1,1,1,0
 east_tosand,,1,,,
 east_vesperia,1,1,1,,
 east_vesta,,1,,,
@@ -1498,7 +1500,7 @@ eastern_octechokofnatsses,,1,0,,
 eastern_osowiecs,1,1,1,,
 eastern_panem,1,,1,,0
 eastern_zalmania,,0,,,
-easterndeutschland,1,,,,
+easterndeutschland,1,,,1,1
 eastfield_lodge,,1,,,
 eastoria,1,1,0,1,0
 ebenia,,,,1,
@@ -1608,6 +1610,7 @@ england_scotland_wales_and_north_ireland,1,0,,,
 england_york,1,0,1,,
 englandera,,,1,,
 englandic_state,1,,,,
+english_socialist_states_of_oceania,,,,1,0
 englrike,,,1,1,0
 engojaria,1,1,,,
 enlil,1,1,0,1,0
@@ -3056,7 +3059,7 @@ laraelia,,0,1,,
 laransa,,1,0,,1
 larbiec,0,1,,,
 larger_hyrule,,,1,,
-larsovania,,0,0,,
+larsovania,,0,0,0,0
 las_filipina,0,,,,
 lasagna_italiana,,1,,,
 lascandra,,1,0,,
@@ -3257,6 +3260,7 @@ lunaa,1,0,1,1,0
 lunae_et_stellae,1,0,1,,
 lunaeri,1,,0,,
 lunauris,,,,,0
+lunayria,,,,,0
 lunistilan,0,1,0,,
 lunvaria,0,1,0,1,1
 lupusterra,,,1,0,0
@@ -3626,7 +3630,7 @@ mutan,1,,1,,
 muyangaland,1,0,,,
 mwhahahaha,,,,0,1
 my_holiness,1,1,1,1,1
-mybeeria,,0,,,
+mybeeria,,0,,1,0
 myehn,1,0,,,
 myhomecountry,,1,,,
 mylhodia,,1,,1,0
@@ -4004,7 +4008,7 @@ northern_woods,1,0,,,
 northern_york,,1,,,
 northern_zorbrasnka,1,0,1,1,0
 northernloin,0,0,1,1,0
-northportugal,0,1,0,,0
+northportugal,0,1,0,0,0
 northwest_korea,,1,0,,
 northwest_north_america,0,1,1,1,1
 northwest_queensland,1,1,1,1,1
@@ -4087,6 +4091,7 @@ nulkia,1,0,1,1,0
 numadsh,1,,,,
 numerie,1,,,,
 numistar,1,,,,
+nunatsuak,,,,1,0
 nuova_esperantia,,,1,,
 nurdia,1,1,1,1,1
 nuremburgia,,0,,1,0
@@ -4193,7 +4198,7 @@ oppsydoya,0,,,,
 orangefield,,,0,1,1
 orasil,1,1,1,1,0
 orcassia,,,1,1,0
-ordent_ratland,1,0,1,,
+ordent_ratland,1,0,1,1,0
 ordes_man_sonchi,,,,1,0
 ording_drublene,1,,1,,1
 ordogomenistan,1,,,,
@@ -4662,7 +4667,7 @@ remil,1,,1,1,0
 renanland,,,1,,
 renatusia,,1,,,
 rendom,0,1,1,1,0
-renegade_duchies,0,,,,
+renegade_duchies,0,,,0,0
 renemaran,,0,,,
 renkentagn,1,0,0,1,0
 reoppore,,,0,1,0
@@ -4780,7 +4785,7 @@ romerokistan,1,,,,
 romullus,1,0,1,,
 ronaldan,0,1,1,0,0
 rongorongo,1,0,1,1,0
-rook_fjord,0,0,1,,
+rook_fjord,0,0,1,1,0
 rook_nation,1,,1,,
 roolandia,0,0,1,0,0
 rose_and_thorns,,1,1,1,0
@@ -4825,6 +4830,7 @@ rusozak,1,0,1,1,1
 russcopia,,,1,,
 russian_kraj,1,1,,,
 russian_united_federation,1,0,,,1
+russian_vi,,,,1,
 russila,1,,1,,
 russinia,,,,,0
 russkiye,,0,,,
@@ -6051,7 +6057,7 @@ the_yakend_ned,1,,,,
 the_zombay,0,0,1,1,1
 theavaion,0,,,,
 thebyes,1,,1,,0
-theedaria,0,1,1,,
+theedaria,0,1,1,1,0
 thefun,0,1,0,0,0
 thegoldenempiregermany,0,0,1,1,0
 thehouseofsilly,1,0,1,1,0
@@ -6481,7 +6487,7 @@ vennos,1,0,0,0,0
 ventakia,,,,1,0
 ventusky,1,0,1,1,0
 verconia,,0,,,
-verdant_haven,,,1,,0
+verdant_haven,,,1,1,0
 vergusk,,,0,0,1
 verithlana,1,1,1,1,1
 verlian,0,,0,,
@@ -6793,6 +6799,7 @@ yeneralski,1,,,,
 yeniseisk,,,1,,
 yerachmeal,,1,,,
 yessir_town,,,1,,
+yet_another_corporate_dystopia,,,,1,1
 yggdrasil_2,,,0,1,0
 yhudfg_khanate,1,0,1,1,0
 yilfostera,1,0,1,1,0
