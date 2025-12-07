@@ -2,7 +2,7 @@ nation_id,varanius_1758501414,tinhampton_1758643240,cretox_state_1758860435,cret
 -absurdistan-,1,,,,
 -eunomia,0,1,0,0,0
 -shizouka-,0,1,0,0,1
--sordland,1,0,1,,0
+-sordland,1,0,1,1,0
 -tim-opolis,,,1,,0
 -urzikstan,1,,,,
 0000001,0,0,1,1,1
@@ -89,7 +89,7 @@ afrotem,0,0,,,
 afterbalhae_of_republic,0,,,,
 agandazan,,1,,,
 agima,1,0,,,
-agithius,,0,1,,0
+agithius,,0,1,1,0
 agora_kingdom,1,0,,,
 agricultural_and_industrial_development,,,1,1,1
 aguaria_major,,,1,,0
@@ -669,7 +669,7 @@ bisofeyri_world_assembly_mission,0,1,1,1,0
 bizarrotan,1,,0,,
 bkakc,0,0,1,1,0
 blablavania,0,1,1,,
-black_army_territories,,1,,,
+black_army_territories,,1,,1,1
 black_cimeter,,,1,1,0
 black_duncan,0,0,0,1,0
 black_ivars,,0,0,,
@@ -1337,7 +1337,7 @@ dirmia,1,0,1,1,0
 disburgensia,1,1,1,,0
 discgolfland,1,0,,,
 discripta,0,,,,
-disneylandia,1,1,1,,
+disneylandia,1,1,1,1,0
 disregardwork,1,,,,
 dixie_florida,1,0,1,1,0
 djeeta,,1,1,,
@@ -1422,7 +1422,7 @@ duckcounty,,1,,,
 duckerin,,,1,,
 duga,0,0,1,1,1
 dugalena,1,1,1,0,1
-duista,0,0,1,,
+duista,0,0,1,1,0
 dulroth,0,1,0,1,1
 dumbases,1,,1,,
 dun_frest,0,1,0,1,0
@@ -1979,7 +1979,7 @@ gaspacia,,1,,,
 gastravon,1,1,1,1,0
 gates_was_right,1,0,1,1,
 gathadia,1,0,1,1,0
-gawaland,0,,0,,
+gawaland,0,,0,1,0
 gayfurries,1,,,,
 geardra,1,0,1,1,0
 gearian,1,0,,,
@@ -2020,7 +2020,7 @@ gewisse,,0,1,1,0
 ggng,,1,,,
 ghanndi,,1,1,,
 ghojingles,1,1,1,0,0
-ghost,1,0,1,1,0
+ghost,1,0,1,,
 ghost_of_the_order,0,,,,
 ghoublins,,,0,,
 ghurana_nent,1,1,1,,
@@ -2029,7 +2029,7 @@ gi-sra,1,1,1,1,0
 giant_redwoods,1,0,1,,
 giantino,,1,0,,
 gibbervoln,1,0,0,1,1
-gibsoniana,0,,0,,
+gibsoniana,0,,0,0,1
 gideon,1,0,1,1,0
 gig_em_aggies,0,0,1,1,0
 gine_caruttiva,,1,,,
@@ -2779,7 +2779,7 @@ katarina_miltiadou,1,1,1,,0
 katiza,0,,,0,1
 katyusha_empire,,,0,,
 kaufmagne,0,,0,,
-kaulga,,1,1,,
+kaulga,,1,1,,1
 kavanos,,1,,,
 kawastyselir,0,,,,
 kazackhistan,1,,1,,0
@@ -3116,6 +3116,7 @@ leschenfiur,1,,,,
 lesipat,,0,,,
 lesser_michigan,,,1,1,
 letona,1,,0,,
+letrea,,,,0,
 lettucetan,,0,1,,0
 leucite,,,,,0
 leukantis,1,,,,
@@ -3251,7 +3252,7 @@ lurusitania,1,0,1,,0
 lusanthria,1,0,0,0,1
 lushiania,1,,,,
 lusianie,,,0,,
-luso-hispania,1,0,1,,
+luso-hispania,1,0,1,1,0
 lustiveria,1,0,1,,1
 luthena,,,,1,1
 lutien,,,,1,
@@ -3732,7 +3733,7 @@ never_was_new_england,,,1,,
 neverourland,1,0,1,1,0
 new-ferytland,0,,,1,1
 new-javarra,0,1,1,,0
-new_aazakabat,,,1,,
+new_aazakabat,,,1,1,
 new_aequalitas,1,0,1,,0
 new_allegia,1,1,1,,0
 new_almadi,,1,,0,0
@@ -3855,7 +3856,7 @@ new_vorarlberg,0,,0,,0
 new_vorockace,,,,0,
 new_vulcan,1,0,1,,
 new_wrangler,,1,1,,
-new_yankmoth,0,1,0,,0
+new_yankmoth,0,1,0,0,0
 new_yazministan,,,,1,0
 new_yordania,,0,,,
 new_zacharianasville,1,0,0,1,0
@@ -4410,6 +4411,7 @@ poisonangel,1,,,,
 pokemanland,0,1,0,1,0
 polabiny,,,1,1,0
 poland_and_lithuania_ii,,0,,,
+polandorus,,,,1,0
 polansk,,0,,,
 poldland,,,0,,0
 pole_terra,,,,0,0
@@ -4953,6 +4955,7 @@ schilra,1,,,,
 schitz,0,0,0,0,0
 schokoladeinderschublade,,,1,,0
 schwazerland,0,0,1,1,1
+scienyx,,,,1,0
 scienza,1,,,,
 scillion,1,1,,,
 scimitarra,1,0,1,,0
@@ -5418,7 +5421,7 @@ stryker_corp,,0,,,
 student_loan_debt,0,1,0,1,0
 stuff_that_is_horrible,,,1,,
 stupendous_land,,1,,,
-suave,1,0,1,1,
+suave,1,0,1,1,0
 subhamnation,1,0,1,1,0
 sucondes,,,1,,
 sucothia,1,0,1,1,0
@@ -6888,7 +6891,7 @@ zombiedolphins,1,0,1,1,0
 zoran,1,0,1,1,0
 zordennox,,0,,,
 zorkinthia,1,0,1,1,1
-zorouxland,,0,1,,0
+zorouxland,,0,1,1,0
 zorsica,1,0,,,
 zt333,1,0,1,,
 zuhayera,,0,,1,
