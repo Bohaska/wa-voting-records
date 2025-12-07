@@ -551,7 +551,7 @@ banaria,1,0,,,
 banatiania,1,,,,
 banditry,1,1,1,,0
 bandivia,0,1,0,0,0
-bangea,1,0,1,,0
+bangea,1,0,1,1,0
 bangkock,1,0,1,1,0
 bankowiata,1,1,1,1,0
 bannba,1,0,1,1,0
@@ -578,7 +578,7 @@ battadia,0,1,0,0,0
 bavarian_soviet_repulic,1,1,1,1,0
 bavo,1,0,1,1,1
 bayfront,0,,,,
-beachbum,,,1,,
+beachbum,,,1,1,0
 beadle_mac,,1,,,
 bean,,0,0,1,1
 bean-firia,,1,,,
@@ -779,6 +779,7 @@ brogas,,,1,1,0
 brond_ter_awazumpertstan,,1,1,,
 bronzehamut,1,1,1,,0
 brorlad,,1,,,
+broweth,,,,1,0
 brublyss,1,0,,,
 bruhburg,,,,1,0
 bruinswik,0,1,0,1,0
@@ -1211,7 +1212,7 @@ dark_dawn_empire,0,1,,,
 dark_fialand,1,0,,,
 dark_matter,,,1,,
 dark_soul,,1,0,,0
-darkanistan,,0,,,
+darkanistan,,0,,1,0
 darkarion,1,,0,,0
 darklighters,0,1,1,1,0
 darkmania,1,0,1,,
@@ -1452,7 +1453,7 @@ dzhongkha,0,1,0,1,0
 ea_world_assembly_mission,1,,,,1
 eaetafershe,1,1,1,1,0
 eaghter,,,0,,
-ear_exploder_9000,1,,,,
+ear_exploder_9000,1,,,0,0
 earana,0,1,0,0,1
 earchilue,,1,0,0,1
 east-asian_nations,1,0,1,1,0
@@ -1485,6 +1486,7 @@ eastern_doncaster,1,0,1,1,0
 eastern_golden_shores,1,0,1,,0
 eastern_grasslands,,1,,1,0
 eastern_kodiak,0,,,,
+eastern_league,,,,1,0
 eastern_octechokofnatsses,,1,0,,
 eastern_osowiecs,1,1,1,,
 eastern_panem,1,,1,,0
@@ -1520,7 +1522,7 @@ eevees,1,,,,0
 eeveetopia,1,1,0,,
 eeveetopila,1,0,1,,
 efhrim,0,1,0,1,1
-egairo,0,1,0,,
+egairo,0,1,0,1,0
 egalitarians,,,,0,
 eggplant_republic,1,,,,
 eggtowne,1,0,1,1,0
@@ -1746,7 +1748,7 @@ federal_of_velmoria,1,1,1,1,0
 federal_republic_of_whangarei,1,0,,,
 federal_states_of_freedom,,,1,,
 federation_of_eradia,0,,,,
-federation_of_indepenence,,,1,,
+federation_of_indepenence,,,1,,0
 federation_of_knights,1,0,,,
 federation_of_sheera,1,1,1,1,1
 federation_of_the_astral_plane,,1,0,,0
@@ -2474,7 +2476,7 @@ imglishyr,,0,1,,
 impallia,1,,,1,0
 impentia,,,,0,1
 imperator_yamatera,,,0,1,1
-imperia_cirdan,0,1,0,,1
+imperia_cirdan,0,1,0,0,1
 imperial_alfanian_states,0,,,,
 imperial_catorianis,,,1,1,1
 imperial_felchah,,0,1,1,0
@@ -2576,7 +2578,7 @@ islands_of_the_northern_ocean,1,0,,,
 islands_of_ventro,,0,,1,0
 islang_she,1,,1,1,1
 islangelanordia,1,,,,
-islaremistan,,,1,,1
+islaremistan,,,1,1,1
 isle_of_ducks,0,,,,
 isle_of_quelteff,,0,1,,
 isle_royale,0,,0,,
@@ -2852,7 +2854,7 @@ kingdom_of_noobic,,,1,,0
 kingdom_of_rija,,0,,,
 kingdom_of_romar,1,,,1,0
 kingdom_of_shay,,1,,,
-kingdom_of_the_focke-wulf_islands,1,0,,,
+kingdom_of_the_focke-wulf_islands,1,0,,1,1
 kings_of_kings,1,1,1,,0
 kingsbrew,1,,0,,
 kinsantinsuyu,1,1,,,
@@ -3009,7 +3011,7 @@ la_xinga,1,0,1,1,0
 labubue,,0,1,,0
 lac_yue,0,,,,
 ladinacem_andia,1,,,,
-lael_piotr,0,0,1,,0
+lael_piotr,0,0,1,1,0
 laitneiro_alicirga,,,1,,
 laka_squuia,,1,,,
 lakayev,,1,1,,
@@ -3418,6 +3420,7 @@ mediobogdum,1,0,1,1,0
 mediternia,,0,,,
 mediterrainia,,,1,,0
 medvefold,1,1,1,1,0
+mega_jorts,,,,0,0
 mehmetliler,1,,,,
 meino,,0,,,
 mejor_estado,,0,,,
@@ -3811,10 +3814,11 @@ new_pigeonia,0,1,0,0,0
 new_proviles,,,1,,
 new_prussianstan,1,,1,,0
 new_rainbow_falls,1,0,1,1,0
+new_republic_of_kastovia,,,,1,
 new_resilience,,1,,,
 new_roos,0,,,,
 new_rustonia,1,1,1,1,0
-new_ryansville,1,0,1,,
+new_ryansville,1,0,1,1,0
 new_saint_peters,,1,,,
 new_salty,0,0,,,
 new_samba,1,,,,
@@ -3968,7 +3972,7 @@ northern_caliburugeve,1,1,,1,0
 northern_canadian_people,1,0,1,1,0
 northern_cheek,,0,0,1,0
 northern_dosletofe,,1,,,
-northern_excelria,,0,,,
+northern_excelria,,0,,1,0
 northern_german_federation,1,0,1,1,0
 northern_horde,,,1,,
 northern_isla_of_cocoa,1,,,,
@@ -4011,6 +4015,7 @@ nova_angleterre,,1,,0,1
 nova_aohr,,0,,,
 nova_auroras,1,,1,1,0
 nova_cabralia,1,1,,,
+nova_centauri,,,,1,0
 nova_danzig,1,0,1,,
 nova_enlasia,,0,,,
 nova_finis_terrae,1,0,,,
@@ -4099,7 +4104,7 @@ oceanic_ai_of_arctic_ocean,1,0,1,1,0
 oceanlandmw8,1,,1,,
 oceasia,1,1,1,1,0
 ocenyra,1,,,,
-ocha_ria,0,1,0,,0
+ocha_ria,0,1,0,0,0
 odawe,,,1,,
 ode_duddis,,1,,,
 odezya,1,1,1,1,
@@ -4303,7 +4308,7 @@ peatioland,0,1,0,,0
 pecradzug,1,0,,,
 peheewland,1,0,0,1,0
 peinda_speindea,0,,,,
-pekares,,,1,,0
+pekares,,,1,1,0
 pekichow,1,,,1,1
 pekweng,,0,1,,
 pel,0,0,0,,
@@ -4326,7 +4331,7 @@ peoples_republic_of_solovie,,1,,,
 peoples_republic_of_speing,,,,1,0
 peoples_republico,1,0,,,
 peoples_republicss,,,1,,
-peoplestasine,1,1,0,,1
+peoplestasine,1,1,0,0,1
 pepsi_the_third,0,0,1,1,0
 pequea,,0,1,,
 per_vilonia,1,0,,,
@@ -4496,7 +4501,7 @@ puledron,,,1,,1
 pulitein,1,0,1,0,0
 pulopulo,0,,,,
 pulsar_girl,,0,,,
-pultorland,1,0,1,,0
+pultorland,1,0,1,1,0
 pumpkin_valley,1,0,1,1,0
 pupackijand,,,,1,1
 puppetalia,,,1,,
@@ -5065,7 +5070,7 @@ shuckletopia,1,0,1,1,0
 shuddera,1,,,,
 shui_mo,0,,0,1,0
 shujistan,1,,,,
-shurax,,0,1,,
+shurax,,0,1,1,
 siarki,,0,1,,
 siberia_and_central_asia,0,0,,,
 sicias,,,1,,
@@ -5672,7 +5677,7 @@ the_democratic_peoples_republic_of_memes,1,,,,
 the_democratic_republic_of_custer,,1,1,1,1
 the_devskian_revolutionary_republic,1,0,1,1,0
 the_discipled,,,,1,0
-the_divin_fist,1,0,1,,
+the_divin_fist,1,0,1,1,1
 the_doa,,,,0,
 the_dolein,0,1,0,1,0
 the_dome,0,0,0,0,0
@@ -6090,7 +6095,7 @@ titanaria,0,0,1,,0
 tithio,,0,1,,
 tkeignaoen,,0,,,
 tlahatl,,,1,,
-tnp-ed,1,1,1,,1
+tnp-ed,1,1,1,1,1
 to-yu,0,,,,
 toadchester,1,1,1,,1
 toastarian,0,1,,,
@@ -6351,7 +6356,7 @@ urziksthan,1,0,1,1,1
 usagiland,1,,,,
 usaint,0,1,0,,1
 uson,0,1,,,
-usonia_federal_union,1,1,0,,
+usonia_federal_union,1,1,0,0,0
 ussr_reformed,,,1,,1
 usteked,,0,,1,0
 utarah,0,0,1,1,0
