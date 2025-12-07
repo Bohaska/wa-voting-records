@@ -21,7 +21,7 @@ nation_id,varanius_1758501414,tinhampton_1758643240,cretox_state_1758860435,cret
 67_timmy_gang,,,1,1,0
 6th_vallean_armoured_regiment,,1,0,,
 88th_seige_korps_of_kreig,1,1,,,
-9005,0,,1,,
+9005,0,,1,1,0
 911,1,0,1,1,1
 9_state_republic,,,0,1,0
 a_familys_nation,,0,,,
@@ -205,7 +205,7 @@ american_protestant_states,,,1,,
 american_rojava,1,1,1,0,0
 americanican,1,0,,1,0
 americatain,1,,,,
-amerion,1,0,1,,0
+amerion,1,0,1,1,0
 amestny,1,,,,
 amestrris,1,0,1,1,1
 ameteurial_outdated_philosophia,,,1,,
@@ -331,6 +331,7 @@ archecillania,0,,,,
 archeniatia,,0,,,
 archeyboy67,,0,1,,
 archonexus,1,0,1,1,0
+arcomo,,,,1,0
 arconia_imperium,,1,,,
 arcriea,0,,,,
 arcti-chan,0,1,0,0,0
@@ -663,7 +664,7 @@ billingrex,,,1,,0
 bimmyland,,0,,1,0
 binga,,,1,,
 bingism,1,1,1,1,0
-bingleborpia,1,,0,,
+bingleborpia,1,,0,1,1
 bingobongos,1,0,1,,0
 bingustopians_for_free_elections,,,1,,
 binxonia,,,,0,0
@@ -856,7 +857,7 @@ canvania,1,0,1,1,0
 canvee,1,1,1,,0
 canzik,,1,,,
 capand_dodia,1,,,,
-capitalisia,0,0,1,,1
+capitalisia,0,0,1,1,1
 capitalism_is_the_best_thing_ever,,0,,,
 capitalismo_occidental,0,,1,,0
 capitalist_producers,1,0,1,1,
@@ -1087,7 +1088,7 @@ concordiia,0,,,,
 condensados,,,1,,
 conexus,,,0,,
 confoederatio_aequilibrium,0,,,,
-congo-east_africa,1,1,1,,0
+congo-east_africa,1,1,1,1,0
 conioste,1,0,,,
 connorlands,,,1,,0
 cono_sud,1,1,0,0,0
@@ -1305,7 +1306,7 @@ densaner,1,0,1,1,0
 deorangg,1,0,1,1,0
 department_of_wa_affairs,1,,,,
 der_mormia,1,0,1,1,0
-der_weimar_republik,1,0,1,,0
+der_weimar_republik,1,0,1,1,0
 derelldia,1,,,,
 derenus,1,1,1,1,1
 derland,,1,,,
@@ -1332,7 +1333,7 @@ dharitara,,,0,1,
 dhiera_mazaro,0,1,,,
 di_mentago,0,1,1,1,0
 diamond_heaven,1,0,,,
-diatian_isles,1,1,0,,0
+diatian_isles,1,1,0,0,0
 dibbleria,1,,1,,
 dicko,0,0,0,1,0
 dictastic,1,,,,
@@ -1792,7 +1793,7 @@ feirden,,1,0,,
 felid_robloxia,,,,1,0
 felix_islands,0,,,,
 felornis,1,0,1,1,0
-femboy_fishermen,1,,,,
+femboy_fishermen,1,,,1,0
 femboy_republics,0,1,0,,
 femboyparadise,,,1,,1
 femvania,0,1,1,1,0
@@ -1833,7 +1834,7 @@ floedlaenn,,,0,,1
 floofith,0,0,1,,
 floofy_persons,,1,,,
 flop_ivory_island,1,1,,,
-flor-fina,1,0,1,,
+flor-fina,1,0,1,1,0
 floralbranca,1,0,1,1,0
 florgelia,,0,,,
 floria-byrnia,,1,,,
@@ -2376,6 +2377,7 @@ hihihihihiiiii,1,0,1,,
 hijjma,,,,1,
 hikasun,,,1,,
 hilagang_bituin,0,,1,1,0
+hileville,,,,1,0
 hille_islands,,0,,,
 hilonde,1,1,,,
 hiloooooo,0,0,1,1,0
@@ -2531,7 +2533,7 @@ imperium_de_hominibus,,1,0,0,1
 imperium_malaya,1,,1,,
 imperium_nobilum,1,1,,,
 imperium_romae_marii,1,1,1,1,0
-imperium_sempiternum,1,,,,
+imperium_sempiternum,1,,,1,
 imperium_singapura,1,,,,
 imperiummagnus,,,1,1,0
 impertan,1,1,,1,
@@ -2649,6 +2651,7 @@ iujhj,,1,,,
 iuus_dha_gliastan,1,,,,
 ivenitta,1,1,,,
 izern,,,,,0
+j_class,,,,1,
 jacj,1,1,1,1,0
 jackinstan,,1,,,
 jackpot_jackpot_jackpot_jackpot,1,0,1,1,0
@@ -2684,7 +2687,7 @@ jaxonedia,1,1,1,1,1
 jaxons213,,0,,,
 jayalompan,,,,1,0
 jazzia,0,1,1,,0
-jc_jenson,1,0,1,,0
+jc_jenson,1,0,1,1,0
 jdbld,,,,1,0
 jean_jacket_russell_high_school,1,0,1,,0
 jeff_the_god,,,1,,
@@ -3294,7 +3297,7 @@ lunayria,,,,,0
 lunistilan,0,1,0,,
 lunvaria,0,1,0,1,1
 lupusterra,,,1,0,0
-lurusitania,1,0,1,,0
+lurusitania,1,0,1,1,0
 lusanthria,1,0,0,0,1
 lushiania,1,,,,
 lusianie,,,0,,
@@ -3430,7 +3433,7 @@ maryania,,1,0,,1
 marylandd,,,,1,1
 mashrek,1,0,1,1,1
 mashriqi_babylon,1,,1,,0
-massingberg,,1,,,
+massingberg,,1,,1,0
 masteau,,0,1,,
 masterium,1,1,1,,
 masters86,1,0,1,1,0
@@ -3948,7 +3951,7 @@ nikosias,1,1,1,,
 nilesnia,,,1,,
 nininskia,1,,,,
 ninjago_lightland,1,0,,,
-niolex,,,1,,0
+niolex,,,1,1,0
 nipponalia,,,,1,0
 nirvanic,1,1,1,,
 nirvanity,,,1,,
@@ -4392,7 +4395,7 @@ penning,1,1,1,1,1
 peopir,0,0,1,1,0
 people_freedom_nation,,0,,,
 peoples_council_republics,1,,,,
-peoples_dismarscthen,1,1,1,,0
+peoples_dismarscthen,1,1,1,1,0
 peoples_guerilla_armed_coalition,,,1,,
 peoples_republic_of_eregion,,,,,0
 peoples_republic_of_solovie,,1,,,
@@ -4522,6 +4525,7 @@ powerful_idiots,1,,1,,
 prackin_kelew,1,0,1,1,0
 pradovnia,,0,,,
 praenestia,1,,,,
+praenuntiur,,,,1,0
 praetoria_maxima,,,,0,
 pranassa,1,,,,
 prasertinia,0,0,1,,
@@ -4951,6 +4955,7 @@ samicana,0,,0,0,1
 samjamcam,,,,1,1
 sammae,1,1,1,,
 sammena,1,,,,
+samoderzhaviye,,,,1,
 samosil,,1,,,
 samsarastan,1,0,1,1,0
 samslvania,,0,,,
@@ -5244,7 +5249,7 @@ slivileton,,,1,,
 sloap,1,,,,
 slobodovia,1,0,1,1,0
 slokoviav,,,,,0
-slonful,,0,,,
+slonful,,0,,0,0
 slongs,,0,1,,0
 slothville,1,0,1,1,0
 slovanov,0,1,0,,
@@ -5374,7 +5379,7 @@ sovereign_state1,1,,,,
 sovereign_states_of_kyria,,0,,,
 sovereign_valoria,,,1,,0
 sovetsky-soyuz,1,1,,,
-sovfedezi,0,1,1,0,1
+sovfedezi,0,1,1,,
 soviet_federative_socialists,1,1,1,1,0
 soviet_reuinion_part_two,0,0,1,,0
 soviet_socialist_republic_of_madagascar,1,1,,,
@@ -5455,6 +5460,7 @@ starcrest_united,1,0,1,1,0
 starenia,1,0,1,1,0
 stareogratia,1,0,1,1,1
 starman_of_stardust,0,1,1,,
+starrland,,,,1,0
 stasia_psychum,1,0,,,
 stata_pontificia,0,1,0,0,1
 state_democratic_assembly,1,1,0,0,0
@@ -5757,6 +5763,7 @@ the_dams_wedia,0,,,,
 the_dark_aether,1,1,1,1,0
 the_darwin_islands,1,,1,,
 the_dead_nationssss,,,0,,
+the_democratic_confederacy,,,,1,1
 the_democratic_disney_states,0,0,1,1,0
 the_democratic_peoples_republic_of_memes,1,,,,
 the_democratic_republic_of_custer,,1,1,1,1
@@ -5863,7 +5870,7 @@ the_inquisitorial_aldercliand_syndicate,,1,0,,
 the_interisolary_republic_of_elysium,,1,1,,
 the_iron_directorate_of_kluxsaar,0,0,0,0,1
 the_iron_lions,1,0,1,1,0
-the_islamic_khilafah,1,0,0,,
+the_islamic_khilafah,1,0,0,1,0
 the_island_of_kaamos,1,,1,,1
 the_islands_of_colwell,,,1,,
 the_jamdoin,0,1,0,0,1
@@ -5981,7 +5988,7 @@ the_republicanoes,,,1,,
 the_republics_of_the_federation_of_gulf,,1,1,,
 the_rico_re_ah_republic,,0,1,,
 the_roman_catholic_imperium,0,0,,,
-the_royal_asmorian_federation,1,1,,1,0
+the_royal_asmorian_federation,1,1,,,
 the_royal_dominion_of_alvari,,,1,1,1
 the_royal_republic_of_kumania,0,1,0,0,0
 the_russia_union_the_people,,,1,,
@@ -5990,7 +5997,7 @@ the_rykerian_federation,,,1,1,0
 the_sakartvelo,1,1,1,1,1
 the_salaxalans,1,,,,
 the_salt_cheek_shoals,1,,,,
-the_sanctus_union,1,1,,1,
+the_sanctus_union,1,1,,1,0
 the_sb,1,0,0,1,1
 the_scandinavian_realm,1,0,1,0,1
 the_scrap,,,,,0
@@ -6042,7 +6049,6 @@ the_templar_papal_new_state,,,0,,0
 the_terapins,1,0,,,
 the_teridome,,0,,,
 the_terren_dominion,,0,1,,0
-the_texas_lone_star_republic,,,,1,0
 the_third_french_colonial_empire,0,1,1,,
 the_three_hammers,1,1,1,1,1
 the_tomania,,0,1,,0
