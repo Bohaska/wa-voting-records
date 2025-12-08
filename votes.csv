@@ -1120,7 +1120,7 @@ corporate-dystopia,,,1,,
 corporate-paradise,1,,,,
 corsuva,1,,,,
 cortes_de_pallas,0,,0,,
-cortlandt_manor,1,0,1,,
+cortlandt_manor,1,0,1,,0
 corust,,0,,,
 corynth,,0,,,
 cose_kublidly,,0,1,1,0
@@ -1619,7 +1619,7 @@ emmovakia,0,,,,
 emodea,1,,1,,0
 empire_des_francs,,,1,1,0
 empire_great_britain,,,1,0,0
-empire_of_atlanta,,,,1,
+empire_of_atlanta,,,,1,0
 empire_of_caldrasa,,,,,0
 empire_of_dabiristan,1,,,,
 empire_of_ftia,1,1,1,0,1
@@ -2190,7 +2190,7 @@ great_orange_pochita,,0,,,
 great_ren,1,,,,
 great_republic_of_australian,0,,,,
 great_schwarzburg,,0,,,
-great_usonia,0,,0,,
+great_usonia,0,,0,1,0
 great_vankor,,,0,,
 great_welshland,,,1,,
 great_will_millennium,1,0,1,1,0
@@ -3865,7 +3865,7 @@ new_gadsdenland,1,,,,
 new_garbanzia,1,0,1,1,0
 new_gehenna,1,0,,1,0
 new_gilboa,1,0,1,1,0
-new_gondorianas,,,1,,
+new_gondorianas,,,1,1,0
 new_halo,0,,,,
 new_holy_roman_state,,,1,,
 new_holy_rome,0,0,1,1,1
@@ -3904,7 +3904,7 @@ new_republic_of_kastovia,,,,1,
 new_resilience,,1,,,
 new_roos,0,,,,
 new_rustonia,1,1,1,1,0
-new_ryansville,1,0,1,1,0
+new_ryansville,1,0,1,,
 new_saint_peters,,1,,,
 new_salty,0,0,,,
 new_samba,1,,,,
@@ -3983,7 +3983,7 @@ nirvanity,,,1,,
 nishikaigan,,0,,,
 nistriabar,1,0,1,1,0
 nitropol,0,,,,
-nittany_hollow,,,1,,
+nittany_hollow,,,1,1,0
 nivloria,,1,,,
 nizamiyah,,,0,0,0
 nizar_kindom,,,1,1,0
@@ -4000,7 +4000,7 @@ nolrem,,,,,0
 nomaur,1,1,1,1,0
 non-believers,0,0,1,1,0
 non_opresive_german_empire,,,,,1
-non_plus_ultra,1,0,1,,
+non_plus_ultra,1,0,1,1,0
 non_sequitur,0,1,1,,
 non_western_friesland,1,1,,1,0
 nonessel,1,0,1,,
@@ -4245,7 +4245,7 @@ olvera,,,1,,1
 olyglea,1,1,,,
 olympian_rome,1,,,,
 olyndor,1,0,1,1,0
-omaha_utopia,1,0,,,
+omaha_utopia,1,0,,1,0
 omakise,0,,,,0
 omevecta,,0,1,1,0
 omniaterra,1,,,,
@@ -5136,7 +5136,7 @@ seraphiniaw,,1,,,
 serbska-novica,1,0,0,0,0
 serenitium,,0,1,1,0
 serovgrad,1,0,0,1,0
-serpenii,1,,1,,
+serpenii,1,,1,1,
 serpleddyland,,1,,1,0
 serrus,1,0,1,1,0
 serturasi,0,1,0,0,0
@@ -5801,7 +5801,7 @@ the_dark_aether,1,1,1,1,0
 the_darwin_islands,1,,1,,
 the_dead_nationssss,,,0,,
 the_democratic_confederacy,,,,1,1
-the_democratic_disney_states,0,0,1,1,0
+the_democratic_disney_states,0,0,1,,
 the_democratic_peoples_republic_of_memes,1,,,,
 the_democratic_republic_of_custer,,1,1,1,1
 the_devskian_revolutionary_republic,1,0,1,1,0
@@ -5935,7 +5935,7 @@ the_leamid_empire,,1,1,1,0
 the_legendary_republic_of_vortex_users,,,1,,0
 the_legionarian_isles,0,,1,,
 the_lide_collective,0,0,1,0,0
-the_lizard_army,1,0,1,1,0
+the_lizard_army,1,0,1,,
 the_lowtown_resistance,1,,,,
 the_malaysian_tamil_nadu,1,1,1,1,0
 the_marineri_islands,0,1,,,
@@ -6729,6 +6729,7 @@ wanoria,1,,1,1,
 wansul,,1,,,
 war_capital,,,,1,0
 war_dogs_wa,,,1,1,0
+war_stanoster,,,,1,0
 warays,1,0,1,1,0
 warden,,0,,,
 wariestgre,0,1,0,,0
@@ -6940,7 +6941,7 @@ yugoistokoslavia,,,,1,
 yugonostalgia,,0,1,,1
 yugoscavia,,1,0,,
 yugoslawia,0,,1,1,0
-yukolia,1,1,0,,
+yukolia,1,1,0,1,1
 yukti,,0,,,
 yun_tan,,1,,,
 yungerdash,1,0,1,1,0
