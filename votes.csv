@@ -82,6 +82,7 @@ aethyrcadia,,,0,,0
 aeurithianar,1,0,1,1,0
 aevana,0,,,0,0
 afaenvia,,0,,,
+afgumpistan,,,,1,1
 afifray,,,1,,
 afria_thebel,,0,,,
 africanskiy_soyz,0,0,1,,
@@ -97,6 +98,7 @@ aguris,,0,0,1,
 aguyje-yvy,0,1,0,0,0
 aigania,1,,1,1,0
 aigeus,1,,1,,0
+aigma,,,,1,1
 aina_kuokoa,0,,,1,0
 aina_pomaikai,1,0,1,1,1
 ainli,,1,,,
@@ -380,7 +382,7 @@ arolaun,1,0,0,1,1
 arpackashia,,,,,0
 arquettadia,,0,,1,1
 arrakian,1,,1,,
-arrivederci,,,1,,0
+arrivederci,,,1,1,0
 arscanesia,0,0,1,1,0
 arsenial,1,0,0,1,0
 arsenta,,0,,,
@@ -2379,6 +2381,7 @@ hespelo,1,0,1,1,0
 hesskin_empire,0,0,1,,0
 hesterveria,,0,1,,1
 hetero_mlf,,,,1,0
+heterocera,,,,1,0
 hexaflexalaendchen,,,,1,0
 hexaplace,,,1,,0
 hey_family,,,1,,0
@@ -2527,7 +2530,7 @@ ilovestrawberrycake,1,,,,
 ilskra,1,,,,
 imaduddin,,,1,0,0
 imalaians,,1,,,
-imglishyr,,0,1,,
+imglishyr,,0,1,1,0
 impallia,1,,,1,0
 impentia,,,,0,1
 imperator_yamatera,,,0,1,1
@@ -2795,7 +2798,7 @@ kanokla,,0,,,
 kanoshu,0,1,0,0,0
 kansago,,,1,,
 kanycta,0,1,,0,0
-kaputer,1,0,1,1,
+kaputer,1,0,1,1,0
 karaczia,1,1,1,1,0
 karai_nadu,1,0,1,1,0
 karait,1,,1,,
@@ -2885,7 +2888,7 @@ khurun-marrakh,,1,,,
 khushybushytushy,,0,1,,1
 kianland,1,0,1,1,0
 kidderminster,,,1,1,0
-kietros,1,1,1,,
+kietros,1,1,1,1,1
 kiisula,1,,,,
 kikaizen,,,,1,0
 kilichloom,0,1,1,1,0
@@ -3312,7 +3315,7 @@ lumiose,,,1,,0
 lumiose_land,1,,,,
 lumista,1,,,1,0
 lunaa,1,0,1,1,0
-lunae_et_stellae,1,0,1,,
+lunae_et_stellae,1,0,1,1,0
 lunaeri,1,,0,,
 lunauris,,,,,0
 lunayria,,,,,0
@@ -3452,7 +3455,6 @@ marxia-engelsia,,1,,,
 marxist-leninist_russian_federation,1,1,1,1,0
 marxist_assembly,,,0,,
 marxist_land_of_peoples,1,,,,0
-marxist_nominicia,,,,1,0
 maryania,,1,0,,1
 marylandd,,,,1,1
 mashrek,1,0,1,1,1
@@ -3626,6 +3628,7 @@ monsone,0,,,,
 montagway,1,0,1,,1
 montandunas,,0,0,1,0
 montencomrades,,,0,,1
+montereda,,,,1,0
 montopholous,1,1,,,
 montyra_vale,1,,,,
 moodova,,,0,1,1
@@ -4026,6 +4029,7 @@ nordrune,,0,,,
 nordurstjarna,0,1,0,0,0
 norg_brostikia,1,,,,
 nori_dratourat,0,1,0,,0
+norim_selen,,,,1,
 norland_angre,1,0,0,,0
 nortallius,0,0,1,0,1
 norte_de_america,,0,,,
@@ -4149,7 +4153,7 @@ nubistan,,,,,0
 nublas,1,,,,
 nudityfast,,0,,,
 nueva_alta_california,1,0,1,1,0
-nueva_zulia,,,0,1,0
+nueva_zulia,,,0,,
 nuevo_gran_colombia,,0,,,
 nukerida,1,0,0,0,1
 nulkia,1,0,1,1,0
@@ -4243,7 +4247,7 @@ old_emporia,1,0,1,1,0
 old_leggith,1,1,,,
 olvera,,,1,,1
 olyglea,1,1,,,
-olympian_rome,1,,,,
+olympian_rome,1,,,1,
 olyndor,1,0,1,1,0
 omaha_utopia,1,0,,1,0
 omakise,0,,,,0
@@ -4320,7 +4324,7 @@ outer_scotiotland,0,,1,,
 oven_of_cookie_runners,,,1,,
 overlord90098,,1,,,
 overthinkers,1,0,1,,0
-ownzone,1,,0,,0
+ownzone,1,,0,0,0
 oxyformal,0,1,0,1,0
 oyggj_skye,0,1,0,,0
 ozocrenic,,0,,,
@@ -5319,7 +5323,6 @@ socialist_republic_of_russians,,0,0,1,0
 socialist_republic_of_sakat,0,0,0,0,1
 socialist_states_of_east_antarctica,1,,,,
 socialist_weeb_republic,1,1,0,0,1
-socialist_world_order,,,,1,0
 socialist_xlyvania,1,0,1,1,0
 socialists_reformed,1,0,1,1,0
 societas,1,0,1,0,1
@@ -5653,7 +5656,7 @@ tarahna,,,0,,
 tarajapura,1,,1,,
 tarbock_road,1,,,,
 tareqiyyah,,1,1,1,1
-tarhani,,,1,,
+tarhani,,,1,1,
 tarligean,1,0,1,1,0
 tarvozzia,,,0,,0
 tarzahaat,0,1,0,0,1
@@ -5781,7 +5784,7 @@ the_children_of_tessarion,1,,,,
 the_chill_isles,0,,,,
 the_chill_union,1,0,1,0,0
 the_chimera_sea,,,0,,1
-the_chizan,0,1,0,,1
+the_chizan,0,1,0,1,1
 the_citrus_republic,0,1,1,,1
 the_city_of_evil,,0,,,
 the_cn,,1,,,
@@ -6194,6 +6197,7 @@ three_planets,1,,1,,1
 threyon,1,,0,,
 thuanu,,,,1,0
 thulom,,1,,,
+thuonghalan,,,,1,1
 thx1138,1,0,1,1,0
 thy_salty_seamen,1,,,1,1
 thyrall,1,0,1,1,0
@@ -6268,7 +6272,7 @@ tri-tach,1,,0,,
 tria_shas,1,1,1,,1
 tridonica,1,,,,
 trie_moodoweium,0,,,,
-trilaudhia,0,,0,0,0
+trilaudhia,0,,0,,
 trillius,1,,1,,
 trimounts,1,0,1,1,1
 tripod_ii,0,1,1,1,0
