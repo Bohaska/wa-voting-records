@@ -477,6 +477,7 @@ auraesia,0,1,0,0,1
 aurainian_republics,1,,,,
 aurasreich,1,0,1,1,0
 aurelesi,1,,,,
+aurelis,,,,1,1
 aurenholt,0,,,,
 aureum_paradisum,0,,,,
 auricland,,,1,,
@@ -1105,6 +1106,7 @@ consolani,1,1,1,,1
 consolari,,1,,,
 constitutional_republic_of_freedonia,1,,,,
 content_coup,1,1,1,1,
+continental_free_states,,,,1,0
 convaria,1,0,1,,0
 cookie_testers,,,1,,0
 cookies_and_cream_pizza,1,,,,
@@ -1197,7 +1199,7 @@ cutias,1,0,1,1,0
 cy83r,0,0,1,1,0
 cyberia_prime,1,,,1,0
 cyberpunk_nation,1,0,1,,
-cyklosuk,1,,1,,
+cyklosuk,1,,1,1,0
 cymbrian,0,1,0,,
 cynthea,,,,0,0
 cypheri,1,0,1,1,0
@@ -1525,7 +1527,7 @@ eastern_golden_shores,1,0,1,,0
 eastern_grasslands,,1,,1,0
 eastern_kodiak,0,,,,
 eastern_league,,,,1,0
-eastern_octechokofnatsses,,1,0,,
+eastern_octechokofnatsses,,1,0,1,1
 eastern_osowiecs,1,1,1,,
 eastern_panem,1,,1,,0
 eastern_zalmania,,0,,,
@@ -1878,7 +1880,7 @@ forgotten_beauty,0,,,,
 forio,1,1,,0,
 foritehland,1,0,1,1,
 forkbender,1,0,,,
-formenore,1,1,1,,1
+formenore,1,1,1,1,1
 fornholm,1,,,1,0
 forsakened_acheron,1,,,,
 fortitudo_et_unitas,,0,,,
@@ -2058,7 +2060,7 @@ germanicrusso,1,,,,
 germaniej,,1,,1,0
 germansium,1,,,,
 germany-georgia,,,,1,1
-germany_fasces,1,0,1,,
+germany_fasces,1,0,1,1,1
 gerniam,1,,1,,
 gerowellia,1,0,0,,
 gessia,,,0,,
@@ -2443,7 +2445,7 @@ honkashu,,1,0,1,1
 honshoi,0,0,,,
 hookie,,1,,,
 hope_peak_nation,,,1,,0
-hopia_owl,1,0,1,,0
+hopia_owl,1,0,1,1,0
 hoqeallistan,,1,,,
 hordarland,,,,1,0
 horikyouko,,1,,,
@@ -2996,7 +2998,7 @@ koroto,,0,1,1,0
 korumos,1,0,1,1,0
 korvenska,1,0,,,1
 kosova,1,1,1,,
-kossack,,,,,0
+kossack,,,,1,0
 kossenburk,1,0,,1,1
 kotat,,,1,,
 kotiko_socialist_communist_republic,0,0,,,
@@ -3297,6 +3299,7 @@ lower_antegria,,,,0,0
 lower_roc_born,,,1,,0
 lower_unfentaria,0,,1,1,0
 lsk,1,,,1,0
+ltu_lithuania,,,,0,
 luaja,1,0,1,1,0
 luaskenia,,1,1,1,0
 lucasson,0,1,1,,0
@@ -3349,6 +3352,7 @@ lycetaria,,,1,1,0
 lycori,,1,1,,0
 lyions,0,,,,
 lyndonesia,1,0,,,
+lyriandre,,,,1,0
 lyrmas,,,,0,0
 lysandus,1,,1,,
 lysheim,0,,,,
@@ -3402,7 +3406,7 @@ malitistan,1,,,1,0
 malkara,1,0,1,1,0
 mallatrovia,,1,0,1,0
 malnora,1,,,,
-malotihuacan,1,,1,,
+malotihuacan,1,,1,1,0
 maltandhops,0,1,,0,
 malum_neccessarium,,0,,,
 mambanistan,0,,,,
@@ -3522,7 +3526,7 @@ menydh,1,,,,
 meowania,1,,1,,1
 meowly_meow_meow,,0,1,1,1
 merane,0,1,1,0,0
-merantang_kota,1,,1,,
+merantang_kota,1,,1,1,0
 mercanta,1,,1,,
 mercaria,1,0,,,
 mercury_poisoning,,,1,,
@@ -3731,7 +3735,7 @@ napiari,1,,,,
 nappucia,,,,,0
 naragia,0,,0,0,0
 naralovian,0,,,,
-narax,,1,,,
+narax,,1,,1,
 nardin,,1,,,0
 nargis,1,0,1,1,0
 narkenia,,1,,,
@@ -3754,7 +3758,7 @@ national_coraland_of_fishery,1,,1,,
 national_republic_of_vietnam,0,0,1,1,0
 national_syndicalist_poland-lithuania,1,0,1,1,0
 nationary,,,,,1
-nationbest,0,1,1,0,0
+nationbest,0,1,1,0,1
 nationeer,1,0,,1,0
 nations_of_canzuk,1,0,1,1,0
 natit_vakkazi,1,0,1,1,1
@@ -4119,7 +4123,7 @@ nova_finis_terrae,1,0,,,
 nova_foundation,1,,1,1,0
 nova_grecia,1,0,1,1,0
 nova_imperial,1,0,1,1,0
-nova_loca,1,1,1,,
+nova_loca,1,1,1,1,0
 nova_mesthuania,1,,,1,0
 nova_moldavia,1,,,,
 nova_paradice,,,1,,0
@@ -4158,6 +4162,7 @@ nublas,1,,,,
 nudityfast,,0,,,
 nueva_alta_california,1,0,1,1,0
 nueva_zulia,,,0,,
+nuevo_albuquerque,,,,1,0
 nuevo_gran_colombia,,0,,,
 nukerida,1,0,0,0,1
 nulkia,1,0,1,1,0
@@ -5364,7 +5369,7 @@ somalonsne,,,1,,0
 someseni,1,1,1,1,0
 something_random,,,1,,
 somethingish,,,1,,1
-somewheresave,,,0,,0
+somewheresave,,,0,1,0
 sommath,,1,1,1,0
 somniarieta,,,1,,0
 sonadie,,0,,,
@@ -6055,7 +6060,7 @@ the_shadow_fold,1,,1,,
 the_shaymen,1,0,1,1,0
 the_silly_billys,,,1,,
 the_silver_archipelago,,1,,0,0
-the_sinclarian_provinces,1,,,,
+the_sinclarian_provinces,1,,,1,0
 the_sinistress,0,1,0,1,0
 the_sith_eternal,,0,,,
 the_smoking_peanut,,,0,1,0
@@ -6372,7 +6377,7 @@ ufnationale,0,1,0,,1
 uga_bug,,1,,,
 ugansk,,,,1,1
 ugrald,,,1,,
-ugric-finnish,1,0,,,
+ugric-finnish,1,0,,1,
 ujedinjene_pokrajne_ilirske_i_slavenske,0,,0,0,0
 ukijistan,,0,1,,
 ukrainian_soviets,,,0,,
@@ -6456,6 +6461,7 @@ united_socialist_islands_of_aerospatiala,1,0,,,
 united_socialist_northern_states,,,1,1,0
 united_socialist_states_of_the_ussr,1,0,1,1,0
 united_sorbia,1,1,,,
+united_southern_nations,,,,,0
 united_soviet_american_states,1,1,,,
 united_soviet_states_and_provinces,1,,1,,
 united_states_of_alpha,0,1,0,1,0
