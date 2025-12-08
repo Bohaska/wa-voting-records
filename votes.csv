@@ -1887,7 +1887,7 @@ fornholm,1,,,1,0
 forsakened_acheron,1,,,,
 fortitudo_et_unitas,,0,,,
 fortovia,1,0,1,1,0
-fortsville,,0,1,,0
+fortsville,,0,1,1,0
 foruda,,,,1,0
 forwerpen,0,,,,
 fosean,1,0,1,,
@@ -1902,7 +1902,7 @@ fractalnavel,1,0,1,1,
 fragevereyland,,0,1,1,1
 frallissist,,,1,,
 francanada,0,1,0,0,0
-franceeurope,,1,0,,
+franceeurope,,1,0,0,1
 frankiemania,1,1,1,1,0
 fransmany,0,1,0,0,0
 frantion,,,1,1,1
@@ -2894,7 +2894,7 @@ khushybushytushy,,0,1,,1
 kianland,1,0,1,1,0
 kidderminster,,,1,1,0
 kietros,1,1,1,1,1
-kiisula,1,,,,
+kiisula,1,,,1,
 kikaizen,,,,1,0
 kilichloom,0,1,1,1,0
 killiani,0,1,1,0,0
@@ -2970,7 +2970,7 @@ kombinita_socialisma_demokratio,,,0,,
 komuna_del_simys,,,,1,0
 komunno,0,0,0,,
 komyounists,0,1,,0,1
-konark,1,0,,,
+konark,1,0,,1,0
 kond_mex_ethostorgel,1,0,1,1,0
 kondausia,1,,,,
 konigsland,,1,,,
@@ -3054,7 +3054,7 @@ kupolaber,1,,1,0,
 kurechia,0,,,0,0
 kurohana_teikoku,1,0,,1,0
 kuroluce,0,,0,,
-kurranulla,1,0,1,,0
+kurranulla,1,0,1,1,0
 kurst,1,,,,
 kurukita,0,,,,
 kurzbestonn,,,1,1,0
@@ -3523,7 +3523,7 @@ memestw,1,0,1,1,0
 mendevia,0,1,0,0,0
 menira,,0,,,
 menorica,,0,1,,
-mentar,0,1,1,,1
+mentar,0,1,1,0,1
 menydh,1,,,,
 meowania,1,,1,,1
 meowly_meow_meow,,0,1,1,1
@@ -3997,7 +3997,7 @@ nishikaigan,,0,,,
 nistriabar,1,0,1,1,0
 nitropol,0,,,,
 nittany_hollow,,,1,1,0
-nivloria,,1,,,
+nivloria,,1,,1,0
 nizamiyah,,,0,0,0
 nizar_kindom,,,1,1,0
 no_freedom_and_war_land,,0,,,
@@ -4239,7 +4239,7 @@ ogabooga_land,,,1,,0
 ogaku,1,0,,,
 oganing,1,1,1,1,0
 oghuz-yabgu_republic,0,,,,
-ogomia,,,1,,
+ogomia,,,1,1,1
 ohga_bohga_unga,,,1,1,0
 ohioianss,1,,1,,
 oigni,,,1,1,0
@@ -4309,7 +4309,7 @@ osimiria,,,0,,
 oslana,1,0,1,,0
 oslo_republic,0,,,,
 osnauria,1,1,,,
-ossomone,1,1,,,
+ossomone,1,1,,1,0
 ostanisa,1,0,1,1,0
 oster-bayern,,,,0,
 ostermark_prussia,0,0,1,,
@@ -4384,7 +4384,7 @@ paradise_and_zion,1,0,1,,
 paradystopia,1,1,0,1,0
 parasiitti,,,1,,1
 paremont,,0,,,
-parkplace,,,1,,
+parkplace,,,1,1,0
 parnumaa,1,0,,,
 paronia,1,,,0,
 parozia,1,1,0,1,0
@@ -4917,7 +4917,7 @@ roylaii,1,1,1,1,0
 roznepal,1,,,,
 rpra_techcorp,,,0,,0
 rtsin,1,1,1,1,0
-ruairia,1,1,,,
+ruairia,1,1,,1,0
 ruaun,1,1,1,1,1
 rubaca,,1,,,
 rubarious,,,1,1,0
@@ -5129,7 +5129,7 @@ seeker_alpha,0,0,,,
 seenvorland,,0,1,1,0
 seeri_ouslee_ill,,0,1,,0
 sefat,1,1,0,1,0
-segatamoa,0,1,0,,0
+segatamoa,0,1,0,0,0
 segenipe,,,0,,1
 selachimorphas,,,1,,
 selagra,,0,1,,
@@ -5184,6 +5184,7 @@ shamrock_valley,,,,1,0
 shanaka,,1,1,1,0
 shandorians,1,,,,
 shardventoria,1,,,,
+shareholder-paradise,,,,1,1
 sharkii,1,,,,
 shattered_cascadia,1,0,1,,0
 shavare,,0,,,
@@ -5530,6 +5531,7 @@ steinbaun,1,0,,,
 steinwald,,,0,,
 stella_dragon,1,,,,
 stellar_colonies,1,,1,,0
+stellar_sea_cow,,,,1,1
 stendania,0,1,1,1,1
 stephine21,,0,,1,0
 sternburg,,0,0,,
@@ -6506,6 +6508,7 @@ urirela,1,1,,,
 urlaska,,1,0,1,0
 urothermom,0,,,,
 ursida,,0,1,,
+ursoland,,,,1,0
 urttha,1,,,,
 urukian,1,1,,,
 urunk_helia,1,,,,
