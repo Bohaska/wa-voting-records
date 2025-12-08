@@ -492,7 +492,7 @@ australian_free_states,0,,0,,
 australian_state_of_anarchy,,1,,,
 austrasul,1,,0,,
 austria_swiss_germania,,1,0,,
-austriax,1,0,1,,0
+austriax,1,0,1,1,0
 ausweichenzo,1,0,1,1,0
 autius,,0,1,1,0
 autonomous_anarchist_collectives,1,,,,
@@ -574,6 +574,7 @@ bankowiata,1,1,1,1,0
 bannba,1,0,1,1,0
 banstria,1,,,1,0
 barbara_howard,1,,1,,0
+barcovia,,,,1,1
 bardonia_islands,1,1,,,
 bareu,1,1,1,1,0
 barfleur,0,,,,
@@ -732,7 +733,7 @@ bodusse,1,,,,
 bodyn_land,,,1,1,0
 bogi_smerti_i_razrusheniya,1,,,,
 bogonto,,,1,,1
-bohem,,,0,,
+bohem,,,0,1,0
 bohenia,0,0,1,1,0
 bohol,,0,,0,0
 boku_no_pica,,0,,,
@@ -821,6 +822,7 @@ bulgaria-russia,1,0,1,1,1
 bulgaria20230,,,,1,0
 bunisia,1,,,,
 buntergue,0,,,,
+burback,,,,1,
 burg_land,0,0,1,1,0
 burj_al-arab,1,1,1,0,1
 burning_love,,,0,,0
@@ -1046,7 +1048,7 @@ clu,,,1,,1
 clutchpearlia,0,,,,
 clytrat,0,,,,
 cobra_sahara,,0,1,,
-cobrito,,0,,,
+cobrito,,0,,0,0
 cobro_isles,,,,1,0
 coburg-gotha,,,,1,1
 cocktail_waitresses,0,,,,
@@ -1141,7 +1143,7 @@ courtlantis,1,0,,,
 cous_lotoria,,,,1,0
 covant,1,1,1,0,0
 covenentia,1,0,1,1,0
-cow_hunters,1,0,,,
+cow_hunters,1,0,,0,0
 coyn,1,,1,,
 crabunism,1,,,,
 crackerland,,0,,1,1
@@ -1641,7 +1643,7 @@ enfindania,,,1,1,0
 engalin,0,1,0,0,1
 engelhardenia,0,1,,,
 england_1,1,1,1,1,0
-england_scotland_wales_and_north_ireland,1,0,,,
+england_scotland_wales_and_north_ireland,1,0,,1,0
 england_york,1,0,1,,
 englandera,,,1,,
 englandic_state,1,,,,
@@ -1686,7 +1688,7 @@ erzone,,0,,,
 escapitania,0,,,0,0
 eserenya,1,0,1,1,0
 eshastan,,0,,,
-esilondre,0,1,1,,0
+esilondre,0,1,1,1,0
 espanol,,,1,,
 estados_socialistas_independentes,1,0,1,1,0
 estados_socialistas_unidos_de_iberia,1,1,0,1,0
@@ -2938,7 +2940,7 @@ kirkassia,,,,1,0
 kirkeness,,1,0,0,1
 kirrlark,0,,0,1,1
 kiscikanis_askiy,1,,,,
-kisovec,1,0,1,1,
+kisovec,1,0,1,1,0
 kisume_the_bucket_youkai,0,1,0,1,0
 kit_sun,,0,,,
 kitsune_of_tomorrow,,,1,,
@@ -3780,7 +3782,7 @@ nayara,0,0,0,1,1
 nazarrea,,,0,,
 ne-kotikas,,0,1,,1
 ne77misrael,1,,,,
-nea_europa,,0,,,
+nea_europa,,0,,1,0
 nea_kalithea,0,0,1,1,
 nebarro,0,1,0,1,1
 necoland_reborn,,1,,,
@@ -5194,7 +5196,7 @@ sheka,,,1,,0
 shenendoah,1,,,,
 sheppy_the_king,1,0,1,1,0
 sherizia,,0,1,,0
-shiamyi,1,0,1,,0
+shiamyi,1,0,1,1,0
 shibaton,0,1,0,0,0
 shibutani,1,0,1,1,0
 shieldholm,,0,1,,0
@@ -5289,6 +5291,7 @@ sladiane,,0,,,
 slaine_theocracy,1,1,,,
 slashdoom,,,1,,
 slatavia,,,1,,0
+slav_russia_2,,,,1,
 slavagora,0,,,,
 slavel,,,,1,0
 slavic_democratic_nations,0,0,1,1,0
@@ -6233,6 +6236,7 @@ tikikey,1,1,1,1,1
 timao,0,1,0,1,0
 timbolandi,0,1,0,,1
 timbuktia,1,0,1,1,0
+timmo,,,,1,
 tinell,1,0,1,1,0
 tingo_lep_hex,,,0,0,1
 tinhampton,0,1,,,1
@@ -6365,7 +6369,7 @@ tyrassueb,,,0,,
 tyroclausia,1,0,1,1,0
 tyrsbord,1,1,1,1,0
 tystan,1,0,1,0,0
-tyuiopia_2,0,1,0,,
+tyuiopia_2,0,1,0,0,1
 tzafonia,1,0,1,,
 tzechni,1,,,,0
 u_s_eh,,0,,,
@@ -6377,7 +6381,7 @@ ucwsoa,1,,1,1,0
 ueclaya,,0,0,0,0
 uecyhoka,1,,,,
 ueladaria,0,,0,,
-ufafe,,0,1,,0
+ufafe,,0,1,1,0
 ufnationale,0,1,0,,1
 uga_bug,,1,,,
 ugansk,,,,1,1
