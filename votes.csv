@@ -434,7 +434,7 @@ asthara,,0,,,
 astillero,1,0,1,1,0
 astle_gua,1,1,1,1,0
 astol,,1,1,1,0
-astora_isle,1,0,1,,
+astora_isle,1,0,1,1,0
 astra_prime,1,0,1,1,0
 astradia,1,0,1,1,0
 astrea_celestia,1,,,,
@@ -511,6 +511,7 @@ averiss,,,0,,
 averyickan_city,,,,1,0
 aveune_nation,,,,1,0
 avinis,0,1,0,0,0
+avonna,,,,1,0
 awebec,,,1,,
 aweentitante,,0,1,,
 awesome_lesbianland,1,,,,
@@ -633,6 +634,7 @@ berejiklistanian,,0,,,
 bereslavka_soviet,,1,,,
 beriad,1,0,,,
 berica,0,,,,
+berimania,,,,1,0
 berlin_and_hanover,,0,,,
 berlitria,,1,1,,
 bernandium,,0,1,1,
@@ -1607,7 +1609,7 @@ elihapan,,,,1,0
 elisabethshagen,1,1,0,1,0
 elistiria,0,0,1,0,1
 elklan,1,0,1,1,0
-elkremxia,0,,,,
+elkremxia,0,,,0,0
 ellenardia,,1,0,1,0
 ellix,1,,,,
 elltania,1,0,,,
@@ -2106,7 +2108,7 @@ glocks,,,0,1,1
 glom,1,,,,
 gloninian,0,,,,
 gloogloo,,,1,,
-glorious_existence,1,0,1,,
+glorious_existence,1,0,1,1,0
 glorious_land_vegemite,1,0,1,,0
 glorista,,0,1,1,0
 glorpandia,,,0,0,1
@@ -2290,7 +2292,7 @@ haff,,1,,,
 hagastan,,,0,1,
 hai_dao,,1,0,1,0
 haima_empire,,,1,,
-haira,,0,,,
+haira,,0,,1,0
 haldeni,0,0,0,1,0
 halexia,0,,0,,
 halgard,,1,0,1,0
@@ -2864,7 +2866,7 @@ kelesi,,1,,1,0
 kelloggs_cereal,,,,1,0
 kellros,0,0,,1,0
 kelvaros_prime,1,0,1,1,0
-kendell,,0,1,,
+kendell,,0,1,,0
 kennington,0,,0,,
 kent_valley,0,0,1,1,0
 kentes,,1,0,1,0
@@ -3166,7 +3168,7 @@ leintuarth,,0,,,
 leirbriseadh,,,,1,0
 leitvia,,,1,,
 lekzan,,1,0,1,
-lemon_soviet_socialist_republics,0,1,0,,1
+lemon_soviet_socialist_republics,0,1,0,1,1
 lemon_squid,1,,,,
 lemonburgs,,,0,,
 lengwei,,,,1,0
@@ -3368,7 +3370,7 @@ machicujcho,,,,1,0
 macieso,,0,,,
 macworld,0,,,,
 madhonia,,,1,,
-madja_as,1,1,,,
+madja_as,1,1,,1,0
 madjack,0,1,1,0,0
 maeiland,0,,,,
 mafae,1,0,1,,
@@ -3681,6 +3683,7 @@ muad-dib,,0,1,1,0
 mucc,1,,,,
 mueslibar,1,,,1,0
 mujistan,0,1,0,0,0
+mulano,,,,0,1
 mulaonia,1,1,0,0,0
 mulouccello,,1,0,1,0
 multiple_bounty,1,0,1,1,0
@@ -3716,7 +3719,7 @@ naf_naf,1,0,1,,
 nafoland,0,1,0,0,1
 nagakara,,,1,1,0
 nagakawa,1,1,1,1,0
-nagorathia,,,1,,
+nagorathia,,,1,1,1
 naguaren,1,,1,,
 nahrashur,,,0,,
 nairland,1,0,1,,
@@ -4035,7 +4038,7 @@ nordrea,1,,,,
 nordrune,,0,,,
 nordurstjarna,0,1,0,0,0
 norg_brostikia,1,,,,
-nori_dratourat,0,1,0,,0
+nori_dratourat,0,1,0,1,0
 norim_selen,,,,1,
 norland_angre,1,0,0,,0
 nortallius,0,0,1,0,1
@@ -5032,7 +5035,7 @@ sanctum_terra,1,0,1,1,0
 sandriin,1,,,,
 sanfrantasia,,,1,,1
 sangrinaria,0,0,1,1,0
-sanguistan,0,0,1,,0
+sanguistan,0,0,1,1,0
 sanjurika,,,,1,0
 sankt-adalbertian_states,1,0,1,1,0
 sanmorgranaria,1,1,1,1,0
@@ -5536,7 +5539,7 @@ stevist_guam,,0,1,1,0
 sti_vismana,1,1,1,1,0
 stickofark,1,0,1,1,0
 stigya,0,,,,
-stiliyan,,0,,,
+stiliyan,,0,,1,0
 stilvanos_solitarius,,,0,,
 stocial_toldac,,1,,1,0
 stonewall720,0,,1,0,0
@@ -5676,7 +5679,7 @@ tasmania_and_bass_strait,0,,,,
 tastos_mids_say,0,,,0,1
 tatalia-nkisi,1,1,1,,
 tataryanstan,,0,,,
-tatrum,0,,,,
+tatrum,0,,,1,1
 taurid,1,0,1,1,0
 taurus94,,,1,,
 tavalia,1,1,1,1,0
@@ -6746,6 +6749,7 @@ wanoria,1,,1,1,
 wansul,,1,,,
 war_capital,,,,1,0
 war_dogs_wa,,,1,1,0
+war_parties,,,,1,0
 war_stanoster,,,,1,0
 warays,1,0,1,1,0
 warden,,0,,,
@@ -6797,7 +6801,7 @@ west_sakeroreme,,0,,,
 west_spankyton,,1,,,
 western_arba_fir,1,0,1,1,0
 western_equenordeno,,,1,,
-western_forestria,0,1,0,,
+western_forestria,0,1,0,0,0
 western_hatiagingtorldur,1,1,1,1,0
 western_isles_of_denmark,0,,,,
 western_osowiec,1,,,,
@@ -6823,7 +6827,7 @@ whole_foods_market,,1,,,
 whyworld,,1,1,0,1
 wickedly_evil_people,1,0,1,1,0
 wigmar,,,,1,0
-wijaya_arama_hayuning_kuncaraningrat,0,1,0,,
+wijaya_arama_hayuning_kuncaraningrat,0,1,0,1,1
 wileyshire,,,0,0,0
 wilhelma_and_the_flanfairs,,,,1,0
 wilhelmsstadt,0,1,1,,0
