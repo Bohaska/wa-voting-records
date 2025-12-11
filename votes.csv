@@ -912,7 +912,7 @@ caladonne,1,0,1,1,0,0,1
 caldrien,1,,,,,,
 caleriland,0,,1,1,,0,
 calicov,0,0,0,0,0,0,0
-californaia,,1,1,,,1,
+californaia,,1,1,,0,1,1
 california_and_oregon,0,,,,0,,1
 calivane,,,,1,,0,
 callovia,1,0,1,1,0,0,1
@@ -983,7 +983,7 @@ cat_is_cool,1,,,,,,
 cat_is_empire,1,0,1,,,,
 catacorpo,1,1,0,,,0,
 catalapse,,,1,,,,
-catalyst_of_social_discontent,1,0,1,1,,1,
+catalyst_of_social_discontent,1,0,1,1,0,1,0
 catcom,1,0,1,1,0,1,1
 cathayan_peoples,,1,1,,,,
 catholics_people,1,1,0,,0,0,1
@@ -1497,6 +1497,7 @@ dogenational,,0,0,,,0,
 dogteeth,1,,,,,,
 dojestan,0,,,,,,
 dolayasia,,,,,0,,1
+dolba,,,,,0,,1
 dolomitia,,,,1,,,
 domais,,0,1,,,,
 domas,0,0,1,1,,0,
@@ -1545,7 +1546,7 @@ dravastan,,,,1,0,,
 draween,1,0,1,1,,0,1
 drawkland,1,0,1,1,0,0,1
 dreadton,,0,1,1,1,0,0
-dream_fortress,0,0,,,,1,
+dream_fortress,0,0,,,1,1,0
 dreamers_for_hope,1,0,,,,,
 dregonia,,0,,,,,
 dregs_of_the_earth,1,0,1,1,0,0,1
@@ -1635,13 +1636,13 @@ east_sternwich,0,1,1,1,0,1,0
 east_thule,1,1,1,1,0,0,1
 east_tosand,,1,,,,,
 east_vesperia,1,1,1,1,0,0,1
-east_vesta,,1,,,,,
+east_vesta,,1,,,0,,1
 east_wabbinge,1,0,1,,0,,1
 eastamgriumirkialand,1,0,1,1,1,0,1
 eastern_ahadgandenstan,,0,1,0,,0,1
 eastern_alksearia,,,,,0,,1
 eastern_bik_sourgicedka,0,1,0,0,,,
-eastern_doncaster,1,0,1,1,,0,
+eastern_doncaster,1,0,1,1,0,0,1
 eastern_east_korea,,,,,0,,1
 eastern_golden_shores,1,0,1,,,0,
 eastern_grasslands,,1,,1,0,0,1
@@ -1746,6 +1747,7 @@ eloscape,1,1,1,1,0,,1
 elucubria,0,1,0,,0,1,1
 elwher,1,0,1,1,1,0,0
 elyaria,1,0,1,1,,0,
+elyia,,,,,0,,1
 elysium_montes,1,,1,1,,,
 emeseses,,1,,,,,
 emmovakia,0,,,,,,
@@ -2539,7 +2541,7 @@ henrik_p,1,,,1,0,,0
 henry_is_the_goat,,,1,,,,
 her_excellency,1,,,,,,
 her_majesty_queen_victoria,,,1,1,0,0,1
-her_malue,1,1,0,0,,1,1
+her_malue,1,1,0,0,0,1,1
 herconia,0,,,,,,
 hereditas,1,,,,,,
 herfenzir,1,0,1,1,1,1,1
@@ -3627,7 +3629,7 @@ magna_mediterranea,0,1,0,0,,,
 magna_parva,0,,,,,,
 magnaformia,1,0,1,1,1,0,1
 magnitka,0,1,0,1,1,1,0
-magnus_imperium_atlanticum,1,0,1,1,,0,1
+magnus_imperium_atlanticum,1,0,1,1,0,0,1
 magrusa,1,0,1,,,,
 mahdiyoun,,,,1,,0,
 mahknovistchina,0,1,1,1,1,0,1
@@ -3967,6 +3969,7 @@ mypussy,,,,1,0,1,1
 myra_nortan,,,,,0,,1
 myran,,0,1,1,0,,1
 mysan_land,,,,,0,,1
+myschinba,,,,,0,,1
 mystris,1,0,1,1,0,0,1
 mythoania,1,1,1,1,,0,
 n0bia,,1,1,1,0,1,1
@@ -4689,7 +4692,7 @@ paradystopia,1,1,0,1,0,0,1
 paranavyel,,,,1,,0,
 parasiitti,,,1,,,1,
 paremont,,0,,,,,
-parkplace,,,1,1,,0,
+parkplace,,,1,1,0,0,1
 parnumaa,1,0,,,,,
 paronia,1,,,0,,,
 parozia,1,1,0,1,,0,
