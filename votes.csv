@@ -10,6 +10,7 @@ nation_id,varanius_1758501414,tinhampton_1758643240,cretox_state_1758860435,cret
 0cala,1,0,,1,,0,
 0ppressastan,,,1,,,,
 1-502nd_airborne_inf,,0,,,,,
+118_elements,,,,,0,,1
 11_templar_knights,0,1,1,1,0,0,1
 132nd_chad_division,,,1,1,,0,1
 1ammok,,0,,,,,
@@ -977,7 +978,7 @@ castle_in_confidence,1,,1,,0,,1
 castrolaysia,1,1,1,1,,0,1
 castroreale,0,,,0,,0,
 castuna,,1,0,1,,0,1
-cat_army,1,0,1,1,,0,
+cat_army,1,0,1,1,0,0,1
 cat_is_cool,1,,,,,,
 cat_is_empire,1,0,1,,,,
 catacorpo,1,1,0,,,0,
@@ -3164,7 +3165,7 @@ kolher,1,0,,,,,
 kolistri,0,0,1,1,,0,
 kombdillistan,,0,,,,,
 kombee,,0,,,,,
-kombinita_socialisma_demokratio,,,0,,,,
+kombinita_socialisma_demokratio,,,0,,0,,
 komminause,,,,1,,0,
 komuna_del_simys,,,,1,,0,
 komunno,0,0,0,,,,
@@ -3200,6 +3201,7 @@ korotis,1,1,1,1,0,0,1
 koroto,,0,1,1,,0,
 korumos,1,0,1,1,0,0,1
 korvenska,1,0,,,,1,
+koseowonn,,,,,0,,1
 kosi-chan,,,,,0,,1
 kosova,1,1,1,,,,
 kossack,,,,1,0,0,1
@@ -3410,7 +3412,7 @@ lesser_michigan,,,1,1,1,0,
 letona,1,,0,,,,
 letrea,,,,0,,,
 lettucetan,,0,1,1,,0,
-leucite,,,,,,0,
+leucite,,,,,0,0,1
 leukantis,1,,,,,,
 leuzinger,1,0,1,1,0,,
 leveli,,,,1,0,,0
@@ -3845,7 +3847,7 @@ mirea,,1,0,0,0,1,1
 miryami,,,,,0,,
 misandristan,,0,,,,,
 mishikeland,1,0,1,1,1,1,1
-missyou,,0,,,,1,1
+missyou,,0,,,0,1,1
 mistersap_and_krajola,1,0,1,1,1,0,1
 mistken,1,0,1,1,0,,1
 mitsurugi,,,,1,,1,
@@ -4161,7 +4163,7 @@ new_listenbourg,1,1,1,1,0,0,1
 new_luciannova,,,,,1,,1
 new_luxia_pluvinka,0,1,0,,,,
 new_madison,1,0,,1,,0,0
-new_maxta,0,,,,,,
+new_maxta,0,,,,0,,1
 new_mexican_republics,1,0,0,,0,,0
 new_mizpah,1,0,1,1,0,1,1
 new_moldovan,,,,1,,0,
@@ -4279,7 +4281,7 @@ noders,1,0,1,1,0,0,1
 noele,,,,0,,,1
 noeth_selecals,1,1,1,1,0,0,1
 noevgorod,1,,,1,,,1
-nolrem,,,,,0,0,0
+nolrem,,,,,0,0,1
 nomaur,1,1,1,1,0,0,1
 non-believers,0,0,1,1,0,0,0
 non_opresive_german_empire,,,,,,1,
@@ -5771,7 +5773,7 @@ south-central_rhodesia,1,0,,,1,,1
 south_baba,,,0,,,0,
 south_boston_irishmen,1,1,1,1,0,0,1
 south_danzig,,0,1,1,0,0,1
-south_helvetia,,0,,1,,,1
+south_helvetia,,0,,1,1,,1
 south_hogantopia,,,1,0,,1,
 south_london,,,,1,,,
 south_merkopa,,,,1,0,0,1
@@ -5974,6 +5976,7 @@ sunromath,0,,,,,,
 sunseong,,,0,,,1,
 sunset_dawn,,,,1,1,0,1
 suomaajland,,,,1,,,
+supa_country,,,,,0,,1
 super_3arth,1,0,1,1,0,,1
 super_democria,1,1,1,1,,0,
 super_duper_deluxe_awesome_land,,,1,,0,,1
@@ -6267,6 +6270,7 @@ the_florida_national_front,1,0,1,1,1,0,1
 the_flyin,,1,,,,,
 the_forces_of_humanity,1,0,,,,,
 the_forish,,,,1,0,,1
+the_former_democratic_nation_of_melita,,,,,0,,1
 the_founding_citadel,,,1,,,,
 the_four_hills,,,0,0,0,1,0
 the_fourth_government_of_lassean,1,,,,,,
@@ -7037,7 +7041,7 @@ vayana,,,,1,0,,1
 vazieli,,0,1,0,,0,
 veelania,1,1,,1,,0,
 vegaga,1,0,0,0,0,0,0
-veksar,1,,1,1,,0,1
+veksar,1,,1,1,0,0,1
 vela_land,,1,,,,,
 velandrome,,,1,,,,
 velanithia,,0,,,,,
@@ -7153,7 +7157,7 @@ volletnia,1,1,,1,,0,
 volnovareach,,,1,,,,
 vologria,,,,1,,1,
 volshka_bulgaria,,,,0,,0,
-voluja,1,,1,,,,
+voluja,1,,1,,0,,1
 vonstania,,0,,,,,
 voopmont,1,,1,1,1,0,1
 vorelis,,,1,1,,1,
@@ -7479,7 +7483,6 @@ zantiom,1,1,1,1,0,0,1
 zany_zanes,1,0,,,0,,
 zaphora,1,,1,0,,,1
 zarbirea,1,0,1,1,0,,1
-zarya-diomedes,,,,,1,,
 zarzija,,0,,,,,
 zavea,1,0,1,1,1,0,1
 zavrixian,,1,0,0,0,0,
