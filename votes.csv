@@ -892,7 +892,7 @@ brunyxia,,1,0,0,1,1,0
 brurania,,,0,,,0,
 brwanda,,1,0,1,0,0,1
 bryanska,,1,,,,,
-bubbaxtrump,1,,1,,,0,
+bubbaxtrump,1,,1,,0,0,1
 budulandia,,,1,,,,
 bueszqostan,,,,1,,0,
 buewye,,,,,,,0
@@ -998,6 +998,7 @@ cat_is_cool,1,,,,,,
 cat_is_empire,1,0,1,,,,
 catacorpo,1,1,0,,,0,
 catalapse,,,1,,,,
+cataloguia,,,,,0,,0
 catalyst_of_social_discontent,1,0,1,1,0,1,0
 catcom,1,0,1,1,0,1,1
 cathayan_peoples,,1,1,,,,
@@ -1024,7 +1025,7 @@ ceni,,1,0,0,0,0,1
 centas,1,0,1,1,1,0,0
 centerlized_council_of_union,,,,,0,,1
 centeropland,,,,1,0,,1
-central_africa_and_the_congo,1,0,,,,,
+central_africa_and_the_congo,1,0,,,1,,0
 central_amazon,,0,,,,,
 central_european_commission,,0,,,,,
 central_european_powers_22,,,,1,,,
@@ -1081,7 +1082,7 @@ chikyu,,,,,0,,1
 chilikia,,,,1,0,,1
 chilledsville,0,1,0,,,,
 chillicothe,0,0,0,1,0,0,1
-chillin,,0,,,,,
+chillin,,0,,,0,,1
 china_reclamation_government,0,1,0,0,,0,
 chinchouk,,1,0,,,,
 chinesasia,1,0,,,,,
@@ -1490,7 +1491,7 @@ dinosauriaa,,,0,,,,
 dinosors,1,,,,,,
 diocean_school,,1,1,1,0,0,1
 diogo_alves,,1,,,,,
-diollo,0,0,1,,,,
+diollo,0,0,1,,0,,1
 dionysian,,,,,0,,1
 dioswania,,0,,,,,
 diplomatic_delegation_of_hrrdn,,,1,,,0,
@@ -2047,7 +2048,7 @@ forcaforta,,1,,,,0,
 forfishing,1,1,1,0,0,0,1
 forgawik,1,1,0,0,0,1,
 forgin,,,,,,0,
-forgoriton,1,,,,,,
+forgoriton,1,,,,0,,1
 forgotten_beauty,0,,,,,,
 forio,1,1,,0,0,,
 foritehland,1,0,1,1,0,,
@@ -2321,7 +2322,6 @@ gonthavnor,0,,,,,,
 goodnessforall,,,1,1,0,1,0
 goofsvillia,1,0,1,1,0,0,1
 gooncaveohiosigma_of_the_balkan_rage_man,,,1,,,1,
-goonia_plus_sillian,,,,,0,,1
 goontham,1,0,,,,,
 goose_cove,,,,,0,,
 gorbachev_kissers,1,,1,1,,1,1
@@ -2378,7 +2378,7 @@ great_britain_and_her_overseas_territory,,,1,1,,0,
 great_britain_and_ireland_ns,1,1,1,1,0,0,1
 great_clucky,1,1,1,1,0,0,1
 great_drakite,,,0,,,,
-great_eurasia,1,,,,,,
+great_eurasia,1,,,,0,,1
 great_insurgia,,1,,0,,,
 great_jameston,0,0,1,0,1,0,1
 great_karken,1,,,,,,
@@ -2391,7 +2391,7 @@ great_minwas,0,0,1,1,0,0,1
 great_orange_pochita,,0,,,,,
 great_ren,1,,,,,,
 great_republic_of_australian,0,,,,,,
-great_schwarzburg,,0,,,0,,
+great_schwarzburg,,0,,,0,,1
 great_usonia,0,,0,1,0,0,1
 great_vankor,,,0,,0,,
 great_welshland,,,1,,,,
@@ -3093,7 +3093,7 @@ kazimeriz,,,1,0,0,0,1
 kazjaqueos,,,,1,,0,
 kazmor,,1,1,,,,
 kealing,,,0,,,,
-kebecois,1,,,,,,
+kebecois,1,,,,0,,1
 kediya,,1,,,,,
 keep_humble,1,0,0,1,,1,1
 kehudia,1,0,1,0,1,0,1
@@ -3169,7 +3169,7 @@ kingdom_of_rija,,0,,,0,,1
 kingdom_of_romar,1,,,1,,0,
 kingdom_of_shay,,1,,,,,
 kingdom_of_the_focke-wulf_islands,1,0,,1,1,1,1
-kingdom_of_urus,,,,,,,1
+kingdom_of_urus,,,,,0,,1
 kings_of_kings,1,1,1,1,,0,1
 kingsbrew,1,,0,,0,,
 kinsantinsuyu,1,1,,,,,
@@ -3628,7 +3628,7 @@ luxlein,,,,1,,0,
 luziferisch_reich,1,,,,,,
 lyariona,1,0,1,0,0,0,1
 lyberzia,1,,,,,,
-lybise,,0,,1,,0,
+lybise,,0,,1,0,0,
 lycand,1,0,1,1,,0,1
 lycetaria,,,1,1,,0,
 lycori,,1,1,,0,0,1
@@ -3728,7 +3728,7 @@ maricela_gutierrez,,,,1,0,,
 marielan,,,,1,,0,
 marijoaa,,0,1,1,0,0,1
 marina_baixa,1,1,1,1,0,1,1
-marinian_states,0,1,1,,,0,
+marinian_states,0,1,1,,0,0,1
 maritzal,1,0,0,1,0,0,1
 mark,,,1,,,,
 markanista,1,0,1,1,0,0,1
@@ -3822,7 +3822,7 @@ mercanta,1,,1,1,,0,
 mercaria,1,0,,,,,
 mercury_poisoning,,,1,,0,,1
 mercuwury,,1,1,,,,
-meridialand,0,0,1,1,,0,
+meridialand,0,0,1,1,0,0,1
 merijnteren_empire,0,1,,0,0,0,0
 meritolia,,,,,0,,1
 merkova,,,1,1,,0,1
@@ -5287,6 +5287,7 @@ romano_tomango,,,,1,,,
 rombat,1,1,1,1,0,0,1
 rome_ruzalls,0,,,,,,
 romerokistan,1,,,,,,
+romlania,,,,,0,,1
 romullus,1,0,1,,,,
 ronaldan,0,1,1,0,0,0,1
 rongorongo,1,0,1,1,1,0,1
@@ -5469,6 +5470,7 @@ sanvi_theed,,,0,1,0,0,
 sao-paulo,0,1,0,0,0,0,1
 saperetia,1,,1,1,0,0,1
 saphman,1,0,1,1,0,0,1
+sapireaskanda,,,,,0,,
 sapnupuas,0,1,1,1,0,0,1
 sapphica_sororitas,1,,1,1,1,0,1
 saradina,,,0,,,,
@@ -5945,7 +5947,7 @@ st_scarlett,0,1,0,1,0,1,0
 st_stephen_n_critters,,,,0,0,,
 staffon,,,1,1,0,0,1
 stafftopia,0,0,0,1,0,1,0
-stag_industries,1,,1,1,,0,0
+stag_industries,1,,1,1,0,0,0
 staidear,1,,,1,0,0,
 stakovia,,0,,,,,
 stal_valley,1,0,1,1,0,0,1
@@ -6106,7 +6108,7 @@ syntaris,1,1,0,0,0,1,1
 syntaros,1,0,1,1,0,0,0
 synthellia,,,1,,,0,
 synthenos,1,0,1,,,0,
-synthetic_sovereign_state,,,1,,,,
+synthetic_sovereign_state,,,1,,1,,0
 syranthial,1,1,0,1,0,1,1
 syren_empire,1,0,1,1,,1,0
 szentia,0,0,1,0,0,1,1
