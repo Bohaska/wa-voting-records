@@ -150,7 +150,7 @@ alder_alderaan,,0,1,1,,0,1
 aldlandia,,1,1,1,0,0,1
 aldub_nation,,1,,,,,
 aleandia,,,0,,,,
-alentejo_and_algarve,,0,,,1,,
+alentejo_and_algarve,,0,,,1,,0
 alesina,1,1,1,1,0,0,1
 aletz,1,,1,1,0,0,1
 alexandria-hyperion,0,1,0,0,0,0,1
@@ -328,7 +328,7 @@ antoraska,,,1,,,,
 anuadh,0,1,1,1,1,0,0
 anuahrfscdurbfced,,,1,1,0,0,1
 anunnakidraco2,1,0,1,1,,0,1
-anuriv,1,0,1,0,,0,1
+anuriv,1,0,1,0,0,0,1
 anxious_and_kevin,,,0,,,,
 ap3_10,,,,,0,,
 apalea,,,,1,0,,1
@@ -634,6 +634,7 @@ barcovia,,,,1,0,1,1
 bardonia_islands,1,1,,,,,
 bareu,1,1,1,1,,0,1
 barfleur,0,,,,,,
+barishka,,,,,1,,1
 barredo,1,0,1,1,0,0,1
 barrnary,,0,1,1,,0,
 barrow_cove,,,,,,,1
@@ -1670,6 +1671,7 @@ eastern_alksearia,,,,,0,,1
 eastern_bik_sourgicedka,0,1,0,0,0,,
 eastern_doncaster,1,0,1,1,0,0,1
 eastern_east_korea,,,,,0,,1
+eastern_fistanka,,,,,0,,0
 eastern_golden_shores,1,0,1,,,0,
 eastern_grasslands,,1,,1,0,0,1
 eastern_kodiak,0,,,,,,
@@ -1700,7 +1702,7 @@ economy_stimulators,0,1,0,1,,1,1
 ectovoid,,0,1,,0,0,1
 edelham,0,,,1,,0,
 edelweissia,,,0,,,,
-edenhold,0,0,1,,,,
+edenhold,0,0,1,,0,,
 edgerladraysteanoust,0,0,1,1,0,,1
 edgestall,0,,,,,,
 edmosla,1,,,,,,
@@ -1876,7 +1878,7 @@ euna,,,1,1,0,,1
 euraziea,,0,1,1,,0,
 euricanis,1,0,1,1,0,0,1
 eurochina,,,1,,,,
-europan_union,1,,,,,,
+europan_union,1,,,,0,,1
 europatale,,,,1,,,1
 europe_or_eur,0,1,0,0,0,0,1
 european_demokratische_republik,,1,0,,,1,
@@ -1960,7 +1962,7 @@ fauxia,,,1,1,0,0,1
 favenland,0,,0,0,0,,0
 faxtroot,,,1,0,0,1,1
 feausi,1,,1,,,,
-federal_gooberville,,,,,0,,
+federal_gooberville,,,,,0,,1
 federal_of_velmoria,1,1,1,1,0,0,1
 federal_republic_of_whangarei,1,0,,,,,
 federal_states_of_freedom,,,1,,,,
@@ -2345,7 +2347,7 @@ gran_patria_de_las_antillas,1,1,,,,,
 gran_valor,1,,1,1,0,1,1
 grand-turinia,,1,0,,0,0,
 grand_amazonas,,,,0,,1,
-grand_avaritia,0,1,1,1,,1,
+grand_avaritia,0,1,1,1,0,1,1
 grand_duchy_of_gracia,,,1,1,0,0,1
 grand_duchy_of_harrence,0,,,,,,
 grand_duchy_of_rile,1,0,1,1,0,1,1
@@ -2591,7 +2593,7 @@ heroica,1,0,0,0,0,0,1
 heroin_abuse,,,,0,,0,
 heromerland,1,,,,,,
 hertfordshire_and_jammbo,1,0,1,1,,0,
-herya,0,0,0,,0,0,0
+herya,0,0,0,,1,0,0
 hesker,1,1,0,0,0,1,1
 hespelo,1,0,1,1,0,0,1
 hesskin_empire,0,0,1,1,,0,0
@@ -2981,7 +2983,7 @@ jixastan,,,0,1,1,0,1
 jjustice,1,1,1,1,,0,
 jliang,1,0,1,1,0,0,1
 jmp,,,1,,,,
-joaquinis_crescenti,1,0,1,1,,0,
+joaquinis_crescenti,1,0,1,1,0,0,1
 joarakland,,,,1,,,
 joda,0,1,0,1,1,0,1
 jodia_pr,1,,,,,,
@@ -3040,6 +3042,7 @@ kamazotz,0,1,0,0,0,,1
 kamikar,,,1,1,0,0,1
 kanaha,1,0,,1,0,,1
 kanashia,0,0,1,1,0,0,0
+kanay,,,,,1,,1
 kanglzon,,1,0,0,,,1
 kannae,1,0,1,1,0,0,1
 kanokla,,0,,,0,,
@@ -3065,14 +3068,14 @@ karlos,,,0,,,,
 karlsburgh,,,,,0,,1
 karma_pirate,1,1,0,0,0,0,
 karmalija,,,1,1,0,0,1
-karmosora,1,0,,1,,0,
+karmosora,1,0,,1,0,0,0
 karnica,1,,,,,,
 karnith,1,1,,1,,0,
 karnovgrad,1,0,1,1,1,0,1
 karsdas,1,0,1,1,0,0,1
 karsinnia,,,0,1,,0,1
 karsovkya,1,0,1,1,0,0,1
-kartan,,,,1,,0,1
+kartan,,,,1,0,0,1
 kartauistan,,0,,,,,
 karthik,,1,,1,,0,
 karvadar,1,0,0,,0,0,0
@@ -3158,7 +3161,7 @@ kinanland,1,0,1,1,0,0,1
 kinbloc,0,1,0,0,,1,
 kincones,,,,1,,0,
 kindjal,0,1,0,0,0,1,0
-kineaux,1,0,1,1,,0,
+kineaux,1,0,1,1,0,0,1
 king_noah,1,,1,,0,0,1
 king_of_urbino,1,0,1,1,1,0,1
 king_rankmore,1,,,,,,
@@ -3807,7 +3810,7 @@ mediobogdum,1,0,1,1,0,0,0
 mediternia,,0,,,,,
 mediterrainia,,,1,,,0,
 medvefold,1,1,1,1,0,0,1
-mega_jorts,,,,0,,0,1
+mega_jorts,,,,0,0,0,1
 mehmetliler,1,,,,,,
 meino,,0,,,,,
 mejor_estado,,0,,,,,
@@ -4688,6 +4691,7 @@ otaxinland,1,,,,,,
 otayo,1,0,1,1,,0,1
 othipsomonus,,,1,,,,
 othonom,1,,,,,,
+otodontidae,,,,,1,,
 otome_and_bl_games,,0,,,,,
 otsur,0,,,,,,
 ottogelle,,,1,,,,
@@ -4781,6 +4785,7 @@ pawlands,1,1,0,,,0,
 pax_russiya,,,1,,,,
 pax_victoria,0,1,1,1,,1,1
 pax_zealandia,0,1,0,0,0,1,1
+paxico_corporation,,,,,0,,1
 pays_cathare,1,1,0,1,0,0,0
 pazamor,1,0,0,0,1,0,1
 pd_kuykendall,,,0,,0,1,1
@@ -5190,7 +5195,7 @@ republic_of_ireland1,1,,,,,,
 republic_of_livonia,1,1,,,,,
 republic_of_pine,,,,1,,0,
 republic_of_priouthia,1,1,1,1,0,0,1
-republic_of_republic_of_dominia,1,0,1,1,,0,1
+republic_of_republic_of_dominia,1,0,1,1,0,0,1
 republic_of_rusiya,1,0,1,0,,,
 republic_of_stevelandia,,,0,,,,
 republic_of_taehyang,,,,1,,,
@@ -5368,6 +5373,7 @@ ruthenia_nova,1,0,0,1,0,1,1
 ruwan_islands,,,,,0,,1
 ruzhinsk,,,,1,,0,
 ruztips,1,0,1,1,0,1,1
+rykerlandia,,,,,0,,0
 rykil,1,,,,,,
 rykkland,,,,,,0,
 rymrgand,1,0,1,1,0,0,1
@@ -5932,7 +5938,7 @@ spinelandia,,,1,,,1,
 spiraltar,,0,,,,,
 spirituality_with_christ,,,,,0,,1
 splandiaa,,,1,,,,
-splena,1,,1,1,,0,1
+splena,1,,1,1,0,0,1
 splotania,0,1,0,,0,,0
 sponge_landia,0,,,,,,
 spooks_basement,1,,0,0,0,,1
@@ -7449,7 +7455,7 @@ woreyland,1,0,1,1,0,0,1
 work_in_progress_kingdom,1,,,0,0,0,1
 workuta_thob,,,1,1,0,0,1
 worlanythorg,,,1,1,0,,1
-world_assembly_administered_territory,,,,1,,,1
+world_assembly_administered_territory,,,,1,0,,1
 wormpeople,0,1,0,1,0,0,1
 woxi,,,,1,,,
 wozmania,0,,,,,0,
