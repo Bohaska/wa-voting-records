@@ -607,7 +607,7 @@ baltikum,1,,,,,,
 balzistan,,0,,,,,
 banaria,1,0,,,,,
 banatiania,1,,,,,,
-banditry,1,1,1,1,,0,1
+banditry,1,1,1,1,0,0,1
 bandivia,0,1,0,0,0,0,1
 bandmor,,,,,0,,1
 bangea,1,0,1,1,0,0,1
@@ -835,6 +835,7 @@ braustrina,0,0,1,0,,0,
 brazen_ii,1,0,1,1,,0,
 brazil_society,,,,,0,,
 breadlandistan,,1,0,0,0,1,1
+break_of_dawn,,,,,0,,1
 brenadin,,,1,1,,,
 brendene,,1,,,,,
 brendon,1,0,1,1,0,0,1
@@ -1009,7 +1010,7 @@ central_africa_and_the_congo,1,0,,,,,
 central_amazon,,0,,,,,
 central_european_commission,,0,,,,,
 central_european_powers_22,,,,1,,,
-central_nation,,,1,,,,
+central_nation,,,1,,,,1
 central_osternia,0,1,1,1,0,,
 central_pacific_lesbos,1,1,1,,,0,
 centralamerika,,1,,,,,
@@ -1745,7 +1746,7 @@ elyaria,1,0,1,1,,0,
 elysium_montes,1,,1,1,,,
 emeseses,,1,,,,,
 emmovakia,0,,,,,,
-emodea,1,,1,,0,0,1
+emodea,1,,1,,,0,
 empire_des_francs,,,1,1,,0,
 empire_great_britain,,,1,0,,0,
 empire_of_atlanta,,,,1,,0,
@@ -1884,7 +1885,7 @@ fadnesia,0,1,0,0,0,0,1
 faeciba,1,1,1,1,0,0,1
 fahazi,,,1,,,,
 fairigone,1,0,0,0,,0,
-fairmount,,,1,,,0,
+fairmount,,,1,,0,0,1
 falangist_quebec,,,0,,,1,
 falcar,,,,,0,,1
 faledano,1,0,,,,,
@@ -2511,7 +2512,7 @@ haz_island,1,0,,,,,
 hearteland,0,1,0,0,0,0,0
 heathershire,1,0,1,1,0,0,1
 heavens_reach,1,0,1,1,,0,
-hebrejinia,,,1,1,,1,
+hebrejinia,,,1,1,0,1,1
 hefenland,,1,,,,,
 heiligiesland,1,0,,,,0,
 heitoria,0,,,,,,
@@ -2782,7 +2783,7 @@ innovaris,1,,,1,0,0,1
 insaig,1,0,1,1,0,0,1
 inseberistan,,0,,,,,
 intaglio,1,1,1,0,0,0,0
-intainia,0,1,0,0,,,
+intainia,0,1,0,0,0,,
 integralism,1,,,1,,,1
 intelectia,1,,,,,,
 intercontinental_order,,0,,,,,
@@ -3252,7 +3253,7 @@ kukinalia,0,1,,,,,
 kukskladia,1,1,1,1,0,1,
 kulaand,1,,,,,,
 kunigsrrock,0,1,0,,,,
-kunskil,1,1,1,1,,0,1
+kunskil,1,1,1,1,0,0,1
 kupolaber,1,,1,0,,,
 kurechia,0,,,0,0,0,1
 kurohana_teikoku,1,0,,1,0,0,1
@@ -3669,7 +3670,7 @@ mardatan,1,,,,,,
 margala,,1,0,0,0,,1
 marggadon,1,1,0,1,0,0,1
 margoria,1,1,1,1,,1,
-mari_vale,1,,,,,,
+mari_vale,1,,,,0,,1
 mariarty,1,,1,,,,
 maricela_gutierrez,,,,1,,,
 marielan,,,,1,,0,
@@ -4179,7 +4180,7 @@ new_republic_of_kastovia,,,,1,,,
 new_resilience,,1,,,,,
 new_roos,0,,,,,,
 new_rustonia,1,1,1,1,,0,1
-new_ryansville,1,0,1,1,0,0,1
+new_ryansville,1,0,1,1,,0,
 new_ryukyu,,,,1,0,0,1
 new_saint_peters,,1,,,,,
 new_salty,0,0,,,0,,0
@@ -4300,7 +4301,7 @@ nordic_aurora,,1,,,,,
 nordiheim,1,1,1,1,0,0,1
 nordinus,1,0,0,0,0,0,1
 nordiv,1,0,1,1,0,0,1
-nordmarck,1,0,1,1,0,1,
+nordmarck,1,0,1,1,0,1,1
 nordrea,1,,,,,,
 nordrune,,0,,,,,
 nordurstjarna,0,1,0,0,0,0,0
@@ -4803,7 +4804,7 @@ pitcairn_empire,1,1,,,0,,1
 pittsica,1,0,,,,,
 pittslandic_territory_of_berninigorod,0,,,,,,
 pizzaifica,0,1,1,1,,1,
-plainest_fields,,,,,0,,
+plainest_fields,,,,,0,,1
 planetmercury,1,0,1,1,0,0,1
 plangainer,1,,,,,,
 plata_basin,,1,,,,,
@@ -5552,6 +5553,7 @@ shibutani,1,0,1,1,0,0,1
 shieldholm,,0,1,,,0,
 shielness,1,0,,1,,0,
 shimmvania,1,,1,,0,1,1
+shinonome2013,,,,,0,,
 shipweck_cove,,,,1,,0,
 shiverian_republics,0,,,1,,0,
 shlabadan,,,,,0,,0
@@ -5653,6 +5655,7 @@ slavel,,,,1,,0,
 slavic_democratic_nations,0,0,1,1,,0,
 slavonia_and_srijem,0,1,0,0,0,,
 slavoniah,,,,1,,0,
+slavosiv,,,,,0,,
 slazia,,0,1,1,,,
 sleepia,1,1,0,1,0,0,1
 slembana,1,1,1,1,0,0,1
@@ -5666,7 +5669,7 @@ slobodovia,1,0,1,1,,0,
 slokoviav,,,,,,0,
 slonful,,0,,0,,0,
 slongs,,0,1,,,0,
-slothville,1,0,1,1,,0,
+slothville,1,0,1,1,0,0,1
 slovanov,0,1,0,,,,
 sloventa,1,,,,,,
 sludgelandia,1,0,1,,0,0,1
@@ -5863,7 +5866,7 @@ st_monans,1,,,,,,
 st_pio,,1,,,,,
 st_saratoga,,,1,,,,
 st_scarlett,0,1,0,1,0,1,0
-st_stephen_n_critters,,,,0,,,
+st_stephen_n_critters,,,,0,0,,
 staffon,,,1,1,0,0,1
 stafftopia,0,0,0,1,0,1,0
 stag_industries,1,,1,1,,0,0
@@ -6363,7 +6366,7 @@ the_leamid_empire,,1,1,1,0,0,0
 the_legendary_republic_of_vortex_users,,,1,,,0,
 the_legionarian_isles,0,,1,,,,
 the_lide_collective,0,0,1,0,0,0,1
-the_lizard_army,1,0,1,1,0,0,1
+the_lizard_army,1,0,1,1,,0,
 the_lowtown_resistance,1,,,,,,
 the_malaysian_tamil_nadu,1,1,1,1,0,0,1
 the_marineri_islands,0,1,,,,,
@@ -6477,6 +6480,7 @@ the_secret_way,1,0,1,1,1,1,0
 the_sernetian_empire,,,,0,,0,
 the_shadow_fold,1,,1,1,,1,1
 the_shaymen,1,0,1,1,0,0,1
+the_silent_gods,,,,,0,,
 the_silly_billys,,,1,,,,
 the_silver_archipelago,,1,,0,1,0,1
 the_sinclarian_provinces,1,,,1,,0,
