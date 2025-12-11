@@ -110,6 +110,7 @@ aina_kuokoa,0,,,1,0,0,1
 aina_pomaikai,1,0,1,1,1,1,1
 ainli,,1,,,,,
 ainslie,0,0,,0,0,0,0
+airengard,,,,,,,0
 airerby,1,1,1,1,0,0,
 aivintis,,,,,,0,
 ajakor,0,0,1,1,0,0,0
@@ -775,6 +776,7 @@ bloni,1,1,1,1,,0,
 blonkulopia,,,,0,,0,
 bloodess,,,1,,,,
 blorpshire,0,0,1,1,,0,1
+blowing_up_the_moon,,,,,0,,0
 bloxian_states,,,,1,,0,1
 bludisia,1,0,1,1,0,0,1
 bludzaria,,,1,1,,0,
@@ -935,7 +937,7 @@ canland_islands,1,,,,,,
 cannense,,,1,1,0,0,1
 cansne,1,0,0,,0,,1
 canturk,,0,1,,,,
-cantuss,0,0,1,1,,0,0
+cantuss,0,0,1,1,1,0,0
 canvania,1,0,1,1,0,0,1
 canvee,1,1,1,,0,0,
 canzik,,1,,,,,
@@ -1460,7 +1462,7 @@ dicko,0,0,0,1,0,0,1
 dictastic,1,,,,,,
 diculle,,,1,,,,
 didt,1,1,1,,0,,1
-die_eusanische_nation,,1,1,1,,0,
+die_eusanische_nation,,1,1,1,0,0,1
 dienendra,,1,,,,,
 dietnham,1,1,1,1,,0,1
 differences-in-differences,0,1,1,,0,0,1
@@ -2076,7 +2078,7 @@ free_socialist_republik_of_novastovia,0,1,0,,,,
 free_stalliongrad,1,0,1,1,0,0,1
 free_state_of_lokix,1,,1,,,,
 free_terra,,1,,,,,
-free_tomsk,,0,1,,,,
+free_tomsk,,0,1,,0,,1
 free_transhumanists,1,1,1,1,0,0,1
 free_turtle,1,0,1,1,0,0,1
 free_uris,0,1,0,1,0,0,1
@@ -2176,6 +2178,7 @@ gandoor,1,1,1,,0,0,1
 garamantia,1,0,1,1,0,0,1
 garaziaopia,,,1,,,,
 garfism,,,1,1,0,0,1
+gargmani,,,,,0,,0
 gargolia,,1,,,,,
 garlanator,1,,1,,,0,
 garmera,,,0,1,,1,
@@ -2405,9 +2408,9 @@ greater_strife,1,1,,1,,,1
 greater_thambarka,1,1,,,,,
 greater_the_niwes_gald,,,1,,,,
 greater_theowherveld,1,,1,,,0,
-greater_twilight_gasa_empire,,,,1,,1,0
+greater_twilight_gasa_empire,,,,1,0,1,1
 greater_tyrosh,1,0,1,1,,1,
-greater_unalia,1,0,1,1,,0,
+greater_unalia,1,0,1,1,0,0,1
 greatest_cheese_empire,,,1,1,1,0,1
 greatest_krevan,,,,,,1,
 greatnessity_city,1,,1,,,,
@@ -2614,7 +2617,7 @@ holy_cascadian_imperium,,0,,,,,
 holy_catheria,1,0,1,1,1,0,1
 holy_empire_of_crisalis,1,0,,,,,
 holy_empire_of_greater_bavaria,1,,,,,,
-holy_gematria,1,0,,,,,
+holy_gematria,1,0,,,0,,
 holy_kale_warriors,1,1,1,1,,0,1
 holy_polish_empire,,,1,1,,,
 holy_prussin_states,1,1,,,,,
@@ -2751,7 +2754,7 @@ imperio_de_castilho,0,1,,,,,
 imperio_estrendor,1,,1,1,,0,
 imperium_anglorum,,0,1,1,0,,
 imperium_corporativum_romanum,1,0,1,1,1,0,1
-imperium_de_hominibus,,1,0,0,,1,
+imperium_de_hominibus,,1,0,0,0,1,1
 imperium_malaya,1,,1,,,,
 imperium_nobilum,1,1,,,,,
 imperium_romae_marii,1,1,1,1,1,0,1
@@ -2922,6 +2925,7 @@ jean_jacket_russell_high_school,1,0,1,0,0,0,0
 jeff_the_god,,,1,,,,1
 jelquopia,,,1,1,1,0,1
 jeltronian_wa_mission,1,,,,,,
+jenthkrill,,,,,0,,
 jeon_jorkad,1,0,,,,,
 jeremian_heights,,1,,,,,
 jermaicia,1,,,,,,
@@ -3184,7 +3188,7 @@ kombdillistan,,0,,,,,
 kombee,,0,,,,,
 kombinita_socialisma_demokratio,,,0,,0,,
 komminause,,,,1,,0,
-komuna_del_simys,,,,1,,0,
+komuna_del_simys,,,,1,1,0,
 komunno,0,0,0,,,,
 komyounists,0,1,,0,0,1,1
 konark,1,0,,1,1,0,
@@ -3739,7 +3743,7 @@ mattville,0,1,0,0,,0,
 maurdea,,0,,,,,
 maurras,1,1,,1,,0,
 mavenu,0,,,1,,,1
-mavilay,1,,,,,,
+mavilay,1,,,,0,,1
 mavros,,0,0,,,,
 mawlor,,,,,,1,
 maximillion,1,0,1,1,0,0,1
@@ -3820,7 +3824,7 @@ mezia,,,1,,,,
 mhmea,1,0,1,1,0,1,1
 mi-din,1,,,,,,
 miaumi,,,1,,,,
-micatis,,,1,1,,0,0
+micatis,,,1,1,0,0,0
 michaliav,1,,,1,,0,
 microwaviington,,,,,0,,1
 midadille_chagin,0,,1,1,,1,
@@ -3980,6 +3984,7 @@ myran,,0,1,1,0,,1
 mysan_land,,,,,0,,1
 myschinba,,,,,0,,1
 mystris,1,0,1,1,0,0,1
+mythicea,,,,,0,,1
 mythoania,1,1,1,1,,0,
 n0bia,,1,1,1,0,1,1
 nabinia,,,,,0,,
@@ -4023,7 +4028,7 @@ nascadia,1,0,1,1,0,0,1
 nasera,,,,,0,,1
 nastrova,1,0,0,1,,0,
 nat_grands,,,,,0,,1
-naterraleh_priais,0,1,0,0,0,1,0
+naterraleh_priais,0,1,0,0,0,1,1
 nathanville,,,,1,,1,
 nathvia,1,0,1,1,,0,
 nation_kingpuma,1,,0,1,,0,
@@ -4227,6 +4232,7 @@ new_union_empire,0,0,1,1,0,0,1
 new_upper,0,1,1,,0,,1
 new_ussr_2,1,0,1,1,0,0,1
 new_vardarland,,1,,,,0,
+new_vaslevia,,,,,0,,1
 new_vatican_of_illuminati,,1,,,,,
 new_vedlar,1,,1,1,0,0,1
 new_villes,,,,1,0,0,1
@@ -4670,7 +4676,7 @@ paideia,,,,1,,,1
 pakitsk,1,0,1,1,0,0,1
 pakozia,1,,,1,,0,
 palastrade,,0,,,,,
-palatan,1,1,,1,,0,
+palatan,1,1,,1,0,0,1
 palatinate_state,,0,,1,,0,
 palaubania,0,,1,1,,0,
 palish,1,,1,1,,1,1
@@ -4686,7 +4692,7 @@ pand_alp,1,0,1,1,0,0,1
 pandaland_ii,,0,1,,0,1,0
 pandesal,,,,0,,1,
 panic_and_stress,,,0,,,,
-panormia,,,1,,,,
+panormia,,,1,,0,,1
 pansnews,0,0,1,1,0,0,1
 pantan,,,,,0,,0
 panthalasa_empirivm,1,,,,,,
@@ -4927,7 +4933,7 @@ principado_blake,1,1,1,0,,1,
 priola,,,,,0,,1
 prodives,1,0,,,,,
 proethiox,,,,,0,,
-professor_thomas,,,1,,,,
+professor_thomas,,,1,,0,,1
 proletarian_technate_of_heimdall,1,1,0,1,0,1,0
 proletariatit,0,1,0,0,1,1,0
 propwash,,,,1,,,1
@@ -4942,6 +4948,7 @@ proud_balkan,0,,1,1,,1,
 prov,0,0,0,0,0,0,1
 providentius,1,1,,,,,
 provisional_union,,1,1,,,,
+prusibourg,,,,,0,,1
 prussia_of_the_balkans,,,,1,,0,
 prussia_republican_kingdom,1,0,1,1,0,0,1
 prussian_socialist_regime,0,0,,0,,0,
@@ -5497,7 +5504,7 @@ sealand_but_better,0,,,,,,
 sealandiaa,,,,1,,0,
 seans,,,,1,,,
 seasworth,,,,,0,,
-seattle_bay,1,1,0,1,,1,0
+seattle_bay,1,1,0,1,0,1,0
 sechs-sieben_democratic_commonwealth,,,,,0,,1
 seclusionalists,1,0,1,1,0,0,1
 second_peenadian,0,1,,,0,0,1
@@ -5563,7 +5570,7 @@ shambhalion,1,1,0,0,0,,1
 shamian,0,,,,,,
 shamrock_valley,,,,1,0,0,1
 shanaka,,1,1,1,0,0,1
-shandorians,1,,,,,,
+shandorians,1,,,,0,,1
 shardventoria,1,,,,,,
 shareholder-paradise,,,,,,1,
 sharkii,1,,,,,,
@@ -6043,7 +6050,7 @@ swiss_defects,1,1,,1,,,1
 switiod,1,0,1,,,,
 switzemburkistan,0,1,0,1,0,0,1
 swizzy,,,1,,,,
-syaftyn,,,1,1,,0,1
+syaftyn,,,1,1,0,0,1
 sycorat,,1,0,,,,
 sycruliovin,1,1,0,,0,,1
 sydmark,,1,0,,,,
@@ -6110,7 +6117,7 @@ taurus94,,,1,,,,
 tavalia,1,1,1,1,1,0,1
 tax_evad3rs,,,1,1,,1,
 taylor_allison_swift,,,,1,,0,1
-tayron,,,,1,,1,
+tayron,,,,1,0,1,
 tayvis,1,,,,,,
 tea_jol,1,,1,1,,0,
 tearn,0,1,,,,,
@@ -6439,7 +6446,7 @@ the_northern_ice,1,,,,,,
 the_northern_karzares,,,1,,,,
 the_northwest_arctic,,1,,,,,
 the_null_of_cyn,,0,,,,,
-the_og_your_moms_mom,1,,,,,,
+the_og_your_moms_mom,1,,,,0,,1
 the_oldest_dream,1,1,0,0,1,1,0
 the_ontariois,1,0,1,1,,1,1
 the_opac_islands,,1,,,,,
@@ -6811,6 +6818,7 @@ tungtungtuffland,,,1,1,,1,
 tunisiano,,,,1,,1,
 tur_monkadzii,0,1,,,,,
 turanids,1,0,1,1,0,0,1
+turcarum,,,,,0,,1
 turinese_empire,,0,0,1,0,0,1
 turinio,,0,,,,,
 turkhaalberg,,0,,0,,0,
