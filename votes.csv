@@ -1175,7 +1175,7 @@ coliperland,0,1,,,,,
 collar,1,0,,,,,
 college_corner,1,0,1,1,0,0,1
 collombia,,,1,,,,
-colloms_golden_circle,0,1,0,0,,0,1
+colloms_golden_circle,0,1,0,0,0,0,1
 colmis,1,1,1,,,0,
 colocia,1,0,1,1,1,1,1
 colonino,0,0,0,0,0,0,0
@@ -2142,7 +2142,7 @@ freez3theproducer,,,,,0,,1
 freezedom,,,,,0,,
 freidonia_empire,0,0,,,,,
 frejta,,,1,,,0,
-frelon,,,1,1,0,0,
+frelon,,,1,1,0,0,1
 french_kanaidia,0,0,0,,0,,1
 french_new_wake_island,,1,1,,,,
 frep_caymut,1,0,,,,,
@@ -2697,7 +2697,7 @@ hosen_yafefa,1,,,,,,
 hoshido_and_nohr,,,,1,,0,
 hostale,1,,,,,,
 hot_catboys,,0,,,0,,1
-hot_girl_baddies,0,,,,,,
+hot_girl_baddies,0,,,,0,,
 house_rillarri,,1,,1,,,1
 houst,1,,1,,0,,1
 hoysala,,0,1,,,,
@@ -3665,7 +3665,7 @@ lyberzia,1,,,,,,
 lybise,,0,,1,0,0,1
 lycand,1,0,1,1,0,0,1
 lycetaria,,,1,1,,0,
-lycori,,1,1,,0,0,1
+lycori,,1,1,,1,0,1
 lyions,0,,,,,,
 lyndonesia,1,0,,,,,
 lyriandre,,,,1,0,0,1
@@ -3892,7 +3892,7 @@ miaumi,,,1,,,,
 micatis,,,1,1,0,0,0
 michaliav,1,,,1,,0,
 microwaviington,,,,,0,,1
-midadille_chagin,0,,1,1,,1,
+midadille_chagin,0,,1,1,0,1,1
 midas_industries,,,,1,,0,
 middle_dogry_flukalotnia,,,1,,,,
 middle_ibarthelastorosa,,,0,,,,
@@ -4482,6 +4482,7 @@ nostovya,1,0,,1,0,0,1
 not_england,,,,1,,,1
 not_so_democratic_montenegro,,,1,,,,
 notcommunist2,1,0,1,1,0,0,1
+notedong,,,,,0,,1
 noterdei,1,0,1,1,,0,
 nothern_fores,1,0,1,1,0,0,0
 noton_mast,1,0,1,1,0,0,1
@@ -4809,6 +4810,7 @@ pathonia,,0,0,0,0,0,0
 patria_augusta,1,,,1,,0,
 patricia_and_the_marcus_islands,,1,1,1,0,0,1
 patrickclarke,1,0,1,0,,0,
+patrickistan,,,,,0,,1
 patterthippe,0,1,,0,,0,
 pauruizumopia,,,1,1,0,0,1
 pavitrabhumi,,,1,,,,
@@ -5256,7 +5258,7 @@ respublica_veneta,,,,1,,,
 respyanodor,1,0,,,,,
 resurged_atlantis,1,1,,,0,,
 retired_werepenguins,,,,1,,0,
-retrovoya,,0,1,1,,0,
+retrovoya,,0,1,1,0,0,1
 reunionland,,,0,,,1,
 rev_aria,1,0,1,1,0,0,1
 revachol-,1,0,1,1,0,,1
@@ -5291,7 +5293,7 @@ rhyssuan_peoples,0,,0,,,,
 riandera,0,0,1,1,0,0,1
 ribilz,0,1,1,1,0,0,1
 ricardo_skibidi,,,1,,,,
-ricel,0,,1,,,,
+ricel,0,,1,,0,,
 rich_people_hate,,0,,,,,
 richmond_union,1,,1,1,,0,
 rico_of_port,,0,1,0,,0,
@@ -5617,6 +5619,7 @@ seeri_ouslee_ill,,0,1,0,0,0,1
 sefat,1,1,0,1,0,0,1
 segatamoa,0,1,0,0,0,0,1
 segenipe,,,0,,,1,
+seing_don,,,,,0,,1
 sekantar,,,,1,,,1
 selachimorphas,,,1,,,,
 selagra,,0,1,,,,
@@ -5644,7 +5647,7 @@ serbska-novica,1,0,0,0,0,0,0
 serenitium,,0,1,1,0,0,1
 serovgrad,1,0,0,1,0,0,1
 serpenii,1,,1,1,,,
-serpleddyland,,1,,1,,0,
+serpleddyland,,1,,1,0,0,
 serrus,1,0,1,1,0,0,1
 serturasi,0,1,0,0,0,0,1
 serum_ete_onlonia,1,1,0,0,0,0,1
@@ -6134,7 +6137,7 @@ sushi_japan,,0,1,1,0,0,1
 sutland_rep,0,1,0,0,,0,
 suveh,1,1,1,1,0,0,1
 suvmia,0,1,1,0,1,0,1
-suwal_loya,,,,,,0,
+suwal_loya,,,,,0,0,1
 suwaticsongiarrown,0,0,1,0,,,0
 suzi_island,0,0,0,1,1,0,1
 svarteyjar,0,,,,,,
@@ -6423,7 +6426,7 @@ the_freebird,1,0,1,1,0,0,1
 the_frozen_sea,1,0,,,,,
 the_galactic_american_imperium,1,,,,,,
 the_galactic_concordat_of_humanity,0,0,,,,,
-the_galactic_supremacy,,,1,1,1,0,
+the_galactic_supremacy,,,1,1,1,0,1
 the_galactic_triumvirate,,0,,,,,
 the_gamers_of_roblox,,,0,0,0,0,1
 the_ganymede_islands,,,0,,,,
@@ -6471,7 +6474,7 @@ the_holy_caltro,1,,,,,,
 the_holy_empire_of_the_stars,1,0,1,1,0,0,1
 the_holy_eucharist,1,,,,,,
 the_holy_principality_of_saint_mark,1,0,1,1,,0,1
-the_holy_rat,,,1,,,,
+the_holy_rat,,,1,,1,,1
 the_holy_union_of_italy,,0,,,,,
 the_holy_vatican_empire,,,,,0,,1
 the_hungarian_republic,1,,,,,,
@@ -7014,6 +7017,7 @@ unified_states_of_oceania,,,,,0,,
 unikon,1,0,1,1,0,1,0
 union_de_caroline,,,1,,,,
 union_kingdoms,1,0,1,1,0,0,1
+union_of_anarchist_territories,,,,,1,,
 union_of_arcadia,,,1,,,,
 union_of_love,1,1,1,1,,0,
 union_of_new_dixie,0,0,,,,,
@@ -7530,7 +7534,7 @@ wystronya,,1,,,,,
 x_country,1,0,1,1,0,0,1
 xaeloa,,0,1,1,0,0,1
 xaltonia,1,0,,,,,
-xaravellion,,,1,1,,0,1
+xaravellion,,,1,1,0,0,1
 xarikistan,1,0,1,1,0,0,1
 xastopia,1,0,,1,0,,
 xavier_stan,,1,,,0,,1
