@@ -405,7 +405,7 @@ arizone,,,1,,,,
 arkadeon_rhine,,,0,,,,
 arkapothosis,,,,0,,,1
 arkariliatz,0,1,0,0,0,1,1
-arkengia,1,0,,1,,0,
+arkengia,1,0,,1,0,0,1
 arkkas,1,,,,,,
 arkozia,1,,,1,,0,
 arkuta,1,,0,1,0,0,1
@@ -644,6 +644,7 @@ barrow_cove,,,,,,,1
 bartonia_nova,0,0,1,1,,,1
 barvo,1,,1,1,0,1,1
 basaroa,1,0,1,,0,,1
+basileia_nea,,,,,0,,1
 basilski,,,,,0,,1
 basque_dominion,1,0,,,,,
 basshunter,1,0,1,1,0,1,1
@@ -1756,7 +1757,7 @@ elaribel,,,0,,,,
 elbas_bonnia_islands,0,1,1,1,0,0,1
 elbor,1,1,,,,,
 elbresia,,0,,,0,,1
-eldrado,,,1,,,0,
+eldrado,,,1,,0,0,1
 eldritchia,1,1,1,1,,0,1
 eldwyn,1,0,1,1,0,0,
 electrathedoberman,1,0,0,1,0,0,1
@@ -3105,7 +3106,7 @@ kasatopia,,,,,0,,
 kasavere,,1,,,,,
 kasdados,,0,1,1,0,0,1
 kasekyl,1,0,0,1,0,0,0
-kaskalma,,,,1,,0,
+kaskalma,,,,1,1,0,0
 kassa_and_harsigena,1,0,1,1,,0,1
 kassaka,,1,,,,,
 kastoviask,0,,,,,,
@@ -4079,7 +4080,7 @@ napiari,1,,,,0,,1
 nappucia,,,,1,,0,1
 naragia,0,,0,0,0,0,1
 naralovian,0,,,,,,
-narax,,1,,1,,,
+narax,,1,,1,0,,1
 nardin,,1,,,0,0,
 nargis,1,0,1,1,,0,
 narkenia,,1,,,,,
@@ -5163,6 +5164,7 @@ re_dispatch_office,1,,,,,,
 reader,,,1,,,,
 readlong,,,,,,0,
 realm_of_rho,1,,,,,,
+rebekn,,,,,0,,
 rebel-topia,1,0,1,1,1,0,1
 rebel_new,1,0,1,1,0,0,1
 reberydinigzadaland,,0,,,,,
@@ -5712,6 +5714,7 @@ sigma_pug_land,1,0,1,1,0,0,1
 sigmabober,,,,0,,0,
 sigmar_empire,1,,,,,,
 sigumastan,1,0,1,1,1,0,1
+sik_gra,,,,,1,,0
 sikirsk,1,0,1,,,,
 sikol,,,1,,,,
 sil_dorsett,1,0,1,1,,0,
@@ -5917,6 +5920,7 @@ south_poopistan,1,0,0,1,0,0,0
 south_st_maarten,,1,,,,,
 south_supenterbia,,,,,0,,
 south_unstunstia,0,,0,,,,
+southafrika,,,,,0,,1
 southeast_aarde,,,,,0,0,1
 southeast_celebes,0,1,1,1,0,0,1
 southern_elbonia,,,,,0,,1
@@ -6477,6 +6481,7 @@ the_immaculate_plebeian,1,1,0,,,,
 the_immortal_fire_nation,0,0,0,1,0,0,1
 the_imperial_union_of_new_order,,,,,0,,
 the_imperial_volovia,1,0,1,1,,0,1
+the_imperium_of_the_pure,,,,,0,,1
 the_independent_island_of_vis,0,1,1,1,0,1,1
 the_indochine,0,1,,,,,
 the_infinite_federation,1,1,1,1,0,1,1
@@ -6640,7 +6645,7 @@ the_sinistress,0,1,0,1,,0,
 the_sith_eternal,,0,,,,,
 the_smoking_peanut,,,0,1,0,0,1
 the_socialist_federation_nord_machadonia,1,1,1,1,0,0,1
-the_socialist_society,0,,0,0,,0,1
+the_socialist_society,0,,0,0,0,0,1
 the_sol_desert,,1,,1,,,1
 the_solace_corperation,1,0,1,1,0,0,1
 the_solarius_imperium,,0,1,1,0,0,1
@@ -6661,7 +6666,7 @@ the_star_economic,,0,,,,,
 the_state_of_baathist_iraq,1,1,1,1,0,1,1
 the_state_of_maddin,0,,,,,,
 the_states_of_ashkanza,0,1,0,1,0,1,0
-the_states_of_ranamia,1,,1,,,0,
+the_states_of_ranamia,1,,1,,0,0,
 the_states_of_turkmenitsan,1,0,1,1,0,0,1
 the_stenchdom,,0,,,,,
 the_subojatori,,0,,1,0,0,1
@@ -6916,7 +6921,7 @@ tsk_rat,,1,,1,,0,1
 tsrill,,,,0,,,
 tsuskia,,1,1,1,0,0,1
 tttbtr,,,0,,,,
-tucanasia,1,0,,,,,
+tucanasia,1,0,,,1,,1
 tudiculare,1,1,,1,0,0,1
 tugana,1,0,1,1,0,0,1
 tuirsland,,,,,0,,1
@@ -7092,7 +7097,7 @@ unobrunoland,0,1,0,1,0,1,0
 unogonduria,,0,,,,,
 unreformed_usa,,,,1,0,0,1
 unruliness,,0,,,,,
-unsna,1,0,1,1,,0,
+unsna,1,0,1,1,0,0,1
 unsophisticate,1,0,1,1,0,0,1
 untermite,0,1,0,0,0,0,1
 untied_coulee_state,0,0,0,1,0,1,1
@@ -7286,7 +7291,7 @@ violaia,,,1,,,,
 violent_hatred,0,1,0,0,1,1,0
 viperina,,0,,1,,1,
 viperreich,1,1,0,1,0,0,1
-virange_ii,,,1,,0,,
+virange_ii,,,1,,0,,1
 virentis,0,1,0,0,0,1,1
 viretopia,,,,,0,,1
 virgilan,0,,1,1,,0,
@@ -7318,7 +7323,7 @@ volksrepubliek_belgie,0,1,0,1,0,0,1
 volletnia,1,1,,1,,0,
 volnovareach,,,1,,,,
 vologria,,,,1,,1,
-volshka_bulgaria,,,,0,,0,
+volshka_bulgaria,,,,0,1,0,
 voluja,1,,1,,0,,1
 vonstania,,0,,,,,
 voopmont,1,,1,1,1,0,1
