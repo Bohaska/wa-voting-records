@@ -88,7 +88,7 @@ aetherlina,,0,,,0,,0
 aethernum,,0,1,1,1,1,1
 aethyrcadia,,,0,,0,0,1
 aeurithianar,1,0,1,1,,0,
-aevana,0,,,0,,0,1
+aevana,0,,,0,0,0,1
 afaenvia,,0,,,,,
 afgumpistan,,,,1,,1,
 afifray,,,1,,,,
@@ -490,7 +490,7 @@ asweyon,,0,,,,,
 at-m6,1,0,1,1,1,0,1
 atania,,0,,,,,
 ataraesh,,,1,1,0,0,1
-ataraxian_mainframe,1,0,1,1,1,0,0
+ataraxian_mainframe,1,0,1,1,1,0,1
 atavi,0,1,0,1,0,0,1
 atena,0,0,1,1,0,1,1
 ateria12,,1,,,,,
@@ -995,7 +995,7 @@ castelia,1,0,1,1,0,0,1
 castino,,,1,1,,0,
 castlacha,1,0,,1,0,0,0
 castle_in_confidence,1,,1,,0,,1
-castrolaysia,1,1,1,1,,0,1
+castrolaysia,1,1,1,1,0,0,1
 castroreale,0,,,0,,0,
 castuna,,1,0,1,0,0,1
 cat_army,1,0,1,1,0,0,1
@@ -2879,7 +2879,7 @@ isla_luminara,0,,,0,0,,
 isla_matador,,,1,,,,
 islanalcatatuffles,1,,,,,,
 island_of_catland,1,1,1,1,0,0,1
-island_of_relevancy,1,1,1,1,,0,
+island_of_relevancy,1,1,1,1,0,0,
 island_zero,1,1,0,1,0,0,0
 islande_wight,1,,,,,,
 islands_cottonish,1,0,1,1,0,0,1
@@ -2895,7 +2895,7 @@ islen_domatero,1,1,1,1,0,0,1
 islendia,1,,1,,0,,0
 islesenna,,1,,,,,
 islonia,1,,,,,,1
-ismstein,1,0,1,,,0,
+ismstein,1,0,1,,0,0,
 isolaferra,1,0,1,1,0,0,0
 isolar,1,1,0,1,0,1,1
 isosceles_triangle,1,,,0,0,1,1
@@ -3328,6 +3328,7 @@ kunskil,1,1,1,1,0,0,1
 kupolaber,1,,1,0,,,
 kurechia,0,,,0,0,0,1
 kurohana_teikoku,1,0,,1,0,0,1
+kurolera,,,,,0,,1
 kuroluce,0,,0,,0,,
 kurranulla,1,0,1,1,0,0,1
 kurst,1,,,,,,
@@ -4361,6 +4362,7 @@ no_hope,1,0,1,,,,
 noav,,,,1,0,0,1
 nocciola,1,,0,,,,
 noctivelle,,0,,,,,
+noctyra,,,,,0,,
 noders,1,0,1,1,0,0,1
 noele,,,,0,,,1
 noemieistan,,,,,0,,1
@@ -4680,7 +4682,7 @@ orksian,1,0,1,1,0,0,1
 orlandistan,,,,,0,,1
 orlanstate,0,1,1,,0,0,1
 ornothania,,,,,0,,0
-oromaya,1,1,,,,,
+oromaya,1,1,,,,,0
 orpheia,1,1,1,1,0,0,1
 orros,0,,,,,,
 ortandemhausergebautwerden,1,1,0,1,0,1,0
@@ -4797,6 +4799,7 @@ patrickclarke,1,0,1,0,,0,
 patterthippe,0,1,,0,,0,
 pauruizumopia,,,1,1,0,0,1
 pavitrabhumi,,,1,,,,
+pavlikstan,,,,,0,,0
 pavlistania-suden,0,,,0,,0,
 pawlands,1,1,0,,,0,
 pax_russiya,,,1,,,,
@@ -4842,7 +4845,7 @@ peoples_republic_of_solovie,,1,,,,,
 peoples_republic_of_speing,,,,1,0,0,1
 peoples_republico,1,0,,,,,
 peoples_republicss,,,1,1,,,
-peoplestasine,1,1,0,0,,1,1
+peoplestasine,1,1,0,0,0,1,1
 peourouin,,,,,0,,1
 pepsi_the_third,0,0,1,1,0,0,0
 pequea,,0,1,,,,
@@ -6002,7 +6005,7 @@ stalmarc,1,0,1,,0,0,1
 staneburg,1,0,1,1,0,0,1
 stanhope_elmore,,,1,1,0,0,1
 stanindanius,0,1,0,1,,0,0
-stankon,1,1,1,0,,0,1
+stankon,1,1,1,0,1,0,1
 stansu,,,,,0,,1
 stant_van_shemaons,0,1,0,1,0,1,1
 stanvrin,,,1,1,0,0,1
@@ -6196,7 +6199,7 @@ tasmania_and_bass_strait,0,,,,,,
 tastos_mids_say,0,,,0,,1,
 tatalia-nkisi,1,1,1,1,0,0,1
 tataryanstan,,0,,,,,
-tatrum,0,,,1,,1,
+tatrum,0,,,1,0,1,1
 taurid,1,0,1,1,1,0,1
 taurus94,,,1,,,,
 tavalia,1,1,1,1,1,0,1
@@ -6237,7 +6240,7 @@ terra_borderlands,,,,1,,0,
 terra_tribensis,,0,,,,,
 terran_england,0,1,0,0,1,,
 terrane,1,1,1,1,1,0,1
-terranexia,1,0,1,1,,0,
+terranexia,1,0,1,1,0,0,1
 terranica_states,1,1,1,1,0,0,1
 terraric_cermania,1,0,1,1,0,0,1
 terre_di_oros,0,,,,,,
@@ -6401,7 +6404,7 @@ the_freebird,1,0,1,1,0,0,1
 the_frozen_sea,1,0,,,,,
 the_galactic_american_imperium,1,,,,,,
 the_galactic_concordat_of_humanity,0,0,,,,,
-the_galactic_supremacy,,,1,1,,0,
+the_galactic_supremacy,,,1,1,1,0,
 the_galactic_triumvirate,,0,,,,,
 the_gamers_of_roblox,,,0,0,0,0,1
 the_ganymede_islands,,,0,,,,
@@ -7414,7 +7417,7 @@ west_spankyton,,1,,1,,,0
 west_strangeland,,,,,0,,1
 western_arba_fir,1,0,1,1,0,0,1
 western_equenordeno,,,1,,0,,1
-western_forestria,0,1,0,0,,0,
+western_forestria,0,1,0,0,0,0,1
 western_hatiagingtorldur,1,1,1,1,0,0,1
 western_isles_of_denmark,0,,,,0,,1
 western_osowiec,1,,,,,,
@@ -7699,7 +7702,7 @@ zordennox,,0,,,,,
 zorkinthia,1,0,1,1,1,1,1
 zorouxland,,0,1,1,0,0,1
 zorsica,1,0,,,,,
-zt333,1,0,1,1,,,
+zt333,1,0,1,1,0,,
 zuhayera,,0,,1,,,
 zukchiva,,,,,,0,
 zulankan_peoples_militia,,,,,0,,
