@@ -283,6 +283,7 @@ ang_worspar,,,1,,,1,
 angakluk,,1,,0,,1,
 angels_crossing,,,1,,,,
 angels_halo,1,,,,,,
+angels_of_war,,,,,0,,1
 angilstan,,,0,,,0,
 anglafolcia,1,0,1,0,0,0,1
 angle_land,0,1,0,,0,1,0
@@ -841,7 +842,7 @@ bowelle,,,,1,,,1
 boycey,,,1,,,,
 boykisser_land,,,,,0,,1
 boznizanska,,,,,,0,
-bozojeffs,1,1,0,0,,0,
+bozojeffs,1,1,0,0,0,0,1
 bracadun,1,0,1,1,0,0,1
 bracksnit,1,,,,,,
 braddos,,0,1,,,,
@@ -3574,7 +3575,7 @@ los_estados_confederates_de_mexico,,,1,,,0,
 los_pedrios,,,1,,,,
 los_phoenix,1,,,,,,
 los_santos,1,0,1,1,0,0,1
-losaita,,,1,1,,,
+losaita,,,1,1,0,,1
 losche,,,,1,,,
 lost_bananamen,1,0,1,1,0,0,1
 lotanio,1,0,1,1,0,0,1
@@ -3722,7 +3723,7 @@ manila-central,0,,0,0,1,1,1
 manitouqua,,0,,,,,
 maniwinn,,,1,,,,
 mankitownland,,0,,,,,
-manseria,1,1,1,1,1,0,
+manseria,1,1,1,1,1,0,1
 manuelian_empire,1,0,0,1,0,0,1
 manyger,1,,1,1,,0,
 manymens,,1,0,,,,
@@ -4291,7 +4292,7 @@ new_vedlar,1,,1,1,0,0,1
 new_villes,,,,1,0,0,1
 new_vipa,1,1,1,1,0,0,1
 new_vladislavia,0,1,0,0,,1,
-new_vonderland,0,1,,1,,0,
+new_vonderland,0,1,,1,0,0,0
 new_vorarlberg,0,,0,1,0,0,1
 new_vorockace,,,,0,0,,
 new_vulcan,1,0,1,,0,,1
@@ -6115,7 +6116,7 @@ svartkladd,0,,,,,,
 svedria,1,1,,1,,1,
 svenhavn,1,0,1,,,,
 sveniland,1,1,1,1,0,0,1
-svetogradia,1,1,0,0,,1,
+svetogradia,1,1,0,0,0,1,
 svetzia,1,,,,,,
 swanson_grove,0,1,0,0,1,1,0
 swat-gibar,1,0,1,0,1,0,1
@@ -7696,7 +7697,7 @@ zt333,1,0,1,1,,,
 zuhayera,,0,,1,,,
 zukchiva,,,,,,0,
 zulankan_peoples_militia,,,,,0,,
-zulore,1,,1,1,,0,
+zulore,1,,1,1,0,0,1
 zululandus,,,,,0,,1
 zung-gwok,1,,,,,,
 zunsettia,0,1,1,1,0,0,1
