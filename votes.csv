@@ -325,6 +325,7 @@ antilu,,1,1,,,,
 antons_key,0,0,,0,0,1,1
 antontia,0,0,0,0,1,0,1
 antoraska,,,1,,,,
+antrania,,,,,0,,1
 anuadh,0,1,1,1,1,0,0
 anuahrfscdurbfced,,,1,1,0,0,1
 anunnakidraco2,1,0,1,1,,0,1
@@ -1275,7 +1276,7 @@ crestvale_republic,,1,0,0,,1,1
 cretian_territories,1,,1,,,1,
 cretox_state,1,,1,1,0,0,1
 crevistonion,1,,1,,,,
-criboutit,,0,1,,,,
+criboutit,,0,1,,0,,1
 crinitus,,1,1,1,0,0,
 crintopria,,,,1,0,0,1
 crnagorska,1,0,1,1,0,0,1
@@ -2922,7 +2923,7 @@ itsebed,1,1,1,1,0,0,1
 itsumo,1,0,1,1,0,0,1
 iujhj,,1,,,0,,1
 iuus_dha_gliastan,1,,,,,,
-ivenitta,1,1,,,0,,
+ivenitta,1,1,,,0,,1
 izern,,,,,0,0,1
 j_class,,,,1,,,
 jacj,1,1,1,1,1,0,1
@@ -3004,7 +3005,7 @@ joedina,1,,,,,,
 joevala,,0,1,,0,,1
 john_countrys_country,,0,1,,,,
 john_lee,1,,1,1,,0,
-johnjian,,,1,,,,
+johnjian,,,1,,0,,
 johnstowne_island,,1,,,,,
 joint_free_states,,1,0,,,,
 jolesar,,1,,,,,
@@ -3128,7 +3129,7 @@ kelesi,,1,,1,,0,
 kelloggs_cereal,,,,1,,0,
 kellros,0,0,,1,,0,1
 kelvaros_prime,1,0,1,1,0,0,1
-kendell,,0,1,,,0,
+kendell,,0,1,,,0,1
 kennington,0,,0,,,,
 kent_valley,0,0,1,1,1,0,1
 kentes,,1,0,1,0,0,1
@@ -4360,7 +4361,7 @@ nizamiyah,,,0,0,0,0,0
 nizar_kindom,,,1,1,0,0,1
 no_freedom_and_war_land,,0,,,,,
 no_freedoom,1,0,1,1,1,1,1
-no_hope,1,0,1,,,,
+no_hope,1,0,1,,0,,1
 noav,,,,1,0,0,1
 nocciola,1,,0,,,,
 noctivelle,,0,,,,,
@@ -4462,7 +4463,7 @@ northwest_north_america,0,1,1,1,0,1,1
 northwest_queensland,1,1,1,1,0,1,1
 northwestern_alpinia,0,1,,0,,0,
 norvarxilaland,1,0,1,1,0,0,1
-norveeba,0,1,0,,,1,
+norveeba,0,1,0,,0,1,1
 norvensk,,1,,,,,
 norvessa,1,,,,,,
 norvokorr,1,1,1,1,0,0,1
@@ -4993,7 +4994,7 @@ prashan,,,1,1,,,
 pravostan,0,1,0,1,0,0,1
 pre_corgionia,0,0,1,,,0,
 premedite,,0,1,,,,
-preomithia,1,0,,,,,
+preomithia,1,0,,,0,,1
 preshavilen,1,,,,,,
 president_hassan_rouhani,1,,1,1,1,0,1
 president_pro_tempore,,,,0,,1,
@@ -5188,7 +5189,7 @@ reichtangle_the_best,,,,,,0,
 reign_of_carthwaru,,,,1,,0,
 rein_delossinarryomi,1,0,1,1,0,0,1
 reino_da_esmeralda,,,,,1,,1
-reino_de_portvgal,0,0,,1,,0,
+reino_de_portvgal,0,0,,1,0,0,1
 reino_do_brazil,,,,1,,0,1
 reino_scarlatta,,1,1,,,,
 rejucia,,,,1,0,,1
@@ -6047,7 +6048,7 @@ stevist_guam,,0,1,1,,0,
 sti_vismana,1,1,1,1,0,0,1
 stickofark,1,0,1,1,0,0,1
 stigya,0,,,,,,
-stiliyan,,0,,1,,0,
+stiliyan,,0,,1,1,0,1
 stilvanos_solitarius,,,0,,,,
 stocial_toldac,,1,,1,,0,
 stonewall720,0,,1,0,0,0,0
