@@ -781,7 +781,7 @@ blobian,0,,,1,,1,
 blobon,,,,,0,,0
 blobular,0,1,0,0,0,,
 bloesser,1,,0,,,,
-bloni,1,1,1,1,,0,
+bloni,1,1,1,1,0,0,1
 blonkulopia,,,,0,,0,
 bloodess,,,1,,,,
 blorpshire,0,0,1,1,,0,1
@@ -1074,7 +1074,7 @@ cheesy_cheese,,,1,,,,
 chelodia,1,,,,,,
 chemung,0,1,0,0,0,1,1
 chenardia,,,,,0,,1
-chenshan,0,0,1,,,,
+chenshan,0,0,1,,0,,1
 cherised_lands_of_galicia,,,1,,0,,
 cherkovija,1,0,1,0,1,,
 chernistiv,1,0,1,1,1,0,1
@@ -1233,7 +1233,7 @@ corporate-dystopia,,,1,,,,
 corporate-paradise,1,,,,,,
 corsuva,1,,,,,,
 cortes_de_pallas,0,,0,,,,
-cortlandt_manor,1,0,1,1,,0,
+cortlandt_manor,1,0,1,1,,0,1
 corust,,0,,,,,
 corynth,,0,,,,,
 cose_kublidly,,0,1,1,,0,
@@ -1881,7 +1881,7 @@ euraziea,,0,1,1,,0,
 euricanis,1,0,1,1,0,0,1
 eurochina,,,1,,,,
 europan_union,1,,,,0,,1
-europatale,,,,1,,,1
+europatale,,,,1,0,,1
 europe_or_eur,0,1,0,0,0,0,1
 european_demokratische_republik,,1,0,,,1,
 european_kekistani_enclave,1,,,,,,
@@ -3971,7 +3971,7 @@ morenian_republic,1,,,,,,
 morey,,,,,0,,1
 morgantown_west_virginia,1,1,0,0,,0,
 morikono,,0,,1,,0,
-morlikin,1,,1,1,,,1
+morlikin,1,,1,1,0,,1
 mornala,0,0,,,,,
 mornangren,1,0,1,1,0,0,1
 mornania,,0,1,,,,
@@ -4465,7 +4465,7 @@ not_england,,,,1,,,1
 not_so_democratic_montenegro,,,1,,,,
 notcommunist2,1,0,1,1,0,0,1
 noterdei,1,0,1,1,,0,
-nothern_fores,1,0,1,1,0,0,
+nothern_fores,1,0,1,1,0,0,0
 noton_mast,1,0,1,1,0,0,1
 notormea,0,1,1,1,0,0,1
 notre_dame_du_lac,1,0,1,,,1,
@@ -4516,7 +4516,7 @@ novo_acadia,1,,,,,,
 novo_prosperitas,0,0,0,0,0,0,1
 novorik,,,0,0,0,,1
 novostovia,1,,,1,,0,
-novrystan,0,1,,1,,0,1
+novrystan,0,1,,1,0,0,1
 novum_mediolanum,,0,1,,,,
 novus_canadis,0,0,1,1,0,1,1
 novus_imperium_romanum_borealis,1,,,1,0,0,1
@@ -4524,7 +4524,7 @@ novyy_soyuz_sovetskikh_sotsialisticheski,,,,1,,,
 nowa_europa,0,1,1,1,0,0,1
 noxion,1,1,1,,,,
 nozania,,1,,,,,
-npo2,,,,0,,1,
+npo2,,,,0,0,1,1
 nuara,0,1,,0,,0,
 nubistan,,,,1,,0,1
 nublas,1,,,,,,
@@ -5017,7 +5017,7 @@ prussia_of_the_balkans,,,,1,,0,
 prussia_republican_kingdom,1,0,1,1,0,0,1
 prussian_socialist_regime,0,0,,0,,0,
 pruszia,0,1,,,,,
-prydaein,0,,0,1,,0,
+prydaein,0,,0,1,0,0,1
 prydania,1,,1,1,,0,
 pryskiva,1,0,1,1,0,0,1
 psilocyberio,,1,,,,,
@@ -7434,6 +7434,7 @@ white_noise,1,1,1,1,1,0,1
 whitespire,1,0,,1,0,0,1
 whitland_islands,,,0,,0,,
 whole_foods_market,,1,,,,,
+whymsicalia,,,,,0,,1
 whyworld,,1,1,0,0,1,1
 wickedly_evil_people,1,0,1,1,1,0,1
 wigmar,,,,1,,0,
@@ -7662,7 +7663,7 @@ zhengtium,1,0,1,,,,
 zhidaole,,,,,0,,1
 zhongguos,0,,,,,,
 zhoui,0,,,,,,
-zhs0715,1,0,0,,,,
+zhs0715,1,0,0,,0,,1
 zhuanghwei,,0,,,,,
 ziemgale,1,0,0,1,0,1,1
 zillaskia,1,,,1,,,0
