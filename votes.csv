@@ -74,7 +74,7 @@ aelyria,,,1,1,0,0,1
 aena,,,1,,,0,
 aequitas_iii,0,0,1,1,0,0,1
 aequiteria,1,,,,,,
-aerdholm,1,,1,1,,,1
+aerdholm,1,,1,1,0,,1
 aerini_elysium,,,,1,0,1,1
 aero_vista,,,,1,,,0
 aerstorn,,,1,,,,
@@ -203,7 +203,7 @@ altasund,,0,,,,,
 alter-mont,1,,,,,,
 alterra_corporations,,0,,,,,
 althol,1,0,1,1,0,0,1
-altnavia,0,,1,,,0,
+altnavia,0,,1,,0,0,1
 alto_ipiranga,1,1,1,1,0,0,0
 altonius_murrais,,0,1,1,0,0,1
 altunay,,,,1,,0,
@@ -2181,7 +2181,7 @@ gaalar,1,,,,,,
 gadsenopolis,1,,1,1,,0,
 gadyushnika,,1,,,,,
 gaessex,1,,1,0,0,,
-gagasan_melayu,,1,1,,,,
+gagasan_melayu,,1,1,,0,,1
 gagium,1,0,1,1,0,0,1
 gaian_ascendancy,,,,0,,,0
 galaad,,1,,,,,
@@ -2203,7 +2203,7 @@ galorical,0,0,1,,,0,
 gamble_topia,,1,,,,,
 gamblering,,,1,,,0,
 gambling_addictions,,0,1,1,,0,1
-gameran_autocracy,1,0,0,1,,0,
+gameran_autocracy,1,0,0,1,0,0,1
 gamerlander,,,,1,,0,
 gandavarga,0,0,,,,,
 gandieland,1,,1,1,,0,1
@@ -2369,6 +2369,7 @@ grande_est,,1,1,1,0,0,1
 grande_guanabara,0,0,1,1,0,0,1
 grande_imperio_leonino,1,0,1,1,0,0,1
 grandia_1,1,,,,,,
+grandianan,,,,,0,,0
 grandocantorica,0,,0,0,0,0,1
 grandrock,1,0,1,1,,0,1
 granevia,,1,0,1,0,1,1
@@ -2399,7 +2400,7 @@ great_karken,1,,,,,,
 great_koryeo,1,,1,1,,,1
 great_latain,,0,,,,,
 great_livargeo,,0,,,,,
-great_luxem,0,0,0,,,,
+great_luxem,0,0,0,,0,,1
 great_majorca,,0,,,,,
 great_minwas,0,0,1,1,0,0,1
 great_orange_pochita,,0,,,,,
@@ -2547,6 +2548,7 @@ hasaeng,,,1,,0,,1
 hashidi,1,0,1,1,0,0,1
 hashishin,1,0,,,0,,1
 haskellania,1,0,,,,,
+hasteinn,,,,,0,,1
 hastren,,0,,,,,
 hatanam,,,,0,0,,1
 hauts,,,,1,,,1
@@ -2895,7 +2897,7 @@ islen_domatero,1,1,1,1,0,0,1
 islendia,1,,1,,0,,0
 islesenna,,1,,,,,
 islonia,1,,,,,,1
-ismstein,1,0,1,,0,0,
+ismstein,1,0,1,,0,0,1
 isolaferra,1,0,1,1,0,0,0
 isolar,1,1,0,1,0,1,1
 isosceles_triangle,1,,,0,0,1,1
@@ -2920,7 +2922,7 @@ itsebed,1,1,1,1,0,0,1
 itsumo,1,0,1,1,0,0,1
 iujhj,,1,,,0,,1
 iuus_dha_gliastan,1,,,,,,
-ivenitta,1,1,,,,,
+ivenitta,1,1,,,0,,
 izern,,,,,0,0,1
 j_class,,,,1,,,
 jacj,1,1,1,1,1,0,1
@@ -3448,7 +3450,7 @@ lefecko-majestian_states,1,0,1,,,,
 legalese,0,,0,,0,,
 leghislavenia,,,1,,,0,
 legionary_poland,1,1,1,1,0,1,1
-legonica,0,1,,,,,
+legonica,0,1,,,0,,
 lehqhbraot,0,0,1,1,,0,
 leicester_jeffs_lads,,,,,0,,
 leigh_cardingan,1,,,,,,
@@ -4126,7 +4128,7 @@ nectapromisia,,0,1,,,0,
 nederlandse_staat,0,0,1,1,1,0,1
 nelenkorp,1,0,1,1,0,0,1
 nelteberia,,,1,1,0,0,1
-nemete_land,1,0,0,0,,0,1
+nemete_land,1,0,0,0,1,0,1
 neo-cyberborea,1,1,1,1,0,0,1
 neo-hermitius,,0,,1,0,1,1
 neo-theocentric_moralist_government,,,1,,,0,
@@ -4575,7 +4577,7 @@ o_yeong-su,1,0,1,,,,
 oberlania,1,1,1,,0,0,1
 obeseblobia,,,,0,0,,1
 obets,1,0,,,,,
-oblitus_terras,1,0,,1,,,
+oblitus_terras,1,0,,1,0,,1
 obsidaria,1,1,1,1,0,1,0
 obsidian_shoals,,,1,,,1,
 obstructing_the_world_assembly,,,,0,0,0,0
@@ -4872,6 +4874,7 @@ pheonix_reich,,,,1,,0,
 phigosa,1,0,1,,0,0,1
 phii,1,0,1,1,,0,
 philipinesdw,1,1,0,1,0,1,1
+philliesdog,,,,,0,,1
 philosopy,1,0,0,0,0,1,0
 phlontopia,1,0,1,1,1,0,1
 phoenicia-,1,0,1,1,0,0,1
@@ -5075,7 +5078,7 @@ quadax,0,0,1,,,1,
 quadzia_and_arskoboldia,,,0,,,,
 quafhirve,1,0,1,1,1,1,1
 quagmier,1,,,,,,
-quail_creek,0,1,,,,,
+quail_creek,0,1,,,0,,
 qual_gual,,1,1,1,,,
 quanddong,0,,,,,,
 quanturium,,,,,0,,
@@ -6243,7 +6246,7 @@ terrane,1,1,1,1,1,0,1
 terranexia,1,0,1,1,0,0,1
 terranica_states,1,1,1,1,0,0,1
 terraric_cermania,1,0,1,1,0,0,1
-terre_di_oros,0,,,,,,
+terre_di_oros,0,,,,1,,1
 terridonia,,,,1,0,0,1
 territorio_di_nessuno,1,,,,,,
 tertiar,,1,,,,,
@@ -6265,7 +6268,7 @@ thaetefald,0,1,,,,0,
 thaisiam,,,1,,,,
 thalasselu,1,0,1,1,,0,
 thalatay,0,1,0,1,0,1,0
-thallassos,0,1,1,,,,
+thallassos,0,1,1,,0,,1
 thaltopia,,,,,0,,1
 thankful_besties,,0,,,,,
 tharlect,1,1,,1,,,1
@@ -6973,7 +6976,7 @@ ultimategooner,1,,1,1,,0,1
 ultrazion,0,,,,,,
 umanka,,1,,,1,,
 umeria,0,1,0,0,0,0,1
-umi77,1,1,1,,,,
+umi77,1,1,1,,0,,1
 ummah_al-majid,,,,,0,,1
 umns_iznikmid,1,1,0,1,0,0,1
 uncreative_name,1,0,1,1,1,0,
@@ -7321,6 +7324,7 @@ vranovska_draga,,0,1,1,1,0,1
 vraxar,,1,,,,,
 vruzeria,,,,1,,1,
 vryheidsland,,,,,1,,1
+vsdf_2,,,,,0,,1
 vsdf_5,1,,,,,,
 vtml,1,1,,,,,
 vulcan_persons,1,0,1,1,0,0,1
