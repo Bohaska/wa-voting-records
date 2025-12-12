@@ -29,10 +29,10 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <OPTION>1146</OPTION>
 <PROMOTED>1765213202</PROMOTED>
 <PROPOSED_BY>pallaith</PROPOSED_BY>
-<TOTAL_NATIONS_AGAINST>552</TOTAL_NATIONS_AGAINST>
-<TOTAL_NATIONS_FOR>3134</TOTAL_NATIONS_FOR>
-<TOTAL_VOTES_AGAINST>1165</TOTAL_VOTES_AGAINST>
-<TOTAL_VOTES_FOR>8999</TOTAL_VOTES_FOR>
+<TOTAL_NATIONS_AGAINST>551</TOTAL_NATIONS_AGAINST>
+<TOTAL_NATIONS_FOR>3144</TOTAL_NATIONS_FOR>
+<TOTAL_VOTES_AGAINST>1162</TOTAL_VOTES_AGAINST>
+<TOTAL_VOTES_FOR>9005</TOTAL_VOTES_FOR>
 <VOTES_AGAINST><N>mendevia</N>
 <N>pathonia</N>
 <N>nori_dratourat</N>
@@ -258,7 +258,6 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>scorpionica</N>
 <N>druvenia</N>
 <N>indesputatio</N>
-<N>vardanyia</N>
 <N>skynidos</N>
 <N>yardies</N>
 <N>vitrili</N>
@@ -860,6 +859,7 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>the_silver_archipelago</N>
 <N>darklighters</N>
 <N>kholinarr</N>
+<N>boyarkinskaya</N>
 <N>orpheia</N>
 <N>cookie_testers</N>
 <N>la_france_sociale</N>
@@ -1561,6 +1561,7 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>libate</N>
 <N>marksista</N>
 <N>chatgpt_topia</N>
+<N>janakin</N>
 <N>thehouseofsilly</N>
 <N>northern_ost_samenia</N>
 <N>reino_da_esmeralda</N>
@@ -1724,8 +1725,9 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>duncaq</N>
 <N>ble_ble</N>
 <N>wickedly_evil_people</N>
-<N>jackpot_jackpot_jackpot_jackpot</N>
 <N>9005</N>
+<N>jackpot_jackpot_jackpot_jackpot</N>
+<N>junastria</N>
 <N>free_world_treaty_organization</N>
 <N>newpeaceland</N>
 <N>vozklovt</N>
@@ -2001,6 +2003,7 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>congijska_imperija</N>
 <N>ninjago_lightland</N>
 <N>nomaur</N>
+<N>comairuste</N>
 <N>impertan</N>
 <N>varanius</N>
 <N>eternia_empire</N>
@@ -2238,6 +2241,7 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>discgolfland</N>
 <N>ectovoid</N>
 <N>perdura</N>
+<N>revolutional_union_of_soviets</N>
 <N>madja_as</N>
 <N>westswedia</N>
 <N>istillian</N>
@@ -2306,6 +2310,7 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>frontiera</N>
 <N>sefat</N>
 <N>the_midorilands</N>
+<N>ghanndi</N>
 <N>bonelisse</N>
 <N>the_republic_of_yak</N>
 <N>skycove</N>
@@ -2585,6 +2590,7 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>yar_tug</N>
 <N>perla_del_mar_de_oriente</N>
 <N>new_garbanzia</N>
+<N>azgaaristan</N>
 <N>the_unionized_west</N>
 <N>barvo</N>
 <N>tradila</N>
@@ -2651,8 +2657,8 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>archonexus</N>
 <N>kaiyrzgsyzstan</N>
 <N>duista</N>
-<N>glocks</N>
 <N>united_purgatory</N>
+<N>glocks</N>
 <N>ne-kotikas</N>
 <N>kalmra</N>
 <N>heristal_raposhystru</N>
@@ -2684,8 +2690,8 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>lightning4004</N>
 <N>the_worst_army_of</N>
 <N>alexandria-hyperion</N>
-<N>gay_maryland</N>
 <N>ingentus_progressia</N>
+<N>gay_maryland</N>
 <N>rat_things</N>
 <N>the_solid_members</N>
 <N>tudiculare</N>
@@ -2997,6 +3003,7 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>kyubia</N>
 <N>vizykia</N>
 <N>parkplace</N>
+<N>tarligean</N>
 <N>ordent_ratland</N>
 <N>bannba</N>
 <N>norg_brostikia</N>
@@ -3027,8 +3034,8 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>kirby-land</N>
 <N>courathar</N>
 <N>new_cittsa</N>
-<N>crintopria</N>
 <N>golinistan</N>
+<N>crintopria</N>
 <N>marinian_states</N>
 <N>phoenix_amalgamated</N>
 <N>midnight_horrors</N>
@@ -3039,8 +3046,8 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>the_central_islands</N>
 <N>cambany</N>
 <N>isda</N>
-<N>oopsiewoopsie</N>
 <N>virksland</N>
+<N>oopsiewoopsie</N>
 <N>sashilee</N>
 <N>lycand</N>
 <N>the_united_neptumousian_empire</N>
@@ -3094,6 +3101,7 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>joda</N>
 <N>karzstov</N>
 <N>auropae</N>
+<N>inaba_lotus_society</N>
 <N>yodle</N>
 <N>the_new_ganges</N>
 <N>gibsoniana</N>
@@ -3201,8 +3209,8 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>dragonian_kazaman</N>
 <N>milvaria</N>
 <N>olyndor</N>
-<N>gathadia</N>
 <N>trimounts</N>
+<N>gathadia</N>
 <N>nayara</N>
 <N>cyberpunk_nation</N>
 <N>new_vulcan</N>
@@ -3270,6 +3278,7 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>central_nation</N>
 <N>estovlaka</N>
 <N>keep_humble</N>
+<N>sovietholyunitied</N>
 <N>pries_united</N>
 <N>ziprotscria</N>
 <N>bkakc</N>
@@ -3640,8 +3649,8 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>jliang</N>
 <N>nationeer</N>
 <N>palatan</N>
-<N>the_texas_lone_star_republic</N>
 <N>ventusky</N>
+<N>the_texas_lone_star_republic</N>
 <N>beeducalm</N>
 <N>leonosia</N>
 <N>bronzehamut</N>
@@ -3705,8 +3714,8 @@ Hereby repeals &#147;Commend [nation]Hulldom[/nation].&#148;]]></DESC>
 <N>gojira</N>
 <N>eldritchia</N>
 <N>paceluna</N>
-<N>shattered_cascadia</N>
 <N>tiby</N>
+<N>shattered_cascadia</N>
 <N>nezha</N>
 <N>drentor</N>
 <N>helvekos</N>
