@@ -1395,7 +1395,7 @@ dark_fialand,1,0,,,,,
 dark_matter,,,1,,0,,
 dark_soul,,1,0,,,0,
 darkanistan,,0,,1,0,0,
-darkarion,1,,0,1,,0,1
+darkarion,1,,0,1,0,0,1
 darklighters,0,1,1,1,0,0,1
 darkmania,1,0,1,,0,,1
 darkwoke,1,1,1,1,0,0,1
@@ -2766,7 +2766,7 @@ hunger_panem,,0,,1,0,0,1
 hunterdon,1,0,1,1,0,0,1
 hurpoa,,,1,1,0,0,1
 hurricane_i,,,,,1,,1
-husseberg,,0,1,,,,
+husseberg,,0,1,,0,,
 hustlertwo,1,0,0,,,,
 huwdia,,,0,,,,
 huzzahs,,0,,,,,
@@ -3090,6 +3090,7 @@ kad_jake,,0,,,,,
 kaeomi,1,0,,,,,
 kafrad,,0,,,,,
 kahlmardhani,1,0,1,1,1,0,1
+kaias,,,,,0,,
 kaidan,1,0,1,1,0,0,1
 kaiserburgia,1,1,1,1,0,0,1
 kaiyrzgsyzstan,0,1,0,0,0,1,1
@@ -3127,7 +3128,7 @@ karelianastan,0,1,0,1,0,0,0
 karelo-finnish_sr,,1,,,,,
 karenus,,,1,1,0,0,0
 karison,1,0,,1,,0,
-karlera,,1,,,,0,
+karlera,,1,,,0,0,
 karlochi,,,,1,,0,1
 karlos,,,0,,,,
 karlsburgh,,,,,0,,1
@@ -3553,7 +3554,7 @@ leviathan_court,1,,,,,,
 levivill,,,1,,,1,
 lfe,1,0,1,1,0,0,0
 lhat,1,,1,1,,0,1
-lia_federn,0,0,,,,,
+lia_federn,0,0,,,0,,
 libate,,1,1,1,0,0,1
 liberated_peoples_of_the_republic,1,,,,,,
 liberated_polinesia,1,1,0,0,0,0,
@@ -3819,7 +3820,7 @@ marijoaa,,0,1,1,0,0,1
 marina_baixa,1,1,1,1,0,1,1
 marinian_states,0,1,1,,0,0,1
 maritzal,1,0,0,1,0,0,1
-mark,,,1,,,,
+mark,,,1,,0,,
 markanista,1,0,1,1,0,0,1
 marksista,0,,1,1,0,0,1
 marlducro,1,0,1,1,0,0,1
@@ -4332,7 +4333,7 @@ new_prussianstan,1,,1,1,0,0,1
 new_rainbow_falls,1,0,1,1,0,0,1
 new_reky,,,,1,0,0,0
 new_republic_of_kastovia,,,,1,,,
-new_resilience,,1,,,,,
+new_resilience,,1,,,0,,
 new_roos,0,,,,0,,
 new_rustonia,1,1,1,1,,0,1
 new_ryansville,1,0,1,1,,0,
@@ -5592,7 +5593,7 @@ san_venganza,,,1,1,0,0,1
 sanana,0,1,0,0,0,0,1
 sanasalia,1,1,0,1,,0,1
 sanberracroft,1,1,1,1,0,0,1
-sanctified_hellas,1,,,,,,
+sanctified_hellas,1,,,,0,,
 sanctissimus_salvator_et_theotokos,1,1,1,1,0,,1
 sanctum_teriaris,1,0,1,1,0,0,1
 sanctum_terra,1,0,1,1,0,0,1
@@ -5624,6 +5625,7 @@ saradina,,,0,,,,
 saraigni,1,,,,,,
 sararia,0,0,1,1,0,1,1
 sardinavia,1,0,1,1,0,1,1
+sardine_world,,,,,0,,
 sarmanov,,,1,1,,0,1
 sarorodvinsk,0,,,,,,
 sarqestan,,,1,,,,
@@ -6411,6 +6413,7 @@ the_anaerobic_republic,0,,,,0,,1
 the_anarchist_territorys,1,1,1,,,,
 the_anarchy_islands_of_western_europe,,,,0,1,,0
 the_ancient_albuquerque,1,,,,,,
+the_ancient_church_of_the_house_of_thoth,,,,,0,,
 the_ancient_world,0,1,1,1,0,1,1
 the_animalists,,0,1,1,0,0,1
 the_apartment_doctor,,,1,,0,0,1
@@ -7131,6 +7134,7 @@ union_of_love,1,1,1,1,0,0,
 union_of_new_dixie,0,0,,,,,
 union_of_pax_america,,0,1,,,,
 union_of_siberan_republics,0,1,,0,,,
+union_of_slavicness,,,,,0,,
 union_of_zhaonan,,,,1,0,1,1
 unisiara,0,1,,0,0,,
 unitacee,,,,,0,,
@@ -7329,7 +7333,7 @@ velaryn_dominion,1,1,,,,,
 velemars_paradise,,,1,1,0,0,1
 velementia,,,,,0,,
 velhacruz,1,0,1,,,,
-veliciana,,,,1,,0,
+veliciana,,,,1,0,0,
 velisila_ljudstva,0,0,1,1,0,0,1
 velkareth,,,,,0,,1
 velke,,,0,1,,0,
@@ -7836,9 +7840,10 @@ zinoviev,0,0,1,1,0,0,1
 zintai,1,0,1,1,1,0,1
 zion_imperium,1,,,,0,,1
 zioniae,,0,,,,,
-ziprotscria,,,,1,,,1
+ziprotscria,,,,1,0,,1
 ziter,,,1,,,0,
 zitronensaft,1,0,1,1,,0,
+zivloka,,,,,0,,
 zlapadoslavia,0,0,0,0,0,1,1
 zlotii,,,,,0,,1
 zlotyslaw,,,1,,,1,
