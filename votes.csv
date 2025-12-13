@@ -3,6 +3,7 @@ nation_id,varanius_1758501414,tinhampton_1758643240,cretox_state_1758860435,cret
 -eunomia,0,1,0,0,0,0,0
 -shizouka-,0,1,0,0,0,1,1
 -sordland,1,0,1,1,,0,
+-the_supreme_state,,,,,0,,
 -tim-opolis,,,1,,0,0,1
 -urzikstan,1,,,1,,,
 0000001,0,0,1,1,0,1,1
@@ -124,6 +125,7 @@ akeland,,1,,,,,
 akerslan,,,,,0,,1
 akhand_bharatam,,0,,0,,0,
 akhenet,1,,,,0,,1
+akrimeia,,,,,0,,
 akross,,0,1,1,0,0,1
 akua-niihau,,0,,,,0,
 akunzoian_empire,1,1,1,1,0,,1
@@ -306,7 +308,7 @@ ankyappu,1,,,,,,
 anli,1,0,1,1,,0,1
 anna_airters,,,1,,,,
 annabelland,,1,,,,,
-annak,1,0,1,,,,
+annak,1,0,1,,0,,
 annakendrickland,1,0,1,1,1,0,1
 annenderlande,,0,,,,,
 annestah,1,,1,,,0,
@@ -1474,7 +1476,7 @@ derenus,1,1,1,1,0,1,0
 derland,,1,,,,,
 des_sawuzavilockaver_islands,0,1,,0,,0,
 desi_brittania,,,,1,,,
-dessambra,,,0,,,0,
+dessambra,,,0,,0,0,
 dest_oritio,0,0,0,1,0,0,1
 destanzan_islands,1,,,,,,
 destials,1,0,1,1,0,0,1
@@ -1681,7 +1683,7 @@ east_grestin_military_district,,1,,,,,
 east_jamaica,1,1,0,1,1,1,1
 east_kazekia,1,0,1,1,1,0,1
 east_mediterranean,1,1,,,,,
-east_methanland,0,1,0,1,,0,
+east_methanland,0,1,0,1,0,0,
 east_moon_colony,,,,1,0,0,1
 east_owenistan,1,1,1,1,0,1,1
 east_planes,,0,,,,,
@@ -2662,7 +2664,7 @@ hihihihihiiiii,1,0,1,,,,
 hijfar,,,,,0,,
 hijjma,,,,1,,,
 hikasun,,,1,,,,
-hilagang_bituin,0,,1,1,,0,
+hilagang_bituin,0,,1,1,0,0,
 hileville,,,,1,0,0,1
 hille_islands,,0,,,,,
 hilonde,1,1,,,,,
@@ -2702,7 +2704,7 @@ holzhagen,1,1,0,,,,
 homdaak,,,,,0,,1
 hominidia,0,,,,,,
 homskili,1,0,1,,1,,1
-honchu,1,1,1,1,,0,
+honchu,1,1,1,1,0,0,
 honda_motor_co,,,,1,0,,1
 honduhn,,,,0,0,0,1
 honeymoon_avenue,1,,1,1,0,0,1
@@ -3255,6 +3257,7 @@ kitten_cat,,,,,1,,
 kitty_terrorists,1,,,,,,
 kiwilandia_porra,,,1,,,0,
 kixdom,1,,1,,,,
+kizab,,,,,0,,
 kizhiratsk,,,1,1,1,0,1
 kjelllandia,1,,,,,,
 kkorea,1,,,,,,
@@ -3474,6 +3477,7 @@ laurendon,1,0,,,,,
 laurentrum,1,1,,,,,
 lavanta,,,,,0,,1
 lavinsworth_united_islands,0,,,,,,
+lawa_kala,,,,,0,,
 lawattsia,0,,,,,,
 laws_and_bylaws,,,,,1,,1
 layem-desmond,0,0,0,0,0,0,0
@@ -3509,7 +3513,7 @@ lemon_soviet_socialist_republics,0,1,0,1,0,1,0
 lemon_squid,1,,,,0,,
 lemonburgs,,,0,,,,
 lengwei,,,,1,,0,
-lenkurg,0,,0,,,,
+lenkurg,0,,0,,0,,
 lennonia,,1,,,,,
 leolander,1,0,1,1,0,1,1
 leonardo12,1,1,0,,1,,0
@@ -4221,7 +4225,7 @@ new-ferytland,0,,,1,0,1,0
 new-javarra,0,1,1,1,0,0,1
 new_aazakabat,,,1,1,0,0,
 new_aequalitas,1,0,1,1,0,0,0
-new_allegia,1,1,1,,,0,
+new_allegia,1,1,1,,1,0,
 new_almadi,,1,,0,,0,
 new_alterna,1,1,1,1,0,1,0
 new_amadamons,,,,,0,,
@@ -4437,7 +4441,7 @@ nonfredom,0,1,0,0,1,1,0
 noob_topia,,,,0,0,1,1
 noobbia,1,1,1,1,0,0,1
 noobia_and_solare,0,1,1,1,1,0,1
-noodle_cats,1,,1,,,0,
+noodle_cats,1,,1,,0,0,
 nor_chical,0,,1,,,,
 norcoast,1,0,1,1,0,0,1
 nordcat,1,,,,,1,1
@@ -4642,6 +4646,7 @@ obstructing_the_world_assembly,,,,0,0,0,0
 obvile_kiatopia,1,0,1,1,1,1,1
 oce4nia,1,,,,,,
 oceanic_ai_of_arctic_ocean,1,0,1,1,0,0,1
+oceanica_empire,,,,,0,,
 oceanice_republics,,,,1,,0,
 oceanlandmw8,1,,1,,,,
 oceasia,1,1,1,1,0,0,1
@@ -4693,7 +4698,7 @@ old_austria,1,0,1,1,0,0,1
 old_corus,0,,,,,,
 old_emporia,1,0,1,1,,0,
 old_leggith,1,1,,,,,
-old_new_ravensburg,,,,1,,1,1
+old_new_ravensburg,,,,1,0,1,1
 olvera,,,1,,,1,
 olyglea,1,1,,,,,
 olympian_rome,1,,,1,,,
@@ -5519,7 +5524,7 @@ saint_markhor_peninsula,,,,,1,,
 saint_nardine,,,,,0,,
 saint_purattosyche,,,1,,,,
 saint_saul_and_shirley,1,0,1,1,0,0,1
-saint_shepard,0,1,0,,,,
+saint_shepard,0,1,0,,0,,
 saint_stesa,,0,,,,,
 saint_tomas_and_the_northern_ice_islands,,,,,,,1
 saint_vipy_shorith,,,1,1,,,1
