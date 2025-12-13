@@ -334,7 +334,7 @@ antoraska,,,1,,,,
 antrania,,,,,0,,1
 anuadh,0,1,1,1,1,0,0
 anuahrfscdurbfced,,,1,1,0,0,1
-anunnakidraco2,1,0,1,1,,0,1
+anunnakidraco2,1,0,1,1,0,0,1
 anuriv,1,0,1,0,0,0,1
 anxious_and_kevin,,,0,,,,
 ap3_10,,,,,0,,
@@ -506,7 +506,7 @@ ateria12,,1,,,,,
 athamioway,1,,1,,,,
 athrania,,1,,,,,
 atlantanese,0,1,0,1,,0,
-atlantic_ocean_and_its_tributaries,,1,0,1,,,1
+atlantic_ocean_and_its_tributaries,,1,0,1,0,,1
 atlanticium,0,1,0,0,0,0,0
 atlantisa,,0,,,,,
 atlorland,1,0,,,,,
@@ -796,7 +796,7 @@ blest,,,1,,,,
 blobian,0,,,1,,1,
 blobon,,,,,0,,0
 blobular,0,1,0,0,0,,
-bloesser,1,,0,,,,
+bloesser,1,,0,,0,,
 bloni,1,1,1,1,0,0,1
 blonkulopia,,,,0,,0,
 bloodess,,,1,,,,
@@ -2514,7 +2514,7 @@ grete_maria,1,,,,,,
 greynne,,,1,,,,
 greythorne,1,0,1,1,,0,
 greywater_coast,,1,,,,,
-grimmywelsh,,,1,,,0,
+grimmywelsh,,,1,,0,0,
 grinkiscoll,1,,,,,,
 gritharbor,,,1,,,,
 grobe,,0,1,,0,0,1
@@ -5138,7 +5138,7 @@ pulopulo,0,,,,,,
 pulsar_girl,,0,,,,,
 pultorland,1,0,1,1,1,0,1
 pumpkin_valley,1,0,1,1,0,0,1
-pupackijand,,,,1,,1,
+pupackijand,,,,1,0,1,
 puppetalia,,,1,,,,
 puppy_ceners,1,,,,,,
 puraykinia,0,0,1,1,0,0,0
@@ -5322,7 +5322,7 @@ republic_of_rusiya,1,0,1,0,,,
 republic_of_stevelandia,,,0,,,,
 republic_of_taehyang,,,,1,,,
 republic_of_tridemist_czechia,1,0,1,1,0,0,0
-republic_polos,1,0,1,1,,1,
+republic_polos,1,0,1,1,0,1,
 republica_chingona,1,,1,1,0,0,1
 republica_de_ironvald,,0,,,,,
 republica_federal_de_catalunya,1,1,1,1,0,0,1
@@ -5884,7 +5884,7 @@ skynidos,0,1,0,1,0,0,0
 skytasia,0,0,0,1,0,0,1
 slaca,1,0,1,1,0,0,1
 sladiane,,0,,,,,
-slaine_theocracy,1,1,,,,,
+slaine_theocracy,1,1,,,0,,
 slashdoom,,,1,,0,,
 slatavia,,,1,1,,0,1
 slav_russia_2,,,,1,,,
@@ -7078,6 +7078,7 @@ twisted_duality,1,0,1,1,0,0,1
 two-time,,,0,,,0,1
 tyanstrowka,,,1,1,0,0,0
 tygualles,,1,,,,,
+typhoon_republic,,,,,0,,
 typica,0,1,0,0,0,,
 tyrannicalands,1,0,1,,,0,
 tyrassueb,,,0,1,,0,
