@@ -952,7 +952,7 @@ californaia,,1,1,,0,1,1
 california_and_oregon,0,,,,0,,1
 calivane,,,,1,,0,
 callovia,1,0,1,1,0,0,1
-calsenka,0,1,0,,,,
+calsenka,0,1,0,,0,,
 cambany,1,0,1,1,0,,1
 camerilia,1,,1,1,0,1,1
 cameronia_excellentia,1,0,1,1,0,0,1
@@ -1691,6 +1691,7 @@ east_methanland,0,1,0,1,0,0,
 east_moon_colony,,,,1,0,0,1
 east_owenistan,1,1,1,1,0,1,1
 east_planes,,0,,,,,
+east_richmondia,,,,,0,,
 east_sternwich,0,1,1,1,0,1,0
 east_thule,1,1,1,1,0,0,1
 east_tosand,,1,,,,,
@@ -3053,7 +3054,7 @@ joe_bart,,,1,,,,
 joedina,1,,,,,,
 joevala,,0,1,,0,,1
 john_countrys_country,,0,1,,,,
-john_lee,1,,1,1,,0,
+john_lee,1,,1,1,0,0,
 johnjian,,,1,,0,,
 johnstowne_island,,1,,,,,
 joint_free_states,,1,0,,,,
@@ -3430,7 +3431,7 @@ lael_piotr,0,0,1,1,0,0,0
 lai_mai_ton,,,,,0,,1
 laitneiro_alicirga,,,1,,0,,1
 laka_squuia,,1,,,,,
-lakayev,,1,1,,,,
+lakayev,,1,1,,0,,
 lakenbird,1,0,1,,,0,
 lakesideia,1,,1,1,0,0,1
 lakirta,,0,,,,,
@@ -3803,6 +3804,7 @@ maracay_2030,1,1,1,1,0,0,1
 maratha_rajya,1,0,1,1,0,0,1
 maravell,0,1,0,1,0,1,1
 marazali,1,,,,,,
+marblania,,,,,0,,
 marbona,0,1,,,,,
 marcus3,,,,1,,0,
 mardatan,1,,,,,,
@@ -4718,7 +4720,7 @@ omaha_utopia,1,0,,1,,0,
 omakise,0,,,,,0,
 omevecta,,0,1,1,0,0,1
 omniaterra,1,,,,,,
-omnistria,1,0,1,1,,0,
+omnistria,1,0,1,1,0,0,
 omnitech,0,0,1,0,0,0,1
 omynix,,0,,,,,
 onalandsee,,,1,,,0,
@@ -5048,7 +5050,7 @@ poram_companies,0,1,0,0,0,1,0
 porigrad,1,,1,,,1,
 porotia,,0,,1,,0,
 porreres,,,0,,,0,
-porsaland,,,1,1,,0,
+porsaland,,,1,1,0,0,
 porta_caeli,1,,,,,,
 porta_maritim_de_indias_osidental,1,1,1,1,,0,1
 portburg,1,1,1,1,0,1,1
@@ -5063,7 +5065,7 @@ potass,1,,,1,,0,
 potato-pizza,1,,,,,,
 potatofarmers,1,0,,,,,
 potatopelago,1,,,,,,
-potatoville,1,0,1,,,0,1
+potatoville,1,0,1,,0,0,1
 poteramnsan,,,,,0,,
 potoronia,,,,1,,,1
 powerful_idiots,1,,1,,,,
@@ -5350,7 +5352,7 @@ reynhold,1,1,,,,,
 reyun,,,,1,,0,1
 rezonovia,,,1,,,,
 rezvanada,0,,,,,,
-rhaf,,,0,,,,
+rhaf,,,0,,0,,
 rhaza,1,0,1,1,0,0,1
 rhazoria,1,1,1,1,0,0,1
 rheaser,1,1,,,,,
@@ -6007,7 +6009,7 @@ south_merkopa,,,,1,0,0,1
 south_mouse_island,,,1,,,1,
 south_north_california,,,,,0,,1
 south_otselic,1,0,1,1,1,0,1
-south_parter,1,0,1,1,,0,
+south_parter,1,0,1,1,0,0,
 south_poopistan,1,0,0,1,0,0,0
 south_st_maarten,,1,,,,,
 south_supenterbia,,,,,0,,
@@ -6034,6 +6036,7 @@ southsea,1,0,1,1,0,0,1
 southwest_crayonstan,0,,,,,,
 southwest_horizonia,,,0,,,,
 sova_vista,0,,0,0,,1,
+sovelie,,,,,0,,
 sovereign_europe,,,,1,0,0,1
 sovereign_of_eggs,,,0,,,,
 sovereign_state1,1,,,,,,
@@ -6167,7 +6170,7 @@ storaiil,,1,1,,,,
 storalia,1,,,,,,
 stormtorger,,,1,,,,
 stotecia,1,0,1,1,0,0,1
-stratocratic-anarchy_oceanic_empire,,,1,,,,
+stratocratic-anarchy_oceanic_empire,,,1,,0,,
 stratrekia,,,,1,0,,
 stratusia,,,,,0,,1
 stravonskaya,0,1,0,0,0,,0
@@ -7281,6 +7284,7 @@ valkeria,1,0,1,1,0,0,1
 valkyrie_reborn,1,0,0,0,1,0,0
 valle_de_trucha,,,,0,,,
 valmorea,1,0,,,,,
+valokstal,,,,,1,,
 valonian_states,1,0,,1,0,0,1
 valorensia,0,1,1,1,0,0,
 valotira,1,,,,,,
@@ -7720,7 +7724,7 @@ ykq-2421,0,,,,0,,1
 yodaa,,,,1,,,1
 yodle,1,1,1,1,0,0,1
 yoiiatin,1,1,1,,,0,
-yokyo,1,1,0,,,,
+yokyo,1,1,0,,0,,
 yoldovia,,,,,0,,1
 yon_boon,1,,,,,,
 yonderlo,,,1,,,,
