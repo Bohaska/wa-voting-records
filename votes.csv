@@ -322,7 +322,7 @@ antahbrantahstan,0,0,,,,,
 antara,1,0,1,1,0,0,1
 antarc,1,,,,,0,
 antarctic_empires,,,1,,0,,1
-anthropoelpis,1,1,,,,1,
+anthropoelpis,1,1,,,0,1,
 anthropoia,,,1,,,,
 anti-goatsack,1,1,,0,0,1,
 anti-tomatoes,1,0,1,,,,
@@ -1080,7 +1080,7 @@ chareest,,,0,,0,,1
 chargol,0,1,0,1,0,1,1
 charlaton,0,1,1,1,0,0,1
 charlvania,,,1,,,1,
-charolsia,1,0,1,,,,
+charolsia,1,0,1,,0,,
 chatgpt_topia,1,,1,1,0,0,1
 chatoria,1,1,1,1,0,1,1
 chavak,0,,,,0,,0
@@ -2360,6 +2360,7 @@ goanya,1,0,1,,,0,
 goatseania,0,1,0,,0,,1
 goatvillia,0,1,0,0,0,0,0
 gob_gob,,1,,,0,,
+gobania,,,,,0,,
 goberno_do_lago,,1,0,0,0,1,1
 gobhainn,0,,,,,,
 godmodia,1,0,1,1,1,0,
@@ -2800,6 +2801,7 @@ ibernet,1,,0,,0,,1
 icarema,0,0,0,1,0,0,1
 icasisic_islands,,,,,0,,0
 ice_cream_planets,,,,,0,,1
+iceland_1,,,,,0,,
 ichiran,,1,,1,0,,
 ichirokuhachi,1,0,1,1,1,0,0
 ictus,,1,,,0,,
@@ -4061,7 +4063,7 @@ moscowis,,,0,,,,
 mosfelania,1,0,1,1,0,0,1
 moskva_and_stalingrad,1,0,1,,,,
 mostomonia,,1,1,1,,1,
-moszce-walvard,,0,,1,,0,
+moszce-walvard,,0,,1,0,0,
 moudom_derus,,,,1,,0,
 moukden_and_kirin,1,0,1,1,0,0,1
 mount_cashmore,1,0,,,,,
@@ -4347,6 +4349,7 @@ new_sandiago,,,1,1,,0,
 new_scotstan,1,0,0,1,0,0,1
 new_scottika,1,0,0,0,0,0,0
 new_scratchiland,0,1,0,1,0,1,0
+new_seallands,,,,,0,,
 new_seeyajack,,,1,,,,
 new_sel_panamby,,0,,,,,
 new_seniteria,0,,1,,,,
@@ -4850,7 +4853,7 @@ panthalasa_empirivm,1,,,,,,
 pantheropia,1,,,,,,
 pantoslavia,,,0,1,0,0,1
 pantso,1,,1,,0,0,1
-pantumaca,0,1,0,0,,0,
+pantumaca,0,1,0,0,0,0,
 panzerist_space,1,1,,,,,
 panzovia,1,0,,1,0,0,
 pao_masonia,,,,1,0,1,1
@@ -5064,7 +5067,7 @@ posthumanism,1,,1,,,0,
 postpertine,,,,,0,,
 potass,1,,,1,,0,
 potato-pizza,1,,,,,,
-potatofarmers,1,0,,,,,
+potatofarmers,1,0,,,0,,
 potatopelago,1,,,,,,
 potatoville,1,0,1,,0,0,1
 poteramnsan,,,,,0,,
@@ -5108,7 +5111,7 @@ prosperoi,,0,1,,0,,1
 prosquine,1,1,0,0,0,1,1
 protectistan,0,1,,,,,
 proto_dacia,,1,1,1,,0,
-protzka,1,,1,,,,
+protzka,1,,1,,0,,
 proud_balkan,0,,1,1,,1,
 prov,0,0,0,0,0,0,1
 providentius,1,1,,,,,
@@ -5650,7 +5653,7 @@ scandivielium,,,,,0,,1
 scarlettjohansson,1,0,1,1,0,0,1
 scartap,1,1,1,,,0,
 schardonia,,0,1,,0,,
-schaumburg-pyrmont,0,,1,,,,
+schaumburg-pyrmont,0,,1,,0,,
 scheinenland,,,,,,,0
 schekel,,,,1,,,
 schillikia,1,1,1,1,0,0,1
@@ -5984,6 +5987,7 @@ sophiasworld,1,1,,,,,
 sorba,,,,1,,0,
 sorcerx,0,1,0,1,0,0,1
 sorchland,,1,,1,1,0,1
+sordien,,,,,0,,
 sorealand,1,0,1,,0,,
 soriana,1,1,0,0,0,0,1
 soriguana,0,,,,0,,
@@ -6981,6 +6985,7 @@ tradila,,0,1,1,0,0,1
 traensoles,1,1,1,0,0,1,1
 tragesch_firwat,1,,,,,0,
 transhalva,1,0,0,0,1,0,0
+transilmania,,,,,0,,
 transnister,,,,1,,0,
 transorovia,1,0,1,,0,0,1
 tranver,0,,1,1,0,1,1
@@ -7746,7 +7751,7 @@ yuejin,,,,1,,0,
 yugarritia,0,,,,,,
 yugoistokoslavia,,,,1,,,
 yugonostalgia,,0,1,,,1,
-yugoscavia,,1,0,,1,,1
+yugoscavia,,1,0,,,,1
 yugoslawia,0,,1,1,0,0,1
 yujian_mannel_contuni_undevot,,,,1,,,
 yukolia,1,1,0,1,0,1,1
