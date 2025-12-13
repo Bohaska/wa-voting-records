@@ -807,6 +807,7 @@ bludzaria,,,1,1,,0,
 blue_king,,1,,,,,
 blue_riverbed,,,,,0,,1
 blueberry_islands,0,0,1,,1,1,0
+bluefrog,,,,,0,,
 bluejam,,,1,1,0,0,1
 blunis,0,1,,1,,0,
 bmoss,,,,,0,,
@@ -1387,12 +1388,12 @@ daredbannana,0,,,1,,0,
 darenraman_nasan,0,1,0,,,,
 dark-type_eeveelution,1,0,,,,,
 dark_alps,0,0,0,1,0,0,1
-dark_chaos_insurgency,1,0,1,1,,1,1
+dark_chaos_insurgency,1,0,1,1,0,1,1
 dark_dawn_empire,0,1,,0,,0,
 dark_fialand,1,0,,,,,
 dark_matter,,,1,,0,,
 dark_soul,,1,0,,,0,
-darkanistan,,0,,1,,0,
+darkanistan,,0,,1,0,0,
 darkarion,1,,0,1,,0,1
 darklighters,0,1,1,1,0,0,1
 darkmania,1,0,1,,0,,1
@@ -1587,7 +1588,7 @@ dragon_isles,,0,1,0,0,0,1
 dragonian_kazaman,1,0,1,1,0,0,1
 dragonpore,1,,1,,,,
 draico,1,1,1,1,0,0,1
-drakenden,1,,1,1,,0,
+drakenden,1,,1,1,0,0,
 drakias,,0,,,,,
 drakorynthos,,0,,1,0,0,1
 dramancass,1,0,1,1,0,0,1
@@ -1883,7 +1884,7 @@ esilondre,0,1,1,1,0,0,1
 espanol,,,1,,,,
 estados_socialistas_independentes,1,0,1,1,0,0,1
 estados_socialistas_unidos_de_iberia,1,1,0,1,0,0,1
-estalora,1,0,,,,,
+estalora,1,0,,,0,,
 estellan,1,,1,1,0,0,1
 esteneng,1,1,1,1,0,0,1
 estolunya,1,0,1,1,0,0,1
@@ -2800,7 +2801,7 @@ ichirokuhachi,1,0,1,1,1,0,0
 ictus,,1,,,0,,
 idinist_imauggland,1,1,1,1,1,0,1
 idontcare,1,0,1,1,0,0,1
-idunn,0,1,0,0,,1,
+idunn,0,1,0,0,0,1,
 ienovo,1,,1,,0,,0
 iesala,0,0,,,0,,1
 ignorambia,,,1,,,,
@@ -2888,7 +2889,6 @@ inner_triangulum,,,1,,,,
 innovaris,1,,,1,0,0,1
 insaig,1,0,1,1,0,0,1
 inseberistan,,0,,,,,
-insurgency_info,,,,,0,,
 intaglio,1,1,1,0,0,0,0
 intainia,0,1,0,0,0,,
 integralism,1,,,1,,,1
@@ -3332,6 +3332,7 @@ kotiko_socialist_communist_republic,0,0,,,,,
 kotkavia,,,,,0,,1
 kotuwia_sarle,,0,1,1,0,0,1
 koyun,1,,,,,,
+kozzia,,,,,1,,
 kraj,1,1,1,1,0,1,0
 kralenos,1,0,1,1,1,1,1
 kramenka,,,1,,,,
@@ -4284,7 +4285,7 @@ new_frencia,1,1,1,1,0,0,1
 new_furspolisia,,,1,1,0,0,1
 new_gadsdenland,1,,,,,,
 new_garbanzia,1,0,1,1,0,0,1
-new_gehenna,1,0,,1,,0,
+new_gehenna,1,0,,1,0,0,
 new_gilboa,1,0,1,1,0,0,1
 new_gondorianas,,,1,1,,0,1
 new_halo,0,,,,,,
@@ -7310,6 +7311,7 @@ vayana,,,,1,0,,1
 vazieli,,0,1,0,,0,
 veelania,1,1,,1,,0,
 vegaga,1,0,0,0,0,0,0
+veilhemia,,,,,0,,
 veksar,1,,1,1,0,0,1
 vela_land,,1,,,,,
 velandrome,,,1,,,,
