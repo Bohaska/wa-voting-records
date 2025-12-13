@@ -324,7 +324,7 @@ antarc,1,,,,,0,
 antarctic_empires,,,1,,0,,1
 anthropoelpis,1,1,,,,1,
 anthropoia,,,1,,,,
-anti-goatsack,1,1,,0,,1,
+anti-goatsack,1,1,,0,0,1,
 anti-tomatoes,1,0,1,,,,
 anticorruption,,,1,0,,0,0
 antilu,,1,1,,,,
@@ -684,6 +684,7 @@ behh,1,1,1,1,0,1,1
 beijaflor,,0,,1,,,1
 belarus_20,1,,,,,,
 belayarossiya,,,1,,,,
+belgardia,,,,,0,,
 belkanada,1,1,0,0,0,1,0
 bella_ulle,1,,,,,,
 belladonnia,0,1,,1,0,0,1
@@ -1861,6 +1862,7 @@ erateia,,0,,,,,
 eraver,1,,,,,,
 ered_anor,,,1,,,,
 eredownia,1,,,,1,,1
+eretzora,,,,,0,,
 ergoslavia,,,,,0,,1
 eridium,0,1,0,1,0,1,1
 erioas,1,,,,,,
@@ -3019,7 +3021,7 @@ jeon_jorkad,1,0,,,,,
 jeremian_heights,,1,,,,,
 jermaicia,1,,,,0,,1
 jessepoops,1,0,1,1,0,0,1
-jesuir,,1,0,1,1,0,1
+jesuir,,1,0,1,0,0,1
 jetan,1,,,,,,
 jew_man,,0,1,1,1,1,1
 jewitchr001,1,1,1,1,0,0,1
@@ -3355,6 +3357,7 @@ kriegsreich_of_iron,1,0,1,1,1,0,1
 krilmor,1,0,,,,,
 krinenia,1,0,1,1,0,0,1
 krisztaliszia,1,1,,,,,
+kritzerafitsearand,,,,,0,,
 krolum,1,,1,,,,
 kronessa,1,1,0,,,,
 kronogistan,,,,1,,0,
@@ -3508,7 +3511,7 @@ leicester_jeffs_lads,,,,,0,,
 leigh_cardingan,1,,,,,,
 leiningerland,0,,,1,0,0,1
 leintuarth,,0,,,,,
-leirbriseadh,,,,1,,0,
+leirbriseadh,,,,1,0,0,
 leitvia,,,1,,,,
 lekzan,,1,0,1,,,
 lemon_soviet_socialist_republics,0,1,0,1,0,1,0
@@ -3599,7 +3602,7 @@ liverpolessia,,1,0,,,,
 liverpopiriblevinia,,0,,1,1,0,1
 liwudprand,,,,1,1,1,
 lixonia,1,1,0,1,0,1,0
-lizard_antifascism_unit,,,,,,,1
+lizard_antifascism_unit,,,,,0,,1
 lizardlandia,1,,,,,,
 llamalore,,,,,1,,
 lo_america,,,,1,,0,
@@ -3618,7 +3621,7 @@ lomda,,,,,0,,
 lonaris,1,0,,,,,
 londesk,,,1,0,0,1,1
 lone_leaf_republic,,,1,,,,
-long_duk_dong_squadron,,0,,,,,
+long_duk_dong_squadron,,0,,,0,,
 longingland,,,0,,,,
 longweather,0,1,0,0,0,0,1
 lonniarium,,,1,1,0,0,1
@@ -3851,7 +3854,7 @@ matsabie,,,1,1,0,,1
 mattville,0,1,0,0,0,0,1
 maurdea,,0,,,,,
 maurras,1,1,,1,0,0,
-mavenu,0,,,1,,,1
+mavenu,0,,,1,0,,1
 mavilay,1,,,,0,,1
 mavros,,0,0,,,,
 mawlor,,,,,,1,
@@ -6075,7 +6078,7 @@ sporlandia,,,,1,0,0,1
 spronks,,,0,,,,
 sprose,,,,0,,,
 spudnikia,,1,,,,,
-spumgon,0,,,,,,
+spumgon,0,,,,0,,
 squarelandiuh,,,1,,,,
 squatchlandia,,,,,0,,0
 squishville,,,1,,,1,
@@ -7049,7 +7052,7 @@ turt1etime,,,1,1,,1,0
 tushto,0,0,1,1,0,1,0
 tutels,1,0,1,1,0,0,1
 tutsshmarain,0,0,,,,,
-tvaroos,1,0,,1,,0,
+tvaroos,1,0,,1,1,0,
 twakagera,0,,,,,,
 twindrill_territory,1,1,,1,,0,1
 twisted_duality,1,0,1,1,0,0,1
@@ -7121,6 +7124,7 @@ union_of_pax_america,,0,1,,,,
 union_of_siberan_republics,0,1,,0,,,
 union_of_zhaonan,,,,1,0,1,1
 unisiara,0,1,,0,0,,
+unitacee,,,,,0,,
 unitan_republic,1,,1,,1,,0
 unitava,,,,1,,,
 unite_commune,1,,,,,,
