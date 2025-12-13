@@ -77,6 +77,7 @@ aelyria,,,1,1,0,0,1
 aena,,,1,,,0,
 aequitas_iii,0,0,1,1,0,0,1
 aequiteria,1,,,,,,
+aequorum,,,,,0,,
 aerdholm,1,,1,1,0,,1
 aerini_elysium,,,,1,0,1,1
 aero_vista,,,,1,,,0
@@ -1862,7 +1863,7 @@ equlainne,0,1,,,,,
 era_de_owro,,,1,1,,0,
 eragon_island,1,0,1,1,0,0,1
 erateia,,0,,,,,
-eraver,1,,,,,,
+eraver,1,,,,0,,
 ered_anor,,,1,,,,
 eredownia,1,,,,1,,1
 eretzora,,,,,0,,
@@ -2086,7 +2087,7 @@ fobao,,,,1,,,
 foderales_konigreich_schlesien,0,,0,1,0,1,1
 foderatico,,0,1,1,,1,
 foeke,,,0,0,,,1
-fograggle,,0,0,1,,,
+fograggle,,0,0,1,0,,
 folaso,,,1,,,,
 folcvania,,0,,,,,
 foldaka,1,0,,1,,,1
@@ -2793,7 +2794,7 @@ hyrthlambia,,,1,,,,
 i_always_come_bak,1,,,,,,
 i_couldnt_come_up_with_a_name,0,0,0,1,0,0,1
 i_den_nue,1,0,1,1,,0,1
-i_lick_pig,,0,0,0,,,1
+i_lick_pig,,0,0,0,0,,1
 iadras,1,0,1,1,0,0,1
 iasonia,0,,,,,,
 ibarabayashi,0,1,0,1,0,1,0
@@ -3064,6 +3065,7 @@ joint_free_states,,1,0,,,,
 jolesar,,1,,,,,
 jondania,,1,,,,,
 jonilastad,0,,,,,,
+jordan_prime,,,,,0,,
 jorovia,0,1,1,1,0,0,1
 josefland,0,0,1,,,1,
 joseviano,1,,,,,,
@@ -4168,6 +4170,7 @@ nation_of_yap,1,,,,,,
 national_coraland_of_fishery,1,,1,,0,,
 national_republic_of_vietnam,0,0,1,1,0,0,1
 national_syndicalist_poland-lithuania,1,0,1,1,1,0,1
+nationanations,,,,,0,,
 nationary,,,,,,1,
 nationbest,0,1,1,0,,1,
 nationbest1,,,,0,1,1,0
@@ -4388,12 +4391,13 @@ new_zionistland,,,,,0,,1
 newam2,,,0,,,,
 newdays,1,0,,,,,
 newer_ostland,1,0,1,1,0,0,1
-newer_socialist_super_state_blf,1,0,1,,,,
+newer_socialist_super_state_blf,1,0,1,,0,,
 newest_foundedland,1,0,1,1,1,0,1
 newest_macedonia,1,0,1,,0,,1
 newfound_prospero,,,0,,,,
 newfoundland_and_gaspesie,1,0,1,1,0,1,1
 newgalacticempire,,1,,,,,
+newgaomi,,,,,1,,
 newgratia,1,0,,1,0,0,1
 newmalayan,,0,,,,0,
 neworderofgermany,1,1,0,,0,,
@@ -4598,6 +4602,7 @@ novespes,0,,,,,,
 novgoristan,0,1,,,,,
 novia_pan_wes,0,1,,,,,
 novicsu,,,,,0,,1
+novin_wesimm,,,,,1,,
 novisiberskov,,1,,1,,0,
 novist,0,1,,0,1,1,
 novo_acadia,1,,,,,,
@@ -5106,6 +5111,7 @@ professor_thomas,,,1,,0,,1
 proletarian_technate_of_heimdall,1,1,0,1,0,1,0
 proletariatit,0,1,0,0,1,1,0
 propwash,,,,1,,,1
+proserpino,,,,,0,,
 prosmean,,,,,0,,1
 prosopon,1,,1,1,1,1,1
 prosperoi,,0,1,,0,,1
@@ -5962,6 +5968,7 @@ solgavden,,,,,0,,1
 solicetine,1,1,1,1,0,0,1
 solinarien,1,1,1,1,0,0,1
 soliron_collective,1,,,,,,
+solismosion,,,,,0,,
 sollolanes,,,,1,0,0,1
 solmera_land,,,1,0,,,1
 solomon-randomcrap_union,,0,,,,,
@@ -6239,7 +6246,7 @@ surne,1,0,1,1,0,0,0
 survivir,,1,,,,,
 suryaloka,0,1,0,0,0,,0
 sushi_japan,,0,1,1,0,0,1
-sutland_rep,0,1,0,0,,0,
+sutland_rep,0,1,0,0,0,0,
 suveh,1,1,1,1,0,0,1
 suvmia,0,1,1,0,1,0,1
 suwal_loya,,,,,0,0,1
@@ -6881,7 +6888,7 @@ the_zombay,0,0,1,1,0,1,1
 theavaion,0,,,,,,
 thebyes,1,,1,1,0,0,1
 theedaria,0,1,1,1,0,0,
-thefun,0,1,0,0,,0,0
+thefun,0,1,0,0,0,0,0
 thegoldenempiregermany,0,0,1,1,0,0,0
 thehouseofsilly,1,0,1,1,0,0,1
 thelandoffunfunfun,1,0,1,1,0,0,1
@@ -7434,7 +7441,7 @@ viritanskyy,0,1,0,0,,0,
 virksland,0,1,0,0,1,1,1
 virulian,,,,,0,,
 vishara,,1,,,0,,
-vishizzia,1,0,,,,,
+vishizzia,1,0,,,1,,
 vistua,1,0,1,,0,,
 vitorianiania,1,0,0,1,0,0,1
 vitrili,,0,,,,,0
