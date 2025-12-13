@@ -189,7 +189,7 @@ almeriense,1,,,,,,
 almonaster_nuevo,0,1,1,0,0,0,1
 alorsa,1,0,0,1,,0,
 alpheridies,0,,,,,,
-alphus_imperium,,0,1,1,,1,1
+alphus_imperium,,0,1,1,1,1,1
 alquati,0,1,0,0,,1,
 alrissia,,1,1,,,,
 alsaela,,,,1,,,
@@ -233,8 +233,9 @@ american_rojava,1,1,1,0,0,0,1
 americanican,1,0,,1,0,0,1
 americatain,1,,,,,,
 amerion,1,0,1,1,,0,
-amersmark,,,,0,,,
+amersmark,,,,0,0,,
 amestny,1,,,,,,
+amestris-britannia,,,,,0,,
 amestrris,1,0,1,1,1,1,1
 ameteurial_outdated_philosophia,,,1,,,,
 amexipania,0,1,0,0,0,0,0
@@ -348,7 +349,7 @@ apradia,1,,0,1,,0,
 aquachromia,,,1,,,,
 aquariani,,,,,0,,
 aquariea,1,,,,,,
-aquelistan,1,1,1,1,,0,1
+aquelistan,1,1,1,1,0,0,1
 aquitany,,0,,0,0,0,1
 arab_socialist_baath_of_qatif,0,1,,,0,,1
 arabanoo,,,1,,0,,1
@@ -1015,7 +1016,7 @@ castroreale,0,,,0,0,0,1
 castuna,,1,0,1,0,0,1
 cat_army,1,0,1,1,0,0,1
 cat_is_cool,1,,,,,,
-cat_is_empire,1,0,1,,,,
+cat_is_empire,1,0,1,,0,,
 catacorpo,1,1,0,,0,0,
 catalapse,,,1,,,,
 cataloguia,,,,,0,,0
@@ -1036,7 +1037,7 @@ ceiling_fan_land,,,,,0,,1
 celasia,,,0,,,,
 celdern,1,0,1,1,0,0,0
 celdonie,1,,,,,,
-celliwig,1,,1,,,,
+celliwig,1,,1,,0,,
 celtic_england,1,,,,,,
 cemera,1,,1,,0,,
 cempa,1,1,1,1,0,0,
@@ -1253,7 +1254,7 @@ corporate-dystopia,,,1,,,,
 corporate-paradise,1,,,,,,
 corsuva,1,,,,,,
 cortes_de_pallas,0,,0,,,,
-cortlandt_manor,1,0,1,1,,0,1
+cortlandt_manor,1,0,1,1,0,0,1
 corust,,0,,,,,
 corynth,,0,,,,,
 cose_kublidly,,0,1,1,,0,
@@ -1490,7 +1491,7 @@ deutsche_sozialistische_republiken,,1,1,,,,
 deutscheschina,0,,,,,,
 deutschklasse,1,0,1,1,1,0,1
 devonship,,1,,,,,
-dewqur,1,,,,,,
+dewqur,1,,,,1,,
 dewtona,1,1,,,,,
 dexian,1,0,1,1,0,0,1
 dharitara,,,0,1,0,,
@@ -1812,7 +1813,7 @@ emeseses,,1,,,,,
 emmovakia,0,,,,,,
 emodea,1,,1,,,0,
 empire_des_francs,,,1,1,,0,
-empire_great_britain,,,1,0,,0,
+empire_great_britain,,,1,0,1,0,
 empire_of_atlanta,,,,1,,0,
 empire_of_caldrasa,,,,,,0,0
 empire_of_dabiristan,1,,,,,,
@@ -1936,6 +1937,7 @@ excorvo,,1,,1,,0,
 exerceitus,,,,1,0,0,1
 exilias,,0,,,,,
 exonem,,,1,1,,0,
+explodeingtnt,,,,,0,,
 expos,1,0,1,1,,0,1
 extebly,,,1,,,,
 exteda,0,0,0,0,1,0,1
@@ -2165,7 +2167,6 @@ frejta,,,1,,,0,
 frelon,,,1,1,0,0,1
 french_kanaidia,0,0,0,,0,,1
 french_new_wake_island,,1,1,,,,
-french_sapper_12,,,,,0,,
 frep_caymut,1,0,,,,,
 fret_zenith_of_alaska,,0,,,,,
 fria_arland,1,,,1,,,
@@ -2290,6 +2291,7 @@ germaniej,,1,,1,,0,
 germansium,1,,,,,,
 germany-georgia,,,,1,0,1,1
 germany_fasces,1,0,1,1,0,1,1
+germany_fascism,,,,,0,,
 gerniam,1,,1,,,,
 gerowellia,1,0,0,,,,
 gessia,,,0,,,,
@@ -2354,7 +2356,7 @@ goatvillia,0,1,0,0,0,0,0
 gob_gob,,1,,,0,,
 goberno_do_lago,,1,0,0,0,1,1
 gobhainn,0,,,,,,
-godmodia,1,0,1,1,,0,
+godmodia,1,0,1,1,1,0,
 gods_promised_land,,0,1,1,0,0,1
 gogicastan,0,1,0,,,1,
 goiky_islands,,,,,0,,1
@@ -2793,7 +2795,7 @@ icasisic_islands,,,,,0,,0
 ice_cream_planets,,,,,0,,1
 ichiran,,1,,1,0,,
 ichirokuhachi,1,0,1,1,1,0,0
-ictus,,1,,,,,
+ictus,,1,,,0,,
 idinist_imauggland,1,1,1,1,1,0,1
 idontcare,1,0,1,1,0,0,1
 idunn,0,1,0,0,,1,
@@ -3512,6 +3514,7 @@ lekzan,,1,0,1,,,
 lemon_soviet_socialist_republics,0,1,0,1,0,1,0
 lemon_squid,1,,,,0,,
 lemonburgs,,,0,,,,
+lemsrow,,,,,0,,
 lengwei,,,,1,,0,
 lenkurg,0,,0,,0,,
 lennonia,,1,,,,,
@@ -3596,7 +3599,7 @@ liverpolessia,,1,0,,,,
 liverpopiriblevinia,,0,,1,1,0,1
 liwudprand,,,,1,1,1,
 lixonia,1,1,0,1,0,1,0
-lizard_antifascism_unit,,,,,0,,1
+lizard_antifascism_unit,,,,,,,1
 lizardlandia,1,,,,,,
 llamalore,,,,,1,,
 lo_america,,,,1,,0,
@@ -5984,6 +5987,7 @@ souladasnea,1,,1,,,,
 soumi-eesti,,,,,0,,
 soura_surgian,,1,,,,,
 south-central_rhodesia,1,0,,,1,,1
+south_ang,,,,,0,,
 south_baba,,,0,,,0,
 south_boston_irishmen,1,1,1,1,0,0,1
 south_danzig,,0,1,1,0,0,1
@@ -6664,6 +6668,7 @@ the_pacific_enclave,1,0,1,,,,
 the_pacific_northwest,0,1,,0,0,0,1
 the_palace_of_god_2,0,1,0,1,0,1,1
 the_palentine,,0,1,1,,0,
+the_paradisian_empire,,,,,0,,
 the_party_communist_republics,0,0,1,0,0,0,1
 the_peoples_king_of_the_wildflowers,1,0,1,1,0,0,1
 the_peoples_place_of_living,1,0,1,1,0,0,1
