@@ -143,7 +143,7 @@ al-fajraya,1,0,1,1,1,,1,1
 al-kuwayt,,,,0,1,,1,0
 al_abamistan,1,0,1,1,1,0,1,0
 alabamy,1,0,1,1,1,0,0,0
-alaberra,,,,,0,,,1
+alaberra,,,,,0,0,,1
 alainian_otters,1,,,,0,,,1
 alam_melayu,0,1,,,,,,0
 alangrad,0,1,0,1,0,1,1,0
@@ -1644,7 +1644,7 @@ drachenkuste,,0,1,,,,,
 draconic_aiur,0,0,1,1,0,0,0,1
 dracos_-_haven,,,0,,,,,
 draganisia,1,,1,,,,0,
-dragon_isles,,0,1,0,0,,0,1
+dragon_isles,,0,1,0,0,1,0,1
 dragonfruit_1x1x1x1,,,,,0,,,
 dragonian_kazaman,1,0,1,1,0,0,0,1
 dragonpore,1,,1,,,,,
@@ -1766,7 +1766,7 @@ eastamgriumirkialand,1,0,1,1,1,0,0,1
 eastern_ahadgandenstan,,0,1,0,0,0,0,1
 eastern_alksearia,,,,,0,,,1
 eastern_bik_sourgicedka,0,1,0,0,0,,,
-eastern_doncaster,1,0,1,1,0,,0,1
+eastern_doncaster,1,0,1,1,0,0,0,1
 eastern_east_korea,,,,,0,,,1
 eastern_fistanka,,,,,0,,,0
 eastern_golden_shores,1,0,1,,,,0,
@@ -2036,7 +2036,7 @@ fairmount,,,1,,0,,0,1
 falangist_quebec,,,0,,,,1,
 falcar,,,,,0,,,1
 faledano,1,0,,,,,,
-falernesia,,1,1,1,1,,0,1
+falernesia,,1,1,1,1,0,0,1
 fales_dieska,,1,1,1,1,1,0,1
 falisia_kniais,,0,1,1,0,,,1
 fallgriffin,1,,1,1,1,,1,1
@@ -2166,6 +2166,7 @@ folcvania,,0,,,,,,
 foldaka,1,0,,1,,,,1
 folkosten,,,,1,,,,1
 fololavakia,,1,0,,,,,
+foola,,,,,,0,,
 foolsbane,,,,,,0,,
 foraldn,,0,0,0,0,,1,1
 forcaforta,,1,,,,,0,
@@ -2565,6 +2566,7 @@ greater_gerpliternstan,1,,1,,,,,
 greater_gibraltar,1,0,0,1,,,0,
 greater_granskiye,0,,,,0,0,,1
 greater_grobdeutchland,1,0,,,,,,
+greater_gukan,,,,,,0,,
 greater_hispanolia,1,,1,,,,,
 greater_lanoa,,,1,1,,,0,
 greater_morvonia,,,,,,0,,
@@ -4016,6 +4018,7 @@ mavenu,0,,,1,0,0,,1
 mavilay,1,,,,0,0,,1
 mavros,,0,0,,,,,
 mawlor,,,,,,,1,
+maximas,,,,,,0,,
 maximillion,1,0,1,1,0,0,0,1
 maximus_rex_land,,0,,1,,,0,
 maxuus,0,1,0,1,0,,0,0
@@ -4848,7 +4851,7 @@ odiand,,1,,1,,0,,
 oding_isopods,,,,1,0,,0,1
 oesterlund,1,1,1,1,0,1,0,1
 of_67ers,,,1,,,,1,
-of_altonianic_islands,,,,,0,,,1
+of_altonianic_islands,,,,,0,0,,1
 of_barkarosa,,0,,,0,,,1
 of_courscant,,1,1,1,0,1,0,1
 of_emptiness,1,0,1,1,0,0,0,1
@@ -4980,6 +4983,7 @@ oupland,0,,,,,,,
 our_india,1,,,,,,,
 ouranberg,0,,,1,,,0,
 outer_anainceriznjicy,1,,1,1,0,,1,1
+outer_dura,,,,,,0,,
 outer_scotiotland,0,,1,1,,,,1
 outer_tred_soveu,,,,,,1,,
 oven_of_cookie_runners,,,1,1,1,,0,0
@@ -5212,6 +5216,7 @@ polish_polar_expedition,0,0,,,,,,
 polish_west_slavia,1,0,1,1,1,0,1,0
 polleend,1,0,1,1,0,0,0,1
 polonialia,,,,,,,,1
+polotsk_and_vitebsk,,,,,,1,,
 polre,,,0,1,0,0,0,
 polskakai,,,,1,,,,1
 polskie,,,,,0,,,1
@@ -5393,6 +5398,7 @@ radored_welandion,,,1,,,,,
 raeun,,,,,0,,,1
 raffyland,1,1,1,1,0,1,0,1
 rage_against_your_mom,,,,,1,,,1
+raggafarion,,,,,,0,,
 raghallaigh,0,1,0,1,0,0,0,0
 ragnaria,1,,,,,,,
 rahanatia,,0,,,,,,
@@ -6139,6 +6145,7 @@ socialist_republic_of_monkey,1,1,1,,,,,
 socialist_republic_of_russians,,0,0,1,0,0,0,1
 socialist_republic_of_sakat,0,0,0,0,0,0,1,1
 socialist_republics_of_danubia,,,,,0,,,
+socialist_russian_far_east,,,,,,0,,
 socialist_states_of_east_antarctica,1,,,,,,,
 socialist_weeb_republic,1,1,0,0,0,0,1,1
 socialist_xlyvania,1,0,1,1,0,0,0,1
@@ -6152,7 +6159,7 @@ sokiata,,,,1,0,0,,1
 sol_galeo,1,0,1,1,,,0,
 solansonirul,,0,,,,,,
 solar_energy_and_free_states,0,1,,,0,,,
-solar_iii,0,1,0,1,0,,1,
+solar_iii,0,1,0,1,0,1,1,
 solarampa,,0,,1,,0,1,
 solaria_prime,,,,0,,,1,
 solariya,,,0,1,,,0,
@@ -6605,7 +6612,7 @@ thaetefald,0,1,,,,,0,
 thaisiam,,,1,,,1,,
 thalasselu,1,0,1,1,,,0,
 thalatay,0,1,0,1,0,,1,0
-thallassos,0,1,1,,0,,,1
+thallassos,0,1,1,,0,0,,1
 thaltopia,,,,,0,1,,1
 thankful_besties,,0,,,,,,
 tharlect,1,1,,1,,,,1
@@ -6882,7 +6889,7 @@ the_nakerns,,,,1,0,,0,
 the_nation_of_nathan,1,0,1,1,0,0,0,1
 the_nation_of_quinn,,0,0,0,0,0,0,1
 the_nation_of_the_people_of_the_nation,,,,,0,0,,1
-the_national_ordocommunist_union,,0,0,1,0,,,0
+the_national_ordocommunist_union,,0,0,1,0,0,,0
 the_neomasonic_gay_liberal_soros_state,1,0,1,1,0,,0,1
 the_neubritannisches_reich,1,1,1,1,0,,1,1
 the_new_age_empire,1,0,1,1,0,0,0,1
@@ -6896,7 +6903,7 @@ the_new_midlands,1,0,,1,1,1,1,1
 the_new_palaces,1,,,,,0,,
 the_new_vietnam,,,,,,1,,
 the_news_brook,1,,0,,,,0,
-the_nightmare_and_dreams,1,0,1,1,0,,0,1
+the_nightmare_and_dreams,1,0,1,1,0,0,0,1
 the_northern_glacial_borderlands,,,1,,,,0,
 the_northern_ice,1,,,,0,,,1
 the_northern_karzares,,,1,,,,,
@@ -7618,7 +7625,7 @@ venus_in_terra,,,,,0,1,,1
 verconia,,0,,,,,,
 verdant_haven,,,1,1,0,0,0,1
 verdessa,,,,,0,,,1
-vergusk,,,0,0,0,,1,1
+vergusk,,,0,0,0,0,1,1
 verithlana,1,1,1,1,1,0,1,0
 verlian,0,,0,1,0,,1,
 verlos,,,0,,,,,
@@ -7738,7 +7745,7 @@ vulcravia,1,0,,,,,,
 vulgustan,1,,0,1,0,1,0,1
 vulkanshire,,,,,,0,,
 vulpea,1,,,,0,,,
-vulpencia,0,1,1,,0,,,1
+vulpencia,0,1,1,,0,1,,1
 vulxo,,,,1,,,0,
 vurk,0,0,1,,,,0,
 vuvuvia,1,0,1,1,1,0,0,1
@@ -7913,7 +7920,7 @@ world_assembly_administered_territory,,,,1,0,,,1
 wormpeople,0,1,0,1,0,1,0,1
 wormwood_empire,,,,,,1,,
 woxi,,,,1,,1,,
-wozmania,0,,,,,,0,
+wozmania,0,,,,,1,0,
 wristopolis,,,1,1,0,,0,1
 wtchsrd,0,1,1,1,,,,1
 wudovez,0,1,0,0,0,,0,1
