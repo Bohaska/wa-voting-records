@@ -459,7 +459,7 @@ arrivederci,,,1,1,0,0,0,1
 arscanesia,0,0,1,1,0,0,0,1
 arsenial,1,0,0,1,0,0,0,
 arsenta,,0,,,,0,,
-arstotskiano,1,,1,,0,,0,
+arstotskiano,1,,1,,0,1,0,
 arsula,0,1,0,,,,,
 art_landia,,0,1,1,0,0,0,1
 artamisiland,1,0,1,0,0,0,0,1
@@ -4436,7 +4436,7 @@ neo-cyberborea,1,1,1,1,0,1,0,1
 neo-hermitius,,0,,1,0,,1,1
 neo-theocentric_moralist_government,,,1,,,,0,
 neo-zulthyrland,1,1,,,,,,
-neo_american_states,1,0,1,1,0,,1,1
+neo_american_states,1,0,1,1,0,0,1,1
 neo_americas,,,,1,0,,,1
 neo_colorado,,,,,0,,,
 neo_imperial_america,1,0,1,1,0,0,0,1
@@ -5009,6 +5009,7 @@ ording_drublene,1,,1,,,,1,
 ordogomenistan,1,,,,,0,,
 oreland,,,1,,,,,
 orelchik,,,,,1,,,0
+orelon,,,,,,1,,
 orenia,,,,,0,,,
 orey_listov,0,,,,,,,
 organism_inside_the_gray_mucus,,,,,,0,,
@@ -5399,6 +5400,7 @@ prymordiya,,,,,,0,,
 pryskiva,1,0,1,1,0,1,0,1
 psilocyberio,,1,,,,,,
 psionic_hive,1,1,0,0,0,0,0,1
+psych_neop,,,,,,0,,
 psychopantachy,1,0,1,1,1,0,0,1
 puatula,,,0,,,,1,
 pubuh-zog,1,,,,,,,
@@ -5825,6 +5827,7 @@ saint_barks-webados,1,0,1,1,0,0,0,1
 saint_belmar_ii,,,,,,0,,
 saint_bleu,,1,,,,,,
 saint_david_of_wales,0,,0,0,,,0,
+saint_eliza,,,,,,1,,
 saint_glinda,1,,,,,,,
 saint_khalid,,,1,,,,,
 saint_killebrew,,,,,,0,,
@@ -6876,7 +6879,7 @@ the_galactic_triumvirate,,0,,,,0,,
 the_gamers_of_roblox,,,0,0,0,,0,1
 the_ganymede_islands,,,0,,,,,
 the_gates_of_delirium,1,0,1,1,0,0,0,1
-the_gelseen_hegemony,,0,,,,,,
+the_gelseen_hegemony,,0,,,,0,,
 the_genovese_family,1,0,,,,,,
 the_georgia_isles,1,0,,,0,,,1
 the_german_space_front,,1,,0,,,1,
@@ -7109,7 +7112,7 @@ the_silent_gods,,,,,0,,,
 the_silly_billys,,,1,,,,,
 the_silver_archipelago,,1,,0,1,1,0,1
 the_sinclarian_provinces,1,,,1,,,0,
-the_sinistress,0,1,0,1,0,,0,
+the_sinistress,0,1,0,1,0,0,0,
 the_sith_eternal,,0,,,,,,
 the_smoking_peanut,,,0,1,0,1,0,1
 the_socialist_federation_nord_machadonia,1,1,1,1,0,0,0,1
@@ -7184,7 +7187,7 @@ the_united_isles_of_arnor,1,1,1,1,0,,0,1
 the_united_kingdom_of_castlelandia,,,,,0,,,1
 the_united_kingdoms_of_america,,,,,,1,,
 the_united_meraldian_councils,1,1,1,1,,,0,
-the_united_nations_of_kvenland,0,,,,,,,
+the_united_nations_of_kvenland,0,,,,,1,,
 the_united_neptumousian_empire,1,1,1,1,0,0,0,1
 the_united_patagonian_states,1,0,1,1,0,0,0,1
 the_united_republic_of_westend,,0,,,,,,
@@ -7238,7 +7241,6 @@ theedaria,0,1,1,1,0,0,0,
 thefun,0,1,0,0,0,1,0,0
 thegoldenempiregermany,0,0,1,1,0,1,0,0
 thehouseofsilly,1,0,1,1,0,0,0,1
-thekingdomofaroria,,,,,,0,,
 thelandoffunfunfun,1,0,1,1,0,0,0,1
 thelic_pearia,,,,,0,,,1
 thelskwaringica,,,1,,,,,
@@ -7352,7 +7354,7 @@ trashmania_supreme,0,,,,,,,
 trastal,1,0,1,1,0,0,0,1
 treadwellia,1,0,,1,,0,0,
 treefrog,,,,,0,,,
-treenova_nine,1,1,1,1,0,,1,1
+treenova_nine,1,1,1,1,0,0,1,1
 tremosia,,,1,,0,,,1
 treue_land,1,,,,,,,
 tri-tach,1,,0,,,,,
@@ -8204,6 +8206,7 @@ zany_zanes,1,0,,,0,,,
 zaphora,1,,1,0,0,0,,1
 zaraststan,,,,,,0,,
 zarbirea,1,0,1,1,0,,,1
+zarian,,,,,,0,,
 zarkovnia,,,,,0,,,1
 zarzija,,0,,,,,,
 zavea,1,0,1,1,1,0,0,1
