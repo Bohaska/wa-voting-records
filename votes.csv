@@ -269,7 +269,7 @@ amorana,0,1,,0,0,1,1,1
 amorc,,,1,,,,,
 amorise,,,1,,0,,0,1
 amperi,,,0,1,0,,0,1
-amsden,1,0,1,,0,,,
+amsden,1,0,1,,0,0,,
 amungme_asmat,0,,,,,,,
 an_earthly_pure_land,,,0,,,,0,
 anador,0,0,0,1,0,1,0,0
@@ -410,7 +410,7 @@ ardareth,,0,0,1,0,,1,1
 ardchu,,,,0,,,1,
 ardelain,,,1,,,,0,
 ardelburg,1,0,,1,0,0,0,1
-ardemar,0,1,1,1,0,,0,1
+ardemar,0,1,1,1,0,0,0,1
 ardis,1,,,,0,,,
 ardyallia,,0,,,,,,
 aredita,0,1,1,1,0,0,0,1
@@ -1022,7 +1022,7 @@ canada_in_the_empire,0,,,,,,,
 canbrasouth,,,,1,0,0,,1
 canceia,,0,,,,,,
 canchungo,,,,,,1,,
-candanadium,1,1,1,1,,,0,
+candanadium,1,1,1,1,,0,0,
 candensia,1,,,,,0,,
 candiuk,1,1,0,1,0,,1,1
 canland_islands,1,,,,,,,
@@ -1314,7 +1314,7 @@ consolani,1,1,1,,0,1,1,0
 consolari,,1,,,,,,
 constitutional_republic_of_freedonia,1,,,,0,,,
 content_coup,1,1,1,1,0,,,
-continental_free_states,,,,1,1,,0,1
+continental_free_states,,,,1,1,0,0,1
 convaria,1,0,1,,,,0,
 cookie_testers,,,1,1,0,,0,1
 cookies_and_cream_pizza,1,,,,,,,
@@ -2215,7 +2215,7 @@ forgotten_beauty,0,,,,,,,
 forio,1,1,,0,0,0,,
 foritehland,1,0,1,1,0,,,
 forkbender,1,0,,,,,,
-formenore,1,1,1,1,,,1,
+formenore,1,1,1,1,,0,1,
 fornholm,1,,,1,0,0,0,1
 forsakened_acheron,1,,,,,,,
 fortitudo_et_unitas,,0,,,,0,,
@@ -3574,7 +3574,7 @@ kugguf,1,0,1,0,1,0,1,0
 kuitun,,,1,1,0,,0,
 kukinalia,0,1,,,,,,
 kukino,,,,,,1,,
-kukskladia,1,1,1,1,0,,1,1
+kukskladia,1,1,1,1,0,1,1,1
 kulaand,1,,,,,,,
 kunigsrrock,0,1,0,,,1,,
 kunskil,1,1,1,1,0,1,0,1
@@ -3679,7 +3679,7 @@ latraux,,1,,,,,,
 latrous,1,0,0,1,0,0,,1
 latun,,1,,,,,,
 latvia_lv,,,0,,,,,
-latvian_state,1,1,1,1,0,,0,1
+latvian_state,1,1,1,1,0,0,0,1
 laughing_hyena,,,,,0,,,
 laumor,,,1,1,,,0,1
 laura_fun_land_iii,1,,,,,,,
@@ -4617,7 +4617,7 @@ new_vulcan,1,0,1,,0,,,1
 new_wrangler,,1,1,,,,,
 new_yankmoth,0,1,0,0,0,1,0,1
 new_yazministan,,,,1,,,0,
-new_yordania,,0,,,0,,,
+new_yordania,,0,,,0,0,,
 new_zacharianasville,1,0,0,1,0,0,0,0
 new_zander,,,,,,0,,
 new_zendo,1,0,,1,0,0,1,
@@ -4862,7 +4862,7 @@ nowa_europa,0,1,1,1,0,,0,1
 noxion,1,1,1,,,,,
 nozania,,1,,,,,,
 npo2,,,,0,0,,1,1
-nuara,0,1,,0,0,,0,
+nuara,0,1,,0,0,1,0,
 nubistan,,,,1,,0,0,1
 nublas,1,,,,,,,
 nudityfast,,0,,,,,,
@@ -4881,7 +4881,7 @@ nunatsuak,,,,1,0,0,0,1
 nuova_esperantia,,,1,,,,,
 nurdia,1,1,1,1,0,0,1,1
 nuremburgia,,0,,1,0,0,0,1
-nuremgard,0,1,0,0,0,,0,1
+nuremgard,0,1,0,0,0,1,0,1
 nurserden,,,1,,,,,
 nurult,0,0,0,,0,,1,1
 nurvalia,,0,,,,,,
@@ -5095,6 +5095,7 @@ palish,1,,1,1,0,0,1,1
 palma_riviera,,0,,,,,,
 palmalintin,1,,1,,,0,,
 palmana,,0,1,,,,,
+palmerstone,,,,,,0,,
 palractus,0,1,,0,1,0,,0
 palukia,,,,,,,,1
 pan-hispaniola,0,,,,,,0,
@@ -5872,7 +5873,7 @@ samosil,,1,,,,,,
 samsarastan,1,0,1,1,0,0,0,1
 samslvania,,0,,,,,,
 samuldia,,0,,,,,,
-samund_facobs,1,,1,1,0,,0,1
+samund_facobs,1,,1,1,0,0,0,1
 san_angelina,,,0,,0,0,,1
 san_arys,,,0,,0,0,,1
 san_coleno,,,,1,,0,0,
@@ -5914,7 +5915,7 @@ sao-paulo,0,1,0,0,0,1,0,1
 saperetia,1,,1,1,0,0,0,1
 saphman,1,0,1,1,0,0,0,1
 sapireaskanda,,,,,0,0,,
-sapnupuas,0,1,1,1,0,,0,1
+sapnupuas,0,1,1,1,0,0,0,1
 sapphica_sororitas,1,,1,1,1,1,0,1
 saradina,,,0,,,,,
 saraigni,1,,,,,,,
@@ -6387,7 +6388,7 @@ specil_peoplecom,,0,1,,,,,
 spestania,1,0,1,1,0,0,0,1
 sphereba,,1,1,,,1,,
 spherical_magma,,,,1,,,,
-sphrantzes,1,1,0,0,0,,1,0
+sphrantzes,1,1,0,0,0,0,1,0
 spinelandia,,,1,,,,1,
 spiraltar,,0,,,,,,
 spirituality_with_christ,,,,,0,0,,1
@@ -6479,6 +6480,7 @@ stickofark,1,0,1,1,0,0,0,1
 stigya,0,,,,,,,
 stiliyan,,0,,1,1,,0,1
 stilvanos_solitarius,,,0,,,,,
+stinki,,,,,,0,,
 stocial_toldac,,1,,1,,,0,
 stonewall720,0,,1,0,0,0,0,0
 stonewall_union,,0,1,1,0,0,0,0
@@ -6582,7 +6584,7 @@ sycorat,,1,0,,,,,
 sycruliovin,1,1,0,,0,0,,1
 sydmark,,1,0,,,1,,
 syiarm,,1,,,,,,
-syldis,1,1,1,,1,,,1
+syldis,1,1,1,,1,1,,1
 sylvarein,,1,,,,,,
 symkaidy,,0,,,0,,,1
 symphonaria,,,1,,,,0,
@@ -6644,10 +6646,11 @@ tastiana,,,,,0,,,
 tastos_mids_say,0,,,0,,1,1,
 tatalia-nkisi,1,1,1,1,0,,0,1
 tataryanstan,,0,,,,,,
-tatrum,0,,,1,0,,1,1
+tatrum,0,,,1,0,1,1,1
 taurid,1,0,1,1,1,0,0,1
 taurus94,,,1,,,,,
 tavalia,1,1,1,1,1,0,0,1
+tavonia,,,,,,1,,
 tax_evad3rs,,,1,1,,,1,
 taylor_allison_swift,,,,1,,,0,1
 tayron,,,,1,0,,1,
@@ -8000,7 +8003,7 @@ wilhelmsstadt,0,1,1,0,0,1,0,
 wilkshire,0,1,0,0,0,,0,1
 wille_des_volkes,,,1,,,,,
 william_x,,,,,0,0,,
-willifusland,,,,,1,,,
+willifusland,,,,,1,1,,
 willofthepeople,1,,,,,,,
 willomania,1,,,1,,0,,1
 willow_gate,1,0,,1,0,,0,1
