@@ -591,7 +591,7 @@ avaerilon,,,,,,0,,
 avalonium,0,1,0,0,0,1,0,1
 avaneesh,1,0,1,1,,,1,
 avantasia,,,,,0,,,1
-avarice_interests,,,1,1,0,,0,1
+avarice_interests,,,1,1,0,1,0,1
 avastine,,,1,1,0,,0,1
 avengisian_nyx,1,,1,,0,0,0,1
 aventuris,,1,,,,,,
@@ -646,7 +646,7 @@ badegg,,,,,,0,,
 baden_and_wurttemsee,,,1,,1,0,,1
 badger,1,0,1,1,1,0,0,1
 badobubi,,,,,,0,,
-baeleristan,,0,1,,0,,0,1
+baeleristan,,0,1,,0,0,0,1
 bagojo,1,0,1,1,0,,0,1
 bahalbha_island,,1,1,1,0,1,0,1
 bai_lung,1,0,1,1,1,0,0,1
@@ -1626,7 +1626,7 @@ djeeta,,1,1,,,,,
 djomhama,,,0,,,,,
 dkk,0,,0,,,,,
 dlakisland,1,,,,,,,
-do_brasil_da_america,0,,,,,,,
+do_brasil_da_america,0,,,,,0,,
 do_yu_nue,,,1,0,,,0,
 doakland,0,,,,,,,
 doclabinhduong,,,,,,1,,
@@ -2127,7 +2127,7 @@ feijovacho,,,,,,,0,
 feirden,,1,0,,,,,
 felid_robloxia,,,,1,1,1,0,
 felise,,,,0,0,,0,1
-felix_islands,0,,,,,,,
+felix_islands,0,,,,,0,,
 felornis,1,0,1,1,0,,0,1
 femboy_fishermen,1,,,1,,,0,
 femboy_republics,0,1,0,,0,1,,
@@ -3399,7 +3399,7 @@ kilrymont,,0,,,,,,
 kimderlopia,,,0,,,,,
 kimjonilia,,,,1,,,0,
 kimoia,1,0,1,1,0,1,0,1
-kimonoko,1,,,1,,,0,
+kimonoko,1,,,1,,0,0,
 kinanland,1,0,1,1,0,,0,1
 kinbloc,0,1,0,0,,,1,
 kincones,,,,1,,,0,
@@ -3519,7 +3519,7 @@ kossenburk,1,0,,1,,,1,
 kostal56,,,,,0,,,1
 kotat,,,1,,,0,,
 kotiko_socialist_communist_republic,0,0,,,,,,
-kotkavia,,,,,0,1,,1
+kotkavia,,,,,0,0,,1
 kotuwia_sarle,,0,1,1,0,,0,1
 koyun,1,,,,,,,
 kozzia,,,,,1,,,
@@ -3551,7 +3551,7 @@ krisztaliszia,1,1,,,,,,
 kritzerafitsearand,,,,,0,,,
 krolum,1,,1,,,,,
 kronessa,1,1,0,,,1,,
-kronogistan,,,,1,,,0,
+kronogistan,,,,1,,0,0,
 kronzrhein,0,1,0,0,0,1,1,1
 krota1,,,1,,,,,
 krovnara,1,0,1,,0,0,0,1
@@ -3784,7 +3784,7 @@ ligmabaels,1,,,,,,,
 ligmarin,1,,1,,,,,
 liko,1,0,1,1,0,,0,1
 liliumtopia,0,,,,,1,,
-lilli_lands,,,1,,,,,
+lilli_lands,,,1,,,0,,
 lillistroniralocksne,,,,,0,1,,0
 lillitheve,,,,,,0,,
 lily_valley,,,,,0,,,1
@@ -3998,7 +3998,7 @@ manila-central,0,,0,0,1,1,1,1
 manitouqua,,0,,,,,,
 maniwinn,,,1,,,,,
 mankitownland,,0,,,,,,
-manseria,1,1,1,1,1,,0,1
+manseria,1,1,1,1,1,0,0,1
 manuelian_empire,1,0,0,1,0,0,0,1
 manulqa,,,,,,0,,
 manyger,1,,1,1,,,0,
@@ -6361,7 +6361,7 @@ soviets_67,1,,1,,,,,
 sovietskogo_soyuz,1,,,,,,,
 sovni-aguirre,,1,1,1,,,0,
 sovtaskar,,,,,0,,,
-sowalia,1,0,1,1,,,0,
+sowalia,1,0,1,1,,1,0,
 sowerval,1,0,1,1,1,0,0,1
 sowzer,,,,1,0,1,0,1
 sozland,0,0,,,,,,
@@ -7186,7 +7186,7 @@ the_ussr_rebirth,,,1,1,1,0,0,1
 the_utes,0,1,0,0,0,0,0,1
 the_utopic_tyrant_dreams,,,,,1,,,0
 the_valeron_kingdom,,1,,,,0,,
-the_vally,,,,1,,1,0,
+the_vally,,,,1,,,0,
 the_van_der_linde_gang,1,0,,,,,,
 the_vanguardian_system,1,0,,,,,,
 the_vanic_imperium,1,0,,,0,0,,
