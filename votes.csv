@@ -1253,7 +1253,7 @@ cocktail_waitresses,0,,,,0,,,1
 codiak,,1,1,1,0,0,1,1
 codyn,,1,,,0,,,
 coercri,1,0,1,1,0,0,0,1
-coffeelovers,0,,,,0,,,
+coffeelovers,0,,,,0,0,,
 cogdelve,,,1,1,0,0,0,1
 cognosco,1,,1,1,0,1,0,1
 cogyakeedion,1,,,,,,,
@@ -1474,7 +1474,7 @@ dark_matter,,,1,,0,,,
 dark_soul,,1,0,,,1,0,
 darkanistan,,0,,1,0,,0,
 darkarion,1,,0,1,0,1,0,1
-darklighters,0,1,1,1,0,,0,1
+darklighters,0,1,1,1,0,1,0,1
 darkmania,1,0,1,,0,,,1
 darkwoke,1,1,1,1,0,1,0,1
 darpol,,,,,0,0,,0
@@ -1758,7 +1758,7 @@ dytarma,1,0,1,1,0,,1,1
 dytase,1,0,1,1,0,0,0,1
 dzhongkha,0,1,0,1,0,1,0,0
 ea_world_assembly_mission,1,,,,,0,1,
-eaetafershe,1,1,1,1,0,1,0,1
+eaetafershe,1,1,1,1,0,0,0,1
 eaghter,,,0,,,0,,
 eagland_official,,,,,0,,,1
 ealam,,,,,1,,,1
@@ -2299,7 +2299,7 @@ frier_pie-rats,1,0,1,1,1,1,0,1
 frinecia,,,,1,,,0,
 frines,,,,0,,,0,
 frismana,1,1,0,0,0,1,1,1
-friul,1,0,1,,0,,0,1
+friul,1,0,1,,0,1,0,1
 frodozrout,,0,1,1,0,0,0,1
 from_germany,,,,,,0,,
 frontier_space_station,,,1,,,,0,
@@ -4163,7 +4163,7 @@ metro_manila,0,1,,1,,1,1,
 metropolitinville,1,0,1,1,0,0,0,0
 mets_are_best_nolan_republic,,,1,,0,1,,0
 meulborne,,,,,0,,,1
-mexican_liberation,1,,1,1,,,,1
+mexican_liberation,1,,1,1,,0,,1
 mezia,,,1,,,,,
 mhmea,1,0,1,1,0,1,1,1
 mi-din,1,,,,,,,
@@ -5348,7 +5348,7 @@ praenestia,1,,,,,,,
 praenuntiur,,,,1,1,,0,0
 praetoria_maxima,,,,0,,,,
 pranassa,1,,,,,1,,
-prasertinia,0,0,1,1,0,,,1
+prasertinia,0,0,1,1,0,0,,1
 prashan,,,1,1,,,,
 pravostan,0,1,0,1,0,0,0,1
 pre_corgionia,0,0,1,,1,0,0,1
@@ -5579,7 +5579,7 @@ renatusia,,1,,,,,,
 rendom,0,1,1,1,1,0,0,1
 renegade_duchies,0,,,0,0,0,0,1
 renemaran,,0,,,,,,
-renkentagn,1,0,0,1,0,,0,1
+renkentagn,1,0,0,1,0,0,0,1
 reoppore,,,0,1,,,0,
 rephatimerld,,,1,1,,,0,
 repubblica_odf_romeia,,,,,0,0,,
@@ -5809,7 +5809,7 @@ saegorn,1,1,1,,0,,0,1
 safiloa,0,1,1,0,0,1,1,0
 safj,0,1,0,0,0,0,1,1
 sagway,1,,,,,0,,
-sahe,,,,1,,,,
+sahe,,,,1,,1,,
 sahrawiya,1,1,0,0,0,1,1,1
 saied_ivaninber,,,1,,,,,
 sailnors,1,,,,,,,
@@ -6011,6 +6011,7 @@ seing_don,,,,,0,,,1
 sekantar,,,,1,0,,,1
 selachimorphas,,,1,,,,,
 selagra,,0,1,,,,,
+seleua,,,,,,1,,
 selfgradatude,1,,1,,,,0,
 selkhirn,,1,,,,,,
 sellaeta,1,,1,1,0,0,0,1
@@ -7001,7 +7002,7 @@ the_nation_of_quinn,,0,0,0,0,0,0,1
 the_nation_of_the_people_of_the_nation,,,,,0,0,,1
 the_national_ordocommunist_union,,0,0,1,0,0,,0
 the_neomasonic_gay_liberal_soros_state,1,0,1,1,0,,0,1
-the_neubritannisches_reich,1,1,1,1,0,,1,1
+the_neubritannisches_reich,1,1,1,1,0,0,1,1
 the_new_age_empire,1,0,1,1,0,0,0,1
 the_new_dutch_republic,,,,,,1,,
 the_new_forish,1,0,0,,,,0,
@@ -7552,7 +7553,7 @@ united_of_russia,1,0,1,1,0,,0,1
 united_okticand,1,0,1,1,0,0,,
 united_orange_valley_states,1,1,1,1,0,0,0,1
 united_paths,,1,,,,0,,
-united_pomerania,,0,0,,0,,1,1
+united_pomerania,,0,0,,0,0,1,1
 united_provinces_of_bellon,,,,,,0,,
 united_provinces_of_monrovia,1,,,,,,,
 united_purgatory,1,0,1,0,,0,0,1
@@ -7794,7 +7795,7 @@ villora,0,1,,,,,,
 villuri,,,,1,0,,,1
 viltraam,1,,1,,,,,
 viltrum_1,0,0,1,1,0,0,0,1
-vimaran,1,,1,,0,,0,1
+vimaran,1,,1,,0,0,0,1
 vinaboro,0,,,1,0,,1,1
 vincone_cae,,,,,,0,,
 vindobonia,,1,,,,,,
