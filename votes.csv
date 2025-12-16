@@ -1079,7 +1079,7 @@ castlacha,1,0,,1,0,,0,0
 castle_in_confidence,1,,1,,0,,,1
 castrolaysia,1,1,1,1,0,1,0,1
 castroreale,0,,,0,0,,0,1
-castuna,,1,0,1,0,,0,1
+castuna,,1,0,1,0,0,0,1
 cat_army,1,0,1,1,0,0,0,1
 cat_is_cool,1,,,,,,,
 cat_is_empire,1,0,1,,0,,,
@@ -1089,7 +1089,7 @@ cataloguia,,,,,0,,,0
 catalyst_of_social_discontent,1,0,1,1,0,1,1,0
 catcom,1,0,1,1,0,0,1,1
 cathayan_peoples,,1,1,,,,,
-catholics_people,1,1,0,,0,,0,1
+catholics_people,1,1,0,,0,0,0,1
 catineri,,1,0,1,0,0,0,1
 catopian,1,,1,,,,,
 catswing,0,,0,,,,,
@@ -2899,7 +2899,7 @@ houst,1,,1,,0,,,1
 hoyidaw,,,,,,0,,
 hoysala,,0,1,,,,,
 hua-mulan,1,0,1,,0,,0,1
-hua_fu_guo,,,,1,,,0,
+hua_fu_guo,,,,1,,0,0,
 hualjin,1,,,,,,,
 huapura,,,1,,0,,,1
 hubdova,,1,,,,,,
@@ -4495,7 +4495,7 @@ new_bacalao_and_the_aurora_islands,0,1,0,0,0,1,0,1
 new_banfield,,1,1,0,0,1,0,1
 new_blanc,1,,1,,,,,
 new_bon,0,1,0,0,0,0,0,1
-new_bosnia,0,1,0,0,0,,,1
+new_bosnia,0,1,0,0,0,1,,1
 new_bradfordsburg,1,0,1,1,0,0,0,
 new_bubastis,1,0,1,1,0,0,0,1
 new_bulacan,0,0,1,1,0,0,0,1
@@ -4576,7 +4576,7 @@ new_republic_of_kastovia,,,,1,,,,
 new_resilience,,1,,,0,1,,
 new_roos,0,,,,0,,,
 new_rustonia,1,1,1,1,,1,0,1
-new_ryansville,1,0,1,1,,,0,
+new_ryansville,1,0,1,1,,0,0,
 new_ryukyu,,,,1,0,,0,1
 new_saint_peters,,1,,,,,,
 new_salty,0,0,,,0,1,,0
@@ -4846,7 +4846,7 @@ novgoristan,0,1,,,,,,
 novia_pan_wes,0,1,,,,,,
 novicsu,,,,,0,,,1
 novin_wesimm,,,,,1,1,,
-novisiberskov,,1,,1,,,0,
+novisiberskov,,1,,1,,0,0,
 novist,0,1,,0,1,1,1,
 novo_acadia,1,,,,,,,
 novo_prosperitas,0,0,0,0,0,0,0,1
@@ -5061,7 +5061,7 @@ our_india,1,,,,,,,
 ouranberg,0,,,1,,,0,
 outer_anainceriznjicy,1,,1,1,0,,1,1
 outer_dura,,,,,,0,,
-outer_scotiotland,0,,1,1,,,,1
+outer_scotiotland,0,,1,1,,0,,1
 outer_tred_soveu,,,,,,1,,
 oven_of_cookie_runners,,,1,1,1,0,0,0
 overlord90098,,1,,,,,,
@@ -5420,7 +5420,7 @@ pushistan,,,0,1,,0,1,1
 pusid_ughter,,0,,,0,,,1
 puttt,1,0,,1,,,1,
 puttysborough,,,,1,,0,0,1
-puxxtopia,,,,1,0,,0,1
+puxxtopia,,,,1,0,0,0,1
 pwichimgo,1,1,,,0,,0,
 pyatingrad,,0,,,,,,
 pygania,1,0,1,,0,0,0,
@@ -5586,7 +5586,7 @@ republic_of_aspen,,,1,1,0,0,0,1
 republic_of_azvrenia,,,,1,,,,1
 republic_of_bludia,,,,0,0,1,0,1
 republic_of_botiya,1,0,1,1,0,0,0,1
-republic_of_dixie,,,1,,,,,
+republic_of_dixie,,,1,,,0,,
 republic_of_global_trade,1,0,,,,,,
 republic_of_green_mexico,0,1,0,1,1,0,1,
 republic_of_handalia,,,,1,1,,0,1
@@ -5791,7 +5791,7 @@ rykil,1,,,,,,,
 rykkland,,,,,,,0,
 rymrgand,1,0,1,1,0,,0,1
 rynoth,,,,1,,0,0,1
-s2p1729,1,0,1,1,1,,0,0
+s2p1729,1,0,1,1,1,1,0,0
 s_state,,,,1,,,,1
 sa-ar_laekhaeveira,,,1,1,,,,1
 saarre,0,0,0,0,0,0,1,0
@@ -5893,7 +5893,7 @@ sanctum_teriaris,1,0,1,1,0,0,0,1
 sanctum_terra,1,0,1,1,0,,0,1
 sandriin,1,,,,,,,
 sandtankland,,,,,0,,,
-sanfrantasia,,,1,,,,1,
+sanfrantasia,,,1,,,0,1,
 sangrinaria,0,0,1,1,0,0,0,1
 sanguistan,0,0,1,1,1,,0,1
 sanjurika,,,,1,0,,0,1
@@ -6334,7 +6334,7 @@ southern_elbonia,,,,,0,,,1
 southern_folising_euctandered,1,0,1,1,0,,0,1
 southern_maluku,1,0,,,,,,
 southern_maus,1,0,1,,,0,,
-southern_middle_earth,1,,1,1,1,,0,
+southern_middle_earth,1,,1,1,1,0,0,
 southern_neeztopican,,1,,,,,,
 southern_numenor,1,1,0,1,0,1,0,1
 southern_peo_swandad,0,,1,1,,,,
@@ -6971,7 +6971,7 @@ the_legionarian_isles,0,,1,,0,,,
 the_liberalists_you_love,,,,,0,,,
 the_lide_collective,0,0,1,0,0,0,0,1
 the_limean_islands,,,,,,0,,
-the_lizard_army,1,0,1,1,,,0,
+the_lizard_army,1,0,1,1,,0,0,
 the_lowtown_resistance,1,,,,,,,
 the_mahrou,,,,,0,,,1
 the_malaysian_tamil_nadu,1,1,1,1,0,0,0,1
@@ -7968,6 +7968,7 @@ western_visayas,,1,,,,1,,
 western_vitermaet,0,,,1,,,0,
 western_walte,,,,,1,1,,1
 western_yakutsk,1,0,1,0,1,0,1,1
+westfarthing,,,,,,0,,
 westhar,,,,,0,,,1
 westinghous,0,1,0,0,0,1,1,1
 westkapelle,,0,1,,,,0,
@@ -8105,14 +8106,14 @@ yashemia,,,,,,1,,
 yasutaka,1,1,1,1,0,,1,1
 yatodoshi,,1,,,0,,,
 yazhoo,1,1,1,,0,,,1
-ybova,1,0,1,1,0,,0,1
+ybova,1,0,1,1,0,0,0,1
 ydrenia,1,1,1,0,0,,0,0
 ye_olde_patria,1,0,0,1,,,,1
 yearn,,,1,,,,,
 yedhudasia,1,,,,,,,
 yekateria_and_farlandia,1,,,,,,,
 yektov,1,0,,,,,,
-yelasia,,,,,,1,,
+yelasia,,,,,,0,,
 yeneralski,1,,,,,,,
 yeniseisk,,,1,,,,,
 yenomerm,,,,1,,,,1
@@ -8137,7 +8138,7 @@ yonderlo,,,1,,,,,
 yongu,,1,,,,,,
 yoresteria,1,1,1,1,0,0,1,1
 york_zionia,1,0,1,1,1,0,0,1
-yosen,,0,,,,,,
+yosen,,0,,,,0,,
 yossito_ii,,,,1,,,0,1
 young_canada,0,0,1,1,0,0,1,1
 your_nation_name_here,,0,1,1,1,,0,0
