@@ -706,7 +706,7 @@ batona,,0,1,1,0,0,0,1
 battadia,0,1,0,0,1,1,0,
 battle_for_dream_island_iii,,,,,,0,,
 bavarian_soviet_repulic,1,1,1,1,,,0,
-bavo,1,0,1,1,0,0,1,1
+bavo,1,0,1,1,0,1,1,1
 bayfront,0,,,,0,,,
 beachbum,,,1,1,,,0,
 beadle_mac,,1,,0,,,1,
@@ -844,7 +844,7 @@ bliagrostan,,,,,,1,,
 blobian,0,,,1,,,1,
 blobon,,,,,0,,,0
 blobular,0,1,0,0,0,0,,
-bloesser,1,,0,,0,,,
+bloesser,1,,0,,0,1,,
 bloni,1,1,1,1,0,0,0,1
 blonkulopia,,,,0,,,0,
 bloodess,,,1,,,,,
@@ -2686,7 +2686,7 @@ gwenova,0,1,,0,,1,,
 gyattland_of_ohio,1,,,1,0,,,
 gyhn,0,1,0,,,,,
 gymaraes,1,,,,,1,,
-h-zhena,1,,1,1,0,,0,1
+h-zhena,1,,1,1,0,0,0,1
 habilis,1,,1,1,,,,1
 habsburg_netherlands,,,1,,0,,,1
 haff,,1,,,,,,
@@ -2731,7 +2731,7 @@ harleying,1,,1,,,,,
 harmon_llc,1,,,,,,,
 harndon,,,,,,1,,
 haroutito,,1,1,,,,,
-harperians,1,1,,1,0,,,1
+harperians,1,1,,1,0,1,,1
 harpiatopia,,0,,,,,,
 harro_waarudho,,,,,,,1,1
 harvadia,0,0,1,0,,,0,
@@ -3220,7 +3220,7 @@ joda,0,1,0,1,1,0,0,1
 jodia_pr,1,,,,,,,
 joe_bart,,,1,,,,,
 joedina,1,,,,,,,
-joevala,,0,1,,0,,,1
+joevala,,0,1,,0,0,,1
 john_countrys_country,,0,1,,,,,
 john_heartholm,,,,,,0,,
 john_lee,1,,1,1,0,,0,
@@ -3617,6 +3617,7 @@ la_france_sociale,1,,,,,,,1
 la_mismidad,,,1,,,,,
 la_rez,1,,,,,,,
 la_xinga,1,0,1,1,1,0,0,1
+labix,,,,,,0,,
 labubu_rebublic,,,,1,0,,,0
 labubue,,0,1,,0,,0,1
 labyrnna,,,,,0,0,,0
@@ -3867,7 +3868,7 @@ loveable_dogs,0,,1,1,1,,0,
 lovilonnum,,0,,,,,,
 lower_antegria,,,,0,,,0,
 lower_phlebacite,,,,,1,,,1
-lower_roc_born,,,1,,0,,0,1
+lower_roc_born,,,1,,0,0,0,1
 lower_unfentaria,0,,1,1,0,,0,
 lsk,1,,,1,0,,0,1
 ltu_lithuania,,,,0,,,0,
@@ -7004,7 +7005,7 @@ the_nation_of_nathan,1,0,1,1,0,0,0,1
 the_nation_of_quinn,,0,0,0,0,0,0,1
 the_nation_of_the_people_of_the_nation,,,,,0,0,,1
 the_national_ordocommunist_union,,0,0,1,0,0,,0
-the_neomasonic_gay_liberal_soros_state,1,0,1,1,0,,0,1
+the_neomasonic_gay_liberal_soros_state,1,0,1,1,0,0,0,1
 the_neubritannisches_reich,1,1,1,1,0,0,1,1
 the_new_age_empire,1,0,1,1,0,0,0,1
 the_new_dutch_republic,,,,,,1,,
@@ -7142,7 +7143,7 @@ the_states_of_turkmenitsan,1,0,1,1,0,0,0,1
 the_stenchdom,,0,,,,,,
 the_stutz_motor_car_company,,,,,,1,,
 the_subojatori,,0,,1,0,,0,1
-the_summerset_islands,,,,,0,,,
+the_summerset_islands,,,,,0,0,,
 the_sun_on_rise,0,1,0,1,1,0,1,1
 the_supersteses,1,1,1,1,1,,0,1
 the_supreme_uncs,1,,1,1,0,0,0,1
@@ -7511,7 +7512,7 @@ union_of_new_dixie,0,0,,,,,,
 union_of_pax_america,,0,1,,,,,
 union_of_siberan_republics,0,1,,0,,,,
 union_of_slavicness,,,,,0,,,
-union_of_zhaonan,,,,1,0,,1,1
+union_of_zhaonan,,,,1,0,0,1,1
 unisiara,0,1,,0,0,,,
 unitacee,,,,,0,1,,
 unitan_republic,1,,1,,1,0,,0
@@ -8230,7 +8231,7 @@ zenthara,,,0,,,,,
 zenthica,,,,,,0,,
 zentrova,1,0,1,,,,,
 zephyrion,1,,1,1,0,,0,1
-zeppekash,1,0,,1,0,,,1
+zeppekash,1,0,,1,0,0,,1
 zeppopolis,,,,,0,,1,
 zera_israel,,,1,,0,,,1
 zeroshima,,,1,,,,1,
