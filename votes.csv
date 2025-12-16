@@ -354,7 +354,7 @@ antontia,0,0,0,0,1,0,0,1
 antoraska,,,1,,,,,
 antrania,,,,,0,,,1
 anuadh,0,1,1,1,1,1,0,0
-anuahrfscdurbfced,,,1,1,0,,0,1
+anuahrfscdurbfced,,,1,1,0,0,0,1
 anunnakidraco2,1,0,1,1,0,,0,1
 anuriv,1,0,1,0,0,0,0,1
 anxious_and_kevin,,,0,,,,,
@@ -410,6 +410,7 @@ ardareth,,0,0,1,0,,1,1
 ardchu,,,,0,,,1,
 ardelain,,,1,,,,0,
 ardelburg,1,0,,1,0,0,0,1
+ardella,,,,,,0,,
 ardemar,0,1,1,1,0,0,0,1
 ardis,1,,,,0,,,
 ardyallia,,0,,,,,,
@@ -629,7 +630,7 @@ azgaaristan,0,1,,,0,,,1
 azgoghk,,,,1,,,,1
 azharul,,,,,,0,,
 azosd,,,,1,0,,,1
-azov_steel_2022,1,1,,0,0,,0,
+azov_steel_2022,1,1,,0,0,0,0,
 azteca-comancheria,,,,,,,1,
 azum_strot,,,,,,0,,
 azure_mines,0,1,1,1,,0,0,1
@@ -650,6 +651,7 @@ badger,1,0,1,1,1,0,0,1
 badobubi,,,,,,0,,
 baeleristan,,0,1,,0,0,0,1
 bagojo,1,0,1,1,0,0,0,1
+bagong_hiraya-kumintang,,,,,,0,,
 bahalbha_island,,1,1,1,0,1,0,1
 bai_lung,1,0,1,1,1,0,0,1
 baichen,,,,1,0,,,1
@@ -1448,7 +1450,7 @@ damieria,,0,,,,,,
 damini,,,,,,0,,
 dancest,,0,1,1,0,0,0,1
 dancing_ninja_island,1,0,1,1,1,1,0,1
-dancing_toothless,,,,1,0,,,1
+dancing_toothless,,,,1,0,0,,1
 daneka,1,0,1,1,0,0,0,1
 danganronpia,,0,,,,,,
 danians,,,,,1,,,1
@@ -1474,6 +1476,7 @@ dark_matter,,,1,,0,,,
 dark_soul,,1,0,,,1,0,
 darkanistan,,0,,1,0,,0,
 darkarion,1,,0,1,0,1,0,1
+darkkeneia,,,,,,1,,
 darklighters,0,1,1,1,0,1,0,1
 darkmania,1,0,1,,0,,,1
 darkwoke,1,1,1,1,0,1,0,1
@@ -1521,7 +1524,7 @@ deludtopia,0,1,0,0,0,0,1,1
 demaszja,,,,,,0,,
 demena,,1,,,,,,
 demeter,0,1,0,1,0,1,1,0
-demeurera,0,0,1,,0,,,1
+demeurera,0,0,1,,0,0,,1
 demilon,0,1,0,1,1,1,0,0
 demisemihemidemisemiquaver,,,1,,,,0,
 democates,1,,,,1,,,1
@@ -2208,7 +2211,7 @@ fololavakia,,1,0,,,,,
 foola,,,,,,0,,
 foolsbane,,,,,,0,,
 foraldn,,0,0,0,0,,1,1
-forcaforta,,1,,,,,0,
+forcaforta,,1,,,,1,0,
 forfishing,1,1,1,0,0,0,0,1
 forgawik,1,1,0,0,0,0,1,
 forgin,,,,,,,0,
@@ -3186,7 +3189,7 @@ jc_jenson,1,0,1,1,1,1,0,1
 jdbld,,,,1,0,,0,1
 jean_jacket_russell_high_school,1,0,1,0,0,0,0,0
 jeff_the_god,,,1,,,,,1
-jelquopia,,,1,1,1,,0,1
+jelquopia,,,1,1,1,0,0,1
 jeltronian_wa_mission,1,,,,,,,
 jendis,,,,,0,,,1
 jenthkrill,,,,,0,0,,
@@ -3261,7 +3264,7 @@ jzonim,0,0,,1,,1,0,0
 kaaskania,,,1,1,0,,0,1
 kabbacide,,,,1,,,0,
 kabran,1,1,1,1,0,0,0,1
-kachingia,,,1,1,0,,0,1
+kachingia,,,1,1,0,0,0,1
 kacnea,,,,,,1,,
 kad_jake,,0,,,,,,
 kaeomi,1,0,,,,,,
@@ -3419,7 +3422,7 @@ king_of_urbino,1,0,1,1,1,0,0,1
 king_rankmore,1,,,,,,,
 king_zhaoxiang_of_qin,0,0,1,1,0,0,0,1
 kingdom_of_algaris,0,,,,,,,
-kingdom_of_cambria,1,,1,,,,0,
+kingdom_of_cambria,1,,1,,,0,0,
 kingdom_of_castille,,,,,,0,,
 kingdom_of_east_russia,,0,1,1,0,0,0,1
 kingdom_of_eldovia,0,,1,,0,,,
@@ -4459,7 +4462,7 @@ nepri,0,1,1,1,0,1,0,1
 neptunian,1,,,,,,,
 neptunian_military_administration,,0,1,1,0,0,0,1
 nerdherdia,,,,,,0,,
-nergtul,1,1,1,0,0,,0,1
+nergtul,1,1,1,0,0,1,0,1
 neriem,,,1,,,,,
 neryst,,1,1,1,0,0,0,1
 nesseke,,,1,,,,1,
@@ -4519,6 +4522,7 @@ new_crimson,,,,,0,,,0
 new_crywyzyxycynya,1,0,1,1,1,0,0,1
 new_czech_empire,,,1,1,,,1,
 new_darian_islands,,,0,,,,1,
+new_deathland,,,,,,0,,
 new_dreamland,,,1,1,,,,
 new_eastern_canada,1,0,1,,,,,
 new_eastern_roma,1,,,,0,,,
@@ -4800,7 +4804,7 @@ nosam_republic,0,,,1,,,0,
 nostovya,1,0,,1,0,,0,1
 not_england,,,,1,,,,1
 not_so_democratic_montenegro,,,1,,,,,
-notcommunist2,1,0,1,1,0,,0,1
+notcommunist2,1,0,1,1,0,1,0,1
 notedong,,,,,0,,,1
 noterdei,1,0,1,1,,,0,
 nothern_fores,1,0,1,1,0,1,0,0
@@ -5979,7 +5983,7 @@ scorpion_empire,,0,,,,,,
 scorpionica,0,1,1,0,0,0,1,0
 scorpions_army,1,0,,,,,,
 scotland_vaking,,,1,,,,0,
-scotriana,1,1,1,1,0,,0,1
+scotriana,1,1,1,1,0,0,0,1
 scotsgale,1,,1,1,0,0,0,1
 scottrick,,1,,,0,,,0
 scp_foundati0n,,,0,,,,0,
@@ -6642,7 +6646,7 @@ taolk,0,0,0,,,,1,
 tapirana,1,,,1,0,,,1
 tarahna,,,0,,,,,
 tarajapura,1,,1,,1,,,1
-tarbock_road,1,,,,0,,,
+tarbock_road,1,,,,0,0,,
 tareqiyyah,,1,1,1,0,1,1,1
 tarhani,,,1,1,0,0,,
 tarligean,1,0,1,1,1,0,0,1
@@ -6786,7 +6790,7 @@ the_c_o_r_r_u_p_t_union,1,0,1,1,0,0,0,1
 the_californian_enlightenment,1,,,,,,,
 the_celtic_unions,,,1,,,,0,
 the_central_islands,1,0,1,1,0,0,0,1
-the_cerberus_union,1,1,1,,0,,,1
+the_cerberus_union,1,1,1,,0,0,,1
 the_cerulean_nation,1,1,0,1,0,1,1,1
 the_cevanti_free_council,1,1,1,1,0,1,0,1
 the_chaffinches,,1,1,1,0,0,0,1
@@ -7019,9 +7023,11 @@ the_new_islands_of_fredonia,0,1,0,1,0,0,0,0
 the_new_kaiserreich,,1,,,,,,
 the_new_midlands,1,0,,1,1,1,1,1
 the_new_palaces,1,,,,,0,,
+the_new_unified_korea,,,,,,1,,
 the_new_vietnam,,,,,,1,,
 the_news_brook,1,,0,,,,0,
 the_nightmare_and_dreams,1,0,1,1,0,0,0,1
+the_noobic_stratocracy,,,,,,0,,
 the_northern_glacial_borderlands,,,1,,,,0,
 the_northern_ice,1,,,,0,,,1
 the_northern_karzares,,,1,,,,,
@@ -7141,7 +7147,7 @@ the_star_economic,,0,,,,0,,
 the_state_of_baathist_iraq,1,1,1,1,0,0,1,1
 the_state_of_maddin,0,,,,,,,
 the_states_of_ashkanza,0,1,0,1,0,1,1,0
-the_states_of_ranamia,1,,1,,0,,0,
+the_states_of_ranamia,1,,1,,0,1,0,
 the_states_of_turkmenitsan,1,0,1,1,0,0,0,1
 the_stenchdom,,0,,,,,,
 the_stutz_motor_car_company,,,,,,1,,
