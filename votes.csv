@@ -1306,7 +1306,7 @@ colorado_communal_vanguard,,,,1,,,,
 coltius,1,0,,,,,,
 columbiqash,0,1,1,1,0,0,0,1
 comairuste,,,,,0,,,1
-comberia,1,,,1,,,1,
+comberia,1,,,1,,0,1,
 comeradia,,,1,1,,,0,1
 comercia,,,0,1,,0,1,1
 comia_noracon,1,0,1,1,0,0,0,1
@@ -2596,6 +2596,7 @@ grand_avaritia,0,1,1,1,0,,1,1
 grand_duchy_of_gracia,,,1,1,0,0,0,1
 grand_duchy_of_harrence,0,,,,,,,
 grand_duchy_of_rile,1,0,1,1,0,0,1,1
+grand_exultia,,,,,,0,,
 grand_ionia,,0,,,0,1,,1
 grand_la_plata,,,,1,,1,0,
 grand_piersk,0,,,,,,,
@@ -4024,6 +4025,7 @@ lycetaria,,,1,1,,,0,
 lycori,,1,1,,1,1,0,1
 lyions,0,,,,,,,
 lyndonesia,1,0,,,,,,
+lynxsk,,,,,,0,,
 lyriandre,,,,1,0,0,0,1
 lyrmas,,,,0,,1,0,
 lysandus,1,,1,,,,,
@@ -4102,6 +4104,7 @@ manitouqua,,0,,,,,,
 maniwinn,,,1,,,,,
 mankitownland,,0,,,,,,
 manseria,1,1,1,1,1,0,0,1
+manticorus,,,,,,1,,
 manuelian_empire,1,0,0,1,0,0,0,1
 manulqa,,,,,,0,,
 manyger,1,,1,1,,,0,
@@ -4537,7 +4540,7 @@ nelenkorp,1,0,1,1,0,0,0,1
 nelteberia,,,1,1,0,0,0,1
 nemete_land,1,0,0,0,1,,0,1
 neo-cyberborea,1,1,1,1,0,1,0,1
-neo-hermitius,,0,,1,0,,1,1
+neo-hermitius,,0,,1,0,0,1,1
 neo-theocentric_moralist_government,,,1,,,,0,
 neo-zulthyrland,1,1,,,,,,
 neo_american_states,1,0,1,1,0,0,1,1
@@ -5241,7 +5244,7 @@ paradise_and_zion,1,0,1,,0,0,,1
 paradystopia,1,1,0,1,0,0,0,1
 paranavyel,,,,1,,,0,
 parasiitti,,,1,,,,1,
-paremont,,0,,,,,,
+paremont,,0,,,,1,,
 parkplace,,,1,1,0,0,0,1
 parnumaa,1,0,,,,,,
 paronia,1,,,0,,0,,
@@ -5814,7 +5817,7 @@ rivoni,0,,,,,,,
 riwi,,1,,,,,,
 riyadh_al-baraka,1,0,1,1,0,0,0,1
 riyadhia,,,,,,,0,
-riziand,0,0,1,,0,,,
+riziand,0,0,1,,0,0,,
 rizz_zinstevoltociri,,,1,1,,,0,
 rizzman_empire,1,0,1,,1,0,1,1
 rj805sere,0,,1,,,,0,
@@ -6166,7 +6169,7 @@ sensoria,1,0,1,1,0,,0,1
 senter,0,1,0,1,0,1,,1
 separatist_alliance,1,,,,,,,
 separtia,1,0,1,1,0,0,0,1
-septentrea,0,0,0,1,0,,0,0
+septentrea,0,0,0,1,0,0,0,0
 septentrica,1,1,1,1,0,0,0,1
 seranis,,0,1,,0,0,0,1
 seraphiniaw,,1,,,,,,
@@ -7465,7 +7468,7 @@ tithio,,0,1,1,0,0,0,
 tkeignaoen,,0,,,,,,
 tlahatl,,,1,,,,,
 tnp-ed,1,1,1,1,1,1,1,1
-to-yu,0,,,,,,,
+to-yu,0,,,,,1,,
 toadchester,1,1,1,1,0,,1,
 toala,,,,,0,,,1
 toastarian,0,1,,,,,,1
@@ -7586,7 +7589,6 @@ tutels,1,0,1,1,0,0,0,1
 tutsshmarain,0,0,,,,,,
 tvaroos,1,0,,1,1,,0,
 twakagera,0,,,,,,,
-twdne_1,,,,,,1,,
 twindrill_territory,1,1,,1,0,,0,1
 twisted_duality,1,0,1,1,0,0,0,1
 two-time,,,0,,,,0,1
@@ -7871,7 +7873,7 @@ velanithia,,0,,,,,,
 velaryn_dominion,1,1,,,,,,
 velemars_paradise,,,1,1,0,,0,1
 velementia,,,,,0,0,,
-velhacruz,1,0,1,,,,,
+velhacruz,1,0,1,,,0,,
 veliciana,,,,1,0,,0,
 velisila_ljudstva,0,0,1,1,0,0,0,1
 velkareth,,,,,0,,,1
@@ -8213,6 +8215,7 @@ wyrdas,1,,1,1,,,1,
 wystronya,,1,,,,,,
 x_country,1,0,1,1,0,0,0,1
 xaeloa,,0,1,1,0,0,0,1
+xalivstonia,,,,,,1,,
 xaltonia,1,0,,,,,,
 xaravellion,,,1,1,0,0,0,1
 xarikistan,1,0,1,1,0,1,0,1
