@@ -231,7 +231,7 @@ alterra_corporations,,0,,,,,,
 althol,1,0,1,1,0,0,0,1
 altique,,,,,,0,,
 altnavia,0,,1,,0,1,0,1
-alto_ipiranga,1,1,1,1,0,,0,0
+alto_ipiranga,1,1,1,1,0,1,0,0
 altonius_murrais,,0,1,1,0,0,0,1
 altunay,,,,1,,,0,
 altura1,,,,,0,,,1
@@ -783,7 +783,7 @@ bervia,1,,,,,0,,
 bessarasia,0,1,0,0,0,1,1,1
 bessemeria,,,,,,0,,
 best_cussteelliccaamiiamartsul,,1,,,,,,
-bestenfalls,,,1,1,,,,
+bestenfalls,,,1,1,,0,,
 bet_naharin,1,1,,,,,,
 betashock,0,1,0,1,0,0,0,1
 betchioviche,0,,,,,,,
@@ -1360,7 +1360,7 @@ corporate-dystopia,,,1,,,,,
 corporate-paradise,1,,,,,,,
 corsuva,1,,,,,,,
 cortes_de_pallas,0,,0,,,,,
-cortlandt_manor,1,0,1,1,0,,0,1
+cortlandt_manor,1,0,1,1,0,0,0,1
 corust,,0,,,,,,
 corynth,,0,,,,,,
 cose_kublidly,,0,1,1,,,0,
@@ -1624,7 +1624,7 @@ dictastic,1,,,,,,,
 diculle,,,1,,,,,
 didt,1,1,1,,0,,,1
 die_eusanische_nation,,1,1,1,0,1,0,1
-dienendra,,1,,,,,,
+dienendra,,1,,,,1,,
 dietnham,1,1,1,1,0,0,0,1
 differences-in-differences,0,1,1,,0,,0,1
 digital_drovakia,0,1,1,1,0,0,1,1
@@ -2770,6 +2770,7 @@ hanstopia,1,,1,,,,,
 hapatmitas,,0,,,,0,,
 haporlynkia,,,1,1,,0,0,
 happilonia,,,,,0,,,
+happyvalley0012,,,,,,1,,
 haprus_nanari,,,,,0,,,1
 harana,1,,,,,,,
 harash,1,,,,,,,
@@ -3031,6 +3032,7 @@ ihatetheusa,0,,0,0,1,0,0,
 ikatha,1,,,1,0,,0,1
 ikatzia,1,,1,,,,,
 ile_lite,0,,1,1,0,0,1,1
+ilkra,,,,,,0,,
 illeron,0,1,0,0,,1,0,
 illessia,1,1,,1,,1,0,1
 illestan,1,0,1,1,1,0,0,1
@@ -4159,7 +4161,7 @@ maximillion,1,0,1,1,0,0,0,1
 maximus_rex_land,,0,,1,,,0,
 maxuus,0,1,0,1,0,,0,0
 may_dia_reand,,,,1,0,0,0,1
-mayroba_and_the_constantines,0,0,1,,,,,
+mayroba_and_the_constantines,0,0,1,,,0,,
 maz_diveraka,,,,1,,,0,
 maznistan,0,1,,,,,,
 mazon,,,1,1,,,,
@@ -4607,6 +4609,7 @@ new_fernia,,,,1,0,0,,1
 new_flailia,1,1,,,,,,
 new_found_america,,,,,,0,,
 new_frasterea,1,1,,,,,,
+new_frebonia,,,,,,0,,
 new_frencia,1,1,1,1,0,0,0,1
 new_furspolisia,,,1,1,0,0,0,1
 new_gadsdenland,1,,,,,,,
@@ -4795,7 +4798,7 @@ nordharz,1,,,,,,,
 nordic_america,,,,,,0,,
 nordic_aurora,,1,,,,,,
 nordiheim,1,1,1,1,0,0,0,1
-nordinus,1,0,0,0,0,,0,1
+nordinus,1,0,0,0,0,0,0,1
 nordiv,1,0,1,1,0,0,0,1
 nordmarck,1,0,1,1,0,0,1,1
 nordrea,1,,,,,,,
@@ -5221,7 +5224,7 @@ parrots_den,1,0,1,,,0,0,
 particano,,,,1,0,0,0,
 parzillum,0,1,0,1,0,1,0,1
 paskaa,1,0,1,1,0,0,0,1
-past_beans,,,,1,0,,0,1
+past_beans,,,,1,0,0,0,1
 pastuhland,,,,1,0,1,0,0
 pasveria,1,0,,1,1,,,1
 pasybfic,,,,1,,,,
@@ -5901,7 +5904,7 @@ sacredia,,1,1,,,1,,
 saddamlandia,,1,,1,,,,
 sadnedespair,1,0,1,1,0,,0,1
 saegon,,0,1,1,0,,0,1
-saegorn,1,1,1,,0,,0,1
+saegorn,1,1,1,,0,0,0,1
 safiloa,0,1,1,0,0,1,1,0
 safj,0,1,0,0,0,0,1,1
 sagway,1,,,,,0,,
@@ -6533,7 +6536,7 @@ stakovia,,0,,,,,,
 stal_valley,1,0,1,1,0,0,0,1
 stalill,1,1,,,,,,
 stalinlashiste,,,1,,,,,
-stalkeri,1,1,1,1,0,,1,
+stalkeri,1,1,1,1,0,0,1,
 stalliongrad_and_far-eastern_territories,0,1,0,,0,0,1,0
 stalmarc,1,0,1,,0,0,0,1
 staneburg,1,0,1,1,0,0,0,1
