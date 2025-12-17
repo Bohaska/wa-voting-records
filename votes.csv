@@ -105,6 +105,7 @@ afaenvia,,0,,,,,,
 afghomb,,,,,0,1,,1
 afgumpistan,,,,1,,,1,
 afifray,,,1,,,0,,
+afri-terra,,,,,,0,,
 afria_thebel,,0,,,,,,
 africanskiy_soyz,0,0,1,,0,,,
 afrotem,0,0,,,,,,
@@ -1593,7 +1594,7 @@ derenus,1,1,1,1,0,0,1,0
 derland,,1,,,,,,
 des_sawuzavilockaver_islands,0,1,,0,,1,0,
 desi_brittania,,,,1,,,,
-dessambra,,,0,,0,,0,
+dessambra,,,0,,0,0,0,
 dest_oritio,0,0,0,1,0,0,0,1
 destanzan_islands,1,,,,,,,
 destials,1,0,1,1,0,0,0,1
@@ -2348,7 +2349,7 @@ frodozrout,,0,1,1,0,0,0,1
 from_germany,,,,,,0,,
 frontier_space_station,,,1,,,,0,
 frontiera,1,1,1,1,0,0,0,1
-froshar,1,,,,,,,
+froshar,1,,,,,0,,
 frostea_and_flamea,,,,1,0,,0,1
 frosthafen,,0,1,1,1,0,0,1
 frostilandia,,0,1,0,,,,1
@@ -2414,6 +2415,7 @@ gandavarga,0,0,,,,,,
 gandieland,1,,1,1,0,0,0,1
 gandoor,1,1,1,,0,,0,1
 garamantia,1,0,1,1,0,0,0,1
+garaskord,,,,,,0,,
 garaziaopia,,,1,,,,,
 gardavasque,,,,,,0,,
 garfism,,,1,1,0,0,0,1
@@ -2539,7 +2541,7 @@ goatvillia,0,1,0,0,0,0,0,0
 gob_gob,,1,,,0,,,
 gobania,,,,,0,1,,
 goberno_do_lago,,1,0,0,0,1,1,1
-gobhainn,0,,,,,,,
+gobhainn,0,,,,,0,,
 godmodia,1,0,1,1,1,0,0,
 gods_promised_land,,0,1,1,0,,0,1
 gogicastan,0,1,0,,,,1,
@@ -2823,7 +2825,7 @@ hellawi,1,1,,1,0,,0,1
 hellenic_socialist_union,0,1,0,1,0,0,0,0
 hellslayer,1,0,1,1,0,0,0,1
 helrapt,1,,,1,,,0,
-helsingdal,,,0,0,0,,,1
+helsingdal,,,0,0,0,0,,1
 helvard,,,,,0,1,,1
 helvekos,,,,,0,0,,1
 hemogard_of_liberlandia,,,,,,0,,
@@ -3884,7 +3886,7 @@ liverpolessia,,1,0,,,,,
 liverpopiriblevinia,,0,,1,1,,0,1
 liwudprand,,,,1,1,1,1,
 lixonia,1,1,0,1,0,1,1,0
-lizard_antifascism_unit,,,,,0,,,1
+lizard_antifascism_unit,,,,,0,0,,1
 lizardlandia,1,,,,,,,
 llamalore,,,,,1,,,
 lo_america,,,,1,,,0,
@@ -4311,7 +4313,7 @@ modelia,,,0,,,,,
 modern_bauhaus,,,,,,1,,
 modernity_survivors,0,1,0,,,,0,
 modogashe,,,,1,0,,,1
-modon,1,1,,1,0,,0,1
+modon,1,1,,1,0,1,0,1
 moduland,1,1,1,1,1,1,0,
 mohacian,,,,,0,,,
 moirax,0,1,1,,,,0,
@@ -4445,7 +4447,7 @@ name_0_wa_account,0,0,1,1,0,0,0,1
 named,,,,,,1,,
 nami_bays,0,,,,,,,
 namkada,1,,,,,,,
-namonia,1,,,,,,,
+namonia,1,,,,,0,,
 nanako_island,,,,,,1,,
 nanastan,1,1,1,1,,,0,
 napbuel,,,1,1,,,1,
@@ -4618,7 +4620,7 @@ new_gadsdenland,1,,,,,,,
 new_garbanzia,1,0,1,1,0,0,0,1
 new_gehenna,1,0,,1,0,,0,
 new_gilboa,1,0,1,1,0,0,0,1
-new_gondorianas,,,1,1,,,0,1
+new_gondorianas,,,1,1,,0,0,1
 new_greater_brazil,,,,,0,,,
 new_halo,0,,,,,,,
 new_holy_roman_state,,,1,,,,,
@@ -4815,6 +4817,7 @@ norland_angre,1,0,0,,0,,0,1
 nortallius,0,0,1,0,0,1,1,0
 norte_de_america,,0,,,,,,
 north-west_commland,1,0,1,1,0,,0,0
+north-west_commland_overseas_embassy,,,,,,0,,
 north_abandonia,,,1,,,,,
 north_borealia,,1,1,,,,,
 north_bratislava,0,,1,1,0,0,0,1
@@ -5088,7 +5091,7 @@ oothiteria,,,1,1,,,0,
 opaloka,,,,0,,0,,
 open_hand,,,,,0,0,,1
 openland,1,0,,,,,,
-ophaesia,1,,,,,,,
+ophaesia,1,,,,,0,,
 opollistoploo,,,1,,0,,,1
 oppsydoya,0,,,,,,,
 oramani,,,,,,1,,
@@ -5306,7 +5309,7 @@ perthian,1,,,,,,,
 peruverial,1,1,1,0,0,,0,1
 perzekian,1,,,,,,,
 pestillance,1,,0,,0,,,0
-petraland,1,1,,,,,,
+petraland,1,1,,,,0,,
 petromond,0,,0,0,1,0,1,0
 petronellania,1,0,1,1,0,1,0,1
 pettlland,,1,0,0,,1,1,
@@ -6098,6 +6101,7 @@ sealandiaa,,,,1,,,0,
 seans,,,,1,,0,,
 seasworth,,,,,0,0,,
 seattle_bay,1,1,0,1,0,1,1,0
+sebratha,,,,,,1,,
 sechs-sieben_democratic_commonwealth,,,,,0,1,,1
 seclusionalists,1,0,1,1,0,0,0,1
 second_peenadian,0,1,,,0,,0,1
@@ -6877,7 +6881,7 @@ the_banana_moon,0,0,1,1,0,,0,1
 the_banana_sun,,,,,,0,,
 the_barke,1,,,,,,,
 the_basement_of_sussy_amongus,,,,,0,,,
-the_bitcoin,1,,,,,,,
+the_bitcoin,1,,,,,0,,
 the_blood_red_land_of_violence,1,,,,,,,
 the_bolivian_socialist_falange,1,0,1,1,1,0,0,1
 the_bosnia_imperium,,0,,,0,,,1
@@ -7007,7 +7011,7 @@ the_great_draga_empire,,0,,,,,,
 the_great_empire_of_europe_ii,0,1,0,0,0,,1,0
 the_great_expanses,,,0,,,,0,
 the_great_finnish_army,,,,1,,0,0,
-the_great_nevada_overlord,1,0,1,1,1,,0,1
+the_great_nevada_overlord,1,0,1,1,1,0,0,1
 the_great_northern_isles,1,0,,0,0,0,0,1
 the_great_orange_pochita,1,,,,,,,
 the_great_plainers,,,,,,0,,
@@ -7224,6 +7228,7 @@ the_silver_archipelago,,1,,0,1,1,0,1
 the_sinclarian_provinces,1,,,1,,,0,
 the_sinistress,0,1,0,1,0,0,0,
 the_sith_eternal,,0,,,,,,
+the_skull_federation,,,,,,0,,
 the_smoking_peanut,,,0,1,0,1,0,1
 the_socialist_federation_nord_machadonia,1,1,1,1,0,0,0,1
 the_socialist_society,0,,0,0,0,,0,1
@@ -7301,6 +7306,7 @@ the_united_meraldian_councils,1,1,1,1,,,0,
 the_united_nations_of_kvenland,0,,,,,1,,
 the_united_neptumousian_empire,1,1,1,1,0,0,0,1
 the_united_patagonian_states,1,0,1,1,0,0,0,1
+the_united_provinces_of_yeettopia,,,,,,0,,
 the_united_republic_of_westend,,0,,,,,,
 the_united_socialist_union_of_illiria,,0,,,,,,
 the_united_sovereign_state,,0,1,,0,,,
