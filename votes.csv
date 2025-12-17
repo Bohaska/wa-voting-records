@@ -452,6 +452,7 @@ arkozia,1,,,1,,,0,
 arkuta,1,,0,1,0,1,0,1
 arlanda,0,1,0,0,0,1,0,1
 arlandia_and_arzovia,1,,,,,1,,
+armed_republic_of_lespia_islands,,,,,,0,,
 armengolia,0,1,0,,,,,
 armeriea,1,0,1,1,0,0,0,1
 armoredup2_nation,,,1,,0,,0,1
@@ -1087,7 +1088,7 @@ carestanie,,,1,1,,,0,
 caribblands,,,,,,0,,
 carignanum,,,1,,,,,
 carlsbad_improvement_district,1,,,,,,,
-carlvonhapsburglund,1,,,,,,,
+carlvonhapsburglund,1,,,,,0,,
 carolian_empire,,,,,0,0,,
 carolignie,0,1,0,0,0,1,0,1
 carpediem,1,,,,,,,
@@ -1770,6 +1771,7 @@ dun_frest,0,1,0,1,0,0,0,1
 duncaq,1,1,0,0,0,0,0,1
 duncion,1,0,1,,,,1,
 duneraven,,,,,,1,,
+dunnar_republic,,,,,,0,,
 duracell,1,,1,,,,,
 durboseliey,,,,1,0,,0,1
 durham-raleigh,1,1,1,1,0,1,0,1
@@ -1825,6 +1827,7 @@ east_moon_colony,,,,1,0,,0,1
 east_owenistan,1,1,1,1,0,1,1,1
 east_planes,,0,,,,,,
 east_qaru,,,,,,1,,
+east_ravenholm,,,,,,0,,
 east_richmondia,,,,,0,1,,
 east_sakhlin,,,,,,0,,
 east_sternwich,0,1,1,1,0,0,1,0
@@ -2818,6 +2821,7 @@ hearthmere,,,,,,0,,
 heathershire,1,0,1,1,0,0,0,1
 heavens_reach,1,0,1,1,,,0,
 hebrejinia,,,1,1,0,0,1,1
+hedon-3,,,,,,1,,
 hefenland,,1,,,,,,
 heiligiesland,1,0,,,,,0,
 heitoria,0,,,,,,,
@@ -2828,6 +2832,7 @@ helgrasta,,,,1,1,0,1,1
 heliotris,1,0,1,,,,0,
 hellawi,1,1,,1,0,,0,1
 hellenic_socialist_union,0,1,0,1,0,0,0,0
+hello_kittys_whiskers,,,,,,0,,
 hellslayer,1,0,1,1,0,0,0,1
 helrapt,1,,,1,,,0,
 helsingdal,,,0,0,0,0,,1
@@ -3159,6 +3164,7 @@ isenoka,0,,0,,,,,
 ishbalan_union,1,0,1,,1,,,1
 ishkabibber,,,,1,,,0,
 isho_imperium,,,,,0,,,1
+isilanka,,,,,,1,,
 iskamiraru,,,,1,1,,0,1
 iskard,,,0,1,0,0,,1
 isla_luminara,0,,,0,0,0,,
@@ -3310,7 +3316,7 @@ jounneho,1,,,,,,,
 jouvente,,,1,1,,0,0,1
 jovito,,,0,,,,,
 jowenque,,,,,,0,,
-jozia,1,1,,1,,,,1
+jozia,1,1,,1,,1,,1
 jre_nation,1,,,,,,,
 juelsborg,,,1,1,0,0,0,1
 juhanai,,,1,,,,,
@@ -5495,7 +5501,7 @@ prov,0,0,0,0,0,0,0,1
 providentius,1,1,,,0,1,,
 provisional_union,,1,1,,,,,
 prusibourg,,,,,0,1,,1
-prussia_of_the_balkans,,,,1,,,0,
+prussia_of_the_balkans,,,,1,,0,0,
 prussia_republican_kingdom,1,0,1,1,0,0,0,1
 prussian_socialist_regime,0,0,,0,,1,0,
 pruszia,0,1,,,,,,
@@ -5684,6 +5690,7 @@ rellase,,,,,0,0,,1
 rellenia,0,1,0,1,0,1,1,0
 remenents_of_the_enclave,1,0,1,1,,0,1,1
 remil,1,,1,1,1,0,0,1
+remingtona,,,,,,1,,
 remy_republic,,,,,,1,,
 renanland,,,1,,,,,
 renatusia,,1,,,,,,
@@ -5805,6 +5812,7 @@ rkd,1,1,,,,,,
 roberdian,,1,1,,,,0,
 roberto_garcia,0,1,0,1,0,1,0,1
 robloxia_provinces,,,,,,1,,
+robloxian_states,,,,,,0,,
 robo_topia,1,,1,1,,,0,1
 robotox_empire,,,1,,,,,
 rocilia,0,1,1,1,,1,0,1
@@ -6034,6 +6042,7 @@ sapnupuas,0,1,1,1,0,0,0,1
 sapphica_sororitas,1,,1,1,1,,0,1
 saradina,,,0,,,,,
 saraigni,1,,,,,,,
+saranius,,,,,,0,,
 sararia,0,0,1,1,0,0,1,1
 sardinavia,1,0,1,1,0,0,1,1
 sardine_world,,,,,0,0,,
@@ -6834,7 +6843,7 @@ texaska,,0,,,,,,
 texel_and_vlieland,1,0,1,1,0,0,0,1
 texhoas,1,,1,,,,0,
 teyuna,,0,1,,1,,,1
-tf1_task_force_1,,0,,1,,,0,
+tf1_task_force_1,,0,,1,,0,0,
 thaetefald,0,1,,,,,0,
 thaisiam,,,1,,,1,,
 thakia,,,,,,0,,
@@ -6911,7 +6920,7 @@ the_children_of_tessarion,1,,,,0,0,,1
 the_chill_isles,0,,,,,,,
 the_chill_union,1,0,1,0,0,0,0,0
 the_chimera_sea,,,0,1,0,1,1,1
-the_chizan,0,1,0,1,0,,1,1
+the_chizan,0,1,0,1,0,0,1,1
 the_chosen_souls,,,,,,0,,
 the_citrus_republic,0,1,1,1,0,0,1,1
 the_city_of_evil,,0,,,,,,
