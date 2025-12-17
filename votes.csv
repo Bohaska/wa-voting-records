@@ -16,6 +16,7 @@ nation_id,varanius_1758501414,tinhampton_1758643240,cretox_state_1758860435,cret
 132nd_chad_division,,,1,1,,,0,1
 1ammok,,0,,,,,,
 1d5sos,,,0,,,,,
+1jax0,,,,,,0,,
 23smudge,,,,,,0,,
 28th_socialist_brigade,,1,,,,,,
 3_reix12,0,,,,,,,
@@ -1153,7 +1154,7 @@ central_amazon,,0,,,,,,
 central_european_commission,,0,,,0,,,
 central_european_powers_22,,,,1,,,,
 central_nation,,,1,,,,,1
-central_osternia,0,1,1,1,0,,,
+central_osternia,0,1,1,1,0,0,,
 central_pacific_lesbos,1,1,1,,0,,0,1
 centralamerika,,1,,,0,1,,
 centralista_del_ecuador,,,,,,0,,
@@ -1189,7 +1190,7 @@ chazskeleton,,,,,,1,,
 checks_and_balances,,,0,,,,,
 checoslovacia,,1,0,1,,,1,
 cheeese_toastie,,,0,,,,,
-chees_empire_2,1,0,1,0,0,,0,1
+chees_empire_2,1,0,1,0,0,0,0,1
 cheese_hot_pockets,,,,,,0,,
 cheeseburrito,1,1,1,1,1,0,0,1
 cheesecakeastan,1,0,1,,,,0,
@@ -1315,7 +1316,7 @@ comercia,,,0,1,,0,1,1
 comia_noracon,1,0,1,1,0,0,0,1
 commaustria,,1,1,,,,,
 commie_celadio,1,1,1,,0,,,1
-commisariat_malyvenisk_order,0,0,1,1,,,0,
+commisariat_malyvenisk_order,0,0,1,1,,0,0,
 common_states,0,1,0,1,1,1,1,1
 commonu,1,0,1,1,0,1,0,1
 commonwealth_of_eskarel,,0,1,,,,,
@@ -1511,7 +1512,7 @@ dark_dawn_empire,0,1,,0,,,0,
 dark_fialand,1,0,,,,,,
 dark_matter,,,1,,0,,,
 dark_soul,,1,0,,,1,0,
-darkanistan,,0,,1,0,,0,
+darkanistan,,0,,1,0,0,0,
 darkarion,1,,0,1,0,1,0,1
 darkkeneia,,,,,,1,,
 darklighters,0,1,1,1,0,1,0,1
@@ -1887,6 +1888,8 @@ edgerladraysteanoust,0,0,1,1,0,0,,1
 edgestall,0,,,,,,,
 edmosla,1,,,,,,,
 edo-prussia,,,1,0,0,,0,1
+edruta_valyrion,,,,,,0,,
+edsmontik,,,,,,0,,
 edulis_abuaba,,0,1,,0,0,,1
 edupetkhah,0,0,,,,0,,
 eevees,1,,,1,,0,0,1
@@ -1973,9 +1976,10 @@ empire_great_britain,,,1,0,1,0,0,
 empire_of_atlanta,,,,1,,,0,
 empire_of_caldrasa,,,,,,,0,0
 empire_of_dabiristan,1,,,,,,,
-empire_of_ftia,1,1,1,0,0,,1,1
+empire_of_ftia,1,1,1,0,0,1,1,1
 empire_of_impiria,1,0,,,,,,
 empire_of_kyrania,1,0,1,1,1,,0,0
+empire_of_valyria,,,,,,0,,
 emrenya,0,1,,,1,,,0
 emrysland,,,1,,,1,,
 enclave_world_government,1,,,,,,,
@@ -2019,7 +2023,7 @@ eraver,1,,,,0,0,,
 ered_anor,,,1,,,,,
 eredownia,1,,,,1,,,1
 eretzora,,,,,0,0,,
-ergoslavia,,,,,0,,,1
+ergoslavia,,,,,0,0,,1
 eridium,0,1,0,1,0,1,1,1
 erioas,1,,,,,,,
 eritria,1,0,1,1,0,0,0,1
@@ -2107,7 +2111,7 @@ extorious,,,,1,,,,1
 extravania,,,1,,,1,,
 eyernawk,,,,,0,,,1
 eylis,1,0,1,1,0,,0,1
-eyluvmenia,,0,1,,0,,0,0
+eyluvmenia,,0,1,,0,0,0,0
 ezaekia,,1,0,1,,,,0
 ezotorro,,,,1,,,,
 faarn-redhollow,,0,1,,,0,1,
@@ -2153,6 +2157,7 @@ farinalia,,1,,1,0,0,,1
 farklantia,,,1,,,,,
 farlaklia,0,,,,,,,
 farmcraft,1,1,1,1,0,0,1,1
+farquharland,,,,,,1,,
 fartington,1,1,1,1,1,1,1,1
 farville,1,0,1,,0,1,,0
 farwatistan,,,,,,0,,
@@ -2236,10 +2241,10 @@ fleetariland,,,,1,,,,
 flippland,1,,1,1,0,1,0,0
 floedlaenn,,,0,,,,1,
 floofith,0,0,1,1,0,0,0,0
-floofy_persons,,1,,,,,,
+floofy_persons,,1,,,,1,,
 flop_ivory_island,1,1,,,,,,
 flor-fina,1,0,1,1,0,,0,1
-floralbranca,1,0,1,1,1,,0,1
+floralbranca,1,0,1,1,1,0,0,1
 florgelia,,0,,,,,,
 floria-byrnia,,1,,,,,,
 florindale,1,0,1,1,0,,0,1
@@ -3761,6 +3766,7 @@ laranjandia,,,,,,0,,
 laransa,,1,0,,0,1,1,
 larbiec,0,1,,,,,,
 larger_hyrule,,,1,,0,,,1
+lariond_afribiistan,,,,,,1,,
 larnotzka,,,,,,1,,
 larsovania,,0,0,0,0,0,0,
 las_filipina,0,,,,,,,
@@ -3868,7 +3874,7 @@ libertarian_confederation_of_terranova,,0,,,1,0,,1
 libertarian_washington,1,0,1,1,,,1,1
 libertarii,,0,1,1,1,1,1,1
 libertas_minor,1,1,1,1,0,1,0,1
-libertineparis,,,1,1,,,1,
+libertineparis,,,1,1,,1,1,
 libertmore,1,,,,,,,
 libertopia_land_23,1,,1,1,,,,1
 libertunia,,,,1,0,,0,
@@ -3918,6 +3924,7 @@ lizardlandia,1,,,,,,,
 llamalore,,,,,1,,,
 lo_america,,,,1,,,0,
 loadilandia,1,0,1,1,0,0,0,1
+lobadida,,,,,,0,,
 loblolly,1,1,1,1,0,0,0,1
 lobstone,1,0,0,,0,0,,0
 loenay,,,,0,0,0,0,1
@@ -4609,7 +4616,7 @@ new_babilonions,1,1,1,,,1,1,
 new_bacalao_and_the_aurora_islands,0,1,0,0,0,1,0,1
 new_baltimare,,,,,,0,,
 new_banfield,,1,1,0,0,1,0,1
-new_blanc,1,,1,,,,,
+new_blanc,1,,1,,,0,,
 new_bon,0,1,0,0,0,0,0,1
 new_bosnia,0,1,0,0,0,1,,1
 new_bradfordsburg,1,0,1,1,0,0,0,
@@ -4627,7 +4634,7 @@ new_cittsa,,,,1,0,,,1
 new_commland,,1,1,,0,,,1
 new_consola,,,1,1,1,0,0,1
 new_cordyceps,,,1,1,0,,0,1
-new_crimson,,,,,0,,,0
+new_crimson,,,,,0,1,,0
 new_crywyzyxycynya,1,0,1,1,1,0,0,1
 new_czech_empire,,,1,1,,,1,
 new_darian_islands,,,0,,,,1,
@@ -4720,7 +4727,7 @@ new_tropican_union,0,,,,0,,,1
 new_tussia,,,,1,,,0,
 new_union_empire,0,0,1,1,0,0,0,1
 new_united_goryeo,,,,,0,,,
-new_upper,0,1,1,,0,,,1
+new_upper,0,1,1,,0,1,,1
 new_ussr_2,1,0,1,1,0,0,0,1
 new_uzlandia,,,,,,0,,
 new_vardarland,,1,,,,,0,
@@ -4776,7 +4783,7 @@ niehart,,,,1,0,0,0,1
 niel,1,0,1,1,0,,0,1
 nieuweland,,,,,0,0,,1
 nightralia,,0,1,1,0,0,0,1
-nihil_aeternum,,,,1,0,,0,1
+nihil_aeternum,,,,1,0,1,0,1
 nijgerland,,,,0,,,,
 nikosias,1,1,1,1,0,0,,1
 nilave,,,,,0,,,
@@ -5192,10 +5199,12 @@ ouranberg,0,,,1,,,0,
 outer_anainceriznjicy,1,,1,1,0,,1,1
 outer_dura,,,,,,0,,
 outer_scotiotland,0,,1,1,,0,,1
+outer_sparta,,,,,,0,,
 outer_tred_soveu,,,,,,1,,
 oven_of_cookie_runners,,,1,1,1,0,0,0
 overlord90098,,1,,,,,,
 overthinkers,1,0,1,1,,,0,
+owari_republic,,,,,,0,,
 ownzone,1,,0,0,0,,0,0
 oxyformal,0,1,0,1,0,1,0,1
 oyggj_skye,0,1,0,,0,1,0,1
@@ -5279,7 +5288,7 @@ pauruizumopia,,,1,1,0,0,0,1
 pavitrabhumi,,,1,,,,,
 pavlikstan,,,,,0,0,,0
 pavlistania-suden,0,,,0,,0,0,
-pawlands,1,1,0,,,,0,
+pawlands,1,1,0,,,1,0,
 pax_russiya,,,1,,,,,
 pax_victoria,0,1,1,1,0,0,1,1
 pax_zealandia,0,1,0,0,0,1,1,1
@@ -5397,7 +5406,7 @@ planetmercury,1,0,1,1,0,0,0,1
 plangainer,1,,,,,,,
 plaronium,,,,,0,,,0
 plata_basin,,1,,,,,,
-plateana,1,0,1,1,0,,0,1
+plateana,1,0,1,1,0,0,0,1
 platinum_skills,1,0,1,1,0,0,0,1
 playmobilandia_del_este,1,1,1,1,0,0,0,1
 pleroma_sans_romans,,1,,,,,,
@@ -5468,6 +5477,7 @@ postpertine,,,,,0,1,,
 potass,1,,,1,,,0,
 potato-pizza,1,,,,,,,
 potatofarmers,1,0,,,0,,,
+potatonia,,,,,,1,,
 potatopelago,1,,,,,0,,
 potatoville,1,0,1,,0,,0,1
 poteramnsan,,,,,0,,,
@@ -6725,6 +6735,7 @@ svetzia,1,,,,,0,,
 swanson_grove,0,1,0,0,1,1,1,0
 swapland,,,,,,0,,
 swat-gibar,1,0,1,0,1,0,0,1
+sweaboo_land,,,,,,0,,
 swedias,1,,1,1,0,0,0,1
 sweeties_legion,,,,,1,,,
 swerists,,,1,1,0,,0,1
@@ -6816,7 +6827,7 @@ tayvis,1,,,,,,,
 tea_jol,1,,1,1,,0,0,
 tearn,0,1,,,,,,
 tearnia,,0,,,,,,
-teays,0,,,,,,,
+teays,0,,,,,0,,
 tebuk,,,,,0,,,
 technocratic-european_countries,,,,1,,0,0,
 technocratic-socialist_utopia_of_space,,,,,,1,,
@@ -6907,6 +6918,7 @@ the_ancient_church_of_the_house_of_thoth,,,,,0,,,
 the_ancient_world,0,1,1,1,0,0,1,1
 the_andean-pacific_company,,,,,,0,,
 the_animalists,,0,1,1,0,,0,1
+the_ap_republic,,,,,,0,,
 the_apartment_doctor,,,1,,0,,0,1
 the_apple_lands,,,0,,,,1,
 the_archiepelago,,,1,,,,,
@@ -7381,7 +7393,7 @@ the_voltarum,,1,0,1,0,,0,1
 the_warriors_of_determination,1,0,1,1,0,0,0,1
 the_washington_federation,1,0,1,1,,0,0,
 the_way_sun_cooperation,1,0,1,1,0,0,0,1
-the_weimar_people,,,0,,,,1,
+the_weimar_people,,,0,,,0,1,
 the_weirdo,0,0,1,1,0,0,0,0
 the_welzian_archipelago,1,1,0,1,0,1,1,1
 the_west_mulligan_islands,,,1,1,,,0,
@@ -7994,6 +8006,7 @@ vishizzia,1,0,,,1,0,,
 vistua,1,0,1,,0,0,,
 vitorianiania,1,0,0,1,0,0,0,1
 vitrili,,0,,,,,,0
+vivaan_de_la_manta,,,,,,0,,
 vivarex,1,1,1,1,0,1,1,
 viysalion,0,,,,,,,
 vizykia,1,0,1,1,0,1,0,1
