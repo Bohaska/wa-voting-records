@@ -966,6 +966,7 @@ briereastan,,,1,,,,,
 brightwalden,1,0,1,1,0,0,0,1
 brigunndios,,,,,,0,,
 brilish,1,0,1,1,0,0,1,1
+brishuki,,,,,,0,,
 brisvalon,1,1,1,1,,0,0,1
 brit_hong_kong,,,1,,0,,,1
 britarvia,1,,,,,,,
@@ -1703,7 +1704,7 @@ doughtopia,,,,,,0,,
 doultrenia,0,1,0,1,0,1,0,0
 doumeira,1,1,1,1,1,0,0,1
 doundaly,,,,,0,,,1
-dovineistan,,0,,,,,,
+dovineistan,,0,,,,1,,
 downwithschool,0,,,,,,,
 dr_maus,0,,,,,,,
 drachen,1,0,1,1,1,0,0,1
@@ -1911,6 +1912,7 @@ ekpatanus,1,0,1,1,0,0,0,1
 ekrea,1,1,1,1,,,0,
 ekreli,1,0,1,1,0,0,1,1
 ekygon,0,0,1,,0,0,,
+el_alia,,,,,,1,,
 el_bababooey,1,0,1,1,0,0,0,1
 el_eras,1,,,,,,,
 el_grenitadia,0,,0,1,0,1,1,1
@@ -2795,6 +2797,7 @@ haroutito,,1,1,,,0,,
 harperians,1,1,,1,0,1,,1
 harpiatopia,,0,,,,,,
 harro_waarudho,,,,,,,1,1
+hartward,,,,,,0,,
 harvadia,0,0,1,0,,,0,
 hasaeng,,,1,,0,,,1
 hashidi,1,0,1,1,0,0,0,1
@@ -3552,6 +3555,7 @@ kobalera,0,0,1,1,0,0,0,1
 koda-land,1,0,1,1,0,,0,1
 koendesh,1,1,,1,0,,0,1
 kogi,,0,,,,,,
+kogure,,,,,,0,,
 kohanna_bay,,1,1,1,0,,0,1
 kokhestan,,,,1,,,0,
 kolatis,1,1,1,1,0,0,0,1
@@ -4330,7 +4334,7 @@ moduland,1,1,1,1,1,1,0,
 mohacian,,,,,0,,,
 moirax,0,1,1,,,,0,
 mojaguay,,1,,,,0,,
-mokarosaria,,1,,,,,,
+mokarosaria,,1,,,,0,,
 molco-deutsches_reich,,0,1,1,,0,0,
 moldogetica,1,,,0,0,0,1,
 mollust,1,0,1,1,0,,0,1
@@ -5294,6 +5298,7 @@ penguins_states_of_antartica,1,1,0,,,0,1,
 pengutan,,1,,,,,,
 pennboro,,,,,1,,,
 penning,1,1,1,1,0,0,1,1
+penteriegimp,,,,,,1,,
 peopir,0,0,1,1,0,1,0,0
 people_freedom_nation,,0,,,,,,
 people_republic_of_china_national,,,,,0,,,1
@@ -5755,7 +5760,7 @@ rexxas,1,0,1,,,,,
 reyalda,1,,1,,,,,
 reynhold,1,1,,,,,,
 reyun,,,,1,,,0,1
-rezonovia,,,1,,,,,
+rezonovia,,,1,,,0,,
 rezvanada,0,,,,,,,
 rhaf,,,0,,0,,,
 rhaza,1,0,1,1,0,0,0,1
@@ -6796,7 +6801,7 @@ technocratic-socialist_utopia_of_space,,,,,,1,,
 technocratic_emerald_bay,0,0,0,,,0,,
 technocratic_pragmatists,1,0,1,1,0,0,0,1
 technocratic_tagalog,,0,,,,,,
-technogium,,0,1,1,,,0,
+technogium,,0,1,1,,0,0,
 teepalingtinggii,,,1,,,,0,
 tefun_heal,,,,,0,,,1
 tegolise,,0,1,1,0,0,1,
@@ -7922,7 +7927,7 @@ victorh,1,,1,1,,,0,
 victoria_and_kreisor,,,,1,0,0,,1
 vienna-lorraine,1,1,1,0,0,0,0,1
 vietlao,,,1,1,,,0,
-vietnamese_empire,0,1,,0,0,,0,0
+vietnamese_empire,0,1,,0,0,1,0,0
 vigh,,0,1,1,,0,0,1
 vijlomia,,,1,,,,,
 vikarion,1,0,1,1,0,0,0,1
@@ -8306,7 +8311,7 @@ yun_tan,,1,,,,,,
 yungerdash,1,0,1,1,0,0,0,1
 yuraak,0,,,,,,,
 yurbstan,1,,1,,,,0,
-yurp,,0,,1,,,0,
+yurp,,0,,1,,0,0,
 yuskovsk,1,0,0,0,0,0,0,1
 yuxi,,1,,,,,,
 yuyu,1,1,1,1,0,1,0,1
