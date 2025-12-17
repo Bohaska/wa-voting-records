@@ -640,7 +640,7 @@ azflebrigan,1,,1,,0,,1,
 azgaaristan,0,1,,,0,,,1
 azgoghk,,,,1,,,,1
 azharul,,,,,,0,,
-azosd,,,,1,0,,,1
+azosd,,,,1,0,0,,1
 azov_steel_2022,1,1,,0,0,,0,
 azteca-comancheria,,,,,,,1,
 azum_strot,,,,,,0,,
@@ -914,7 +914,7 @@ borealian_communes,,1,,,,,,
 boredistan,1,1,0,1,0,,0,1
 borehole,,0,1,1,0,1,1,0
 borkmaster,1,0,1,1,0,0,0,1
-borrin_quen,0,,,,,,,
+borrin_quen,0,,,,,1,,
 borthe_fren,,1,1,,,,,
 borunsia,1,1,1,1,0,0,0,1
 bosniaville,,,,1,0,,0,1
@@ -1375,7 +1375,7 @@ courathar,,,,1,,0,0,1
 courelli,,,,,0,1,,1
 courtlantis,1,0,,,,,,
 cous_lotoria,,,,1,,0,0,
-covant,1,1,1,0,1,,0,1
+covant,1,1,1,0,1,1,0,1
 covenentia,1,0,1,1,0,0,0,1
 cow_hunters,1,0,,0,0,,0,1
 coyn,1,,1,,,0,,
@@ -1524,7 +1524,7 @@ de_socialistische_nederlanden,1,,,1,,,1,
 deagandia,,1,,,,1,,
 deamaria,1,0,1,1,0,,0,1
 deathmurdertopialand,1,0,,,,,,
-debarashtra,1,0,1,,,,0,
+debarashtra,1,0,1,,,0,0,
 deblar,1,,,,,,,
 decacon,,,,,,,,1
 decimus_maximus,,,,,0,1,,1
@@ -2200,7 +2200,7 @@ fincy,,0,,,,,,
 finn_the_blahaj,0,,,,,0,,
 fiorialis,,,,,,1,,
 fiparatus,1,0,1,1,0,0,1,1
-fireactu,0,,0,0,0,,0,1
+fireactu,0,,0,0,0,1,0,1
 firemount,,0,,,,,,
 firexland,,,,1,1,0,0,1
 first_nightmare,,,1,,,,,
@@ -2287,6 +2287,7 @@ frayst0n,0,0,1,0,0,0,1,0
 freakbobland,1,,,1,0,0,0,1
 fredericksborg,1,0,1,1,0,0,0,1
 free_augsburg,1,0,,,,,,
+free_democratic_republic_of_austria,,,,,,0,,
 free_galand,,,,,,1,,
 free_ganalia,0,1,0,0,0,1,1,1
 free_german_republic,1,1,,,,,,
@@ -3690,6 +3691,7 @@ labubue,,0,1,,0,,0,1
 labyrnna,,,,,0,0,,0
 lac_yue,0,,,,,,,
 ladinacem_andia,1,,,,,,,
+ladonatalacton,,,,,,0,,
 lael_piotr,0,0,1,1,0,1,0,0
 lai_mai_ton,,,,,0,,,1
 laitneiro_alicirga,,,1,,0,1,,1
@@ -4350,7 +4352,7 @@ morenian_republic,1,,,,,,,
 morey,,,,,0,,,1
 morgantown_west_virginia,1,1,0,0,,,0,
 morikono,,0,,1,,,0,
-morlikin,1,,1,1,0,,,1
+morlikin,1,,1,1,0,0,,1
 mornala,0,0,,,,,,
 mornangren,1,0,1,1,0,0,0,1
 mornania,,0,1,,,,,
@@ -4688,6 +4690,7 @@ new_union_empire,0,0,1,1,0,0,0,1
 new_united_goryeo,,,,,0,,,
 new_upper,0,1,1,,0,,,1
 new_ussr_2,1,0,1,1,0,0,0,1
+new_uzlandia,,,,,,0,,
 new_vardarland,,1,,,,,0,
 new_vaslevia,,,,,0,,,1
 new_vatican_of_illuminati,,1,,,,,,
@@ -5106,7 +5109,7 @@ organism_inside_the_gray_mucus,,,,,,0,,
 orgation_ii,1,0,1,1,0,1,0,1
 orgina,,,1,,,,0,
 orientia,,0,,,,,,
-orientiae,1,0,1,1,0,,0,1
+orientiae,1,0,1,1,0,0,0,1
 orioni_2,0,1,,,,1,,
 orionyx,1,0,,,,,,
 orksian,1,0,1,1,0,0,0,1
@@ -6092,7 +6095,7 @@ sea_dogs_rest,,0,,,,,,
 seah_land,,,1,,,,,
 sealand_but_better,0,,,,,,,
 sealandiaa,,,,1,,,0,
-seans,,,,1,,,,
+seans,,,,1,,0,,
 seasworth,,,,,0,0,,
 seattle_bay,1,1,0,1,0,1,1,0
 sechs-sieben_democratic_commonwealth,,,,,0,1,,1
@@ -7455,6 +7458,7 @@ tracian_empire,1,,,,,,,
 tradila,,0,1,1,0,1,0,1
 traensoles,1,1,1,0,0,0,1,1
 tragesch_firwat,1,,,,,,0,
+tralalo_tralla,,,,,,0,,
 transhalva,1,0,0,0,1,0,0,0
 transilmania,,,,,0,,,
 transnister,,,,1,,,0,
@@ -8272,7 +8276,7 @@ yugonostalgia,,0,1,,,1,1,
 yugoscavia,,1,0,,,,,1
 yugoslawia,0,,1,1,0,1,0,1
 yujian_mannel_contuni_undevot,,,,1,,1,,
-yukolia,1,1,0,1,0,,1,1
+yukolia,1,1,0,1,0,0,1,1
 yukti,,0,,,,,,
 yumerthia,,,,,0,,,0
 yun_tan,,1,,,,,,
@@ -8397,6 +8401,7 @@ zunsettia,0,1,1,1,0,1,0,1
 zutroy,0,1,0,0,0,1,0,1
 zuuri,1,1,1,1,0,0,0,1
 zuwami_tamori,1,1,,,,,,
+zuzarte,,,,,,0,,
 zvotokray,,1,,,,1,,
 zynax,1,1,1,1,0,1,0,1
 zyti,,,1,1,0,,1,1
