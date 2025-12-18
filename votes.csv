@@ -548,7 +548,7 @@ asvial,1,1,0,0,0,1,,0,1
 asweyon,,0,,,,,,,
 at-m6,1,0,1,1,1,0,0,0,1
 atania,,0,,,,,,,
-ataraesh,,,1,1,0,0,,0,1
+ataraesh,,,1,1,0,0,0,0,1
 ataraxian_mainframe,1,0,1,1,1,0,0,0,1
 atavi,0,1,0,1,0,0,1,0,1
 atena,0,0,1,1,0,0,0,1,1
@@ -634,7 +634,7 @@ avote,,,,,,0,,,
 awebec,,,1,,,,,,
 aweentitante,,0,1,1,0,0,,,1
 awesome_lesbianland,1,,,,,,,,
-awesomeness,1,0,,1,0,0,,0,1
+awesomeness,1,0,,1,0,0,0,0,1
 awestre_gorend,,,,,0,,,,1
 awful_country_to_live_in,1,0,1,1,1,0,0,1,0
 axdel,,,,1,,,,0,
@@ -830,7 +830,7 @@ bigsmpia,0,,,,,,,,
 bilad_el_sham,,,,,,,,,0
 billingrex,,,1,,,,,0,
 billyism,,,,,,0,0,,
-bimmyland,,0,,1,1,0,,0,1
+bimmyland,,0,,1,1,0,0,0,1
 binga,,,1,,,,,,
 bingism,1,1,1,1,0,0,0,0,1
 bingleborpia,1,,0,1,0,1,0,1,0
@@ -1010,7 +1010,7 @@ bruinswik,0,1,0,1,0,,,0,
 brunglash,1,,1,,,,,,
 brunissia,,,,,,1,,,
 brunofernandes,,,1,,,1,,,
-brunyxia,,1,0,0,1,1,,1,0
+brunyxia,,1,0,0,1,1,1,1,0
 brurania,,,0,,,,,0,
 brwanda,,1,0,1,0,0,,0,1
 bryanska,,1,,,,,,,
@@ -1175,6 +1175,7 @@ central_european_powers_22,,,,1,,,,,
 central_nation,,,1,,,,,,1
 central_osternia,0,1,1,1,0,0,,,
 central_pacific_lesbos,1,1,1,,0,,,0,1
+central_texas_junta,,,,,,,1,,
 centralamerika,,1,,,0,1,,,
 centralista_del_ecuador,,,,,,0,1,,
 centralsk,1,1,1,1,0,0,,0,1
@@ -1212,7 +1213,7 @@ cheeese_toastie,,,0,,,,,,
 chees_empire_2,1,0,1,0,0,0,,0,1
 cheese_hot_pockets,,,,,,0,,,
 cheeseburrito,1,1,1,1,1,0,1,0,1
-cheesecakeastan,1,0,1,,,,,0,
+cheesecakeastan,1,0,1,,,,0,0,
 cheeseniria,1,1,,,,,,,
 cheesery,,,1,,,0,,,
 cheesy_cheese,,,1,,,,,,
@@ -1281,6 +1282,7 @@ ciurlionis,1,,,,,,,,
 civilinia_and_herbisine,1,1,1,1,,,,,
 civitalux,0,1,,,,,,,
 civitas_alpha,,,,,,1,0,,
+claires_metropolis,,,,,,,0,,
 clamorande,1,0,,,,,,,
 clan_lynx_remnants,,,0,,0,,,,1
 clankasa,,0,0,,,,,,
@@ -1432,7 +1434,7 @@ crestvale_republic,,1,0,0,,,1,1,1
 cretian_territories,1,,1,,,,,1,
 cretox_state,1,,1,1,0,0,0,0,1
 crevistonion,1,,1,,,,,,
-criboutit,,0,1,,0,0,,,1
+criboutit,,0,1,,0,0,0,,1
 crinitus,,1,1,1,0,1,,0,
 crintopria,,,,1,0,0,0,0,1
 crionadh,,,,,0,,,,
@@ -2025,7 +2027,7 @@ england_1,1,1,1,1,1,1,0,0,1
 england_scotland_wales_and_north_ireland,1,0,,1,,,,0,
 england_york,1,0,1,,,,,,
 englandera,,,1,,,,,,
-englandic_state,1,,,,,,,,
+englandic_state,1,,,,,,1,,
 english_socialist_states_of_oceania,,,,1,0,,,0,0
 englrike,,,1,1,0,0,,0,1
 engojaria,1,1,,1,0,,0,0,1
@@ -2156,6 +2158,7 @@ faeciba,1,1,1,1,0,1,0,0,1
 faequelt,,,,,,0,,,
 fahazi,,,1,,,0,1,,
 fahran,,,,,,0,,,
+failture,,,,,,,0,,
 fairigone,1,0,0,0,,,0,0,
 fairmount,,,1,,0,,,0,1
 fakenameland,,,,,,0,,,
@@ -2195,7 +2198,7 @@ farquharland,,,,,,1,,,
 fartington,1,1,1,1,1,1,0,1,1
 farville,1,0,1,,0,1,1,,0
 farwatistan,,,,,,0,,,
-fasan_venus,1,0,1,1,0,0,,0,1
+fasan_venus,1,0,1,1,0,0,0,0,1
 fasharia,0,,,,,,,,
 fashoda,1,1,1,1,0,1,,1,1
 fat_angel,0,1,0,1,0,0,0,1,1
@@ -2716,7 +2719,7 @@ greater_agnolia,0,1,1,1,0,0,0,0,1
 greater_atlantis,0,0,0,1,0,0,1,0,0
 greater_azoria,,,0,,0,,,,
 greater_bay,1,0,1,1,0,0,,0,1
-greater_benland,0,,0,1,0,0,,0,0
+greater_benland,0,,0,1,0,0,0,0,0
 greater_britannian_realm,1,1,1,1,0,1,1,0,1
 greater_caribbean_republics,,,,,,0,,,
 greater_charles,1,0,1,1,0,0,,0,1
@@ -2798,7 +2801,7 @@ guanabaraea,0,0,1,1,0,1,0,1,0
 guanxigun,1,1,1,1,0,0,1,0,1
 guardian_tom,,,,,,,,,1
 gud,1,0,1,1,0,0,,1,0
-guest7605,,,,,,0,,,
+guest7605,,,,,,0,0,,
 gufand,1,1,,,,,,,
 gufeniel,1,,,,,,,,
 guntonia,,,,,,0,,,
@@ -4292,7 +4295,7 @@ mckeon,1,,,,,,,,1
 mcnasty,1,,1,,,,,,
 mcoreo,,,0,,,,,,
 meadowfields,1,,,1,0,1,,0,1
-meadrin,0,0,,1,,0,,0,
+meadrin,0,0,,1,,0,0,0,
 mechanocracy,1,0,1,1,0,0,0,0,1
 mecivo,,,,,,1,1,,
 mecren,0,0,1,1,0,,,0,1
@@ -4313,8 +4316,8 @@ melheda,,,,,,,1,,
 meli_meli,,,,,,,0,,
 meline,1,0,0,,,,,,
 mellaria,,,0,,,0,,,
-memememe-,1,,1,1,0,0,,0,1
-memestw,1,0,1,1,0,0,,0,1
+memememe-,1,,1,1,0,0,0,0,1
+memestw,1,0,1,1,0,0,0,0,1
 mendevia,0,1,0,0,0,0,0,0,0
 menira,,0,,,,0,,,
 menorica,,0,1,,,,,,
@@ -4359,7 +4362,7 @@ mets_are_best_nolan_republic,,,1,,0,1,,,0
 meulborne,,,,,0,,,,1
 mexican_liberation,1,,1,1,,0,,,1
 meyaton,,,,,,0,,,
-mezia,,,1,,,,,,
+mezia,,,1,,,,0,,
 mhmea,1,0,1,1,0,1,1,1,1
 mi-din,1,,,,,,,,
 mianach,,,,,,0,0,,
@@ -4541,7 +4544,7 @@ myra_nortan,,,,,0,0,1,,1
 myran,,0,1,1,0,0,,,1
 mysan_land,,,,,0,,,,1
 myschinba,,,,,0,,,,1
-mystris,1,0,1,1,0,0,,0,1
+mystris,1,0,1,1,0,0,0,0,1
 mythicea,,,,,0,,,,1
 mythoania,1,1,1,1,,,,0,
 n0bia,,1,1,1,0,,,1,1
@@ -4715,7 +4718,7 @@ new_bulacan,0,0,1,1,0,0,1,0,1
 new_bulgar,0,,1,,,,,,
 new_butchart,1,1,1,1,0,0,0,0,1
 new_calgary,,,1,,,,,,
-new_cali_republic,,0,1,1,0,0,,0,1
+new_cali_republic,,0,1,1,0,0,0,0,1
 new_camoter,1,1,0,1,0,1,1,1,1
 new_cascadian_union,0,,,,,,,,
 new_cerastan,0,1,0,0,0,1,1,1,0
@@ -4802,7 +4805,7 @@ new_samba,1,,,,,0,,,
 new_samon,0,,1,1,0,1,0,0,1
 new_san_fir,,0,1,1,0,0,0,0,1
 new_sandiago,,,1,1,,,,0,
-new_scotstan,1,0,0,1,0,1,,0,1
+new_scotstan,1,0,0,1,0,1,0,0,1
 new_scottika,1,0,0,0,0,0,0,0,0
 new_scratchiland,0,1,0,1,0,1,1,1,0
 new_seallands,,,,,0,,,,
@@ -5112,7 +5115,7 @@ nurserden,,,1,,,,,,
 nurult,0,0,0,,0,,,1,1
 nurvalia,,0,,,,,,,
 nuseanesia,0,1,0,1,,1,0,1,
-nuting,1,,1,1,0,0,,0,1
+nuting,1,,1,1,0,0,0,0,1
 nutrial,1,,,,0,,,,0
 nutrixus,0,1,0,,,,,,
 nuttywood,,0,1,1,0,,0,0,1
@@ -5283,7 +5286,7 @@ otaxinland,1,,,,,,,,
 otayo,1,0,1,1,0,0,,0,1
 othipsomonus,,,1,,,,,,
 othonom,1,,,,,,,,
-otodontidae,,,,,0,0,,,
+otodontidae,,,,,0,0,0,,
 otome_and_bl_games,,0,,,,,,,
 otsur,0,,,,,,,,
 ottogelle,,,1,,,,,,
@@ -5306,13 +5309,13 @@ oxyformal,0,1,0,1,0,1,1,0,1
 oyggj_skye,0,1,0,,0,1,,0,1
 ozocrenic,,0,,,,,,,
 ozren_gora,1,0,1,,0,,,,
-oztil,1,0,1,1,0,0,,0,1
+oztil,1,0,1,1,0,0,0,0,1
 ozzentiez,,,0,,,,,,
 pabtlau,,0,1,,,,,,
 paceluna,,,,,1,,,,1
 pachecos,0,,,,,,,,
 pacifica_peace,,,1,,,,,0,
-pacificean,,1,1,0,0,0,,0,1
+pacificean,,1,1,0,0,0,0,0,1
 padan,,1,,,0,,,,1
 paganii,1,,1,1,,,,,
 pahinna,,,1,,,,,,
@@ -5543,7 +5546,7 @@ polish_west_slavia,1,0,1,1,1,0,0,1,0
 polleend,1,0,1,1,0,0,0,0,1
 polonialia,,,,,,,,,1
 polotsk_and_vitebsk,,,,,,1,,,
-polre,,,0,1,0,0,,0,
+polre,,,0,1,0,0,1,0,
 polskakai,,,,1,,,,,1
 polskie,,,,,0,,,,1
 poltarsia,,,,1,0,,,,1
@@ -5745,7 +5748,7 @@ ragolun,,,,,,,0,,
 rahanatia,,0,,,,,,,
 rain_dance_maggie,,,,,0,,,,1
 rainengrad,,,,,0,,0,,1
-rainlander,0,1,1,0,1,1,,1,1
+rainlander,0,1,1,0,1,1,1,1,1
 rajpore,1,0,,1,,0,,0,
 ralbirea,,,,,,,1,,
 rallylands,,,,,,0,,,
@@ -6369,7 +6372,7 @@ sheppy_the_king,1,0,1,1,0,0,0,0,1
 sherizia,,0,1,,,,,0,
 shiamyi,1,0,1,1,1,0,0,0,1
 shibaton,0,1,0,0,0,1,,0,0
-shibutani,1,0,1,1,0,0,,0,1
+shibutani,1,0,1,1,0,0,0,0,1
 shieldholm,,0,1,,,,,0,
 shielness,1,0,,1,,0,,0,
 shillbrostedetilia,,,,,,0,,,
@@ -6771,7 +6774,7 @@ stellar_colonies,1,,1,1,0,,,0,1
 stellar_sea_cow,,,,1,0,,,1,1
 stendania,0,1,1,1,0,1,1,1,
 stenstrand,,,,,,0,0,,
-stephine21,,0,,1,,,,0,
+stephine21,,0,,1,,,1,0,
 ster_lovinia,,,,0,,,,,1
 sternburg,,0,0,,,,,,
 sternheim,,,,,0,0,,,
@@ -7147,7 +7150,7 @@ the_dominion_of_the_asmorian_kingdom,,,1,,,0,,0,1
 the_doomsday_islands,1,1,0,1,1,1,0,0,1
 the_dovahkiin_caliphate,0,1,0,1,0,0,0,0,0
 the_dragon_empire_of_united_states,,,1,1,,,,0,
-the_drifting_deity,,,1,1,0,0,,1,1
+the_drifting_deity,,,1,1,0,0,0,1,1
 the_eastern_coast,,,1,1,0,,,0,1
 the_ecalpan_kangun,1,0,,,,,,,
 the_ecalpan_uchuugun,,,1,1,1,0,0,0,1
@@ -7165,7 +7168,7 @@ the_estalan_union,1,,,,,,,,
 the_europians,0,1,1,1,0,0,,0,1
 the_fair_brotherhood,,,1,,,,,0,
 the_far_eastern_republics,0,,0,1,1,0,,0,1
-the_federated_empire,,0,,1,0,,,0,
+the_federated_empire,,0,,1,0,,0,0,
 the_federated_states_of_baninia,,0,,,,,,,
 the_ferret_lands,0,1,0,0,0,0,0,0,0
 the_final_trinity,,0,,,,,,,
@@ -7298,6 +7301,7 @@ the_limean_islands,,,,,,0,0,,
 the_lizard_army,1,0,1,1,,,,0,
 the_lost_lost_states,,,,,,,1,,
 the_lowtown_resistance,1,,,,,,,,
+the_magicianss,,,,,,,1,,
 the_mahrou,,,,,0,,,,1
 the_malaysian_tamil_nadu,1,1,1,1,0,0,0,0,1
 the_marineri_islands,0,1,,,,,,,
@@ -7403,7 +7407,7 @@ the_republic_of_goat,,,,,0,,,,1
 the_republic_of_konsa,0,,,1,,,,0,
 the_republic_of_the_united_marble_tribes,0,1,1,1,0,1,1,0,1
 the_republic_of_worldia,,0,1,1,0,0,0,0,1
-the_republic_of_yak,,,,1,0,,1,1,1
+the_republic_of_yak,,,,1,0,,0,1,1
 the_republic_of_zeronoa,0,1,,,,,,,
 the_republicanoes,,,1,,,1,,,
 the_republics_of_the_federation_of_gulf,,1,1,,,,,,
@@ -7702,6 +7706,7 @@ trilaudhia,0,,0,,,,,,
 trillius,1,,1,,0,0,,,1
 trimounts,1,0,1,1,0,,,1,1
 tripod_ii,0,1,1,1,0,0,0,0,1
+tripolus,,,,,,,1,,
 tritonitia,1,0,1,1,0,0,0,0,1
 triumphancy,1,0,0,0,1,1,0,1,0
 triumvirate_of_euphoria,,,,1,0,0,1,0,1
@@ -8056,7 +8061,7 @@ vaskeden,,1,,1,,0,,0,
 vatrello,1,0,1,1,0,0,0,0,1
 vauferland,,,,1,0,0,0,0,1
 vaugarde,,,,,0,,,,1
-vaur_ausgartoprobs,0,1,,1,1,,,1,1
+vaur_ausgartoprobs,0,1,,1,1,,1,1,1
 vayana,,,,1,0,,,,1
 vazieli,,0,1,0,,0,,0,
 veelania,1,1,,1,,0,,0,
@@ -8439,7 +8444,7 @@ xericinan,1,,,,,,,,
 xernea,,,,,,,0,,
 xeroxia,,,,0,0,,,0,1
 xerthe,,,0,,,,,1,
-xhobantho,1,,1,,,,,,
+xhobantho,1,,1,,,,0,,
 xialta,1,,,1,1,,0,,
 xiggor,1,0,1,1,0,0,0,0,1
 xindanian_islands,1,0,1,,,,,,
@@ -8590,7 +8595,7 @@ zemisnorth_technologies_ltd,1,0,1,1,0,1,0,0,1
 zemshar,0,0,1,1,,1,,0,
 zenjen,0,,1,,,,,,
 zenmanto,1,,1,,,,,,
-zennit,,0,1,1,0,0,,0,1
+zennit,,0,1,1,0,0,0,0,1
 zenobiana,1,0,1,,0,,,,1
 zenthara,,,0,,,,,,
 zenthica,,,,,,0,,,
