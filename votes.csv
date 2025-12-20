@@ -1639,7 +1639,7 @@ demeurera,0,0,1,,0,0,0,,1,
 demilon,0,1,0,1,1,1,0,0,0,0
 demisemihemidemisemiquaver,,,1,,,,,0,,
 democates,1,,,,1,,,,1,
-democracylandistan,0,1,0,0,0,1,0,0,0,
+democracylandistan,0,1,0,0,0,1,0,0,0,1
 democratic_borea,,,,,,1,,,,
 democratic_chanum_ter_heak,,,,1,,,,0,,
 democratic_isle_kens,,,,1,,,,1,,
@@ -1839,7 +1839,7 @@ drez_grexes,,,,1,,,,,1,
 drodor,,0,1,,,,,,,
 drokea,,,,,,0,0,,,
 drorska,,,,0,0,,,0,1,
-druandia,,,1,1,0,1,0,0,1,
+druandia,,,1,1,0,1,0,0,1,1
 drucilla,,1,,,,,,,,
 drudomong,,,1,,,,,0,,
 drugaddicts,,,,,,0,,,,
@@ -2719,6 +2719,7 @@ gothterre,,0,,,,,0,,,
 gothtopia,1,0,1,1,0,0,1,0,1,1
 government_approved,1,,,0,,,,0,,
 gracca,,,1,1,,,,,1,
+grace_dan_sourp,,,,,,,,,,1
 grace_wellesley_thayer,1,1,1,1,,0,0,0,,1
 grainstan,,1,,,0,1,1,,,
 gran_azuria,1,0,1,1,0,0,1,0,1,1
@@ -3098,7 +3099,7 @@ holzhagen,1,1,0,,,,0,,,
 homdaak,,,,,0,0,,,1,
 hominidia,0,,,,,,,,,
 homskili,1,0,1,,1,,0,,1,1
-honchu,1,1,1,1,0,0,0,0,,
+honchu,1,1,1,1,0,0,0,0,,0
 honda_motor_co,,,,1,0,,,,1,
 honduhn,,,,0,0,,,0,1,
 honeymoon_avenue,1,,1,1,0,0,0,0,1,1
@@ -3808,7 +3809,7 @@ krabanka,,,,,,,0,,,
 kraj,1,1,1,1,0,1,1,1,0,0
 kralenos,1,0,1,1,1,0,0,1,1,1
 kramenka,,,1,,,,1,,,
-kranez,1,1,1,1,0,,,,1,
+kranez,1,1,1,1,0,,0,,1,1
 kransahr,,0,,1,,,0,0,,
 krapinovka,1,1,,1,0,,,0,1,
 krarpera,,,,0,0,1,1,0,1,1
@@ -4306,7 +4307,7 @@ manila-central,0,,0,0,1,1,1,1,1,0
 manitouqua,,0,,,,,,,,
 maniwinn,,,1,,,,,,,
 mankitownland,,0,,,,,,,,
-manseria,1,1,1,1,1,0,0,0,1,
+manseria,1,1,1,1,1,0,0,0,1,1
 manticorus,,,,,,1,,,,
 manuelian_empire,1,0,0,1,0,0,0,0,1,1
 manulqa,,,,,,0,,,,
@@ -4628,7 +4629,7 @@ mueslibar,1,,,1,,,0,0,1,1
 muirios,,,,,0,,,,1,
 mujistan,0,1,0,0,0,,,0,1,
 mulano,,,,0,,,,1,,
-mulaonia,1,1,0,0,0,0,,0,1,
+mulaonia,1,1,0,0,0,0,1,0,1,0
 mulouccello,,1,0,1,,,,0,,
 multiple_bounty,1,0,1,1,0,0,,0,1,1
 multum_reprimere,1,,,,,,,,,
@@ -4914,7 +4915,7 @@ new_prussianstan,1,,1,1,0,0,1,0,1,
 new_rainbow_falls,1,0,1,1,0,0,,0,1,
 new_reky,,,,1,0,0,,0,0,
 new_republic_of_kastovia,,,,1,,,,,,
-new_resilience,,1,,,0,1,0,,,
+new_resilience,,1,,,0,1,0,,,1
 new_rogernomics,,,,,,,,,,1
 new_roos,0,,,,0,,,,,
 new_rustonia,1,1,1,1,,1,0,0,1,1
@@ -5208,7 +5209,7 @@ novin_wesimm,,,,,1,1,0,,,1
 novisiberskov,,1,,1,,0,,0,,
 novist,0,1,,0,1,1,1,1,,0
 novo_acadia,1,,,,,,,,,
-novo_prosperitas,0,0,0,0,0,0,1,0,1,
+novo_prosperitas,0,0,0,0,0,0,1,0,1,1
 novorik,,,0,0,0,,0,,1,
 novostovia,1,,,1,,,,0,,
 novrystan,0,1,,1,0,1,0,0,1,
@@ -5392,7 +5393,7 @@ orlandistan,,,,,0,,,,1,
 orlanstate,0,1,1,,0,1,1,0,1,
 ornothania,,,,,0,,,,0,
 oromaya,1,1,,,,,,,0,
-orpheia,1,1,1,1,0,1,0,0,1,
+orpheia,1,1,1,1,0,1,0,0,1,1
 orros,0,,,,,,0,,,1
 ortandemhausergebautwerden,1,1,0,1,0,0,1,1,0,1
 orthnac,,,,,0,0,,,,
@@ -5575,7 +5576,7 @@ peoples_republic_of_solovie,,1,,,,,,,,
 peoples_republic_of_speing,,,,1,0,,1,0,1,0
 peoples_republico,1,0,,,,,,,,
 peoples_republicss,,,1,1,,,,,,
-peoplestasine,1,1,0,0,0,0,1,1,1,
+peoplestasine,1,1,0,0,0,0,1,1,1,1
 peourouin,,,,,0,,,,1,
 pepsi_the_third,0,0,1,1,0,0,0,0,0,0
 pequea,,0,1,,,0,,,,
@@ -5624,7 +5625,7 @@ piedra_negra,1,,,1,0,,0,0,1,
 piehu,,,,,,1,,,,
 piemonte-tuscani,,,1,,0,,,,1,
 pierallang,1,0,1,1,,,,,,1
-pigeon_nation,1,1,1,0,,1,,0,,
+pigeon_nation,1,1,1,0,,1,1,0,,1
 pilipinas_and_malaya,,1,0,,,,,,,
 piliscsev_republic,0,,,,,,,,,
 pillaro,1,0,1,1,0,,,0,1,
@@ -5727,7 +5728,7 @@ potato-pizza,1,,,,,,,,,
 potatofarmers,1,0,,,0,,,,,
 potatonia,,,,,,1,,,,
 potatopelago,1,,,,,0,,,,
-potatoville,1,0,1,,0,,,0,1,1
+potatoville,1,0,1,,0,,0,0,1,1
 poteramnsan,,,,,0,,0,,,1
 potoronia,,,,1,,,,,1,
 powerful_idiots,1,,1,,,,,,,
@@ -6094,7 +6095,7 @@ rising_sun_empire,1,0,1,,,0,0,0,,1
 ritelssaeney,,,,0,,,,,,
 rive_ouest_de_la_mer_rouge,,0,,,,,,,,
 river_hill_lands,,,0,1,,,,0,,
-riverbuck,,,1,1,0,0,,,1,
+riverbuck,,,1,1,0,0,0,,1,1
 rivergarden,1,,,1,0,,,,,
 rivertrot,0,,,,,,,,,
 rivoni,0,,,,,,,,,
@@ -6278,7 +6279,7 @@ saint_westerval,,,1,1,,,,1,,
 saizoravia,1,0,,,,1,,,,
 sakien_islands,,1,1,1,0,0,0,0,,
 sakinko,,1,,,,,,,,
-sakobell,1,1,0,1,0,0,,0,1,
+sakobell,1,1,0,1,0,0,1,0,1,1
 sakretia,,,,,0,,0,,0,
 sakuralis,1,,,,,,,,,
 sakuranoha,,1,,1,0,,,1,1,
@@ -6499,7 +6500,7 @@ sha_la_la_land,1,,1,1,0,0,,0,1,
 shababistan,1,0,1,1,0,0,0,0,1,1
 shabandra,,,,,0,0,0,,,
 shabingery,0,,1,,,,,,,
-shachms,1,0,1,1,0,0,0,0,1,
+shachms,1,0,1,1,0,0,0,0,1,1
 shadownia,0,1,0,,0,1,1,1,0,
 shady_gun_dealers,1,0,1,1,1,0,0,0,1,1
 shahoop_bliclia,0,,,,,,,,,
@@ -6783,7 +6784,7 @@ south_merkopa,,,,1,0,0,0,0,1,1
 south_mouse_island,,,1,,,,,1,,
 south_north_california,,,,,0,0,,,1,
 south_otselic,1,0,1,1,1,1,1,0,1,
-south_parter,1,0,1,1,0,,,0,,
+south_parter,1,0,1,1,0,,0,0,,1
 south_poopistan,1,0,0,1,0,1,1,0,0,
 south_st_maarten,,1,,,,,,,,
 south_supenterbia,,,,,0,,,,,
@@ -7211,7 +7212,7 @@ thauto_states,,,1,,,,,,,
 the-armageddon,1,1,,,,,,,,
 the-midwest,0,1,0,1,0,,,0,1,
 the_1mperium_0f_man,,0,1,,,,,,,
-the_1st_armored_division,,,,,,,,,,1
+the_1st_armored_division,,,,,,,1,,,1
 the_251,0,1,0,,,1,1,0,,0
 the_2nd_amendment,,0,,,,,,,,
 the_67_republic,,,,1,0,,,1,0,
@@ -8316,7 +8317,7 @@ verithlana,1,1,1,1,1,0,0,1,0,1
 verlian,0,,0,1,0,,,1,,
 verlos,,,0,,,,,,,
 vermenie,0,1,0,,0,,,1,,
-vernidia,1,1,1,1,0,0,0,0,1,
+vernidia,1,1,1,1,0,0,0,0,1,1
 versmark,,,1,,,,,,,
 vertigoism,1,,,,,,,,,
 vertis,,1,,1,,1,,0,,
@@ -8326,7 +8327,7 @@ verumir,,,,,,,0,,,
 very_evil_larry,,,,,1,,,,0,
 very_new_republic_of_madinia,0,1,0,0,0,0,1,1,1,1
 veryaverage,,,,,0,0,,,,
-vesilen_island,0,1,0,0,0,1,1,0,0,
+vesilen_island,0,1,0,0,0,1,1,0,0,1
 vesperian,,,,,,0,,,,
 vespertina,0,,1,,0,,,,,
 vestyria-greland-liermark,1,,,,,,,,,
@@ -8385,7 +8386,7 @@ virulian,,,,,0,,,,,
 vishara,,1,,,0,0,0,,,1
 vishizzia,1,0,,,1,0,,,,
 vistua,1,0,1,,0,0,,,,
-vitorianiania,1,0,0,1,0,0,1,0,1,
+vitorianiania,1,0,0,1,0,0,1,0,1,1
 vitrili,,0,,,,,,,0,
 vivaan_de_la_manta,,,,,,0,,,,
 vivarex,1,1,1,1,0,1,,1,,
@@ -8446,7 +8447,7 @@ vwandalysm,1,1,,,,,,,,
 vyussia,,,1,1,,,,,1,
 vyvonne,1,0,,,,,,,,
 wa_klopstock,,,,,,0,,,,
-wa_yamato,,,,,,,0,,,
+wa_yamato,,,,,,,0,,,1
 wabacha,,0,1,1,0,0,0,0,1,1
 wabberjocky,1,,1,,,,0,,,1
 wacman,1,0,1,1,0,0,0,0,1,1
@@ -8691,7 +8692,7 @@ yardies,1,0,1,0,0,1,0,0,0,
 yarenja,1,0,,1,0,,,0,1,
 yarktralia,1,,,1,,,,,1,
 yaronia,,,1,1,,,,0,1,
-yarumab-corriopankt,,1,,,0,,,,,
+yarumab-corriopankt,,1,,,0,,0,,,1
 yashemia,,,,,,1,,,,
 yasutaka,1,1,1,1,0,0,,1,1,
 yatodoshi,,1,,,0,,,,,
