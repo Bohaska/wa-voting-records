@@ -1238,7 +1238,7 @@ charalia,,,,,,1,,,,
 charavent,,1,,,,,,,,
 chareest,,,0,,0,,,,1,
 chargol,0,1,0,1,0,,,1,1,
-charlaton,0,1,1,1,0,1,,0,1,
+charlaton,0,1,1,1,0,1,0,0,1,1
 charlvania,,,1,,,,,1,,
 charolsia,1,0,1,,0,,,,,
 chatanoogaa,,,,,,,1,,,
@@ -1294,6 +1294,7 @@ choppyhausen,,0,1,,0,,,0,1,1
 chorkontaria,,,0,,,,,,,
 chotana,,,,,,0,0,,,
 chouchi,,,,,0,,0,,1,
+chrissyb,,,,,,,0,,,
 christian_killeshandra,1,0,1,0,0,0,0,0,0,1
 christianopoulos,1,0,1,1,0,0,,0,1,
 christopio,1,,,,,,,,,
@@ -1986,7 +1987,7 @@ eevees,1,,,1,,0,,0,1,
 eeveetopia,1,1,0,,,,,,,
 eeveetopila,1,0,1,1,0,,,0,,
 effazio,,,,,0,0,0,,1,1
-efhrim,0,1,0,1,0,1,0,1,0,
+efhrim,0,1,0,1,0,1,0,1,0,1
 egairo,0,1,0,1,0,1,1,0,1,
 egalitarians,,,,0,,,,,,
 eggplant_republic,1,,,,,,0,,,
@@ -2069,7 +2070,7 @@ empire_great_britain,,,1,0,1,0,1,0,,1
 empire_of_atlanta,,,,1,,,,0,,
 empire_of_caldrasa,,,,,,,,0,0,
 empire_of_dabiristan,1,,,,,,,,,
-empire_of_ftia,1,1,1,0,0,1,1,1,1,
+empire_of_ftia,1,1,1,0,0,1,1,1,1,1
 empire_of_impiria,1,0,,,,,,,,
 empire_of_kyrania,1,0,1,1,1,,,0,0,
 empire_of_valyria,,,,,,0,,,,
@@ -3342,7 +3343,7 @@ iskamiraru,,,,1,1,,,0,1,
 iskard,,,0,1,0,0,,,1,
 isla_luminara,0,,,0,0,0,0,,,1
 isla_matador,,,1,,,0,,,,
-islamic_republic_of_al-andalus_ira-a,,,,,0,1,,,,
+islamic_republic_of_al-andalus_ira-a,,,,,0,1,1,,,
 islanalcatatuffles,1,,,,,,0,,,
 island_of_catland,1,1,1,1,0,1,1,0,1,1
 island_of_relevancy,1,1,1,1,0,1,1,0,,
@@ -3761,7 +3762,7 @@ komminause,,,,1,0,,,0,1,
 komuna_del_simys,,,,1,1,,,0,,
 komunno,0,0,0,,,0,0,,,0
 komyounists,0,1,,0,0,1,0,1,1,
-konark,1,0,,1,1,,,0,,
+konark,1,0,,1,1,,0,0,,
 kond_mex_ethostorgel,1,0,1,1,0,0,0,0,1,1
 kondausia,1,,,,,,,,,
 kongeraich_ostpruisen,,,,,0,1,1,0,1,1
@@ -4129,6 +4130,7 @@ londesk,,,1,0,0,0,1,1,1,1
 lone_leaf_republic,,,1,,,0,0,,,
 long_duk_dong_squadron,,0,,,0,,,,,
 longingland,,,0,,,,,,,
+longinstaat,,,,,,,1,,,1
 longweather,0,1,0,0,0,0,1,0,1,1
 lonniarium,,,1,1,0,1,0,0,1,1
 loomari,1,1,1,,0,0,,1,1,
@@ -5398,6 +5400,7 @@ orros,0,,,,,,0,,,1
 ortandemhausergebautwerden,1,1,0,1,0,0,1,1,0,1
 orthnac,,,,,0,0,,,,
 orthodox_christian_empire,0,,0,0,0,1,1,1,1,1
+oscealia,,,,,,,0,,,1
 oseao,1,0,1,1,0,0,0,0,1,1
 osimiria,,,0,,,,,,,
 oslana,1,0,1,,,,,0,,
@@ -5485,7 +5488,7 @@ panthalasa_empirivm,1,,,,,,,,,
 pantheon_of_terra,,,,,,,0,,,
 pantheropia,1,,,,,,1,,,
 pantoslavia,,,0,1,0,0,0,0,1,1
-pantso,1,,1,,0,,,0,1,1
+pantso,1,,1,,0,,0,0,1,1
 pantumaca,0,1,0,0,0,,1,0,,
 panzerist_space,1,1,,,,,,,,
 panzovia,1,0,,1,0,0,,0,,
@@ -5883,6 +5886,7 @@ radioactive_medals,,,,1,,,,0,,
 radium_city,1,,,,,,,,,
 radored_welandion,,,1,,,,,,,
 raelinth,,,,,,0,,,,
+raen,,,,,,,0,,,1
 raeun,,,,,0,,,,1,
 rafdonia,,,,,,,0,,,1
 raffyland,1,1,1,1,0,1,1,0,1,1
@@ -6259,7 +6263,7 @@ saint_aurel,,,1,,,,,0,,
 saint_barks-webados,1,0,1,1,0,0,0,0,1,
 saint_belmar_ii,,,,,,0,0,,,1
 saint_bleu,,1,,,,,,,,
-saint_cyprian,,,,,,,0,,,
+saint_cyprian,,,,,,,0,,,1
 saint_david_of_wales,0,,0,0,,,0,0,,0
 saint_dudmunkist,,,,,,0,,,,
 saint_eliza,,,,,,1,0,,,
@@ -6327,7 +6331,7 @@ san_venganza,,,1,1,0,,,0,1,
 sanana,0,1,0,0,0,1,1,0,1,1
 sanasalia,1,1,0,1,,,,0,1,
 sanberracroft,1,1,1,1,0,0,0,0,1,1
-sanctified_hellas,1,,,,0,,,,,
+sanctified_hellas,1,,,,0,,,,,1
 sanctissimus_salvator_et_theotokos,1,1,1,1,0,1,1,,1,
 sanctum_teriaris,1,0,1,1,0,0,0,0,1,1
 sanctum_terra,1,0,1,1,0,,,0,1,
@@ -6691,7 +6695,7 @@ socialist_balkan_states,0,1,0,0,0,1,0,1,1,1
 socialist_civil_war_2_survivors,1,1,,,0,0,1,,,
 socialist_hercegovina,1,0,0,1,0,0,0,0,1,1
 socialist_refuge,,1,0,1,0,1,,0,1,
-socialist_republic_of_australia,1,1,1,1,0,1,0,0,1,
+socialist_republic_of_australia,1,1,1,1,0,1,0,0,1,1
 socialist_republic_of_monkey,1,1,1,,,,,,,
 socialist_republic_of_russians,,0,0,1,0,0,1,0,1,1
 socialist_republic_of_sakat,0,0,0,0,0,0,1,1,1,1
@@ -6762,7 +6766,7 @@ sorkjosen,1,,,1,0,0,,0,0,
 sorliva,1,1,,,,1,1,,,
 sornupa,,,,1,,,,0,,
 sortopia,,1,,1,0,0,0,0,1,1
-soruli,1,0,1,1,0,0,,0,1,
+soruli,1,0,1,1,0,0,0,0,1,1
 sotorana,1,,,0,,,,0,,
 soughts_souble,1,0,1,1,,0,,,1,
 sougra,1,,,,,,,,,
@@ -7434,7 +7438,7 @@ the_immortal_fire_nation,0,0,0,1,0,0,0,0,1,1
 the_imperial_union_of_new_order,,,,,0,,,,,
 the_imperial_volovia,1,0,1,1,,,,0,1,
 the_imperium_of_the_pure,,,,,0,,,,1,
-the_independent_island_of_vis,0,1,1,1,0,0,0,1,1,
+the_independent_island_of_vis,0,1,1,1,0,0,0,1,1,0
 the_indochine,0,1,,,,,,,,
 the_infinite_federation,1,1,1,1,0,0,0,1,1,
 the_inquisitorial_aldercliand_syndicate,,1,0,0,0,,,,0,
