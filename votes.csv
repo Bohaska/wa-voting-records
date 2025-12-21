@@ -580,7 +580,7 @@ atena,0,0,1,1,0,0,0,1,1,1
 ateria12,,1,,,,,,,,
 athamioway,1,,1,,,,,,,
 athrania,,1,,,,,,,,
-atlantanese,0,1,0,1,,,,0,,
+atlantanese,0,1,0,1,,,1,0,,
 atlantic_ocean_and_its_tributaries,,1,0,1,0,,,,1,
 atlantica_verde,,,,,,0,,,,
 atlanticium,0,1,0,0,0,,0,0,0,1
@@ -1615,7 +1615,7 @@ datalearner,,,,,,1,0,,,1
 daugapilis,0,0,0,1,0,,,1,1,
 daulmark,1,0,1,1,,0,0,0,1,1
 david_davidson,,,1,,,,,,,
-davids_republic,,,,1,0,,,0,1,
+davids_republic,,,,1,0,,1,0,1,0
 dawn_fleet,,0,1,,,0,0,,,1
 dawu,,,,1,,,,0,,
 daynes,,,,,,0,0,,,
@@ -1665,7 +1665,7 @@ democratic_prichiaordia,0,1,0,1,0,,,1,0,
 democratic_republic_of_animeo,,0,,1,0,0,,,0,
 democratic_republic_of_drew,,,1,1,1,,,1,,
 democratic_republic_of_isgard,0,1,0,0,0,1,1,0,1,0
-democratic_republic_of_sheng,,0,,1,,,,0,,
+democratic_republic_of_sheng,,0,,1,,,0,0,,1
 democratic_socialist_republic_of_africa,,,1,,0,0,0,,,1
 democratic_solberac_arthars,1,,1,,,1,0,,,
 democratic_sovereign_state_of_california,,,,,,,0,,,1
@@ -2262,7 +2262,7 @@ fangheng,,,,,,,0,,,
 fansheia,1,,,,,,,,,
 fanstar1,,,,,1,,,,1,
 far_andainarics,,,1,,,,,,,
-far_distant_land,1,0,1,0,1,1,,1,0,
+far_distant_land,1,0,1,0,1,1,0,1,0,0
 far_eastern_states,,,,,,1,,,,
 far_edemyer_aion,1,,,1,0,,,0,1,
 far_gand_par,0,0,1,0,,,,1,0,
@@ -2607,6 +2607,7 @@ gearian,1,0,,,,,,,,
 geastia,0,1,0,1,0,0,1,0,0,0
 geatlandia,,,,,0,,,,0,
 geckos,,0,1,,,,,,,
+gee-alder,,,,,,,0,,,1
 geeked_vs_locked_in,,,,,,0,,,,
 geezy_for_life,,1,,,,,,,,
 gelassenheit,1,1,0,1,1,1,0,0,1,1
@@ -3835,7 +3836,7 @@ kosova,1,1,1,,0,0,,,,
 kossack,,,,1,0,1,,0,1,
 kossenburk,1,0,,1,,,,1,,
 kostal56,,,,,0,0,,,1,
-kotat,,,1,,,0,,,,
+kotat,,,1,,,0,0,,,1
 kotiko_socialist_communist_republic,0,0,,,,,,,,
 kotkavia,,,,,0,0,0,,1,1
 kotuwia_sarle,,0,1,1,0,,,0,1,
@@ -4424,6 +4425,7 @@ matidonia,0,,0,,,,,,,
 matika,0,1,1,1,0,0,1,0,0,0
 matinatios,,1,,,,,,,,
 matopian_islands,,0,,,,,,,,
+matrique,,,,,,,1,,,
 matsabie,,,1,1,0,0,0,,1,
 matterland,,,,,,1,,,,
 mattville,0,1,0,0,0,0,1,0,1,
@@ -4652,7 +4654,7 @@ morvane,,,,,,,0,,,1
 morvedre,,1,,,,,,,,
 moryazvia,1,0,1,1,0,0,0,0,1,1
 morzavia,,,,,,,0,,,1
-morzova,1,0,0,1,0,0,1,,1,
+morzova,1,0,0,1,0,0,1,,1,1
 moscovien,1,0,,,1,,,0,,
 moscowis,,,0,,,,,,,
 mosfelania,1,0,1,1,0,0,0,0,1,1
@@ -4897,7 +4899,7 @@ new_charles,1,,1,1,0,0,0,0,1,1
 new_cittsa,,,,1,0,,,,1,
 new_colonus,,,,,,,0,,,1
 new_commland,,1,1,,0,,0,,1,
-new_consola,,,1,1,1,0,,0,1,
+new_consola,,,1,1,1,0,0,0,1,1
 new_cordyceps,,,1,1,0,,0,0,1,
 new_crimson,,,,,0,1,,,0,
 new_crywyzyxycynya,1,0,1,1,1,0,0,0,1,1
@@ -5326,6 +5328,7 @@ oberlania,1,1,1,,0,,0,0,1,
 obeseblobia,,,,0,0,,1,,1,1
 obets,1,0,,,,,,,,
 oblitus_terras,1,0,,1,0,,0,,1,1
+obsessive_democratic_socialism,,,,,,,0,,,
 obsidaria,1,1,1,1,0,1,1,1,0,0
 obsidian_shoals,,,1,,,,,1,,
 obstructing_the_world_assembly,,,,0,0,0,,0,0,
@@ -5575,7 +5578,7 @@ parzillum,0,1,0,1,0,1,1,0,1,1
 paskaa,1,0,1,1,0,0,0,0,1,1
 past_beans,,,,1,0,0,,0,1,
 pastuhland,,,,1,0,1,0,0,0,0
-pasveria,1,0,,1,1,,,,1,
+pasveria,1,0,,1,1,,0,,1,1
 pasxo,,,,,,,1,,,1
 pasybfic,,,,1,,1,,,,1
 patagonion,1,1,0,,0,,,0,1,
@@ -5873,7 +5876,7 @@ puledron,,,1,1,,,,1,,
 pulitein,1,0,1,0,0,0,1,0,1,1
 pulopulo,0,,,,,1,,,,
 pulsar_girl,,0,,,,,,,,
-pultorland,1,0,1,1,1,0,,0,1,
+pultorland,1,0,1,1,1,0,0,0,1,1
 pumpkin_valley,1,0,1,1,0,0,0,0,1,1
 puninsia,,,,,,1,1,,,1
 pupackijand,,,,1,0,,,1,,
@@ -5956,7 +5959,7 @@ raeun,,,,,0,,,,1,
 rafdonia,,,,,,,0,,,1
 raffyland,1,1,1,1,0,1,1,0,1,1
 rage_against_your_mom,,,,,1,,,,1,
-raggafarion,,,,,,0,0,,,
+raggafarion,,,,,,0,0,,,1
 raghallaigh,0,1,0,1,0,0,0,0,0,1
 ragnaria,1,,,,,,0,,,
 ragolun,,,,,,,0,,,
@@ -6331,7 +6334,7 @@ saint_arsenio,,,1,,0,0,,,,
 saint_asiocia,0,,,,0,1,,,1,
 saint_asperes,1,0,,1,,0,0,0,,1
 saint_aurel,,,1,,,,,0,,
-saint_barks-webados,1,0,1,1,0,0,0,0,1,
+saint_barks-webados,1,0,1,1,0,0,0,0,1,1
 saint_belmar_ii,,,,,,0,0,,,1
 saint_bleu,,1,,,,,,,,
 saint_cyprian,,,,,,,0,,,1
@@ -6523,7 +6526,7 @@ secretanomaly,1,,1,,,,,,,
 sederum,1,0,1,1,0,,0,1,1,
 sedgistan,1,0,1,1,1,0,0,0,1,1
 seeker_alpha,0,0,,,,,,,,1
-seenvorland,,0,1,1,0,0,,0,1,
+seenvorland,,0,1,1,0,0,0,0,1,1
 seeri_ouslee_ill,,0,1,0,0,0,,0,1,
 sefat,1,1,0,1,0,0,0,0,1,1
 segatamoa,0,1,0,0,0,1,0,0,1,
@@ -8349,7 +8352,7 @@ vanoos,,,,,,0,,,,
 vantaros,,,,,,,0,,,1
 vantser,,,,,0,,,,,
 vanuzgard,1,0,1,1,1,0,0,0,0,0
-varangiana,1,1,0,1,0,0,1,1,0,
+varangiana,1,1,0,1,0,0,1,1,0,1
 varanius,1,0,1,1,0,0,0,0,1,1
 varciella,,,1,,,,,0,,
 vardakov,,,,,0,0,,,,
