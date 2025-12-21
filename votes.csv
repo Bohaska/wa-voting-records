@@ -596,7 +596,7 @@ attack77,,,1,,,,,,,
 attakizan,,,1,,,,,,,
 atteang,0,0,1,1,0,1,0,0,1,1
 attempted_socialism,0,0,0,0,0,,,0,0,
-attestaltarragaby,,,,,,1,,,,
+attestaltarragaby,,,,,,1,1,,,1
 atymnius,1,0,1,1,0,1,0,0,1,1
 atzlan,1,1,,,,,,,,
 aubreygraham,,,,,,,0,,,
@@ -797,7 +797,7 @@ beijaflor,,0,,1,,0,,,1,
 belarus_20,1,,,,,,,,,
 belayarossiya,,,1,,,,,,,
 belgardia,,,,,0,,,,,
-belgium_and_holland,,,,,,0,0,,,
+belgium_and_holland,,,,,,0,0,,,1
 belkan_united_states,,,,,,0,0,,,1
 belkanada,1,1,0,0,0,,1,1,0,
 bella_ulle,1,,,,,,,,,
@@ -1184,7 +1184,7 @@ castle_in_confidence,1,,1,,0,,,,1,1
 castrolaysia,1,1,1,1,0,1,,0,1,
 castroreale,0,,,0,0,,,0,1,
 castuna,,1,0,1,0,0,1,0,1,1
-cat_army,1,0,1,1,0,0,,0,1,
+cat_army,1,0,1,1,0,0,0,0,1,1
 cat_is_cool,1,,,,,,,,,
 cat_is_empire,1,0,1,,0,,,,,
 catacorpo,1,1,0,,0,0,0,0,,1
@@ -2216,7 +2216,7 @@ evuropea,1,0,1,1,,,0,0,,1
 ewatini,,,,1,,,,,1,
 ewing_oil_co,1,0,1,1,0,0,0,,,
 excalibaxus,,,,,0,1,,,1,
-excipendia,0,0,1,,0,,,,1,
+excipendia,0,0,1,,0,,0,,1,0
 excorvo,,1,,1,,1,,0,,
 exerceitus,,,,1,0,0,0,0,1,1
 exilias,,0,,,,,0,,,1
@@ -3151,7 +3151,7 @@ hordarland,,,,1,0,0,,0,1,
 horden,,,,,,,0,,,
 horikyouko,,1,,,,,,,,
 hornet_shaw,,,,,,1,0,,,
-hornica,1,0,1,1,0,0,1,0,1,
+hornica,1,0,1,1,0,0,1,0,1,1
 hornmoguelesland,0,1,0,0,1,1,1,0,1,1
 hortgar,0,1,1,1,0,,0,0,1,1
 hosen_yafefa,1,,,,,,,,,
@@ -4396,7 +4396,7 @@ maritzal,1,0,0,1,0,0,0,0,1,1
 mark,,,1,,0,,0,,,1
 markanista,1,0,1,1,0,0,,0,1,
 marksista,0,,1,1,0,,0,0,1,
-marlducro,1,0,1,1,0,0,,0,1,1
+marlducro,1,0,1,1,0,0,0,0,1,1
 marocimia,1,0,1,1,0,0,0,0,1,1
 marovo,,,1,,,,,0,,
 marquess_of_marchmain,,,,,,0,0,,,
@@ -4803,7 +4803,7 @@ navainian_empire,,,,,0,,0,,1,
 naveastan,1,1,0,0,0,0,,0,1,
 naverike,1,0,1,1,1,0,0,0,1,1
 navocain,0,,,0,1,,,0,,
-nayara,0,0,0,1,0,1,1,1,1,
+nayara,0,0,0,1,0,1,0,1,1,1
 nazarrea,,,0,,,,,,,
 nbcland,,,,,,,0,,,1
 ne-kotikas,,0,1,,0,0,1,1,1,1
@@ -5991,7 +5991,7 @@ rantoomb,,,,,0,,,,,
 raphype,,,,1,0,,,,1,
 rapolaan,1,0,1,,,,0,,,1
 raptorcraft,0,,1,,,,,0,,
-rasamanaka,,,0,,,,,0,,
+rasamanaka,,,0,,,,0,0,,1
 rasetta,,,,,,,0,,,1
 raskana,1,1,1,1,0,0,0,0,1,1
 rasutafia,1,0,1,1,1,0,0,0,1,0
@@ -6330,6 +6330,7 @@ safj,0,1,0,0,0,0,0,1,1,1
 sagway,1,,,,,0,,,,
 sahe,,,,1,,1,1,,,1
 sahrawiya,1,1,0,0,0,1,1,1,1,1
+saibotia,,,,,,,1,,,0
 saied_ivaninber,,,1,,,,,,,
 saikelanga_samao,,,,,,1,0,,,1
 sailnors,1,,,,,,,,,
@@ -6427,7 +6428,7 @@ sanjurika,,,,1,0,0,0,0,1,1
 sankt-adalbertian_states,1,0,1,1,0,0,0,0,1,1
 sanmorgranaria,1,1,1,1,0,0,0,0,1,1
 sans_underale,,,,,,,0,,,
-sansierr,,1,,,,,,,,
+sansierr,,1,,,,,0,,,0
 santa_clausewitz,,1,,,,,,,,
 santa_liberdade,,,,1,,,,0,,
 santa_marana,,0,,,,,,,,
@@ -7149,7 +7150,7 @@ swiss_cantonal_union,,,1,1,,0,,,1,
 swiss_defects,1,1,,1,,,,,1,
 swisslton,,,,,,,0,,,
 switiod,1,0,1,,,,,,,
-switzemburkistan,0,1,0,1,0,1,,0,1,
+switzemburkistan,0,1,0,1,0,1,1,0,1,1
 swizzy,,,1,,,,,,,
 swoonievile,,,,,,,0,,,1
 syaftyn,,,1,1,0,0,0,0,1,1
@@ -8980,7 +8981,7 @@ zimtopia,1,0,1,1,1,,,0,0,
 zina_emmorolos,,,1,1,0,,,1,1,
 zinertia,,,0,,0,,1,0,0,1
 zinnelgladhad,,,0,,,,,,,
-zinoviev,0,0,1,1,0,1,0,0,1,
+zinoviev,0,0,1,1,0,1,0,0,1,1
 zintai,1,0,1,1,1,0,0,0,1,1
 zion_imperium,1,,,,0,,0,,1,1
 zioniae,,0,,,,0,0,,,
