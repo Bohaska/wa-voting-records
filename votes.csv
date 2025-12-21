@@ -247,6 +247,7 @@ altasund,,0,,,,,,,,
 alter-mont,1,,,,,,,,,
 alterra_corporations,,0,,,,,,,,
 althol,1,0,1,1,0,0,0,0,1,1
+alticors_pordes,,,,,,,,,,1
 altique,,,,,,0,,,,
 altnavia,0,,1,,0,1,1,0,1,1
 alto_ipiranga,1,1,1,1,0,1,1,0,0,1
@@ -770,7 +771,7 @@ batona,,0,1,1,0,0,0,0,1,
 battadia,0,1,0,0,1,1,1,0,,1
 battle_for_dream_island_iii,,,,,,0,,,,
 bavarian_soviet_repulic,1,1,1,1,,0,,0,,
-bavo,1,0,1,1,0,1,,1,1,
+bavo,1,0,1,1,0,1,0,1,1,
 bayfront,0,,,,0,,,,,
 beachbum,,,1,1,,,,0,,
 beadle_mac,,1,,0,,,,1,,
@@ -2271,7 +2272,7 @@ far_man_raynern,,,,,,1,,,,
 far_swabia,,,1,1,,,,1,,
 fara_foundation,,,0,,,,,,,
 faralried,1,0,1,1,0,0,0,0,1,1
-farbelia,0,,1,1,0,1,0,0,1,
+farbelia,0,,1,1,0,1,0,0,1,1
 fardel,,0,,,,0,0,,,1
 farello,0,1,0,1,0,0,0,0,1,0
 farinalia,,1,,1,0,0,,,1,
@@ -2446,7 +2447,7 @@ free_arab_republic,,,,,,0,0,,,
 free_augsburg,1,0,,,,,,,,
 free_democratic_republic_of_austria,,,,,,0,,,,
 free_galand,,,,,,1,,,,
-free_ganalia,0,1,0,0,0,1,1,1,1,
+free_ganalia,0,1,0,0,0,1,1,1,1,1
 free_german_republic,1,1,,,,,,,,
 free_gole_theovield,1,,1,,0,,,0,1,
 free_latiya,1,,,,,,,,,
@@ -2950,6 +2951,7 @@ hamdawggin,0,0,1,,,,,,,
 hamikala,,,,1,,,,0,,
 hammondville,,,1,1,0,0,,,1,
 hampi,,,,,,,0,,,1
+han_crust,,,,,,,1,,,1
 han_guk,0,1,0,0,0,,,0,1,
 hanabi_kuni,,,,,,,0,,,1
 hanalia,0,1,0,0,0,0,0,0,0,1
@@ -3790,7 +3792,7 @@ koleno,0,,,,,,,,,
 kolher,1,0,,,,,,,,
 koli_land,,,,,,0,,,,
 kolistri,0,0,1,1,,0,,0,,
-koljaghia,,,,,,,1,,,1
+koljaghia,,,,,,,0,,,1
 kolymansk,,,,,,0,,,,
 kombdillistan,,0,,,,,,,,
 kombee,,0,,,,0,,,,
@@ -3849,7 +3851,7 @@ kralenos,1,0,1,1,1,0,0,1,1,1
 kramenka,,,1,,,,1,,,
 kranez,1,1,1,1,0,,0,,1,1
 kransahr,,0,,1,,,0,0,,
-krapinovka,1,1,,1,0,,,0,1,
+krapinovka,1,1,,1,0,,0,0,1,1
 krarpera,,,,0,0,1,1,0,1,1
 kraskutchia,,,,,,,0,,,1
 krasnaya_kommissariat_soyuz,1,,,,,,,,,
@@ -4199,6 +4201,7 @@ lotionlicker23,1,,1,1,0,1,,0,1,
 lots_of_money,1,0,1,1,,0,0,,,1
 loungdako,,1,,,,,0,,,1
 loutsland,1,0,1,1,0,0,0,0,1,1
+louvir,,,,,,,0,,,
 louvrandia,1,,1,,0,0,,,1,
 lovarpia,,,1,,,,0,,,1
 lovateria,0,1,0,1,0,0,1,1,1,1
@@ -4656,7 +4659,7 @@ morvedre,,1,,,,,,,,
 moryazvia,1,0,1,1,0,0,0,0,1,1
 morzavia,,,,,,,0,,,1
 morzova,1,0,0,1,0,0,1,,1,1
-moscovien,1,0,,,1,,,0,,
+moscovien,1,0,,,1,,0,0,,0
 moscowis,,,0,,,,,,,
 mosfelania,1,0,1,1,0,0,0,0,1,1
 moskva_and_stalingrad,1,0,1,,,,,,,
@@ -5763,7 +5766,7 @@ poltarsia,,,,1,0,,,,1,
 polynesian_empire,,,,,,0,,,,
 pomerena,1,,1,,,,,0,,
 ponipau,,0,,,,,,,,
-pont-a-mousson,1,0,,1,,0,0,0,,
+pont-a-mousson,1,0,,1,,0,0,0,,1
 ponta_tropical,0,1,0,1,,1,,0,,
 pontisia,,0,,1,,0,,0,1,
 pontolia,1,,,,,,,,,
@@ -6341,7 +6344,7 @@ saint_bleu,,1,,,,,,,,
 saint_cyprian,,,,,,,0,,,1
 saint_david_of_wales,0,,0,0,,,0,0,,0
 saint_dudmunkist,,,,,,0,,,,
-saint_eliza,,,,,,1,0,,,
+saint_eliza,,,,,,1,0,,,1
 saint_glinda,1,,,,,,,,,
 saint_khalid,,,1,,,,,,,
 saint_killebrew,,,,,,0,,,,
