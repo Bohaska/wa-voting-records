@@ -249,7 +249,7 @@ alterra_corporations,,0,,,,,,,,
 althol,1,0,1,1,0,0,0,0,1,1
 altique,,,,,,0,,,,
 altnavia,0,,1,,0,1,1,0,1,1
-alto_ipiranga,1,1,1,1,0,1,,0,0,
+alto_ipiranga,1,1,1,1,0,1,1,0,0,1
 altonius_murrais,,0,1,1,0,0,1,0,1,
 altosia_fitareekradzland,,,,,,,0,,,1
 altunay,,,,1,,,,0,,
@@ -1183,7 +1183,7 @@ castle_in_confidence,1,,1,,0,,,,1,1
 castrolaysia,1,1,1,1,0,1,,0,1,
 castroreale,0,,,0,0,,,0,1,
 castuna,,1,0,1,0,0,1,0,1,1
-cat_army,1,0,1,1,0,0,0,0,1,1
+cat_army,1,0,1,1,0,0,,0,1,
 cat_is_cool,1,,,,,,,,,
 cat_is_empire,1,0,1,,0,,,,,
 catacorpo,1,1,0,,0,0,0,0,,1
@@ -2658,6 +2658,7 @@ gi-sra,1,1,1,1,0,,0,0,1,
 giant_redwoods,1,0,1,1,0,0,1,0,0,
 giantino,,1,0,1,,1,1,,1,1
 gibbervoln,1,0,0,1,0,0,0,1,1,1
+giber,,,,,,,0,,,1
 gibraltir,,,,,0,,,,1,
 gibrania,,,,,,,0,,,
 gibsoniana,0,,0,0,0,1,0,1,1,1
@@ -3144,7 +3145,7 @@ hordarland,,,,1,0,0,,0,1,
 horden,,,,,,,0,,,
 horikyouko,,1,,,,,,,,
 hornet_shaw,,,,,,1,0,,,
-hornica,1,0,1,1,0,0,,0,1,
+hornica,1,0,1,1,0,0,1,0,1,
 hornmoguelesland,0,1,0,0,1,1,1,0,1,1
 hortgar,0,1,1,1,0,,0,0,1,1
 hosen_yafefa,1,,,,,,,,,
@@ -3746,7 +3747,7 @@ kirkas,0,,,0,0,,,0,,
 kirkassia,,,,1,,,,0,,
 kirkeness,,1,0,0,0,1,,1,1,
 kirrlark,0,,0,1,0,1,,1,,
-kiscikanis_askiy,1,,,,,,,,,
+kiscikanis_askiy,1,,,,,,0,,,
 kisovec,1,0,1,1,,0,0,0,1,
 kisume_the_bucket_youkai,0,1,0,1,0,0,0,0,1,1
 kit_sun,,0,,,,,,,,
@@ -4182,7 +4183,7 @@ los_estados_confederates_de_mexico,,,1,,,,,0,,
 los_pedrios,,,1,,,,,,,
 los_phoenix,1,,,,,,,,,
 los_santos,1,0,1,1,0,0,0,0,1,1
-losaita,,,1,1,0,,0,,1,
+losaita,,,1,1,0,,0,,1,1
 losche,,,,1,,,,,,
 lost_bananamen,1,0,1,1,0,0,0,0,1,
 lotanio,1,0,1,1,0,0,0,0,1,1
@@ -4244,7 +4245,7 @@ lustenneria,,,,1,,,,,,
 lustiveria,1,0,1,,0,,,1,1,
 luthena,,,,1,,,,1,,
 lutien,,,,1,,,,,,
-lutnia,,1,,,,,,,,
+lutnia,,1,,,,,1,,,0
 lutristan,1,,,,,,,,,
 lutrumpcis,0,,,,,,,,,
 luviofna_union,,0,1,1,0,0,,1,1,
@@ -4466,7 +4467,7 @@ meino,,0,,,,,,,,
 mejor_estado,,0,,,,0,0,,,
 melanie_long,1,0,1,1,0,0,0,0,1,1
 melenavenia,,,,,,0,,,,
-melheda,,,,,,,1,,,
+melheda,,,,,,,1,,,0
 meli_meli,,,,,,,0,,,0
 meline,1,0,0,,,,,,,
 mellaria,,,0,,,0,,,,
@@ -4570,7 +4571,6 @@ miquelon_isles,1,,,,,0,0,,,1
 miraglio,1,,,,,,,,,
 mirahge,1,1,1,1,0,0,0,0,1,1
 miravale,,,1,0,,,,1,,
-miravana,,,,,,,,,,1
 mirceva,,,,,,0,,,,
 mirea,,1,0,0,0,0,0,1,1,1
 miryami,,,,,0,,,,,
@@ -4723,7 +4723,7 @@ nagakawa,1,1,1,1,0,0,1,0,1,1
 nagorathia,,,1,1,0,0,,1,1,
 naguaren,1,,1,,0,,0,,,
 nahrashur,,,0,,,,,,,
-nairland,1,0,1,,,,,,,
+nairland,1,0,1,,,,0,,,1
 najovio,0,1,0,0,0,0,0,1,1,1
 nalenua,,,,1,0,0,0,0,1,
 naluland,,1,,,,,,,,
@@ -5104,7 +5104,7 @@ nonessel,1,0,1,,0,,,,1,
 nonfredom,0,1,0,0,1,1,1,1,0,0
 noo_de_plak,,,,,,0,0,,,1
 noob_topia,,,,0,0,1,,1,1,
-noobbia,1,1,1,1,0,1,0,0,1,
+noobbia,1,1,1,1,0,1,0,0,1,1
 noobia_and_solare,0,1,1,1,1,1,0,0,1,1
 noodle_cats,1,,1,,0,0,,0,,
 nor_chical,0,,1,,,,,,,
@@ -5270,7 +5270,7 @@ novus_canadis,0,0,1,1,0,0,1,1,1,1
 novus_imperium_romanum_borealis,1,,,1,0,0,0,0,1,1
 novystok,,,,,,,0,,,
 novyy_soyuz_sovetskikh_sotsialisticheski,,,,1,,0,0,,,
-nowa_europa,0,1,1,1,0,,,0,1,1
+nowa_europa,0,1,1,1,0,,0,0,1,1
 noxion,1,1,1,,,,,,,
 noxuia22,,,,,,,0,,,1
 nozania,,1,,,,,,,,
@@ -5767,7 +5767,7 @@ populous_magnus,,1,,,,,,,,
 poquaoi,,1,0,,0,,,,,
 poram_companies,0,1,0,0,0,1,1,1,0,0
 porigrad,1,,1,,,0,,1,,
-porotia,,0,,1,,0,0,0,,
+porotia,,0,,1,,0,0,0,,1
 porreres,,,0,,,1,0,0,,1
 porsaland,,,1,1,0,,,0,,
 port_meridian,,,,,,1,1,,,
@@ -7403,7 +7403,7 @@ the_divin_fist,1,0,1,1,0,,1,1,,
 the_doa,,,,0,0,0,1,,1,
 the_dolein,0,1,0,1,0,0,1,0,1,1
 the_dome,0,0,0,0,0,0,0,0,1,1
-the_dominion_of_the_asmorian_kingdom,,,1,,,0,,0,1,
+the_dominion_of_the_asmorian_kingdom,,,1,,,0,1,0,1,1
 the_doomsday_islands,1,1,0,1,1,1,0,0,1,
 the_dovahkiin_caliphate,0,1,0,1,0,0,0,0,0,1
 the_dragon_empire_of_united_states,,,1,1,,,0,0,,1
@@ -7678,7 +7678,7 @@ the_republicanoes,,,1,,,1,,,,
 the_republics_of_the_federation_of_gulf,,1,1,,,,,,,
 the_rico_re_ah_republic,,0,1,1,0,0,0,0,1,
 the_roman_catholic_imperium,0,0,,0,0,,,0,1,
-the_royal_asmorian_federation,1,1,,1,0,,1,,,1
+the_royal_asmorian_federation,1,1,,1,0,,,,,
 the_royal_dominion_of_alvari,,,1,1,1,1,,1,1,
 the_royal_republic_of_kumania,0,1,0,0,0,0,0,0,1,1
 the_russia_union_the_people,,,1,,,,,,,
@@ -8670,6 +8670,7 @@ whitespire,1,0,,1,0,,,0,1,
 whitland_islands,,,0,,0,,,,,
 whole_foods_market,,1,,,,,,,,
 whymsicalia,,,,,0,0,0,,1,
+whyna,,,,,,,0,,,
 whyworld,,1,1,0,0,0,0,1,1,1
 wickedly_evil_people,1,0,1,1,1,0,0,0,1,1
 wigmar,,,,1,,,,0,,
