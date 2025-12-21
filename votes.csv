@@ -3,7 +3,7 @@ nation_id,varanius_1758501414,tinhampton_1758643240,cretox_state_1758860435,cret
 -eunomia,0,1,0,0,0,0,0,0,0,1
 -macaronesia-,,,,,,,1,,,
 -priola,,,,,,,,,,1
--shizouka-,0,1,0,0,0,1,,1,1,
+-shizouka-,0,1,0,0,0,1,1,1,1,1
 -sordland,1,0,1,1,,0,,0,,
 -the_supreme_state,,,,,0,,,,,
 -tim-opolis,,,1,,0,0,0,0,1,1
@@ -1633,7 +1633,7 @@ dedark,,,,1,0,,,1,1,
 deepsea,0,0,0,0,0,0,0,0,0,1
 deeznuts5,,,1,1,1,1,0,1,1,1
 defendington,,,1,1,,0,,,1,
-definitely_not_brasil,,,1,1,0,,,0,1,
+definitely_not_brasil,,,1,1,0,,1,0,1,1
 deims_kir,,,,,,1,,,,
 deinderra,1,1,,,,,,,,
 deism,0,1,1,1,0,,,0,1,
@@ -1904,7 +1904,7 @@ dyanderna,,,,,,,,,,1
 dyl,1,,,,,1,,,,
 dyschezia,1,0,,,,,,,,
 dystopiao,,0,,1,,,,0,,
-dytarma,1,0,1,1,0,,,1,1,
+dytarma,1,0,1,1,0,,0,1,1,1
 dytase,1,0,1,1,0,0,0,0,1,
 dzhongkha,0,1,0,1,0,1,1,0,0,1
 ea_world_assembly_mission,1,,,,,0,,1,,1
@@ -2114,7 +2114,7 @@ entisia,,1,,,,,,,,
 envoi2,,,0,1,0,1,,0,1,
 eoan1a,,,1,,0,0,,,1,
 eodi_and_its_autonomous_regions,1,1,1,1,,1,,0,,
-eoksia,1,1,1,1,0,0,0,0,1,
+eoksia,1,1,1,1,0,0,0,0,1,1
 episcopis,,,,,,1,,,,
 epistemology,,0,1,,0,0,,1,1,
 epromia,,,,1,,,,,,
@@ -3008,7 +3008,7 @@ heavens_reach,1,0,1,1,,,,0,,1
 hebrejinia,,,1,1,0,0,0,1,1,1
 hedon-3,,,,,,1,,,,
 hefenland,,1,,,,,,,,
-heiligiesland,1,0,,,,,0,0,,
+heiligiesland,1,0,,,,,0,0,,1
 heitoria,0,,,,,,,,,
 hekp_2,1,,,,,,,,,
 helcretia,,,1,1,0,0,0,1,1,1
@@ -3558,7 +3558,7 @@ kajaria,,,,,,,0,,,
 kakastania,,,,,,,,,1,
 kalaratri,,,0,,,,,,,
 kalartalin,1,,,,0,0,0,,1,1
-kalemala,,,,,,,0,,,1
+kalemala,,,,,,,1,,,0
 kalendaa,0,1,1,1,0,0,0,0,1,1
 kaliuvat,1,0,1,1,0,0,0,0,1,1
 kalixia,1,0,1,1,0,0,0,0,1,1
@@ -3621,6 +3621,7 @@ kasavere,,1,,,,,,,,
 kasdados,,0,1,1,0,1,,0,1,
 kasekyl,1,0,0,1,0,0,0,0,0,1
 kaskalma,,,,1,1,,,0,0,
+kasnya,,,,,,,1,,,1
 kassa_and_harsigena,1,0,1,1,,0,,0,1,
 kassaka,,1,,,,,,,,
 kastoviask,0,,,,,,,,,
@@ -3668,7 +3669,7 @@ kerisl,,1,1,1,,,,0,,
 kesho,,1,,1,0,,0,0,,1
 keshue,,,1,1,0,,,,1,
 kesoia,,,,,,,1,,,1
-kethania,0,1,0,0,,1,,0,,
+kethania,0,1,0,0,,1,1,0,,0
 ketocracy,,,,,,,1,,,1
 ketrus,,,,,,0,,,,
 kevin3,1,,,,,,,,,
@@ -3880,6 +3881,7 @@ krzyzewskiville,0,1,1,1,0,1,1,0,,1
 kthedummy,1,0,1,1,0,1,0,1,1,1
 kuami,,,,,,0,,,,
 kuberistan,,,,1,,,,,1,
+kudonistan,,,,,,,0,,,
 kugguf,1,0,1,0,1,0,,1,0,
 kuitun,,,1,1,0,,,0,,
 kukinalia,0,1,,,,,,,,
@@ -3985,6 +3987,7 @@ lascandra,,1,0,,,1,,,,
 lasfritas,,,,1,0,,,,1,
 lassiah,,,0,1,,0,0,,1,
 last_capital,,,,0,,,,,0,
+last_outer_heaven,,,,,,,0,,,1
 last_velneria,,,,,,,,,,1
 lastovipol,1,0,1,1,0,0,0,0,1,1
 late-stage-capitalism,,,,,1,,,,0,
@@ -4072,6 +4075,7 @@ leuzinger,1,0,1,1,0,0,0,,,
 leveli,,,,1,0,,,,0,
 leviathan_court,1,,,,,,,,,
 levivill,,,1,,,0,,1,,
+lezkokei,,,,,,,0,,,1
 lfe,1,0,1,1,0,0,1,0,0,1
 lhat,1,,1,1,,0,0,0,1,1
 lia_federn,0,0,,,0,,,,,
@@ -4130,6 +4134,7 @@ liravia,,,,1,,,,0,,
 lireira,1,0,1,1,,0,0,1,1,1
 litchenstienen,0,0,1,1,1,0,0,0,1,1
 literally_just_evil,,,,,,0,0,,,
+litosa,,,,,,,1,,,0
 litterers,,,1,,,,,0,,
 little_hell,1,0,1,1,,,,0,,
 little_jon,,,,,,,1,,,0
@@ -4216,7 +4221,7 @@ lukemburg,,,,1,,,,0,,
 lumentera,0,,,,,,,,,
 luminality,1,0,1,1,0,0,0,0,1,1
 luminan,,1,,1,0,,,0,,
-luminerra,1,0,1,1,0,0,0,0,1,
+luminerra,1,0,1,1,0,0,0,0,1,1
 luminous_incorporated,1,,1,1,0,,,0,,
 lumiose,,,1,,,0,0,0,,1
 lumiose_land,1,,,,,,,,,
@@ -4613,7 +4618,7 @@ monilia,,,1,,,,,,,
 monkingdom,,,,,,,1,,,
 monsone,0,,,,0,0,0,,0,1
 montagway,1,0,1,,1,0,,1,0,
-montandunas,,0,0,1,,,,0,1,
+montandunas,,0,0,1,,,0,0,1,1
 montencomrades,,,0,,0,,,1,0,
 montereda,,,,1,0,1,1,0,1,1
 montopholous,1,1,,,0,,,,1,
@@ -5149,7 +5154,7 @@ north_istrople_grand,,,,,0,,,,1,
 north_kanuckistan,,,,,0,,,,1,
 north_kosia,1,1,,,,,,,,
 north_lake_land,,,,,0,,,,1,
-north_norda_islands,1,0,1,1,0,,0,0,1,
+north_norda_islands,1,0,1,1,0,,0,0,1,0
 north_patronia,,,,,0,0,0,,1,0
 north_puddlemouth-on-sea,1,,1,,,,,,,
 north_sion,0,1,1,0,0,1,1,1,0,1
@@ -6754,7 +6759,6 @@ sngerlarsimaffik,1,,,,,,,,,
 snorlaxia,1,0,1,,0,0,0,,,1
 snowza,,,0,,,,,0,,
 so_called_hater,,0,,,,,0,,,
-soa,,,,,,,1,,,1
 soantrias,,,,,,,1,,,
 social_democrats,0,1,0,1,0,0,0,0,1,1
 socialist_america_sa,,1,,,0,0,0,,1,
@@ -7829,7 +7833,7 @@ the_western_states_of_canada,,0,,,,,,,,
 the_western_union_of_communitas,1,1,0,,,,,0,,
 the_white_paw_ruled_by_our_king_snow,,,,0,,,,,,
 the_windmilluminati,1,0,1,1,0,1,0,1,1,1
-the_winter_islands,1,0,1,1,,0,,1,,
+the_winter_islands,1,0,1,1,,0,0,1,,1
 the_workers_united,1,1,,1,0,1,1,0,1,1
 the_worst_army_of,,,1,1,,,,0,1,
 the_x-8_research_center,0,1,,,,,,,,
