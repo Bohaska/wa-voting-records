@@ -1175,7 +1175,7 @@ cartrexia,,0,,,,,,,,
 casarian,0,0,1,0,0,0,0,0,1,1
 cashmoneyistan,1,1,,,,,,,,
 casiona,,1,,,,,,,,
-caspienne,,1,0,0,0,0,,1,1,
+caspienne,,1,0,0,0,0,1,1,1,0
 cassinea,,0,,,,,,,,
 castelia,1,0,1,1,0,0,0,0,1,1
 castino,,,1,1,,,,0,,
@@ -1416,7 +1416,6 @@ comrade_itsuka_kotori,,1,,,,,,,,
 comuny,0,1,0,0,0,1,,0,0,
 conard,,,,,,0,0,,,
 conconedes,0,0,1,1,0,0,1,0,1,
-concor,,,,,,,0,,,
 concordare,1,1,0,1,0,0,0,0,1,1
 concordiia,0,,,,,,,,,
 condensados,,,1,,,,,,,
@@ -2538,7 +2537,7 @@ furilisca,1,1,1,1,0,,0,0,1,1
 furness,1,0,1,,,,,,,
 fusiol,0,1,1,0,0,0,0,1,1,1
 futthe,1,,,,,,,,,
-futuo,,0,,,,,,,,
+futuo,,0,,,,,0,,,1
 futurist_state_of_agladnare,0,1,,,,0,,,,
 gaalar,1,,,,,,,,,
 gadsenopolis,1,,1,1,,0,0,0,,1
@@ -2586,7 +2585,7 @@ garaskord,,,,,,0,,,,
 garaziaopia,,,1,,,,,,,
 gardavasque,,,,,,0,,,,
 garfism,,,1,1,0,0,0,0,1,1
-gargmani,,,,,0,0,0,,0,
+gargmani,,,,,0,0,,,0,
 gargolia,,1,,,,,,,,
 garlanator,1,,1,,,,,0,,
 garmera,,,0,1,,,,1,,
@@ -3125,7 +3124,7 @@ holy_land_of_capitalism,,,,,,,0,,,1
 holy_marcus_empire,,,,,,0,0,,,1
 holy_orthodox_bulgaria,,,,,0,,,,,
 holy_polish_empire,,,1,1,,,,,,
-holy_prussin_states,1,1,,,0,0,,,,
+holy_prussin_states,1,1,,,0,0,0,,,1
 holy_tankia,,,,,,,0,,,
 holy_turkiye,,,,1,0,,,,1,
 holy_yolantian_empire,,1,,,,,,,,
@@ -3228,7 +3227,7 @@ iasonia,0,,,,,,,,,
 ibarabayashi,0,1,0,1,0,1,0,1,0,1
 iberian_unida,,,,,0,,,,1,
 ibernet,1,,0,,0,,,,1,
-ibizia,,,,,,0,,,,
+ibizia,,,,,,0,0,,,0
 icarema,0,0,0,1,0,0,0,0,1,1
 icasisic_islands,,,,,0,0,,,0,
 ice_cream_planets,,,,,0,,,,1,
@@ -3703,7 +3702,7 @@ khushybushytushy,,0,1,1,0,0,,1,1,
 kianland,1,0,1,1,0,0,0,0,1,1
 kidderminster,,,1,1,,,,0,,
 kidsdodrugs,,,,,,,1,,,
-kietros,1,1,1,1,0,0,,1,1,
+kietros,1,1,1,1,0,0,0,1,1,1
 kiisula,1,,,1,,,,,,
 kikaizen,,,,1,0,0,,0,1,
 kilichloom,0,1,1,1,0,1,,0,1,
@@ -3716,7 +3715,7 @@ kilrymont,,0,,,,,,,,
 kimderlopia,,,0,,,,,,,
 kimjonilia,,,,1,,,,0,,
 kimoia,1,0,1,1,0,1,0,0,1,1
-kimonoko,1,,,1,,0,,0,,
+kimonoko,1,,,1,,0,0,0,,1
 kinanland,1,0,1,1,0,,,0,1,
 kinbloc,0,1,0,0,,,,1,,0
 kincones,,,,1,,,,0,,
@@ -4933,6 +4932,7 @@ new_garbanzia,1,0,1,1,0,0,1,0,1,1
 new_gehenna,1,0,,1,0,,,0,,
 new_gilboa,1,0,1,1,0,0,0,0,1,1
 new_gondorianas,,,1,1,,0,,0,1,
+new_gord,,,,,,,0,,,1
 new_greater_brazil,,,,,0,,,,,
 new_halo,0,,,,,,,,,
 new_holy_roman_state,,,1,,,,,,,
@@ -6747,7 +6747,7 @@ slembana,1,1,1,1,0,1,1,0,1,1
 slices_right,1,,,1,,,0,0,,1
 slimefolk,1,0,,1,0,0,,,1,
 slimeria,,,1,,,,,,,
-slisshms,1,1,1,1,0,1,0,0,1,
+slisshms,1,1,1,1,0,1,0,0,1,0
 slivileton,,,1,,,,,,,
 sloap,1,,,,,0,0,,,1
 slobodovia,1,0,1,1,,,0,0,,1
@@ -6921,6 +6921,7 @@ soviet_federative_socialists,1,1,1,1,0,0,0,0,1,1
 soviet_reuinion_part_two,0,0,1,,0,0,,0,1,
 soviet_socialist_republic_of_madagascar,1,1,,,,,,,,
 soviet_stars,,,,,,,0,,,1
+soviet_state_of_covernant,,,,,,,1,,,
 soviet_taghouse,1,,,,,0,,,,
 soviet_terran,1,0,,,1,,,,,
 soviet_union_comintern,,,,,,,0,,,1
@@ -7449,7 +7450,7 @@ the_federated_empire,,0,,1,0,,0,0,,
 the_federated_states_of_baninia,,0,,,,,,,,
 the_ferret_lands,0,1,0,0,0,0,0,0,0,0
 the_final_trinity,,0,,,,,,,,
-the_finlands_heavy_dictators,,0,0,,,0,,0,,
+the_finlands_heavy_dictators,,0,0,,,0,0,0,,1
 the_first_directorate,,,,1,,,,0,1,
 the_flanders,,,,1,,,,,1,
 the_florida_national_front,1,0,1,1,1,0,0,0,1,1
@@ -8499,7 +8500,7 @@ virginiastan,,0,,,,0,,,,
 viriske,1,0,0,1,,,,0,,
 viritanskyy,0,1,0,0,,,,0,,
 virksland,0,1,0,0,1,0,1,1,1,1
-virulian,,,,,0,,,,,
+virulian,,,,,0,,0,,,1
 vishara,,1,,,0,0,0,,,1
 vishizzia,1,0,,,1,0,,,,
 vistua,1,0,1,,0,0,,,,
@@ -8833,6 +8834,7 @@ yedhudasia,1,,,,,,,,,
 yekateria_and_farlandia,1,,,,,,,,,
 yektov,1,0,,,,,,,,
 yelasia,,,,,,0,,,,
+yeligula,,,,,,,0,,,0
 yeneralski,1,,,,,,,,,
 yeniseisk,,,1,,,,,,,
 yenomerm,,,,1,,,0,,1,
