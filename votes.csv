@@ -220,6 +220,7 @@ all_hail_adriana,1,,,,,,,,,,
 alle_bria,,,0,1,,0,1,,0,,1
 alleman,1,0,1,1,1,0,0,0,,1,1
 allied_defense_contractors,,,,,,,0,,,,
+allied_states_of_osea,,,,,,,,0,,,1
 allwarts,,0,0,0,0,0,1,0,1,0,1
 alma_altar,1,1,1,1,0,,0,,0,1,1
 almartan,1,0,1,1,0,,0,0,0,1,1
@@ -238,7 +239,7 @@ alsaela,,,,1,,,,,,,
 alsatian_island,,,1,,0,,,,0,1,
 alsavia,,,,,,0,0,,,,
 alsion,1,0,1,1,0,0,0,0,0,1,1
-alski,1,1,1,1,0,0,0,,0,1,1
+alski,1,1,1,1,0,0,0,0,0,1,1
 alstratzkon,0,1,0,0,0,0,1,0,1,1,0
 alt-fem,,,0,,,,,,0,,
 alt_kaldonia,,,,,,,0,0,,,1
@@ -646,6 +647,7 @@ aurumlan,,,,,0,,,,,,
 aus_straya,,,0,0,0,1,1,1,0,0,0
 auskia,,,,,,1,,,,,
 austeral,1,,,,,,0,,,,
+austovakia,,,,,,,,0,,,1
 australia_and_the_outback,,1,,,,1,1,,,,
 australia_post,,0,,,,,,,,,
 australian_free_states,0,,0,,,0,,,,,
@@ -900,7 +902,7 @@ bingism,1,1,1,1,0,0,0,,0,1,1
 bingleborpia,1,,0,1,0,1,0,0,1,0,1
 bingobongos,1,0,1,,,0,,,0,,
 bingustopians_for_free_elections,,,1,,,,,,,,
-binxonia,,,,0,0,0,0,,0,1,1
+binxonia,,,,0,0,0,0,0,0,1,1
 biochur,,,1,,,,,,,,
 birand,,0,,1,,0,,,,,
 birczia,1,1,1,,,,,,,,
@@ -1963,7 +1965,7 @@ eaghter,,,0,,,0,,,,,
 eagland_official,,,,,0,,,,,1,
 ealam,,,,,1,,,,,1,
 ear_exploder_9000,1,,,0,,,,,0,,
-earana,0,1,0,0,0,0,,,1,0,
+earana,0,1,0,0,0,0,,,1,0,1
 earchilue,,1,0,0,0,0,1,0,1,0,0
 earnst,,,,,,1,0,,,,
 eashavist,,,,,0,,,,,1,
@@ -2298,7 +2300,7 @@ faequelt,,,,,,0,,,,,
 fahazi,,,1,,,0,1,1,,,1
 fahran,,,,,,0,0,1,,,0
 failture,,,,,,,0,,,,
-fairigone,1,0,0,0,,,0,,0,,0
+fairigone,1,0,0,0,,,0,0,0,,0
 fairmount,,,1,,0,,,,0,1,
 fakenameland,,,,,,0,,,,,
 falangist_quebec,,,0,,,,,,1,,
@@ -2402,7 +2404,7 @@ final_international,0,1,0,0,0,1,1,0,1,0,0
 fincastle,,,,1,,,,,0,1,
 fincham,,,1,1,0,,1,0,0,0,1
 fincy,,0,,,,,,,,,
-finn_the_blahaj,0,,,,,0,0,,,,1
+finn_the_blahaj,0,,,,,0,0,0,,,1
 fiorialis,,,,,,1,,,,,
 fiparatus,1,0,1,1,0,0,0,0,1,1,1
 fireactu,0,,0,0,0,1,0,0,0,1,1
@@ -2487,7 +2489,7 @@ fox_raider,,,1,1,0,,,,0,1,
 foxartica,,,1,,0,,,,,,
 foxiopia,,,,,,,0,0,,,1
 foxxytalia,,,0,,,,,,,,
-foxy,1,0,1,1,0,0,0,,0,1,1
+foxy,1,0,1,1,0,0,0,0,0,1,1
 fractalnavel,1,0,1,1,1,0,0,1,,,
 fragevereyland,,0,1,1,0,1,1,0,1,1,1
 fragrancia,,,,,0,0,1,0,,,1
@@ -3211,7 +3213,7 @@ honduhn,,,,0,0,,,,0,1,
 honeymoon_avenue,1,,1,1,0,0,0,0,0,1,1
 hong_kong_kowloon_and_new_territories,0,0,1,1,0,0,0,0,0,1,1
 hong_wan,1,1,1,1,0,0,0,,0,1,1
-hongyuan,1,0,1,1,0,0,0,,0,,1
+hongyuan,1,0,1,1,0,0,0,0,0,,1
 honkashu,,1,0,1,0,,,,1,1,
 honshoi,0,0,,,0,0,,,,,
 hookie,,1,,,,,,,,,
@@ -4513,7 +4515,7 @@ marty_siska,,,1,,,,,,,,
 maruznland,,0,1,1,0,1,1,1,1,1,0
 marvaro,,,1,,,,0,,,,
 marvel_jesus,1,1,1,1,0,1,0,,0,1,1
-marvellia,,,1,1,1,,,,,0,
+marvellia,,,1,1,1,,,0,,0,0
 marxia-engelsia,,1,,,,,,,,,
 marxist-leninist_russian_federation,1,1,1,1,0,0,0,0,0,1,1
 marxist_assembly,,,0,,,,,,,,
@@ -4528,7 +4530,7 @@ masterium,1,1,1,1,,,,,,,
 masters86,1,0,1,1,0,0,0,0,0,1,1
 matamorosia,,,,,0,,,,,,
 materos,1,0,1,1,0,0,0,0,0,1,1
-mathasanoote,,,,1,0,,,,1,1,
+mathasanoote,,,,1,0,,,0,1,1,1
 mathematania,,,0,0,,,,,,,
 matidonia,0,,0,,,,,,,,
 matika,0,1,1,1,0,0,1,0,0,0,0
@@ -4566,7 +4568,7 @@ mckeon,1,,,,,,,,,1,
 mcnasty,1,,1,,,,,,,,
 mcoreo,,,0,,,,,,,,
 meadowfields,1,,,1,0,1,,,0,1,
-meadrin,0,0,,1,,0,0,,0,,1
+meadrin,0,0,,1,,0,0,1,0,,1
 mechanocracy,1,0,1,1,0,0,0,0,0,1,1
 mecivo,,,,,,1,1,,,,
 mecren,0,0,1,1,0,,,,0,1,
@@ -5086,7 +5088,7 @@ new_pigeonia,0,1,0,0,0,1,0,0,0,1,1
 new_pleadland,,,,,,0,,,,,
 new_post_apocalyptic_poland,,,,,,,0,,,,1
 new_proviles,,,1,,,,,,,,
-new_prussianstan,1,,1,1,0,0,1,,0,1,
+new_prussianstan,1,,1,1,0,0,1,,0,1,1
 new_rainbow_falls,1,0,1,1,0,0,0,0,0,1,1
 new_reky,,,,1,0,0,,,0,0,
 new_republic_of_kastovia,,,,1,,,,,,,
@@ -5990,7 +5992,7 @@ proto_dacia,,1,1,1,,,,,0,,
 protogen_eli,,,,,,0,0,,,,
 protzka,1,,1,,0,,,,,,
 proud_balkan,0,,1,1,,0,,0,1,,1
-prov,0,0,0,0,0,0,,,0,1,
+prov,0,0,0,0,0,0,,0,0,1,1
 providemist_seclusa,,,,,,,0,,,,0
 providentius,1,1,,,0,1,0,,,,1
 provisional_union,,1,1,,,,,,,,
@@ -6218,7 +6220,7 @@ republic_of_aspen,,,1,1,0,0,0,0,0,1,1
 republic_of_axlotia,,,,,,,0,,,,1
 republic_of_azvrenia,,,,1,,,,,,1,
 republic_of_belint,,,,,,,,,,,1
-republic_of_bludia,,,,0,0,1,0,,0,1,1
+republic_of_bludia,,,,0,0,1,0,0,0,1,1
 republic_of_botiya,1,0,1,1,0,0,,,0,1,
 republic_of_bruhlandis,,,,,,,0,,,,
 republic_of_dixie,,,1,,,0,,,,,
@@ -6456,7 +6458,7 @@ rykkland,,,,,,,,,0,,
 rymrgand,1,0,1,1,0,,1,0,0,1,1
 rynoth,,,,1,,0,0,1,0,1,1
 ryonam_pros,,,,,,,0,,,,
-s2p1729,1,0,1,1,1,1,0,,0,0,1
+s2p1729,1,0,1,1,1,1,0,0,0,0,1
 s_state,,,,1,,,,,,1,
 sa-ar_laekhaeveira,,,1,1,,,,,,1,
 saarre,0,0,0,0,0,0,0,0,1,0,0
@@ -6494,6 +6496,7 @@ saint_cyprian,,,,,,,0,,,,1
 saint_david_of_wales,0,,0,0,,,0,,0,,0
 saint_dudmunkist,,,,,,0,,,,,
 saint_eliza,,,,,,1,0,,,,1
+saint_george_and_saint_michael,,,,,,,,0,,,1
 saint_glinda,1,,,,,,,,,,
 saint_khalid,,,1,,,,,,,,
 saint_killebrew,,,,,,0,,,,,
@@ -6929,6 +6932,7 @@ social_democrats,0,1,0,1,0,0,0,0,0,1,1
 socialist_america_sa,,1,,,0,0,0,,,1,
 socialist_balkan_states,0,1,0,0,0,1,0,0,1,1,1
 socialist_civil_war_2_survivors,1,1,,,0,0,1,,,,
+socialist_federation_of_the_balkans,,,,,,,,0,,,
 socialist_hercegovina,1,0,0,1,0,0,0,0,0,1,1
 socialist_refuge,,1,0,1,0,1,,,0,1,
 socialist_republic_of_australia,1,1,1,1,0,1,0,0,0,1,1
@@ -7332,7 +7336,7 @@ taas_union,1,1,1,1,1,1,1,1,1,1,1
 taaxetan,,,0,1,,,,,,,
 taelte,,,,,0,0,,,,1,
 tageteo,,,,1,,,,,,1,
-taginvia,,,,,,,0,,,,1
+taginvia,,,,,,,0,0,,,1
 tagoshima,1,,,,,,,,,,
 taimanokuni,1,0,,,,,,,,,
 taiwan_semicon_manufacturing_company,1,0,1,,,,0,,,,0
@@ -7871,6 +7875,7 @@ the_rico_re_ah_republic,,0,1,1,0,0,0,,0,1,
 the_roman_catholic_imperium,0,0,,0,0,,,0,0,1,1
 the_royal_asmorian_federation,1,1,,1,0,,,1,,,1
 the_royal_dominion_of_alvari,,,1,1,1,1,,,1,1,
+the_royal_hussars,,,,,,,,0,,,1
 the_royal_republic_of_kumania,0,1,0,0,0,0,0,0,0,1,1
 the_russia_union_the_people,,,1,,,,,,,,
 the_ryanist_new_order,,1,0,1,,0,0,,0,,1
@@ -8030,7 +8035,7 @@ the_white_paw_ruled_by_our_king_snow,,,,0,,,,,,,
 the_windmilluminati,1,0,1,1,0,1,0,0,1,1,1
 the_winter_islands,1,0,1,1,,0,0,,1,,1
 the_workers_united,1,1,,1,0,1,1,0,0,1,1
-the_worst_army_of,,,1,1,,,,,0,1,
+the_worst_army_of,,,1,1,,,,0,0,1,1
 the_x-8_research_center,0,1,,,,,,,,,
 the_yakend_ned,1,,,,,,,,,,
 the_yiddish,,,,,,,0,,,,1
