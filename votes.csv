@@ -1339,7 +1339,7 @@ chelodia,1,,,,,,,,,,,
 chemung,0,1,0,0,0,0,0,0,1,1,1,1
 chenardia,,,,,0,,,,,1,,
 chenjh,,,,,,1,,,,,,
-chenshan,0,0,1,,0,0,,,,1,,
+chenshan,0,0,1,,0,0,,0,,1,,1
 cherised_lands_of_galicia,,,1,,0,,,0,,,,
 cherkovija,1,0,1,0,1,,,1,,,,
 chernistiv,1,0,1,1,1,0,0,1,0,1,1,0
@@ -1534,6 +1534,7 @@ cose_kublidly,,0,1,1,,,,,0,,,
 cosence,1,,,,,,,,,,,
 costa_bela_do_precioso_sangue_de_cristo,,,,1,,,,,1,1,,
 costaim-spanch,1,,,,,,,,,,,
+costatonghte,,,,,,,,0,,,,1
 cothrenstan,,0,,,,,,,,,,
 councerland,0,1,,,,,,,,,,
 coune,1,0,1,1,1,0,0,0,0,1,1,
@@ -2439,7 +2440,7 @@ feristaat_sudetenland,1,0,1,1,,0,0,0,0,,1,1
 ferrianona,1,1,1,1,0,1,0,0,0,0,1,1
 ferringham,,,,,0,,,,,1,,
 ferris_archipelago,,,,,,,,,,,1,
-ferrra,1,0,,1,,,,,0,,,
+ferrra,1,0,,1,,,,1,0,,,1
 ferrumetlapis,0,0,1,1,,,,,,,,
 festungslander,1,1,1,1,0,,,0,1,1,1,1
 feux,1,0,1,1,0,0,0,1,0,1,1,0
@@ -2651,7 +2652,7 @@ fumodumo,,,,1,0,,,,,1,,
 fund_of_the_king,1,0,,1,0,0,0,1,0,1,1,1
 funkadelia,,,,,,0,,,,,,
 funnle_kake,1,,,,,,0,0,,,1,1
-furballland,,,,1,,0,1,,0,,1,
+furballland,,,,1,,0,1,0,0,,1,1
 furcoverd,,,,,1,0,0,,,0,0,
 furilisca,1,1,1,1,0,,0,,0,1,1,
 furness,1,0,1,,,,,,,,,
@@ -3538,7 +3539,7 @@ island_of_theoriya,,,,,,1,,,,,,
 island_zero,1,1,0,1,0,1,1,1,0,0,0,1
 islande_wight,1,,,,,0,,0,,,1,
 islandmammoth,,,,,,0,0,0,,,1,
-islands_cottonish,1,0,1,1,0,0,0,0,0,1,1,
+islands_cottonish,1,0,1,1,0,0,0,0,0,1,1,1
 islands_of_the_northern_ocean,1,0,,,,,,,,,,
 islands_of_ventro,,0,,1,,0,0,,0,,1,
 islang_she,1,,1,1,0,,1,0,1,1,1,
@@ -4044,7 +4045,7 @@ krestasrijh,1,0,1,1,0,0,0,0,0,1,1,
 kreutzland,1,,1,,0,0,0,0,,1,1,1
 kreuzung,1,0,,,,,,,,,,
 kriegiersien,,0,,,,,,0,,,0,
-kriegrex,,,1,,,,,,,,,
+kriegrex,,,1,,,,,0,,,,1
 kriegsreich_of_iron,1,0,1,1,1,0,1,0,0,1,1,1
 krilmor,1,0,,,,,,,,,,
 krinenia,1,0,1,1,0,0,0,0,0,1,1,1
@@ -5407,7 +5408,7 @@ north_verulas,,1,1,0,0,0,0,0,0,,1,0
 north_wellington,1,,,,,,,,,,,
 north_west_mindoor,,,,,,0,0,,,,0,
 north_west_pan,,1,,1,,,1,1,1,,1,1
-northeast_urg,,0,,,0,1,0,,,,1,
+northeast_urg,,0,,,0,1,0,0,,,1,1
 northeastern_appalachia,1,,,,,,,,,,,
 northeastern_austria,,,,,,0,,,,,,
 northern_caliburugeve,1,1,,1,0,0,,,0,1,,
@@ -5596,7 +5597,7 @@ of_67ers,,,1,,,,,,1,,,
 of_altonianic_islands,,,,,0,0,,,,1,,
 of_anandland,,,,,,,0,,,,,
 of_barkarosa,,0,,,0,0,,0,,1,,1
-of_courscant,,1,1,1,0,1,0,0,0,1,1,
+of_courscant,,1,1,1,0,1,0,0,0,1,1,1
 of_emptiness,1,0,1,1,0,0,0,0,0,1,1,1
 of_jason,,1,,,,,,,,,,
 of_le_shark,,,,,,,,,0,,,
@@ -5859,7 +5860,7 @@ pd_kuykendall,,,0,,0,,,,1,1,,
 pe0p1e,,,1,,0,0,0,,0,1,,
 peace_and_wars,,,1,,,0,0,,,,1,
 peaceplaice,0,1,1,,0,1,,,,,,
-peacilum,,,1,,,,,,,,,
+peacilum,,,1,,,,,0,,,,1
 peanu-butteria,1,,1,1,0,0,0,,0,1,1,
 peatiktist,,,0,,,,,,,,,
 peatioland,0,1,0,0,0,1,1,,0,1,1,
@@ -6157,7 +6158,7 @@ purrium,0,1,0,1,,,,0,0,,1,
 pushistan,,,0,1,,0,1,,1,1,,
 pusid_ughter,,0,,,0,0,,0,,1,,1
 puttt,1,0,,1,,,0,,1,,1,
-puttysborough,,,,1,,0,,,0,1,,
+puttysborough,,,,1,,0,,0,0,1,,1
 puxxtopia,,,,1,0,0,0,1,0,1,,1
 pwichimgo,1,1,,,0,1,,0,0,,1,1
 pyatingrad,,0,,,,,,,,,,
@@ -7279,7 +7280,7 @@ st_victorian,,,,,,1,0,,,,,
 staffon,,,1,1,0,0,0,,0,1,1,
 stafftopia,0,0,0,1,0,0,0,0,1,0,1,1
 stag_industries,1,,1,1,0,0,1,,0,0,,
-staidear,1,,,1,0,,1,,0,,1,
+staidear,1,,,1,0,,1,0,0,,1,1
 stakovia,,0,,,,,,0,,,,1
 stal_valley,1,0,1,1,0,0,0,0,0,1,1,1
 stalill,1,1,,,,,,,,,,
@@ -9003,7 +9004,7 @@ weghstate,,0,1,1,,0,0,0,0,,1,
 weihbach,,1,,,,0,0,0,,,1,1
 weirdosia,,,,,,0,,,,,,
 weisgrad,1,0,1,1,0,0,0,0,0,1,1,1
-weitzel,0,0,0,0,,0,0,,0,0,0,
+weitzel,0,0,0,0,,0,0,0,0,0,0,0
 wellassona,1,1,1,1,0,1,0,0,1,1,1,1
 wellhaven,0,1,1,1,0,1,1,1,1,1,1,1
 weltbeherrschung,0,0,1,1,0,0,0,0,1,1,1,1
