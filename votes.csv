@@ -841,7 +841,7 @@ belayarossiya,,,1,,,,,,,,,
 belgardia,,,,,0,,,0,,,,
 belgium_and_holland,,,,,,0,0,0,,,1,1
 belkan_united_states,,,,,,0,0,0,,,1,1
-belkanada,1,1,0,0,0,,1,,1,0,,
+belkanada,1,1,0,0,0,,1,1,1,0,,1
 bella_ulle,1,,,,,,,,,,,
 belladonnia,0,1,,1,0,1,1,0,0,1,0,1
 belladonnim,0,,,,,,,,,,,
@@ -1700,7 +1700,7 @@ dbastion,,1,0,0,0,1,1,,1,1,,
 de_sao_paulo,1,0,1,1,0,0,0,,0,,1,
 de_socialistische_nederlanden,1,,,1,,,,,1,,,
 deagandia,,1,,,,1,,,,,,
-deamaria,1,0,1,1,0,,0,,0,1,1,
+deamaria,1,0,1,1,0,,0,0,0,1,1,1
 deathmurdertopialand,1,0,,,,,,1,,,1,
 debarashtra,1,0,1,,,0,,0,0,,,1
 deblar,1,,,,,,,,,,,
@@ -2522,7 +2522,7 @@ forgin,,,,,,,,,0,,,
 forgoriton,1,,,,0,,,,,1,,
 forgotten_beauty,0,,,,,,0,,,,,
 forgotten_shore,,,,,,,0,0,,,1,1
-forio,1,1,,0,0,0,1,0,,,,
+forio,1,1,,0,0,0,1,0,,,,0
 foritehland,1,0,1,1,0,,0,1,,,,
 forkbender,1,0,,,,,,,,,,
 formenore,1,1,1,1,,0,,,1,,,
@@ -3469,7 +3469,7 @@ information_nation,,,1,,,,,,,,,
 ingelsk,,,1,,,,,,,,,
 ingentus_progressia,1,1,0,1,0,0,0,0,0,1,1,0
 ingloniania,,,1,,,,,,1,,,
-ingrosia,1,0,1,0,0,1,,,1,1,,
+ingrosia,1,0,1,0,0,1,,1,1,1,,1
 inkare,,1,1,0,,0,0,0,1,,,1
 inkoposlisquare,1,,,,,0,0,0,,,1,
 inkraiya,0,1,0,0,,,,,,,,
@@ -4312,7 +4312,7 @@ lihnoy,,,,,,,1,0,,,1,1
 liko,1,0,1,1,0,0,0,0,0,1,1,1
 liliumtopia,0,,,,,1,0,,,,,
 lilli_lands,,,1,,,0,,,,,,
-lillistroniralocksne,,,,,0,1,,,,0,,
+lillistroniralocksne,,,,,0,1,,1,,0,,1
 lillitheve,,,,,,0,,,,,,
 lilscars,,,,,,0,,,,,,
 lily_valley,,,,,0,,,,,1,,
@@ -6272,7 +6272,7 @@ rawatna,1,,,,,,,,,,,
 rayakavkaz,1,,,,,,,0,,,,
 rayekka,0,0,1,1,0,0,0,0,0,1,1,1
 rayeland,,,,,0,1,0,0,,1,1,1
-rayndor,,0,,1,,,,,,1,,
+rayndor,,0,,1,,,,0,,1,,1
 rayneia,,,,,0,1,0,0,,1,1,1
 razdor,,,,,,0,0,,,,0,
 re_dispatch_office,1,,,,,,,,,,,
@@ -6408,7 +6408,7 @@ reynhold,1,1,,,,,,,,,,
 reyun,,,,1,,,,,0,1,,
 rezonovia,,,1,,,0,,,,,,
 rezvanada,0,,,,,,,,,,,
-rhaf,,,0,,0,0,,,,,,
+rhaf,,,0,,0,0,,0,,,,
 rhaza,1,0,1,1,0,0,0,0,0,1,1,1
 rhazoria,1,1,1,1,0,0,,0,0,1,1,1
 rheaser,1,1,,,,0,0,0,,,1,1
@@ -7033,7 +7033,7 @@ slembana,1,1,1,1,0,1,1,0,0,1,1,1
 slices_right,1,,,1,,,0,,0,,1,
 slimefolk,1,0,,1,0,0,,,,1,,
 slimeria,,,1,,,,,,,,,
-slisshms,1,1,1,1,0,1,0,,0,1,0,
+slisshms,1,1,1,1,0,1,0,,0,1,0,1
 slivileton,,,1,,,,,,,,,
 sloap,1,,,,,0,0,0,,,1,1
 slobodovia,1,0,1,1,,,0,1,0,,1,1
@@ -7168,7 +7168,7 @@ south_newlandia,,,,,,,,,,,,1
 south_north_california,,,,,0,0,0,0,,1,1,1
 south_orwelland,,,,,,,,,,,1,
 south_otselic,1,0,1,1,1,1,1,1,0,1,1,1
-south_parter,1,0,1,1,0,,0,,0,,1,
+south_parter,1,0,1,1,0,,0,0,0,,1,1
 south_poopistan,1,0,0,1,0,1,1,0,0,0,0,1
 south_sene_xhic,,,,,,,,0,,,,1
 south_st_maarten,,1,,,,,,,,,,
@@ -8484,7 +8484,7 @@ ugrald,,,1,,,,,,,,,
 ugric-finnish,1,0,,1,,,,0,,,,1
 uinted_communist_of_africa,,,,,,1,0,,,,,
 ujedinjene_pokrajne_ilirske_i_slavenske,0,,0,0,,1,1,,0,,1,
-ukijistan,,0,1,1,,,,0,,1,,
+ukijistan,,0,1,1,,,,,,1,,
 ukrainian_soviets,,,0,,,,,,,,,
 ukrainida,,,,,,,0,,,,,
 ulancia,,0,1,1,,,,,,,,
@@ -8570,7 +8570,7 @@ united_lesbians,,,,1,,,,,,1,,
 united_liteum,,,,,,,,0,,,1,
 united_midlands,,1,,,,,,,,,,
 united_music_nation,,1,1,1,1,1,1,0,0,1,1,1
-united_nationals,0,0,1,1,1,1,1,1,,0,0,
+united_nationals,0,0,1,1,1,1,1,1,,0,0,0
 united_nations_expeditionary_forces,,,,,,0,0,0,,,1,1
 united_nations_of_liberal_iland,0,,,,,,,,,,,
 united_nations_of_yener,1,,,,,,,,,,,
@@ -8741,7 +8741,7 @@ vardeya,,,,,,,0,,,,1,
 vargstad,0,1,0,0,0,0,,,0,1,,
 variland,1,,,,,,,,,,,
 varinsk,,,0,,,0,,,0,,,
-variosik,1,0,,1,,,,,,1,,
+variosik,1,0,,1,,,,0,,1,,1
 varisland,1,0,1,1,0,0,0,0,0,1,1,1
 varkesh_dynasty,,,0,,,,,,,,,
 varnov,,,,,,0,0,,,,1,
@@ -9085,7 +9085,7 @@ wijaya_arama_hayuning_kuncaraningrat,0,1,0,1,0,1,1,1,1,0,1,1
 wild_lands_of_tribe,,,,,,,0,,,,1,
 wileyshire,,,0,0,,,,,0,,,
 wilhelma_and_the_flanfairs,,,,1,,,0,,0,,1,
-wilhelmsstadt,0,1,1,0,0,1,,,0,,,
+wilhelmsstadt,0,1,1,0,0,1,,0,0,,,
 wilkshire,0,1,0,0,0,1,1,0,0,1,1,
 wille_des_volkes,,,1,,,,,,,,,
 willemia,,,,,,,1,,,,,
@@ -9314,7 +9314,7 @@ zangreba,0,,0,0,,,,,,0,,
 zanitopia,1,1,0,0,0,,0,,0,1,1,
 zanphil,1,0,1,1,0,0,0,0,0,1,1,1
 zansekk,,,,,0,,,,,,,
-zantiom,1,1,1,1,0,0,0,0,0,1,1,
+zantiom,1,1,1,1,0,0,0,0,0,1,1,1
 zany_zanes,1,0,,,0,,,,,,,
 zaphora,1,,1,0,0,0,,0,,1,,1
 zapratoria,,,,,,,0,,,,,
