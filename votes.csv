@@ -185,6 +185,7 @@ albanesean,,,,,,1,0,0,,,1,1
 albdear,1,0,,,,,,,,,,
 albertexa,,,,,,0,1,1,,,1,1
 albetian,1,,,1,,,,,,,,
+albrenne,,,,,,,,1,,,,1
 albrook,,,,,,,,,0,,,
 alcaria,0,1,1,1,0,0,0,0,0,1,1,1
 alcrestia_liakar,,,,1,,,,,,,,
@@ -588,7 +589,7 @@ asriellia,0,0,0,0,0,,0,1,0,1,0,1
 assault_rifle,,,1,,0,,,,0,,,
 asswiper,0,,,,,,,,,,,
 astanecia,1,0,1,1,0,0,0,0,0,1,1,1
-asteran,1,,1,,,0,,,,,,
+asteran,1,,1,,,0,,0,,,,1
 asthara,,0,,,,,,,,,,
 astillero,1,0,1,1,0,0,1,0,0,1,1,0
 astle_gua,1,1,1,1,,1,1,1,0,,0,1
@@ -3162,7 +3163,7 @@ hello_kittys_whiskers,,,,,,0,0,0,,,1,1
 hellslayer,1,0,1,1,0,0,0,0,0,1,1,
 hellspire,,,,,,,,0,,,1,1
 helrapt,1,,,1,,,,,0,,,
-helsingdal,,,0,0,0,0,0,,,1,1,
+helsingdal,,,0,0,0,0,0,0,,1,1,
 helvard,,,,,0,1,,0,,1,,1
 helvekos,,,,,0,0,0,0,,1,1,1
 hemogard_of_liberlandia,,,,,,0,,,,,,
@@ -3903,7 +3904,7 @@ king_rankmore,1,,,,,0,,,,,,
 king_zhaoxiang_of_qin,0,0,1,1,0,0,0,0,0,1,1,
 kingdom_of_algaris,0,,,,,,,,,,,
 kingdom_of_cambria,1,,1,,,0,,0,0,,,1
-kingdom_of_castille,,,,,,0,,,,,,
+kingdom_of_castille,,,,,,0,,0,,,,1
 kingdom_of_east_russia,,0,1,1,0,0,0,0,0,1,1,1
 kingdom_of_eldovia,0,,1,,0,,,0,,,,
 kingdom_of_jhon,0,1,1,0,0,1,0,0,1,1,1,
@@ -4039,7 +4040,7 @@ krastum,1,0,1,1,,0,,,0,1,,
 krastyoland,,,1,,,,,,,,,
 kratoria,,,0,,0,,0,,,,0,
 krauanagaz,1,0,0,0,0,0,0,0,,1,1,1
-kraunian,1,1,1,0,1,1,1,,1,,,
+kraunian,1,1,1,0,1,1,1,1,1,,,1
 kraznovska,,,,,,,0,,,,,
 krean,0,,,,0,,,,,1,,
 krematoria,1,0,1,1,0,0,0,0,0,1,1,1
@@ -4211,7 +4212,7 @@ lea_monde,,0,,,,,0,,,,,
 leadom,,1,,,,,,,,,,
 leafdom,,,1,1,,,,,0,,,
 leasi,0,1,,,,,,0,,,,
-leastestevia,0,,1,0,,,,,0,,,
+leastestevia,0,,1,0,,,,0,0,,,1
 leauge_of_nations,1,,1,1,0,1,0,0,0,1,1,
 leaveusalone,,,1,1,0,,,,0,,,
 lebronraymonejamesdagoat,1,,1,1,0,0,0,0,0,1,1,
@@ -4299,7 +4300,7 @@ liberty_martyred_wa,1,0,1,1,1,0,0,1,,,,
 libervalley,1,,1,,0,1,1,1,,1,,1
 liberviri,,1,1,,,,,,,,,
 liberza,0,0,0,0,0,0,0,0,0,1,1,1
-liboth,1,1,1,1,,1,0,,,,,
+liboth,1,1,1,1,,1,0,0,,,,
 libratus,1,,,,,,,,,,,
 libriana,,0,,,,,,,,,,
 libyrteria,,,,,,,1,0,,,1,
@@ -4995,7 +4996,7 @@ nat_grands,,,,,0,1,0,0,,1,1,1
 naterraleh_priais,0,1,0,0,0,0,0,0,1,1,1,1
 nathanville,,,,1,,,,,1,,,
 nathvia,1,0,1,1,,0,,,0,,,
-naticarilius,,,,,,,1,1,,,1,1
+naticarilius,,,,,,,1,,,,1,
 nation_kingpuma,1,,0,1,,0,,,0,,,
 nation_of_hel,1,,,,0,,,,,,,
 nation_of_phillipines,,1,,,,,,,,,,
@@ -5532,6 +5533,7 @@ nubistan,,,,1,,0,1,0,0,1,1,1
 nublas,1,,,,,,,,,,,
 nudityfast,,0,,,,,,,,,,
 nueva_alta_california,1,0,1,1,0,0,0,0,0,1,1,1
+nueva_cubaa,,,,,,,,0,,,,1
 nueva_zulia,,,0,,,,,,,,,
 nuevo_albuquerque,,,,1,0,0,1,,0,1,1,
 nuevo_gran_colombia,,0,,,,,,,,,,
@@ -5675,7 +5677,7 @@ onvexia,,,0,,1,1,0,,0,0,1,
 ooarai_academy,,,,,,,1,0,,,1,
 oopsiewoopsie,,,,1,0,1,0,,0,1,,
 oothiteria,,,1,1,,,,,0,,,
-opaloka,,,,0,,0,,,,,,
+opaloka,,,,0,,0,,0,,,,
 open_hand,,,,,0,0,,,,1,,
 openland,1,0,,,,,,,,,,
 ophaesia,1,,,,,0,,,,,,
@@ -5691,7 +5693,7 @@ orcassia,,,1,1,,,0,,0,,1,
 ordent_ratland,1,0,1,,0,0,0,0,0,1,1,1
 ordes_man_sonchi,,,,1,0,0,0,0,0,1,,1
 ording_drublene,1,,1,,,,,,1,,,
-ordogomenistan,1,,,,,0,0,,,,1,
+ordogomenistan,1,,,,,0,0,0,,,1,
 oreland,,,1,,,,,,,,,
 orelchik,,,,,1,,0,0,,0,,1
 orelon,,,,,,1,1,1,,,1,1
@@ -5831,7 +5833,7 @@ parnumaa,1,0,,,,,,,,,,
 paronia,1,,,0,,0,,0,,,,
 parozia,1,1,0,1,0,,,,0,,,
 parpyduckland,1,,,1,,,,,0,,,
-parrots_den,1,0,1,,,0,0,,0,,1,
+parrots_den,1,0,1,,,0,0,0,0,,1,1
 particano,,,,1,0,0,0,0,0,,1,1
 parvai,,,,,,,0,,,,,
 parzillum,0,1,0,1,0,1,1,0,0,1,1,1
@@ -6352,7 +6354,7 @@ republic_of_aspen,,,1,1,0,0,0,0,0,1,1,1
 republic_of_axlotia,,,,,,,0,,,,1,
 republic_of_azvrenia,,,,1,,,,,,1,,
 republic_of_belint,,,,,,,,,,,1,
-republic_of_bludia,,,,0,0,1,0,0,0,1,1,
+republic_of_bludia,,,,0,0,1,0,0,0,1,1,0
 republic_of_botiya,1,0,1,1,0,0,,,0,1,,
 republic_of_bruhlandis,,,,,,,0,,,,,
 republic_of_dixie,,,1,,,0,,,,,,
@@ -6669,7 +6671,7 @@ salvagard-huston,1,0,1,1,0,,0,0,0,1,1,1
 salzau,1,0,1,1,,,,,0,,,
 samadland,1,,,,,,,,,,,
 samanaa,0,,1,0,,,0,0,1,1,1,0
-samariki,0,1,0,,0,,,,1,0,,
+samariki,0,1,0,,0,,,0,1,0,,1
 samarobriva,,,1,,,,,,,,,
 samassiresseap,,,1,,,,,,,,,
 samgreat,1,0,1,1,0,0,0,0,0,1,1,1
@@ -7898,7 +7900,7 @@ the_kingdom_of_germany-kd,1,,,,,1,1,,,,,
 the_kingdom_of_halloweenia,1,,,,,,,,,,,
 the_kingdom_of_muggins,1,0,1,,1,1,0,1,0,0,1,
 the_kingdom_of_rainier,0,1,0,1,0,1,0,0,1,1,1,1
-the_knockout_gun_gals,,,,1,,,,,1,,,
+the_knockout_gun_gals,,,,1,,,,1,1,,,1
 the_kool_khan_klan,,,1,,0,,0,,0,1,,
 the_korean_papal_states,,,,,,,,1,,,,0
 the_krai,,,1,,,,,,,,,
