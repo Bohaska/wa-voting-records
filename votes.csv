@@ -349,7 +349,7 @@ andnirus,,,,,0,,,,,,,
 andoran_empire,,,,,1,0,0,0,,1,,1
 andoros,1,0,1,1,,,0,,,,,
 andox_legarce,1,,,,0,0,,0,,,,1
-andrendia,0,,1,1,,0,0,0,0,,1,
+andrendia,0,,1,1,,0,0,0,0,,1,1
 andrivia,,,1,,,,,0,,,,1
 androlia,,,0,,,,,,,,,
 androphonia,,,,1,0,0,,,,,,
@@ -2683,7 +2683,7 @@ galbio,,,,0,,,,,1,,,
 galenila,1,0,1,,0,0,0,,1,1,1,
 galgenbeck,1,,1,1,0,0,,0,0,1,,1
 galiduim,,,1,1,0,0,0,0,0,1,1,1
-galindo_prime,1,0,1,1,0,0,0,,0,1,1,
+galindo_prime,1,0,1,1,0,0,0,0,0,1,1,1
 gallantia,1,0,,1,,0,1,0,,1,1,1
 gallectiand,0,,,,0,,1,,,1,1,
 gallifraey,,,,,1,,,,,,,
@@ -2800,7 +2800,7 @@ giovanni,,,,,,,,0,,,1,
 giri_kedhaton,0,1,0,1,0,0,1,1,0,1,1,0
 girkublown,,,,,,1,1,0,,,1,1
 girlsandgays,,,0,,,,,,,,,
-girthalium,1,1,,1,,0,1,,1,1,0,
+girthalium,1,1,,1,,0,1,0,1,1,0,1
 gitchie_manito,0,1,0,0,0,0,0,0,0,,1,
 gitgudestine,,0,,,,,,,,,,
 giumdi,1,0,1,1,0,1,1,0,1,1,1,1
@@ -4015,7 +4015,7 @@ koseowonn,,,,,0,0,,,,1,,
 kosi-chan,,,,,0,,,,,1,,
 kosova,1,1,1,,0,0,,,,,,
 kossack,,,,1,0,1,,,0,1,,
-kossenburk,1,0,,1,,,,,1,,,
+kossenburk,1,0,,1,,,,0,1,,,1
 kostal56,,,,,0,0,,,,1,,
 kotat,,,1,,,0,0,,,,1,
 kotiko_socialist_communist_republic,0,0,,,,,,,,,,
@@ -5021,11 +5021,11 @@ navainian_empire,,,,,0,,0,,,1,,
 naveastan,1,1,0,0,0,0,,,0,1,,
 naverike,1,0,1,1,1,0,0,1,0,1,1,0
 navocain,0,,,0,1,,,,0,,,
-nayara,0,0,0,1,0,1,0,0,1,1,1,
+nayara,0,0,0,1,0,1,0,1,1,1,1,0
 nazar_amulet,,,,,,,,0,,,,1
 nazarrea,,,0,,,,,,,,,
 nazcu,,,,,,,,0,,,,
-nbcland,,,,,,,0,,,,1,
+nbcland,,,,,,,0,1,,,1,1
 ne-detukur,,,,,,,,0,,,,
 ne-kotikas,,0,1,,0,0,1,,1,1,1,
 ne77misrael,1,,,,,,,,,,,
@@ -6806,7 +6806,7 @@ sealandiaa,,,,1,,,,,0,,,
 seans,,,,1,,0,,,,,,
 seasworth,,,,,0,0,,,,,,
 seattle_2,,,,,,,0,0,,,,1
-seattle_bay,1,1,0,1,0,1,,,1,0,,
+seattle_bay,1,1,0,1,0,1,,0,1,0,,1
 sebratha,,,,,,1,,,,,,
 sechs-sieben_democratic_commonwealth,,,,,0,1,,,,1,,
 seclusionalists,1,0,1,1,0,0,0,,0,1,,
@@ -8605,7 +8605,7 @@ united_states_of_economic_and_capitalism,,,1,,,,,,0,,,
 united_states_of_latinium,,,,,,0,0,,,,1,
 united_states_of_medford,1,,,,,,0,,,,,
 united_states_of_mlnl,,,,,0,0,1,0,,,,1
-united_states_of_nagalim,,,,,,,,,,,,1
+united_states_of_nagalim,,,,,,,,0,,,,1
 united_states_of_philipdelphia,1,1,1,1,0,0,1,0,0,1,1,1
 united_states_of_pluh,,1,,,,,,,,,,
 united_states_of_the_southeast,1,0,,,0,,,,,1,,
@@ -8833,7 +8833,7 @@ viceroy_vincent,,,,,0,,,,,,,
 vichtander,1,0,1,1,1,0,0,1,0,1,1,0
 vicinaleneo,,1,,,,,,,,,,
 vicoria,1,0,1,,0,0,0,0,,1,1,
-vicotis_kor,1,0,1,1,1,0,0,1,1,1,0,
+vicotis_kor,1,0,1,1,1,0,0,1,1,1,0,1
 victorh,1,,1,1,,,,,0,,,
 victoria_and_kreisor,,,,1,0,0,0,0,,1,1,0
 vienna-lorraine,1,1,1,0,0,0,0,0,0,1,1,1
@@ -9184,6 +9184,7 @@ xscls_freeland,,,,1,,0,0,0,0,,1,1
 xtorot,0,1,0,1,0,0,,,1,1,,
 xtralandia,1,1,1,1,1,1,1,0,1,1,1,1
 xxurbanxx,1,0,0,1,0,0,0,0,1,0,0,1
+xylenia_adfor,,,,,,,,1,,,,
 xyphoid_result,,1,,,,,,,,,,
 xyuqur,1,0,1,0,0,0,0,0,1,0,1,1
 xzavaria,1,,,,,,,,,,,
