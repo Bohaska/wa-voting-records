@@ -1165,7 +1165,7 @@ calivane,,,,1,,,,,0,,,
 callovia,1,0,1,1,0,0,0,0,0,1,1,1
 calsenka,0,1,0,,0,1,,,,,,
 camadaland,,,,,,,0,0,,,1,
-cambany,1,0,1,1,0,0,0,0,,1,1,
+cambany,1,0,1,1,0,0,0,0,,1,1,1
 camerilia,1,,1,1,0,0,,,1,1,1,
 cameronia_excellentia,1,0,1,1,0,,0,0,0,1,1,
 camerwoon,,,,,,,,0,,,1,
@@ -1320,7 +1320,7 @@ charolsia,1,0,1,,0,,,,,,,
 chatanoogaa,,,,,,,1,,,,,
 chatgpt_topia,1,,1,1,0,0,0,,0,1,1,
 chatmignon,,,,,,,,0,,,,
-chatoria,1,1,1,1,0,1,0,0,1,1,1,
+chatoria,1,1,1,1,0,1,0,0,1,1,1,1
 chavak,0,,,,0,,,,,0,,
 chazskeleton,,,,,,1,0,,,,1,
 checks_and_balances,,,0,,,,,,,,,
@@ -1639,7 +1639,7 @@ dacarbatia,1,0,1,1,0,0,0,0,0,1,1,1
 dacaro,0,1,0,,0,1,,0,,0,,1
 dafatayn,,,,,,0,0,,,,,
 daganwaash,,0,1,,,,0,,,,,
-dagcistan,,0,1,,,,,,,,,
+dagcistan,,0,1,,,,,0,,,,1
 daggria,0,1,0,1,0,0,,0,0,1,,1
 dagnysdotter,,,0,0,0,,0,0,0,1,1,1
 daguanyuan,,,,0,,,,,0,,,
@@ -1689,7 +1689,7 @@ das_land_christi_deutschland,,,1,,,,,,,,,
 dasacrat,,,,,0,,,,,1,,
 datalearner,,,,,,1,0,0,,,1,1
 daugapilis,0,0,0,1,0,,,,1,1,,
-daulmark,1,0,1,1,,0,0,0,0,1,1,
+daulmark,1,0,1,1,,0,0,0,0,1,1,1
 david_davidson,,,1,,,,,,,,,
 davids_republic,,,,1,0,,1,1,0,1,0,1
 dawn_fleet,,0,1,,,0,0,0,,,1,1
@@ -2010,7 +2010,7 @@ earchilue,,1,0,0,0,0,1,0,1,0,0,0
 earnst,,,,,,1,0,,,,,
 eashavist,,,,,0,,,,,1,,
 east-asian_nations,1,0,1,1,,0,0,,0,1,1,
-east_amen_zamend,1,0,1,1,0,0,,0,0,1,1,
+east_amen_zamend,1,0,1,1,0,0,,0,0,1,1,1
 east_avalon,1,0,1,1,0,1,1,0,0,0,1,1
 east_catlandia,1,1,1,1,0,0,0,0,0,1,1,1
 east_coggins,1,0,1,,,,,,,,,
@@ -3268,7 +3268,7 @@ holy_prussin_states,1,1,,,0,0,0,0,,,1,1
 holy_tankia,,,,,,,0,,,,,1
 holy_turkiye,,,,1,0,,,,,1,,
 holy_yolantian_empire,,1,,,,,,,,,,
-holzhagen,1,1,0,,,,0,,,,,
+holzhagen,1,1,0,,,,0,0,,,,0
 homdaak,,,,,0,0,,0,,1,,0
 hominidia,0,,,,,,,,,,,
 homskili,1,0,1,,1,,0,,,1,1,
@@ -6401,6 +6401,7 @@ revanilia,,0,,,,,0,,,,,
 revenge_of_jaywalking_death_penalty,1,0,,,,,,,,,,
 revolutional_union_of_soviets,,,,1,0,1,,,,1,,
 revolutionary_anarchy,0,0,0,1,0,1,0,0,1,0,1,1
+revostonia,,,,,,,,0,,,,1
 rexx,,,,,,,,,,,0,
 rexxas,1,0,1,,,,,0,,,,1
 reyalda,1,,1,,,,0,,,,,
@@ -7060,7 +7061,7 @@ snestar,,,,1,,,,,,,,
 snevleton,,,1,1,,,,,1,,,
 sngerlarsimaffik,1,,,,,,,,,,,
 snorlaxia,1,0,1,,0,0,0,,,,1,
-snout,,,,,,,,0,,,,
+snout,,,,,,,,0,,,,1
 snowza,,,0,,,,,,0,,,
 so_called_hater,,0,,,,,0,1,,,0,
 soantrias,,,,,,,1,,,,,
@@ -7552,7 +7553,7 @@ technocratic_emerald_bay,0,0,0,,,0,0,0,,,,
 technocratic_pragmatists,1,0,1,1,0,0,0,0,0,1,1,1
 technocratic_republic_of_avalon,,,,,,,,1,,,1,
 technocratic_tagalog,,0,,,,,,0,,,,1
-technogium,,0,1,1,,0,0,,0,,,
+technogium,,0,1,1,,0,0,0,0,,,1
 teepalingtinggii,,,1,,,,,,0,,,
 tefun_heal,,,,,0,,,,,1,,
 tegolise,,0,1,1,0,0,0,,1,,,
@@ -8347,7 +8348,6 @@ transorovia,1,0,1,,0,0,0,0,0,1,,1
 tranver,0,,1,1,0,1,0,,1,1,1,
 trashmania_supreme,0,,,,,,,,,,,
 trastal,1,0,1,1,0,0,,,0,1,,
-trazoria,,,,,,,,0,,,,1
 treadwellia,1,0,,1,,0,0,,0,,1,
 trebizondia,,,,,,,0,0,,,1,1
 treefrog,,,,,0,,,,,,,
@@ -8638,7 +8638,7 @@ ununited_nations,,,,,,0,,,,,,
 upc,,,,,0,0,0,0,0,1,1,
 upper_agartha,1,0,1,1,0,,,,1,1,,
 upper_dernia,,,,1,0,0,1,,0,1,,
-upper_got,0,1,1,1,1,0,1,1,1,0,0,
+upper_got,0,1,1,1,1,0,1,1,1,0,0,0
 upper_ryu_lorty,,0,,,,,,,,,,
 uprus,,,1,,,,,,,,,
 uragia,1,1,1,,,,,,1,,,
