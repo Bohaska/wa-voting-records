@@ -1247,7 +1247,7 @@ cat_ssr,,,,,,,,0,,,1,
 catacorpo,1,1,0,,0,0,0,,0,,1,
 catalapse,,,1,,,1,,,,,,
 cataloguia,,,,,0,,,,,0,,
-catalyst_of_social_discontent,1,0,1,1,0,1,0,0,1,0,1,
+catalyst_of_social_discontent,1,0,1,1,0,1,0,0,1,0,1,1
 catcom,1,0,1,1,0,0,0,0,1,1,1,1
 cathayan_peoples,,1,1,,,,,,,,,
 catholics_people,1,1,0,,0,0,1,0,0,1,1,1
@@ -1479,7 +1479,7 @@ communist_crackous,,1,,,,0,,0,,,1,
 communist_new_island,1,,1,,,,0,1,1,,1,
 communist_qing,,1,,,,,,,,,,
 communist_volkstrad,1,,,,1,,,,,0,,
-communitarian_states,1,1,1,1,0,,,,0,,1,1
+communitarian_states,1,1,1,1,0,,,0,0,,1,1
 compakt_repsublic,,,1,1,1,1,0,0,0,,1,1
 compnisam,,,,1,,,,,,,,
 comrade_itsuka_kotori,,1,,,,,,,,,,
@@ -1675,7 +1675,7 @@ dark_dawn_empire,0,1,,0,,,,,0,,,
 dark_fialand,1,0,,,,,,,,,,
 dark_matter,,,1,,0,,,,,,,
 dark_soul,,1,0,,,1,,,0,,,
-darkanistan,,0,,1,0,0,,,0,,,
+darkanistan,,0,,1,0,0,,0,0,,,
 darkarion,1,,0,1,0,1,,0,0,1,,1
 darkkeneia,,,,,,1,,,,,,
 darklighters,0,1,1,1,0,1,0,0,0,1,1,1
@@ -2775,7 +2775,7 @@ gewisse,,0,1,1,,0,0,0,0,,1,1
 ggng,,1,,1,,,,,,,,
 ghanndi,,1,1,1,0,,,,0,1,,
 ghojingles,1,1,1,0,0,1,0,0,0,1,1,1
-ghost,1,0,1,1,,0,0,0,0,1,1,
+ghost,1,0,1,1,,0,0,,0,1,1,
 ghost_of_the_order,0,,,1,0,0,1,1,0,1,1,1
 ghoublins,,,0,,,1,,1,,,,0
 ghurana_nent,1,1,1,,,,,,,,,
@@ -3357,7 +3357,7 @@ hyphenia,,,1,,,,,,,,,
 hypixel_skyblock_pain,,,,1,,,,,1,,,
 hypnothia,1,0,1,,,,,,,,,
 hyponichtmallieturam,,,,,,0,,,,,,
-hyporrills,1,0,1,1,0,,0,,0,1,1,
+hyporrills,1,0,1,1,0,,0,0,0,1,1,1
 hypranio,1,,,,1,,,,,,,
 hyralt,,,1,0,1,0,0,,0,1,,
 hyrthlambia,,,1,,,,,,,,,
@@ -3830,7 +3830,7 @@ kelesi,,1,,1,,,,0,0,,1,
 kelloggs_cereal,,,,1,,1,0,,0,,,
 kellros,0,0,,1,0,0,0,0,0,1,1,1
 kelvaros_prime,1,0,1,1,0,0,0,0,0,1,1,1
-kendell,,0,1,,,,0,0,0,1,,
+kendell,,0,1,,,,0,0,0,1,,1
 kennington,0,,0,,,,,,,,,
 kent_valley,0,0,1,1,1,0,0,0,0,1,1,0
 kentes,,1,0,1,0,0,1,0,0,1,1,1
@@ -4079,7 +4079,7 @@ kunskil,1,1,1,1,0,1,,,0,1,,
 kupolaber,1,,1,0,,,,,,,,
 kurechia,0,,,0,0,0,,,0,1,,
 kurohana_teikoku,1,0,,1,0,,,,0,1,,
-kurolera,,,,,0,0,1,1,,1,1,
+kurolera,,,,,0,0,1,1,,1,1,0
 kuroluce,0,,0,,0,0,,,,,,
 kurranulla,1,0,1,1,0,0,0,0,0,1,1,1
 kurst,1,,,,,,,,,,,
@@ -4529,6 +4529,7 @@ making_catgirls_real,1,,,1,,,0,,,1,1,
 makka_pakka,,0,,1,,0,1,0,1,,1,1
 makka_pakkaland,0,,,,,,,,,,,
 makko_oko,,,,,,,0,1,,,1,0
+mal_all,,,,,,,,0,,,,1
 malalonius,1,1,1,1,0,0,0,0,0,1,1,1
 malatoga,1,1,1,1,1,1,1,1,0,1,1,1
 malaya_communism,0,1,0,1,0,1,0,0,0,0,1,1
@@ -4804,7 +4805,7 @@ mistersap_and_krajola,1,0,1,1,1,0,,,0,1,,
 mistken,1,0,1,1,0,0,0,,,1,,
 mitsurugi,,,,1,,,,,1,,,
 mitt_kaldonia,,,,,,,0,0,,,1,1
-mitzvah,,1,,,0,,,,,0,,
+mitzvah,,1,,,0,,,0,,0,,1
 mivata,,,,,,,,0,,,1,
 mjau,1,0,1,1,0,0,0,0,0,,1,1
 mjnallen5555,1,,1,1,0,0,1,,0,1,1,
@@ -6845,7 +6846,7 @@ sensoria,1,0,1,1,0,,0,0,0,1,1,1
 senter,0,1,0,1,0,1,0,,,1,,
 separatist_alliance,1,,,,,,,,,,,
 separtia,1,0,1,1,0,0,0,0,0,1,1,1
-septentrea,0,0,0,1,0,0,0,,0,0,1,
+septentrea,0,0,0,1,0,0,0,0,0,0,1,1
 septentrica,1,1,1,1,0,0,1,0,0,1,1,1
 seranis,,0,1,,0,0,0,0,0,1,1,1
 seraphiniaw,,1,,,,,,,,,,
@@ -7583,6 +7584,7 @@ terra_australis_rex,,,,,,,,0,,,,0
 terra_borderlands,,,,1,0,,1,0,0,,,
 terra_humans,,,,,,,0,0,,,1,
 terra_tribensis,,0,,,,,,,,,,
+terran_capitalistic_nations,,,,,,,,0,,,,0
 terran_england,0,1,0,0,1,1,1,0,,,,
 terran_great_empire,,,,,,0,,,,,,
 terrane,1,1,1,1,1,0,1,1,0,1,1,1
@@ -7720,7 +7722,7 @@ the_crawler,,,,,,,1,0,,,0,
 the_crescenia,0,1,1,1,0,0,1,0,1,1,1,1
 the_crimson_isles,,0,0,1,0,0,1,0,1,1,1,1
 the_cross_guild,1,0,1,1,,,,,0,,,
-the_crow_collectors,,,,1,,0,,,,1,,
+the_crow_collectors,,,,1,,0,,0,,1,,1
 the_crusader_kings,,,,,,0,0,,,,1,
 the_dale_snatfoxy,1,1,0,1,0,1,1,0,0,1,1,
 the_dams_wedia,0,,,,0,,,,,,,
@@ -7822,7 +7824,7 @@ the_great_empire_of_europe_ii,0,1,0,0,0,,1,0,1,0,1,1
 the_great_eon,,,,,,,,,,,,0
 the_great_expanses,,,0,,,,,,0,,,
 the_great_finnish_army,,,,1,,0,,,0,,,
-the_great_nevada_overlord,1,0,1,1,1,0,,,0,1,,
+the_great_nevada_overlord,1,0,1,1,1,0,,1,0,1,,0
 the_great_northern_isles,1,0,,0,0,0,0,,0,1,0,
 the_great_orange_pochita,1,,,,,,,,,,,
 the_great_plainers,,,,,,0,,,,,1,
@@ -9184,7 +9186,7 @@ xscls_freeland,,,,1,,0,0,0,0,,1,1
 xtorot,0,1,0,1,0,0,,,1,1,,
 xtralandia,1,1,1,1,1,1,1,0,1,1,1,1
 xxurbanxx,1,0,0,1,0,0,0,0,1,0,0,1
-xylenia_adfor,,,,,,,,1,,,,
+xylenia_adfor,,,,,,,,1,,,,1
 xyphoid_result,,1,,,,,,,,,,
 xyuqur,1,0,1,0,0,0,0,0,1,0,1,1
 xzavaria,1,,,,,,,,,,,
