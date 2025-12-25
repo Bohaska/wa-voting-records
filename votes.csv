@@ -607,7 +607,7 @@ at-m6,1,0,1,1,1,0,0,1,0,1,1,0
 atania,,0,,,,,,,,,,
 ataraesh,,,1,1,0,0,0,0,0,1,1,1
 ataraxian_mainframe,1,0,1,1,1,0,0,1,0,1,1,0
-atarvet,,,,,,,,0,,,,
+atarvet,,,,,,,,0,,,,1
 atavi,0,1,0,1,0,0,1,0,0,1,1,1
 atena,0,0,1,1,0,0,0,,1,1,1,
 ateria12,,1,,,,,,,,,,
@@ -1186,7 +1186,7 @@ canton_empire,,,,,0,0,0,0,,,1,1
 canturk,,0,1,,,,,,,,,
 cantuss,0,0,1,1,1,0,0,1,0,0,1,
 canvania,1,0,1,1,0,,,,0,1,,
-canvee,1,1,1,,0,0,,,0,,,
+canvee,1,1,1,,0,0,,0,0,,,1
 canzik,,1,,,,,,,,,,
 capacker,,,,,,0,1,,,,,
 capand_dodia,1,,,,,,0,,,,0,
@@ -1362,6 +1362,7 @@ chioganah,0,0,,,,1,,,,,,
 chip_skylark,1,0,1,1,0,0,0,0,0,1,1,1
 chipochland,,,,,0,1,,,,0,,
 chipoli,1,,1,,,,0,,0,,1,
+chippan,,,,,,,,0,,,,1
 chiropteran,1,,,1,,,,,,,,
 chleswig-colstein,,,,1,,,,1,1,,1,
 choco_milk,,,,,0,,,,,1,,
@@ -1507,7 +1508,7 @@ consolari,,1,,,,,,,,,,
 constitutional_republic_of_freedonia,1,,,,0,,,0,,,,1
 content_coup,1,1,1,1,0,,,0,,,,
 continental_free_states,,,,1,1,0,0,1,0,1,1,
-convaria,1,0,1,,,,0,1,0,,1,
+convaria,1,0,1,,,,0,1,0,,1,0
 cookie_crumbia,,,,,,,,0,,,1,1
 cookie_testers,,,1,1,0,0,0,,0,1,,
 cookies_and_cream_pizza,1,,,,,,,0,,,1,1
@@ -1527,7 +1528,7 @@ corporate-paradise,1,,,,,,,,,,,
 corrinisle,,,,,,,1,0,,,1,
 corsuva,1,,,,,,,,,,,
 cortes_de_pallas,0,,0,,,,0,,,,,
-cortlandt_manor,1,0,1,1,0,0,1,,0,1,1,
+cortlandt_manor,1,0,1,1,0,0,1,0,0,1,1,
 corust,,0,,,,,,,,,,
 corynth,,0,,,,,,,,,,
 cose_kublidly,,0,1,1,,,,,0,,,
@@ -2321,7 +2322,7 @@ evuropea,1,0,1,1,,,0,,0,,1,
 ewatini,,,,1,,,,,,1,,
 ewing_oil_co,1,0,1,1,0,0,0,0,,,1,
 excalibaxus,,,,,0,1,,,,1,,
-excipendia,0,0,1,,0,,0,,,1,0,
+excipendia,0,0,1,,0,,0,0,,1,0,1
 excorvo,,1,,1,,1,,0,0,,1,
 exerceitus,,,,1,0,0,0,,0,1,1,
 exilias,,0,,,,,0,,,,1,
@@ -2520,7 +2521,7 @@ forgawik,1,1,0,0,0,0,0,0,1,,1,
 forgin,,,,,,,,,0,,,
 forgoriton,1,,,,0,,,,,1,,
 forgotten_beauty,0,,,,,,0,,,,,
-forgotten_shore,,,,,,,0,0,,,1,
+forgotten_shore,,,,,,,0,0,,,1,1
 forio,1,1,,0,0,0,1,0,,,,
 foritehland,1,0,1,1,0,,0,1,,,,
 forkbender,1,0,,,,,,,,,,
@@ -3792,7 +3793,7 @@ kasdados,,0,1,1,0,1,,1,0,1,1,1
 kasekyl,1,0,0,1,0,0,0,0,0,0,1,1
 kaskalma,,,,1,1,,,,0,0,,
 kasnya,,,,,,,1,1,,,1,
-kassa_and_harsigena,1,0,1,1,,0,,0,0,1,,1
+kassa_and_harsigena,1,0,1,1,,0,,,0,1,,
 kassaka,,1,,,,,,,,,,
 kastoviask,0,,,,,,,,,,,
 kaszubskie,,1,,,,,,,,,,
@@ -4421,7 +4422,7 @@ lugmeltistan,0,,,0,,,,,,,,
 lukaficarth,,,,,,,,0,,,,1
 lukemburg,,,,1,,,,,0,,,
 lumentera,0,,,,,,,,,,,
-luminality,1,0,1,1,0,0,0,,0,1,1,
+luminality,1,0,1,1,0,0,0,0,0,1,1,1
 luminan,,1,,1,0,,,,0,,,
 luminerra,1,0,1,1,0,0,0,0,0,1,1,1
 luminostan,,,,,,,,0,,,,1
@@ -4444,7 +4445,7 @@ lusanthria,1,0,0,0,1,1,,1,1,1,,0
 lushiania,1,,,,,,,,,,,
 lusianie,,,0,,,,,,,,,
 luso-hispania,1,0,1,1,1,1,,,0,,,
-lustenneria,,,,1,,,,,,,,
+lustenneria,,,,1,,,,1,,,,1
 lustiveria,1,0,1,,0,,,,1,1,,
 luthena,,,,1,,,,,1,,,
 lutien,,,,1,,,,,,,,
@@ -4606,7 +4607,7 @@ martian_deccan_traps,,,1,,,,,0,,,,1
 martor,,,,,,,,,1,,,
 marty_siska,,,1,,,,,0,,,,
 maruznland,,0,1,1,0,1,1,1,1,1,0,
-marvaro,,,1,,,,0,,,,,
+marvaro,,,1,,,,0,1,,,,1
 marvel_jesus,1,1,1,1,0,1,0,0,0,1,1,1
 marvellia,,,1,1,1,,,0,,0,0,
 marxia-engelsia,,1,,,,,,,,,,
@@ -4953,7 +4954,7 @@ nairland,1,0,1,,,,0,0,,,1,1
 najovio,0,1,0,0,0,0,0,0,1,1,1,1
 nalenua,,,,1,0,0,0,0,0,1,1,1
 naluland,,1,,,,,,,,,,
-naman_marov,1,0,1,1,0,0,0,,0,1,1,
+naman_marov,1,0,1,1,0,0,0,1,0,1,1,1
 namante,0,0,1,0,0,0,1,0,0,1,1,1
 name_0_wa_account,0,0,1,1,0,0,0,,0,1,,
 named,,,,,,1,,,,,,
@@ -5937,7 +5938,7 @@ philosopy,1,0,0,0,0,0,1,0,1,0,1,1
 phlontopia,1,0,1,1,1,0,0,1,0,1,1,0
 phoenicia-,1,0,1,1,0,0,0,0,0,1,1,1
 phoenix_amalgamated,,,,1,0,,,,0,1,,
-phoidoss,,0,,0,,,0,0,,1,1,
+phoidoss,,0,,0,,,0,0,,1,1,1
 phoneada,,0,1,,,,0,,,,,
 phoronu,1,0,,1,0,0,0,0,0,1,1,1
 pica_land,,,,,0,,0,,,,,
@@ -6258,7 +6259,7 @@ raskana,1,1,1,1,0,0,0,0,0,1,1,1
 rasutafia,1,0,1,1,1,0,0,0,0,1,0,0
 rat_things,1,0,1,1,0,0,0,0,0,1,1,
 ratateague,0,1,0,0,0,1,1,0,0,0,1,1
-rathanur,,,0,,,,,,,,,
+rathanur,,,0,,,,,0,,,,1
 rats,,,,,,,0,,,,,
 ravania_lupa,,,,,,,,,,,1,
 raven8,,,1,,,,,,,,,
@@ -6374,7 +6375,7 @@ republicada,,,,,,0,0,,,,1,
 republicano,,,1,1,0,1,,,0,,,
 republiciana,,,,,,,0,0,,,1,1
 republik_hintonia,0,0,0,1,0,0,,0,0,1,1,1
-republiostan,,0,,,1,,0,,,1,,
+republiostan,,0,,,1,,0,0,,1,,1
 requand,0,1,0,1,0,0,1,0,0,1,1,1
 res_novia,,,1,,,,,,,,,
 resaza,1,1,1,1,0,1,0,,0,1,,
@@ -6937,7 +6938,7 @@ sigumastan,1,0,1,1,1,0,0,1,0,1,1,1
 sik_gra,,,,,1,0,1,1,,0,1,0
 sikirsk,1,0,1,,,,,,,,,
 sikol,,,1,,,,0,,,,,
-sil_dorsett,1,0,1,1,,,0,,0,,0,
+sil_dorsett,1,0,1,1,,,0,0,0,,0,1
 sila_maiora,,,,1,,0,,,1,,,
 silage,0,,0,,,,1,,1,,1,
 silas_the_ice_hero,1,0,1,,,0,0,,,,,
@@ -7641,7 +7642,7 @@ the_anarchist_territorys,1,1,1,,,,,,,,,
 the_anarchy_islands_of_western_europe,,,,0,1,,,,,0,,
 the_ancient_albuquerque,1,,,,,,,,,,,
 the_ancient_church_of_the_house_of_thoth,,,,,0,,,,,,,
-the_ancient_world,0,1,1,1,0,0,1,,1,1,1,
+the_ancient_world,0,1,1,1,0,0,1,0,1,1,1,1
 the_andean-pacific_company,,,,,,0,,,,,,
 the_animalists,,0,1,1,0,,,,0,1,,
 the_anti_apathy_confederacy,,,,,,,,,,,,1
