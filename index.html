@@ -19,7 +19,7 @@ custom_scripts: |
                 const urlParams = new URLSearchParams(window.location.search);
                 const prefillId = urlParams.get('id');
                 if (prefillId) {
-                    showDetailView(prefillId);
+                    renderDetailContent(prefillId);
                 }
 
             } catch (error) {
@@ -72,8 +72,8 @@ custom_scripts: |
             populateTable(filtered);
         }
 
-        /** Shows the detailed view for a specific resolution ID. */
-        function showDetailView(resId) {
+        /** Changes the HTML to show resolution voting info. */
+        function renderDetailContent(resId) {
             const res = allResolutions.find(r => r.id === resId);
             if (!res) return;
 
@@ -116,14 +116,42 @@ custom_scripts: |
             window.scrollTo(0, 0);
         }
 
-        /** Switches back to the main list view. */
-        function showListView() {
+        /** Shows the detailed view for a specific resolution ID. */
+        function showDetailView(resId) {
+            const res = allResolutions.find(r => r.id === resId);
+            if (!res) return;
+
+            window.history.pushState({ id: resId }, res.name, `?id=${resId}`);
+
+            renderDetailContent(resId)
+        }
+
+        /** Hides the resolution details and shows list */
+        function renderListContent() {
             document.getElementById('resolution-detail-view').style.display = 'none';
             document.getElementById('resolutions-list-view').style.display = 'block';
             window.scrollTo(0, 0);
         }
+        /** Switches back to the main list view. */
+        function showListView() {
+            window.history.pushState({}, "WA Voting Records", window.location.pathname);
+
+            renderListContent()
+        }
 
         document.addEventListener('DOMContentLoaded', loadData);
+
+        window.onpopstate = function(event) {
+            const urlParams = new URLSearchParams(window.location.search);
+            const id = urlParams.get('id');
+
+            if (id) {
+                // Don't use showDetailView directly since it calls pushState again
+                renderDetailContent(id);
+            } else {
+                renderListContent()
+            }
+        };
     </script>
 ---
 <div id="resolutions-list-view">
