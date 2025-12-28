@@ -507,7 +507,7 @@ argondy,1,1,1,1,0,0,0,0,1,0,1,1,1,1
 arguara,1,1,1,,,,,,,,,,,
 argumeny,,0,1,1,1,,,,,1,1,,,
 argylia,,,,,1,,,1,,,0,,,
-ariaf,1,0,1,1,0,0,,,,0,1,,,
+ariaf,1,0,1,1,0,0,,,1,0,1,,,
 ariklancere,0,,,,,,,,,,,,,
 ariner,,,,1,0,0,,0,,,1,1,,
 arirals,,1,,,,0,,,,,,,,
@@ -700,7 +700,7 @@ autoroast_and_the_deciples_of_gustas,0,,1,1,0,1,0,,,1,1,,,
 autvia,,0,,,,,,,,,,,,
 av_libertas_vindex,,1,,,,,,,,,,,,
 avaerilon,,,,,,0,,1,,,,,,
-avalonium,0,1,0,0,0,1,0,0,,0,1,0,1,
+avalonium,0,1,0,0,0,1,0,0,0,0,1,0,1,1
 avaneesh,1,0,1,1,,,,,,1,,,,
 avanguard_city,,,,,,,0,,,,,,,
 avantasia,,,,,0,,,,,,1,,,
@@ -746,7 +746,7 @@ azgoghk,,,,1,,,,,,,1,,,
 azharul,,,,,,0,,0,,,,,0,
 azkhel,,,,,,,0,,,,,0,,
 azosd,,,,1,0,0,0,,1,,1,1,,1
-azov_steel_2022,1,1,,0,0,,,0,1,0,,1,1,
+azov_steel_2022,1,1,,0,0,,,0,1,0,,1,1,1
 azrina,,,,,,,0,0,1,,,1,1,
 azteca-comancheria,,,,,,,,,,1,,,,
 azum_strot,,,,,,0,,,,,,,,
@@ -821,7 +821,7 @@ barrnary,,0,1,1,0,,,0,1,0,,,1,1
 barrow_cove,,,,,,0,0,,,,1,,,
 bartonia_nova,0,0,1,1,,0,0,0,1,,1,1,0,0
 barvo,1,,1,1,0,,,,1,1,1,,,1
-basaroa,1,0,1,,0,1,,,1,,1,,1,
+basaroa,1,0,1,,0,1,,,1,,1,,1,1
 basileia_nea,,,,,0,,,,,,1,,,
 basilski,,,,,0,0,1,,,,1,1,,
 basque_dominion,1,0,,,,0,0,0,,,,1,,
@@ -1228,7 +1228,7 @@ capitalismo_occidental,0,,1,,,,,,,0,,,,
 capitalist_producers,1,0,1,1,1,0,0,1,1,,,,,
 capitalist_republic_of_gulag,,,1,,0,,,,,,,,,
 capitalist_state_of_pangea,,,1,,,,,0,,,,,,
-capitista,,0,,,,,,,,,,,,
+capitista,,0,,,,,,,1,,,,,1
 cappanisia,,,,,0,1,,,,,,,,
 cappedore,,,,,,,0,,,,,1,,
 capridam,1,0,1,1,0,0,0,,,0,1,1,,
@@ -2217,7 +2217,7 @@ elkremxia,0,,,0,,0,0,0,,0,,1,1,
 ellenardia,,1,0,1,0,1,0,,1,0,0,1,1,
 ellix,1,,,,,0,0,,,,,1,,
 elltania,1,0,,,,,,,,,,,,
-elmos_interncaional,,,,,,1,,1,0,,,1,1,
+elmos_interncaional,,,,,,1,,1,0,,,1,1,0
 elnir,1,0,,,,0,,,,,,,,
 elnomia_empire,,,,0,,,,,,,1,,,
 elon_m,1,0,1,1,0,0,0,,,0,1,1,,
@@ -2335,7 +2335,7 @@ etalia_sacar,0,,,,,,,,,,,,,
 etarria,1,0,,,,0,,0,1,,,1,1,1
 eterculauia,0,,,,,1,,0,,,,,1,
 eternal_abyss,1,0,1,1,1,0,,,,0,1,,,
-eternal_ascendancy,1,1,1,1,0,0,0,1,1,1,1,1,1,
+eternal_ascendancy,1,1,1,1,0,0,0,1,1,1,1,1,1,1
 eternal_flames,,0,,,0,,0,1,1,,1,,0,1
 eternal_phoenix,,,0,,,,,0,,,,,1,
 eternia_empire,1,0,,1,,,1,,,,1,,,
@@ -2744,6 +2744,7 @@ gagium,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 gaian_ascendancy,,,,0,,0,,0,,,0,0,,
 galaad,,1,,,,,,1,,,,,,
 galabadro,,,,,,,,,0,,,,,
+galactic_empire_reborn,,,,,,,,,0,,,,,1
 galactic_furry_empire,,1,,,,,,,,,,,,
 galactic_furs,,,,,1,,,,,,,,,
 galactic_imperial_republic,,0,1,1,,,,,,0,,,,
@@ -5287,7 +5288,7 @@ new_charles,1,,1,1,0,0,0,0,1,0,1,1,1,1
 new_cittsa,,,,1,0,,,,,,1,,,
 new_colonus,,,,,,,0,,,,,1,,
 new_commland,,1,1,,0,,0,,,,1,,,
-new_consola,,,1,1,1,0,0,0,,0,1,1,1,
+new_consola,,,1,1,1,0,0,0,1,0,1,1,1,1
 new_cordyceps,,,1,1,0,,0,,1,0,1,,1,1
 new_crimson,,,,,0,1,,,,,0,,,
 new_crywyzyxycynya,1,0,1,1,1,0,0,1,1,0,1,1,1,1
@@ -5680,7 +5681,7 @@ novisiberskov,,1,,1,,0,,0,,0,,,1,
 novist,0,1,,0,1,1,1,1,0,1,,0,0,0
 novo_acadia,1,,,,,,,,,,,,,
 novo_prosperitas,0,0,0,0,0,0,1,0,0,0,1,1,1,1
-novorik,,,0,0,0,,0,,,,1,,,
+novorik,,,0,0,0,,0,,,,1,,,1
 novostovia,1,,,1,,,,,,0,,,,
 novrystan,0,1,,1,0,1,0,0,,0,1,1,1,
 novum_mediolanum,,0,1,,,1,,,1,,,,1,
@@ -6420,7 +6421,7 @@ raffyland,1,1,1,1,0,1,1,0,1,0,1,1,1,1
 rage_against_your_mom,,,,,1,,,,,,1,,,
 raggafarion,,,,,,0,0,,,,,1,,
 raghallaigh,0,1,0,1,0,0,0,0,0,0,0,1,1,1
-ragnaria,1,,,,,,0,,,,,,,
+ragnaria,1,,,,,,0,,1,,,,,1
 ragolun,,,,,,,0,,,,,,,
 rahanatia,,0,,,,,,,,,,,,
 raimilla,,,,,,,,,,,,0,,
@@ -7178,7 +7179,7 @@ sino-slavic_republics,,,,1,0,1,0,,1,,0,1,1,
 sinra,1,,,,,,,,,,,,,
 sintograd,,,0,,,,,,,0,,,,
 siovale,1,0,,,,0,0,,,,,,,
-sir_cumberbun_of_gloucester,,1,1,0,0,0,0,,,0,1,1,,
+sir_cumberbun_of_gloucester,,1,1,0,0,0,0,,1,0,1,1,,1
 sirius_zenith,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 siruivaria,0,1,0,1,,1,0,,,0,1,,,
 sisdonia,1,0,1,1,0,0,0,0,1,0,1,1,1,1
@@ -8276,7 +8277,7 @@ the_scrap,,,,,,,,,,0,,0,,
 the_second_steriestan_nation,0,,,,,,,,,,,,,
 the_second_sun,,,,,1,,,,,,1,,,
 the_secret_way,1,0,1,1,1,0,,,,1,0,,,
-the_sernetian_empire,,,,0,,,0,0,1,0,,,1,
+the_sernetian_empire,,,,0,,,0,0,1,0,,,1,1
 the_shadow_fold,1,,1,1,0,1,0,,,1,1,1,,
 the_shadowed_moon,,,,,,,0,0,1,,,1,1,
 the_shaymen,1,0,1,1,0,0,0,0,1,0,1,1,1,1
@@ -8894,7 +8895,7 @@ ursoland,,,,1,,,,,,0,,,,
 urttha,1,,,,,0,,,,,,,,
 urukian,1,1,,,,,,,,,,,,
 urunk_helia,1,,,,,,,,,,,,,
-urziksthan,1,0,1,1,0,0,0,0,1,1,1,1,1,
+urziksthan,1,0,1,1,0,0,0,0,1,1,1,1,1,1
 usa_22,,,,1,0,1,1,,,0,1,,,
 usagiland,1,,,1,0,0,0,,,0,1,1,,
 usaint,0,1,0,,0,0,,0,0,1,1,1,1,1
@@ -9204,7 +9205,7 @@ wa_klopstock,,,,,,0,,,,,,,,
 wa_yamato,,,,,,,0,,,,,1,,
 wabacha,,0,1,1,0,0,0,0,1,0,1,1,1,
 wabberjocky,1,,1,,,,0,,1,,,1,,1
-wacman,1,0,1,1,0,0,0,0,1,0,1,1,1,
+wacman,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 wacuristan,,,,,,,0,,,,,,,
 wadelhelpia,0,0,0,0,0,1,0,0,0,0,1,1,0,0
 waffenbrightonburg,1,0,1,1,1,0,,0,1,0,1,1,1,1
@@ -9246,7 +9247,7 @@ warom,1,,,,,0,,,0,,,,1,
 warrince,0,0,,,,,,,,,,,,
 wars_forever,,0,,,,,,,,,,,,
 wartonshiplandia,,,,,,,,,1,,,,,1
-warzakie,,,1,1,0,0,0,,,0,1,1,,
+warzakie,,,1,1,0,0,0,,1,0,1,1,,1
 wasd12,1,0,1,1,1,,,,,0,0,,,
 washingborough,,,,,,0,,,,,,,,
 watao,1,1,1,1,1,0,,,,0,1,,,
@@ -9374,7 +9375,7 @@ wizarding_creation,1,1,0,,0,0,0,,,,1,1,,
 wmds,,,1,1,,0,,,,1,1,,,
 wobbegong,,,1,0,,0,0,,1,0,,,,0
 woben,,,,1,,,,,,,1,,,
-wohabutu,0,0,1,0,0,0,0,0,1,0,0,1,0,
+wohabutu,0,0,1,0,0,0,0,0,1,0,0,1,0,1
 wolfengardia,,,,,0,,,,,,1,,,
 wolffoxia,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 wolfhawk,0,1,0,0,0,0,0,0,0,0,0,0,0,0
@@ -9415,7 +9416,7 @@ x_country,1,0,1,1,0,0,0,0,,0,1,1,1,
 xaeloa,,0,1,1,0,0,0,0,1,0,1,,1,
 xalivstonia,,,,,,1,1,,,,,,,
 xaltonia,1,0,,,,,,,,,,,,
-xanaxh,,,,,,,0,0,1,,,1,1,
+xanaxh,,,,,,,0,0,1,,,1,1,1
 xaravellion,,,1,1,0,0,,,,0,1,,,
 xarikistan,1,0,1,1,0,1,0,0,1,0,1,1,1,1
 xastopia,1,0,,1,0,,,,,,,,,
@@ -9583,7 +9584,7 @@ zaphora,1,,1,0,0,0,,0,1,,1,,1,1
 zapratoria,,,,,,,0,,1,,,,,0
 zaraststan,,,,,,0,,,,,,,,
 zarbirea,1,0,1,1,0,,0,0,1,,1,1,1,1
-zarian,,,,,,0,0,0,,,,,1,
+zarian,,,,,,0,0,0,1,,,,1,1
 zarkovnia,,,,,0,,,0,,,1,,1,
 zarterbahn,,,,,,,0,,,,,1,,
 zarya-diomedes,,,,,,0,,,,,,,,
