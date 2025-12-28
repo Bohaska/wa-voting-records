@@ -710,7 +710,7 @@ avengisian_nyx,1,,1,,0,0,,0,,0,1,,1,
 aventuris,,1,,,,,,,,,,,,
 averiano,1,1,1,1,0,0,0,0,,0,,1,1,
 averiss,,,0,1,0,,,,,,1,,,
-averyickan_city,,,,1,,,,,,0,,,,
+averyickan_city,,,,1,,,,,1,0,,,,1
 avesland,,,,,0,0,,,,,0,,,
 aveune_nation,,,,1,,,,,,0,,,,
 avinis,0,1,0,0,,,,,,0,1,,,
@@ -753,7 +753,7 @@ azum_strot,,,,,,0,,,,,,,,
 azure_mines,0,1,1,1,,0,0,0,1,0,1,1,1,1
 azure_normandy,,0,1,1,0,,1,,1,0,1,1,,1
 azurefront,1,,,,0,,,,1,,1,,,1
-azuriaaa,,,,,,,0,,,,,1,1,
+azuriaaa,,,,,,,0,,,,,1,1,1
 azurth,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 azzarel,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 azzata,,,,,,,,1,1,,,1,1,1
@@ -795,7 +795,7 @@ ballotonia,0,1,0,0,0,1,1,0,0,0,1,1,1,1
 ballzia,0,,,,,,,,,,,,,
 baltikum,1,,,,,,,,,,,,,
 balzistan,,0,,,,,,,,,,,,
-bananacountry,,,,,,,,,1,,,,,
+bananacountry,,,,,,,,,0,,,,,0
 bananoland,,,,,,,,0,1,,,1,,
 banaria,1,0,,,,,,,,,,,,
 banatiania,1,,,,,,,,,,,,,
@@ -862,7 +862,7 @@ beijaflor,,0,,1,,0,,,,,1,,,
 belarus_20,1,,,,,,,,,,,,,
 belayarossiya,,,1,,,,,,,,,,,
 belgardia,,,,,0,,,0,,,,,,
-belgium_and_holland,,,,,,0,0,0,1,,,1,1,
+belgium_and_holland,,,,,,0,0,0,1,,,1,1,1
 belkan_united_states,,,,,,0,0,0,1,,,1,1,
 belkanada,1,1,0,0,0,,1,1,0,1,0,,1,
 bella_ulle,1,,,,,,,,,,,,,
@@ -997,7 +997,7 @@ blobian,0,,,1,,1,1,0,0,1,,0,,0
 blobon,,,,,0,,,,,,0,,,
 blobular,0,1,0,0,0,0,0,0,0,,,,,
 bloesser,1,,0,,0,1,,,,,,,,
-bloni,1,1,1,1,0,0,1,0,1,0,1,1,1,
+bloni,1,1,1,1,0,0,1,0,1,0,1,1,1,1
 blonkulopia,,,,0,,,,,,0,,,,
 bloodess,,,1,,,,,,,,,,,
 bloomingdale,,,,,,,0,0,,,,,,
@@ -1028,7 +1028,7 @@ bogi_smerti_i_razrusheniya,1,,,,,,1,,,,,0,,
 bogonto,,,1,,,1,1,0,,1,,1,1,
 bohem,,,0,1,,,,,,0,,,,
 bohenia,0,0,1,1,0,0,0,0,1,0,1,1,1,1
-bohol,,0,,0,,,,,0,0,,,0,
+bohol,,0,,0,,,,,0,0,,,0,0
 boisenberg,,,,,,0,,,,,,,,
 boku_no_pica,,0,,,,,,,,,,,,
 bolesia,1,1,0,0,0,,0,0,1,1,1,1,1,
@@ -1222,6 +1222,7 @@ capand_dodia,1,,,,,,0,,,,,0,,
 cape_cormac,,,,,,,0,0,,,,1,,
 capibara_countrey,,,,,1,,,,,,0,,,
 capilateria,,,,,,,0,,,,,,,
+capingua,,,,,,,,,1,,,,,1
 capitalisia,0,0,1,1,0,1,,,,1,1,,,
 capitalism_is_the_best_thing_ever,,0,,,,,,,,,,,,
 capitalismo_occidental,0,,1,,,,,,,0,,,,
@@ -1737,7 +1738,7 @@ datalearner,,,,,,1,0,0,1,,,1,1,1
 daugapilis,0,0,0,1,0,,,,,1,1,,,
 daulmark,1,0,1,1,,0,0,0,1,0,1,1,1,0
 david_davidson,,,1,,,,,,,,,,,
-davids_republic,,,,1,0,,1,1,0,0,1,0,1,
+davids_republic,,,,1,0,,1,1,0,0,1,0,1,1
 dawn_fleet,,0,1,,,0,0,0,1,,,1,1,
 dawu,,,,1,,,,,1,0,,,,1
 daynes,,,,,,0,0,0,1,,,1,1,1
@@ -1849,7 +1850,7 @@ dhiera_mazaro,0,1,,,,0,,,,,,,,
 dhomhnaigh,,,,,0,1,0,0,1,,,1,1,1
 di_mentago,0,1,1,1,0,0,0,1,1,0,1,0,0,0
 diagamitu,,,,,,,,0,,,,1,0,
-dialland,,,,,,1,0,,,,,1,,
+dialland,,,,,,1,0,,0,,,1,,1
 diamond_heaven,1,0,,1,,0,,,,0,,,,
 diantara,,,,1,,0,,,,0,,,,
 diatian_isles,1,1,0,0,0,1,0,1,0,0,1,1,1,
@@ -2266,6 +2267,7 @@ english_socialist_states_of_oceania,,,,1,0,,,,,0,0,,,
 englrike,,,1,1,0,0,,0,,0,1,1,,
 engojaria,1,1,,1,0,,0,,,0,1,1,,
 enkhaltan,,,,1,0,1,0,0,0,1,1,1,1,1
+enkowshe,,,,,,,,,1,,,,,1
 enlil,1,1,0,1,0,1,0,1,1,0,1,1,1,1
 enotovka,,,,,,,,,1,,,,,1
 enou,1,,,,0,0,0,0,1,,,,,
@@ -2567,7 +2569,7 @@ florzil,,,,,,1,0,,,,,,,
 flower_isle,1,,1,1,0,0,,,,0,1,,,
 floweville,1,0,,,,,,,,,,,,
 flumilados,,1,,,,,,,,,,,,
-fluminesedes,1,0,1,,0,0,0,0,1,0,1,1,1,
+fluminesedes,1,0,1,,0,0,0,0,1,0,1,1,1,1
 fluvia,,1,,,0,,0,,0,,,,1,
 flydale_north,1,0,1,1,0,,,,,0,1,,,
 fobao,,,,1,,,,,,,,,,
@@ -2615,6 +2617,7 @@ fox_anthro_of_germany,,,,,,,1,0,,,,1,,
 fox_raider,,,1,1,0,,,,,0,1,,,
 foxartica,,,1,,0,,,,,,,,,
 foxiopia,,,,,,,0,0,1,,,1,1,1
+foxs_kingdom,,,,,,,,,1,,,,,1
 foxxytalia,,,0,,,,,,,,,,,
 foxy,1,0,1,1,0,0,0,0,1,0,1,1,1,
 fractalnavel,1,0,1,1,1,0,0,1,1,,,,,
@@ -3324,10 +3327,10 @@ his_immortal_dictator_joseph,,,,,,,,0,1,,,,1,
 hisenna,1,0,1,1,0,0,0,0,1,0,,1,1,1
 hispanium,,,,,,,1,,,,,1,,
 histarctica,1,0,1,1,0,0,0,1,1,0,1,1,1,0
-hitao,,,,,0,,,,,,,,,
+hitao,,,,,0,,,,0,,,,,1
 hitentherps,1,0,,,0,0,,,,,1,,,
 hiyzis_ii,,0,,,,,,,,,,,,
-hnean,,,,,,,,,1,,,,1,1
+hnean,,,,,,,,,,,,,1,
 hobbitat,,,,,,,1,,,,,,,
 hobura,,,,,,,,1,1,,,1,1,0
 hochfels,,,,,,,,,,,1,,,
@@ -3607,7 +3610,7 @@ iremia,1,1,1,1,0,0,0,0,1,0,1,1,1,
 irenai,,,,,,0,,,,,,,,
 irenima,,,,,,,,0,,,,1,,
 irfael,,1,,,,,,,,,,,,
-irminsulia,,0,1,0,1,0,,1,,0,,,,
+irminsulia,,0,1,0,1,0,,1,1,0,,,,
 iron_dog,,0,,1,0,0,0,0,,0,1,1,,
 ironblood,0,1,1,1,0,0,1,0,0,1,1,1,1,1
 ironclad_enterprises,,,1,,,,,,,1,,,,
@@ -3861,7 +3864,7 @@ kaputer,1,0,1,1,1,0,0,1,1,0,1,1,0,
 karaczia,1,1,1,1,0,1,,,,0,1,,,
 karai_nadu,1,0,1,1,0,0,0,1,1,0,1,1,1,1
 karait,1,,1,0,,,,,,0,,,,
-karalhistan,0,1,0,1,0,1,,0,,1,0,0,,
+karalhistan,0,1,0,1,0,1,,0,0,1,0,0,,1
 karanta,,1,,,,,,,,,,,,
 karatol-advenra,,,,1,,,,,,,1,,,
 karazan,1,,1,,0,,,,,,1,,,
@@ -4338,7 +4341,7 @@ leasi,0,1,,,,,,0,,,,,,
 leastestevia,0,,1,0,,,,0,,0,,,1,
 leauge_of_nations,1,,1,1,0,1,0,0,,0,1,1,,
 leaveusalone,,,1,1,0,,,,,0,,,,
-leaviatin,,,,,,,,,1,,,,1,
+leaviatin,,,,,,,,,1,,,,1,1
 lebronraymonejamesdagoat,1,,1,1,0,0,0,0,,0,1,1,,
 lectaf,1,,,,0,,,,,,,,,
 ledandia,,,,,,,,0,1,,,,1,1
@@ -4375,7 +4378,7 @@ leonna,1,,1,1,0,,,,,1,1,,,
 leonosia,,0,1,1,1,0,0,0,1,0,1,1,1,1
 leore,,0,,,,,,,,,,,,
 leouschburgh,0,1,0,1,0,0,1,,1,0,1,1,1,
-lepiaz,,,,1,,,,,,1,1,,,
+lepiaz,,,,1,,,,,1,1,1,,,
 leptimora,,,,0,,,,,,,,,,
 lerkidina,0,,,0,,0,,,,0,,,,
 lesbia,0,0,1,,0,0,0,0,1,0,1,1,1,1
@@ -4775,7 +4778,7 @@ matidonia,0,,0,,,,,,,,,,,
 matika,0,1,1,1,0,0,1,0,1,0,0,0,1,1
 matinatios,,1,,,,,,,,,,,,
 matopian_islands,,0,,,,,,,,,,,,
-matrique,,,,,,,1,,1,,,1,1,
+matrique,,,,,,,1,,1,,,1,1,1
 matsabie,,,1,1,0,0,0,,,,1,,,
 matterland,,,,,,1,,,,,,,,
 mattheland,,,,,,,,0,,,,1,,
@@ -4950,7 +4953,7 @@ mission_tejas,,,,,0,0,0,,,,1,1,,
 missyou,,0,,,0,0,,,,1,1,,,
 mistersap_and_krajola,1,0,1,1,1,0,,,,0,1,,,
 mistken,1,0,1,1,0,0,0,,,,1,,,
-mitsurugi,,,,1,,,,,,1,,,,
+mitsurugi,,,,1,,,,,1,1,,,,0
 mitt_kaldonia,,,,,,,0,0,,,,1,1,
 mitzvah,,1,,,0,,,0,,,0,,1,
 mivata,,,,,,,,0,,,,1,,
@@ -5124,7 +5127,7 @@ napiari,1,,,,0,,0,0,,,1,1,,
 napoleons_i_france,,,,,,,,0,1,,,,1,1
 nappucia,,,,1,,,,,,0,1,,,
 naqisiyo,,,,,,,0,,,,,1,,
-naragia,0,,0,0,0,,1,0,0,0,1,,1,
+naragia,0,,0,0,0,,1,0,0,0,1,,1,1
 naralovian,0,,,,,,,,,,,,,
 narav,,,,,,,0,0,1,,,1,0,1
 narax,,1,,1,0,,,,,,1,,1,
@@ -5370,7 +5373,7 @@ new_rogernomics,,,,,,,,,,,,1,,
 new_roitman,,,,,,,,,1,,,,,
 new_roos,0,,,,0,,0,,,,,1,,
 new_rustonia,1,1,1,1,,1,0,0,1,0,1,1,,
-new_ryansville,1,0,1,1,,,,,1,0,,,,1
+new_ryansville,1,0,1,1,,,,,,0,,,,
 new_ryukyu,,,,1,0,,,,1,0,1,,1,
 new_sahyan,,,,,,,0,,,,,,,
 new_saint_peters,,1,,,,,,,,,,,,
@@ -7180,7 +7183,7 @@ sinlandia666,,,,,,,,,1,,,,0,
 sino-slavic_republics,,,,1,0,1,0,,1,,0,1,1,
 sinra,1,,,,,,,,,,,,,
 sintograd,,,0,,,,,,,0,,,,
-siovale,1,0,,,,0,0,,,,,,,
+siovale,1,0,,,,0,0,,1,,,,,1
 sir_cumberbun_of_gloucester,,1,1,0,0,0,0,,1,0,1,1,,1
 sirius_zenith,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 siruivaria,0,1,0,1,,1,0,,,0,1,,,
@@ -7251,7 +7254,7 @@ slosu,,,,,,,0,,,,,1,,
 slothville,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 slovanov,0,1,0,,,,,,,,,,,
 sloventa,1,,,,,,,,,,,,,
-sludgelandia,1,0,1,,0,0,1,0,,0,1,1,1,
+sludgelandia,1,0,1,,0,0,1,0,1,0,1,1,1,1
 slythoria,,,,,,0,,,,,,,,
 smadreades,1,,1,,,,,,,,,,,
 smantan,1,1,1,1,0,0,0,0,1,0,1,1,1,1
@@ -7683,7 +7686,7 @@ syndicalist_africa,0,,,,,,,,,,,,,
 syndralia,1,,1,1,0,,,,,,1,,,
 syntaris,1,1,0,0,0,0,0,0,,1,1,,1,
 syntaros,1,0,1,1,0,,0,0,1,0,0,1,,
-synthellia,,,1,,,,0,,,0,,,,
+synthellia,,,1,,,,0,,0,0,,,,
 synthenos,1,0,1,,,0,,,1,0,,,,1
 synthetic_sovereign_state,,,1,,1,,,,,,0,,,
 syranthial,1,1,0,1,0,1,1,,0,1,1,1,,
@@ -8111,7 +8114,7 @@ the_jorran_federation,,,,0,,0,,,,0,,,,
 the_kaisers_syndicates,,,1,,,,1,,,,,1,,
 the_kammerlands,,,,0,0,,,,,0,1,,,
 the_kazintir_mandate,1,0,1,1,,0,,0,,0,1,,,
-the_kies,,,1,,,0,,0,,,1,1,,
+the_kies,,,1,,,0,,0,1,,1,1,,1
 the_kingdom_of_foutania,1,1,1,1,0,,,0,1,0,1,1,1,1
 the_kingdom_of_germany-kd,1,,,,,1,1,,,,,,,
 the_kingdom_of_halloweenia,1,,,,,,,,,,,,,
@@ -8240,7 +8243,7 @@ the_real_underground,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 the_realm_of_dorne,,,1,,0,,0,0,1,,1,1,,1
 the_rebublic_of_martha,,,1,,,,,,,0,,,,
 the_reckoning,,,1,,,0,,,,0,,,,
-the_red_cross,1,0,1,1,0,0,0,0,1,0,1,1,1,
+the_red_cross,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 the_red_cult,,,,,,,0,,,,,,,
 the_red_lins,,,,,,,,1,,1,,,1,
 the_red_scar,,,,,,0,1,,,,,,,
@@ -8640,7 +8643,7 @@ tsrill,,,,0,,,,,,,,,,
 tsuskia,,1,1,1,0,0,1,0,1,0,1,1,1,1
 tttbtr,,,0,,,,,0,1,,,,1,
 tucanasia,1,0,,,1,,,,,,1,,,
-tudiculare,1,1,,1,0,1,0,0,1,0,1,1,1,
+tudiculare,1,1,,1,0,1,0,0,1,0,1,1,1,1
 tuesdays,,,,,,,,1,1,,,,1,
 tugana,1,0,1,1,0,1,0,0,1,0,1,0,1,1
 tuirsland,,,,,0,,,,,,1,,,
@@ -9093,6 +9096,7 @@ vietlao,,,1,1,,,,,,0,,,,
 vietnamese_empire,0,1,,0,0,1,1,0,,0,0,1,1,
 vigh,,0,1,1,,0,0,,1,0,1,1,0,
 vijlomia,,,1,,,,,,,,,,,
+vikafakinchnogla,,,,,,,,,1,,,,,1
 vikarion,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 vikorund,,,,,,,,,,0,,,,
 vilanaland,,0,,,,,,,,,,,,
@@ -9223,7 +9227,7 @@ walkernaria,0,1,1,1,0,1,0,0,,0,0,1,,
 walkopa,,,,,0,,,,1,,,,,
 wallahballah,,,,,,,,,1,,,,1,
 wallanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-walloonia,,1,,0,,,,,,,1,,,
+walloonia,,1,,0,,,,,0,,1,,,1
 walnesntcuma,0,,,,,0,,,,,,,,
 walter_jackson,1,,1,1,0,0,0,0,1,0,1,1,1,1
 walterberg,,,1,1,0,1,0,0,,1,1,1,1,
@@ -9279,7 +9283,7 @@ werdenfel,1,0,1,1,0,0,0,1,,0,0,0,,
 wesh_chiba,0,1,0,1,0,0,0,0,0,1,0,1,1,1
 wesia_urklatopetio,,0,,,,,,,,,,,,
 wesian,1,0,1,1,0,0,0,0,,0,1,1,,
-wesmont,1,0,1,,0,0,0,0,,0,1,1,1,
+wesmont,1,0,1,,0,0,0,0,1,0,1,1,1,1
 wess_bribedoreadomia,1,,,,,1,,,,,,,,
 west-syria,,1,1,,,,,,,,,,,
 west_aahina,,,,,,,0,,,,,,,
@@ -9653,7 +9657,7 @@ zivloka,,,,,0,1,0,0,1,,,1,1,1
 zlapadoslavia,0,0,0,0,0,,0,0,1,1,1,1,0,1
 zlotii,,,,,0,,0,,1,,1,1,,1
 zlotyslaw,,,1,,,0,,,,1,,,,
-zocra,,,,,,,,,1,,,,1,
+zocra,,,,,,,,,1,,,,1,0
 zoenova,1,0,,,,,,,,,,,,
 zolistecija_and_the_euqorijan_isles,,,,1,0,0,,,1,0,,,0,
 zolotaya,,,,,,,,,1,,,,,
