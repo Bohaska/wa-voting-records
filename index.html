@@ -2,157 +2,237 @@
 layout: default
 title: WA Voting Records
 custom_scripts: |
-    <script>
-        let allResolutions = []; // Array version
-        let allVotes = [];
+<script src="scripts/fuse.basic.min.js"></script>
+<script>
+    let allResolutions = []; // Array version
+    let allResolutionsMap = {}; // Map version for nation search
+    let allVotes = [];
+    let votesHeader = [];
 
-        /** Fetches and processes resolution and vote data using the shared loader. */
-        async function loadData() {
-            try {
-                const data = await loadAllData();
-                allResolutions = data.resolutionsArray;
-                allVotes = data.allVotes;
+    /** Fetches and processes resolution and vote data using the shared loader. */
+    async function loadData() {
+        try {
+            const data = await loadAllData();
+            allResolutions = data.resolutionsArray;
+            allResolutionsMap = data.resolutionsMap;
+            allVotes = data.allVotes;
+            votesHeader = data.votesHeader;
 
-                populateTable(allResolutions);
+            populateTable(allResolutions);
+            handleRouting();
 
-                // Check for URL parameter for direct link from nation-search.html
-                const urlParams = new URLSearchParams(window.location.search);
-                const prefillId = urlParams.get('id');
-                if (prefillId) {
-                    renderDetailContent(prefillId);
-                }
+        } catch (error) {
+            console.error("Error initializing index page:", error);
+            document.getElementById('resolutions-table-body').innerHTML = '<tr><td colspan="5">Error loading data. Check console for details.</td></tr>';
+        }
+    }
 
-            } catch (error) {
-                console.error("Error initializing index page:", error);
-                document.getElementById('resolutions-table-body').innerHTML = '<tr><td colspan="5">Error loading data. Check console for details.</td></tr>';
+    /** Populates the resolution table with filtered or all data. */
+    function populateTable(resList) {
+        const tbody = document.getElementById('resolutions-table-body');
+        tbody.innerHTML = '';
+
+        // Sort by promoted timestamp descending
+        resList.sort((a, b) => parseInt(b.promoted) - parseInt(a.promoted));
+
+        resList.forEach((res, index) => {
+            const row = tbody.insertRow();
+            row.className = (index % 2 === 1) ? 'grey-background' : '';
+
+            row.insertCell().textContent = res.date_part;
+            row.insertCell().textContent = getChamber(res.council);
+
+            let cell = row.insertCell();
+            const link = document.createElement('a');
+            link.href = `#res=${res.id}`;
+            link.textContent = res.name;
+            link.onclick = (e) => {
+                e.preventDefault();
+                showDetailView(res.id);
+            };
+            cell.appendChild(link);
+
+            row.insertCell().innerHTML = generateAuthorLinksHTML(res.proposed_by);
+            row.insertCell().innerHTML = `${generateAuthorLinksHTML(res.coauthor)}`;
+        });
+    }
+
+    /** Filters the resolutions table based on author and keyword input. */
+    function filterResolutions() {
+        const keyword = document.getElementById('id_keyword').value.toLowerCase();
+        const author = document.getElementById('id_author_name').value.toLowerCase();
+
+        const filtered = allResolutions.filter(res => {
+            const titleMatch = res.name.toLowerCase().includes(keyword);
+            const authorMatch = res.proposed_by.toLowerCase().includes(author) ||
+                (res.coauthor && res.coauthor.toLowerCase().includes(author));
+            return titleMatch && authorMatch;
+        });
+        populateTable(filtered);
+    }
+
+    /** Changes the HTML to show resolution voting info. */
+    function renderDetailContent(resId) {
+        const res = allResolutions.find(r => r.id === resId);
+        if (!res) return;
+
+        document.getElementById('detail-title').textContent = res.name;
+        const chamber = getChamber(res.council);
+        document.getElementById('detail-metadata').innerHTML =
+            `The ${chamber} resolution (ID: ${res.id}) was authored by ${generateAuthorLinksHTML(res.proposed_by)} ` +
+            (res.coauthor ? `(Co-authors: ${generateAuthorLinksHTML(res.coauthor)}) ` : '') +
+            `and promoted on ${res.date_part} (UTC).`;
+
+        const resLink = `https://ifly6.no-ip.org/wa-proposal/${res.id}/`;
+        document.getElementById('detail-link').href = resLink;
+
+        const votersFor = [];
+        const votersAgainst = [];
+
+        allVotes.forEach(nationVoteRecord => {
+            const nationId = nationVoteRecord.nation_id;
+            const vote = nationVoteRecord[resId];
+            if (vote === '1') {
+                votersFor.push(nationId);
+            } else if (vote === '0') {
+                votersAgainst.push(nationId);
             }
+        });
+
+        const nfObject = new Intl.NumberFormat('en-US')
+        const totalVoters = votersFor.length + votersAgainst.length
+        document.getElementById('voted-for-hd').textContent = `Nations Voted FOR (${nfObject.format(votersFor.length)} nations, ${(votersFor.length / (totalVoters) * 100).toFixed(2)}%)`
+        document.getElementById('voted-against-hd').textContent = `Nations Voted AGAINST (${nfObject.format(votersAgainst.length)} nations, ${(votersAgainst.length / (totalVoters) * 100).toFixed(2)}%)`
+
+        const ulFor = document.getElementById('voters-for');
+        const ulAgainst = document.getElementById('voters-against');
+        const mapVoter = n => `<li><a href="#nation=${encodeURIComponent(n)}">${n.replace(/_/g, ' ')}</a></li>`;
+        ulFor.innerHTML = votersFor.map(mapVoter).join('');
+        ulAgainst.innerHTML = votersAgainst.map(mapVoter).join('');
+
+        hideAllViews();
+        document.getElementById('resolution-detail-view').style.display = 'block';
+        window.scrollTo(0, 0);
+    }
+
+    /** Shows the detailed view for a specific resolution ID. */
+    function showDetailView(resId) {
+        window.location.hash = `res=${resId}`;
+    }
+
+    /** Hides the resolution details and shows list */
+    function renderListContent() {
+        hideAllViews();
+        document.getElementById('resolutions-list-view').style.display = 'block';
+        window.scrollTo(0, 0);
+    }
+
+    /** Switches back to the main list view. */
+    function showListView() {
+        window.location.hash = 'resolutions';
+    }
+
+    /** Nation Search Logic */
+    function renderNationSearchContent(nationId = null) {
+        hideAllViews();
+        document.getElementById('nation-search-view').style.display = 'block';
+        if (nationId) {
+            document.getElementById('nation_id_search').value = decodeURIComponent(nationId).replace(/_/g, ' ');
+            searchNationVotes();
+        }
+        window.scrollTo(0, 0);
+    }
+
+    function showNationSearchView() {
+        window.location.hash = 'nations';
+    }
+
+    function searchNationVotes() {
+        const searchInput = document.getElementById('nation_id_search').value.trim();
+        const nationIdSearch = searchInput.toLowerCase().replace(/ /g, '_');
+        const resultDiv = document.getElementById('nation-votes-result');
+        resultDiv.innerHTML = '';
+
+        if (!nationIdSearch) {
+            resultDiv.innerHTML = '<p>Please enter a nation ID.</p>';
+            return;
         }
 
-        /** Populates the resolution table with filtered or all data. */
-        function populateTable(resList) {
-            const tbody = document.getElementById('resolutions-table-body');
-            tbody.innerHTML = '';
+        // Update hash without triggering reload if possible, but hash change is fine
+        window.location.hash = `nation=${encodeURIComponent(nationIdSearch)}`;
 
-            // Sort by promoted timestamp descending
-            resList.sort((a, b) => parseInt(b.promoted) - parseInt(a.promoted));
+        const nationVotesRecord = allVotes.find(record => record.nation_id === nationIdSearch);
 
-            resList.forEach((res, index) => {
-                const row = tbody.insertRow();
-                row.className = (index % 2 === 1) ? 'grey-background' : '';
+        if (!nationVotesRecord) {
+            const options = { includeScore: true, keys: ['nation_id'], threshold: 0.6 };
+            const fuse = new Fuse(allVotes, options);
+            const result = fuse.search(nationIdSearch);
 
-                row.insertCell().textContent = res.date_part;
-                row.insertCell().textContent = getChamber(res.council);
-
-                let cell = row.insertCell();
-                const link = document.createElement('a');
-                link.href = "#";
-                link.textContent = res.name;
-                link.onclick = (e) => {
-                    e.preventDefault();
-                    showDetailView(res.id);
-                };
-                cell.appendChild(link);
-
-                row.insertCell().innerHTML = generateAuthorLinksHTML(res.proposed_by);
-                row.insertCell().innerHTML = `${generateAuthorLinksHTML(res.coauthor)}`;
-            });
-        }
-
-        /** Filters the resolutions table based on author and keyword input. */
-        function filterResolutions() {
-            const keyword = document.getElementById('id_keyword').value.toLowerCase();
-            const author = document.getElementById('id_author_name').value.toLowerCase();
-
-            const filtered = allResolutions.filter(res => {
-                const titleMatch = res.name.toLowerCase().includes(keyword);
-                const authorMatch = res.proposed_by.toLowerCase().includes(author) ||
-                    (res.coauthor && res.coauthor.toLowerCase().includes(author));
-                return titleMatch && authorMatch;
-            });
-            populateTable(filtered);
-        }
-
-        /** Changes the HTML to show resolution voting info. */
-        function renderDetailContent(resId) {
-            const res = allResolutions.find(r => r.id === resId);
-            if (!res) return;
-
-            document.getElementById('detail-title').textContent = res.name;
-            const chamber = getChamber(res.council);
-            document.getElementById('detail-metadata').innerHTML =
-                `The ${chamber} resolution (ID: ${res.id}) was authored by ${generateAuthorLinksHTML(res.proposed_by)} ` +
-                (res.coauthor ? `(Co-authors: ${generateAuthorLinksHTML(res.coauthor)}) ` : '') +
-                `and promoted on ${res.date_part} (UTC).`;
-
-            const resLink = `https://ifly6.no-ip.org/wa-proposal/${res.id}/`;
-            document.getElementById('detail-link').href = resLink;
-
-            const votersFor = [];
-            const votersAgainst = [];
-
-            allVotes.forEach(nationVoteRecord => {
-                const nationId = nationVoteRecord.nation_id;
-                const vote = nationVoteRecord[resId];
-                if (vote === '1') {
-                    votersFor.push(nationId);
-                } else if (vote === '0') {
-                    votersAgainst.push(nationId);
-                }
-            });
-
-            const nfObject = new Intl.NumberFormat('en-US')
-            const totalVoters = votersFor.length + votersAgainst.length
-            document.getElementById('voted-for-hd').textContent = `Nations Voted FOR (${nfObject.format(votersFor.length)} nations, ${(votersFor.length/(totalVoters) * 100).toFixed(2)}%)`
-            document.getElementById('voted-against-hd').textContent = `Nations Voted AGAINST (${nfObject.format(votersAgainst.length)} nations, ${(votersAgainst.length/(totalVoters) * 100).toFixed(2)}%)`
-
-            const ulFor = document.getElementById('voters-for');
-            const ulAgainst = document.getElementById('voters-against');
-            const mapVoter = n => `<li><a href="nation-search.html?id=${encodeURIComponent(n)}">${n.replace(/_/g, ' ')}</a></li>`;
-            ulFor.innerHTML = votersFor.map(mapVoter).join('');
-            ulAgainst.innerHTML = votersAgainst.map(mapVoter).join('');
-
-            document.getElementById('resolutions-list-view').style.display = 'none';
-            document.getElementById('resolution-detail-view').style.display = 'block';
-            window.scrollTo(0, 0);
-        }
-
-        /** Shows the detailed view for a specific resolution ID. */
-        function showDetailView(resId) {
-            const res = allResolutions.find(r => r.id === resId);
-            if (!res) return;
-
-            window.history.pushState({ id: resId }, res.name, `?id=${resId}`);
-
-            renderDetailContent(resId)
-        }
-
-        /** Hides the resolution details and shows list */
-        function renderListContent() {
-            document.getElementById('resolution-detail-view').style.display = 'none';
-            document.getElementById('resolutions-list-view').style.display = 'block';
-            window.scrollTo(0, 0);
-        }
-        /** Switches back to the main list view. */
-        function showListView() {
-            window.history.pushState({}, "WA Voting Records", window.location.pathname);
-
-            renderListContent()
-        }
-
-        document.addEventListener('DOMContentLoaded', loadData);
-
-        window.onpopstate = function(event) {
-            const urlParams = new URLSearchParams(window.location.search);
-            const id = urlParams.get('id');
-
-            if (id) {
-                // Don't use showDetailView directly since it calls pushState again
-                renderDetailContent(id);
+            if (result.length > 0) {
+                const suggestions = result.slice(0, 5).map(r => r.item.nation_id);
+                let suggestionHtml = `<p>No voting record found for nation ID: ${searchInput}</p><p>Did you mean:</p><ul>`;
+                suggestions.forEach(s => {
+                    const displayName = s.replace(/_/g, ' ');
+                    suggestionHtml += `<li><a href="#nation=${encodeURIComponent(s)}">${displayName}</a></li>`;
+                });
+                suggestionHtml += `</ul>`;
+                resultDiv.innerHTML = suggestionHtml;
             } else {
-                renderListContent()
+                resultDiv.innerHTML = `<p>No voting record found for nation ID: ${searchInput}</p>`;
             }
-        };
-    </script>
+            return;
+        }
+
+        let html = `<h2>Voting record for: <a href="https://www.nationstates.net/nation=${nationIdSearch}">${nationIdSearch.replace(/_/g, ' ')}</a></h2>`;
+        html += `<table class="decorated"><thead><tr><th>Date (UTC)</th><th>Chamber</th><th>Resolution Title</th><th>Author</th><th>Vote</th></tr></thead><tbody>`;
+
+        const resolutionIds = votesHeader.filter(h => h !== 'nation_id');
+        resolutionIds.sort((a, b) => (parseInt(allResolutionsMap[b]?.promoted) || 0) - (parseInt(allResolutionsMap[a]?.promoted) || 0));
+
+        resolutionIds.forEach(resId => {
+            const vote = nationVotesRecord[resId];
+            const res = allResolutionsMap[resId];
+            if (!res) return;
+
+            const voteDisplay = vote === '1' ? 'FOR' : vote === '0' ? 'AGAINST' : 'N/A';
+            const tdClasses = `min vote ${vote === '1' ? 'for' : vote === '0' ? 'against' : ''}`.trim();
+            const chamber = getChamber(res.council);
+
+            html += `<tr>
+                            <td class="min">${res.date_part}</td>
+                            <td class="min">${chamber}</td>
+                            <td><a href="#res=${res.id}">${res.name}</a></td>
+                            <td><a href="#nation=${encodeURIComponent(res.proposed_by)}">${res.proposed_by}</a></td>
+                            <td class="${tdClasses}">${voteDisplay}</td>
+                        </tr>`;
+        });
+
+        html += `</tbody></table>`;
+        resultDiv.innerHTML = html;
+    }
+
+    function hideAllViews() {
+        document.getElementById('resolutions-list-view').style.display = 'none';
+        document.getElementById('resolution-detail-view').style.display = 'none';
+        document.getElementById('nation-search-view').style.display = 'none';
+    }
+
+    function handleRouting() {
+        const hash = window.location.hash;
+        if (hash.startsWith('#res=')) {
+            renderDetailContent(hash.substring(5));
+        } else if (hash.startsWith('#nation=')) {
+            renderNationSearchContent(hash.substring(8));
+        } else if (hash === '#nations') {
+            renderNationSearchContent();
+        } else {
+            renderListContent();
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', loadData);
+    window.onhashchange = handleRouting;
+</script>
 ---
 <div id="resolutions-list-view">
     <h1>Browse resolutions</h1>
@@ -163,41 +243,47 @@ custom_scripts: |
     <form onsubmit="event.preventDefault(); filterResolutions();">
         <table>
             <tbody>
-            <tr>
-                <th><label for="id_author_name">Author name:</label></th>
-                <td>
-                    <input type="text" id="id_author_name" maxlength="40" aria-describedby="id_author_name_helptext">
-                    <br>
-                    <span class="helptext" id="id_author_name_helptext">Search for an author (also includes coauthors)</span>
-                </td>
-            </tr>
-            <tr>
-                <th><label for="id_keyword">Keyword:</label></th>
-                <td>
-                    <input type="text" id="id_keyword" maxlength="60" aria-describedby="id_keyword_helptext">
-                    <br>
-                    <span class="helptext" id="id_keyword_helptext">Search for keyword appearing in proposal title.</span>
-                </td>
-            </tr>
+                <tr>
+                    <th><label for="id_author_name">Author name:</label></th>
+                    <td>
+                        <input type="text" id="id_author_name" maxlength="40"
+                            aria-describedby="id_author_name_helptext">
+                        <br>
+                        <span class="helptext" id="id_author_name_helptext">Search for an author (also includes
+                            coauthors)</span>
+                    </td>
+                </tr>
+                <tr>
+                    <th><label for="id_keyword">Keyword:</label></th>
+                    <td>
+                        <input type="text" id="id_keyword" maxlength="60" aria-describedby="id_keyword_helptext">
+                        <br>
+                        <span class="helptext" id="id_keyword_helptext">Search for keyword appearing in proposal
+                            title.</span>
+                    </td>
+                </tr>
             </tbody>
         </table>
         <input type="submit" value="Filter" onclick="filterResolutions()">
-        <input type="button" value="Clear" onclick="document.getElementById('id_author_name').value=''; document.getElementById('id_keyword').value=''; filterResolutions();">
+        <input type="button" value="Clear"
+            onclick="document.getElementById('id_author_name').value=''; document.getElementById('id_keyword').value=''; filterResolutions();">
     </form>
     <br>
 
     <table class="decorated">
         <thead>
-        <tr>
-            <th>Date (UTC)</th>
-            <th>Chamber</th>
-            <th>Title</th>
-            <th>Author</th>
-            <th>Co-authors</th>
-        </tr>
+            <tr>
+                <th>Date (UTC)</th>
+                <th>Chamber</th>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Co-authors</th>
+            </tr>
         </thead>
         <tbody id="resolutions-table-body">
-        <tr><td colspan="5">Loading data...</td></tr>
+            <tr>
+                <td colspan="5">Loading data...</td>
+            </tr>
         </tbody>
     </table>
 
