@@ -15,7 +15,7 @@ nation_id,varanius_1758501414,tinhampton_1758643240,cretox_state_1758860435,cret
 0ppressastan,,,1,,1,0,,,,,0,,,
 1-502nd_airborne_inf,,0,,,,,,,,,,,,
 118_elements,,,,,0,0,,0,1,,1,1,,1
-11_templar_knights,0,1,1,1,0,0,0,0,,0,1,1,1,
+11_templar_knights,0,1,1,1,0,0,0,0,1,0,1,1,1,1
 132nd_chad_division,,,1,1,,,,,,0,1,,,
 1ammok,,0,,,,,,,,,,,,
 1d5sos,,,0,,,,,,,,,,,
@@ -727,7 +727,7 @@ aweentitante,,0,1,1,0,0,0,0,1,,1,1,1,1
 awesome_lesbianland,1,,,,,,,,1,,,,,1
 awesomeness,1,0,,1,0,0,0,0,1,0,1,1,1,
 awestre_gorend,,,,,0,,,,,,1,,,
-awful_country_to_live_in,1,0,1,1,1,0,0,1,1,1,0,1,0,
+awful_country_to_live_in,1,0,1,1,1,0,0,1,1,1,0,1,0,0
 axdel,,,,1,,,,,,0,,,,
 axelian,,1,,0,0,,0,0,0,0,1,1,1,1
 axelotl,1,1,1,,0,0,1,0,1,0,1,1,1,1
@@ -1167,7 +1167,7 @@ bulgaria20230,,,,1,,,,,,0,,,,
 bullystan,,,,,,,,,1,,,,1,
 bunisia,1,,,,,,,,,,,,,
 buntergue,0,,,,0,,,,,,,,,
-buran_energia,,,,,,0,0,0,,,,1,,
+buran_energia,,,,,,0,0,0,1,,,1,,1
 burback,,,,1,,,,,,,,,,
 burg_land,0,0,1,1,0,0,1,0,1,0,1,1,,1
 burgas-yambol,,,,,,,,,1,,,,,
@@ -2151,7 +2151,7 @@ echothesis,,,,,,,,,,,,,,1
 ecinv,0,1,0,0,0,0,1,,0,0,0,0,,0
 eclil,,,,1,0,0,,0,,0,1,1,,
 eclipse_imperium,0,,,,,1,,,1,,,,,1
-eclovia,,,,1,0,1,,,,,1,,,
+eclovia,,,,1,0,1,,,1,,1,,,1
 ecnav_enitsuj,,,,,,,0,,,,,,,
 ecnesia,1,,,,,,,,,,,,,
 eco-paris_reformation,1,,1,1,,0,0,0,,0,0,1,,
@@ -2659,7 +2659,7 @@ fragevereyland,,0,1,1,0,1,1,0,1,1,1,1,1,1
 fragrancia,,,,,0,0,1,0,0,,,1,1,1
 frailty,,,,,,,,,,,,1,,
 frallissist,,,1,,,,,,,,,,,
-francanada,0,1,0,0,0,1,1,0,,0,0,1,,
+francanada,0,1,0,0,0,1,1,0,0,0,0,1,,1
 franceeurope,,1,0,0,,1,,,,1,,,,
 franea,,,,,,0,,,,,,,,
 frankiemania,1,1,1,1,,0,1,1,1,0,0,1,0,0
@@ -3142,7 +3142,7 @@ grellania,,,1,,,,0,,1,,,,,1
 grenadachevia,,,,,,,,,1,,,,,1
 grentoria,1,1,0,0,0,,,1,1,1,1,,1,
 grenzhia-ghrostvina,,0,1,1,0,0,0,0,1,0,1,1,1,
-grenzinia,1,,1,1,,0,,,,,1,,,
+grenzinia,1,,1,1,,0,,,1,,1,,,1
 gresillia,1,,1,1,0,,,,,0,1,,,
 grest_jjangllia,0,1,1,1,0,0,0,0,1,0,1,1,1,1
 grete_maria,1,,,,,,,,,,,,,
@@ -3469,7 +3469,7 @@ hurpoa,,,1,1,0,,,,,0,1,,,
 hurricane_i,,,,,1,,,,,,1,,,
 husseberg,,0,1,,0,,,0,,,,,1,
 hussija,,,,,,,,0,,,,1,,
-hustlertwo,1,0,0,,,0,,1,,,,1,0,
+hustlertwo,1,0,0,,,0,,1,0,,,1,0,0
 huwdia,,,0,,,,,,,,,,,
 huxley,,,,,,1,,,,,,,,
 huzzahs,,0,,,,,,,,,,,,
@@ -3872,7 +3872,7 @@ kahane_chai,,,,,,,,,1,,,,0,
 kahlmardhani,1,0,1,1,1,0,0,,,0,1,1,,
 kahvistan,,,,,,,,,1,,,,1,
 kaias,,,,,0,,,,,,,,,
-kaidan,1,0,1,1,0,0,0,0,1,0,1,1,1,
+kaidan,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 kaiserburgia,1,1,1,1,0,0,0,0,1,0,1,1,1,1
 kaiyrzgsyzstan,0,1,0,0,0,1,1,0,0,1,1,1,1,1
 kajaria,,,,,,,0,,,,,,,
@@ -3937,7 +3937,7 @@ karsdas,1,0,1,1,0,0,,0,1,0,1,,1,1
 karsinnia,,,0,1,,1,1,,1,0,1,,1,1
 karsovkya,1,0,1,1,0,0,0,,1,0,1,1,1,
 karstmenistan,,,,,,,0,1,,,,1,,
-kartan,,,,1,0,1,,,,0,1,,,
+kartan,,,,1,0,1,,,1,0,1,,,1
 kartauistan,,0,,,,,,,,,,,,
 karthik,,1,,1,,,,,,0,,,,
 karvadar,1,0,0,,0,1,0,,,0,0,1,,
@@ -4074,6 +4074,7 @@ kingdom_of_noobic,,,1,,,,,,,0,,,,
 kingdom_of_rija,,0,,,0,0,0,,1,,1,,1,
 kingdom_of_romar,1,,,1,0,,,,1,0,,,1,1
 kingdom_of_shay,,1,,,,,,,,,,,,
+kingdom_of_staden,,,,,,,,,1,,,,,
 kingdom_of_the_focke-wulf_islands,1,0,,1,1,,,1,1,1,1,0,,
 kingdom_of_the_rook,,,,,,0,,,,,,,,
 kingdom_of_tincart,,,,,,1,0,0,,,,1,1,
@@ -4781,7 +4782,7 @@ mare_e,,,,,,,0,,,,,,,
 marey,,,,,,0,0,1,0,,,,1,
 margala,,1,0,0,0,0,0,0,,,1,,,
 marggadon,1,1,0,1,0,0,0,0,0,0,1,0,1,1
-margoria,1,1,1,1,,,,0,,1,,,1,
+margoria,1,1,1,1,,,,0,1,1,,,1,1
 mari_vale,1,,,,0,0,,0,,,1,1,,
 mariane_islands,,,,,,,,,1,,,,1,0
 mariarty,1,,1,,,,,0,,,,,1,
@@ -7692,7 +7693,7 @@ sunromath,0,,,,,,,0,,,,1,,
 sunseong,,,0,,0,,,,,1,1,,,
 sunset_dawn,,,,1,1,,,,,0,1,,,
 suomaajland,,,,1,0,,0,,,,,,,
-supa_country,,,,,0,0,,,1,,1,,1,
+supa_country,,,,,0,0,,,1,,1,,1,1
 super_3arth,1,0,1,1,0,,,,,,1,,,
 super_democria,1,1,1,1,,,,,,0,,,,
 super_duper_deluxe_awesome_land,,,1,,0,0,,,,,1,,,
@@ -8784,7 +8785,7 @@ tyrels,,,,,,1,0,1,1,,,1,1,
 tyroclausia,1,0,1,1,,0,0,,,0,,1,,
 tyrsbord,1,1,1,1,1,1,1,1,1,0,1,1,1,1
 tyrsen,,,,,,,0,0,1,,,1,1,
-tystan,1,0,1,0,0,0,1,0,,0,1,0,1,
+tystan,1,0,1,0,0,0,1,0,1,0,1,0,1,1
 tyuiopia_2,0,1,0,0,0,,,0,0,1,,1,1,1
 tzafonia,1,0,1,,0,0,,,,,1,,,
 tzechni,1,,,0,1,0,,0,,0,0,0,1,
@@ -8971,7 +8972,7 @@ ununited_nations,,,,,,0,,,,,,,,
 upc,,,,,0,0,0,0,,0,1,1,,1
 upper_agartha,1,0,1,1,0,,,,,1,1,,,
 upper_dernia,,,,1,0,0,1,,,0,1,,,
-upper_got,0,1,1,1,1,0,1,1,,1,0,0,0,
+upper_got,0,1,1,1,1,0,1,1,0,1,0,0,0,1
 upper_ryu_lorty,,0,,,,,,,,,,,,
 uprus,,,1,,,,,,,,,,,
 uragia,1,1,1,,,,,,,1,,,,
@@ -9192,7 +9193,7 @@ vikorund,,,,,,,,,,0,,,,
 vilanaland,,0,,,,,,,,,,,,
 vilant_au_woda,,,,,,0,,,,,,,,
 vile_island,0,1,0,0,0,,1,0,0,1,1,1,1,1
-vileifunitt,,,,,,,,,1,,,,1,
+vileifunitt,,,,,,,,,1,,,,1,1
 villaburgos,,,,,0,,,,,,1,,,
 villasexmir,,,,1,,,,,,0,,,,
 villianastan,,,,,,,,0,,,,,1,
