@@ -1840,7 +1840,7 @@ department_of_wa_affairs,1,,,,,,,,,,,,,
 der_mormia,1,0,1,1,0,,0,,,0,1,1,,
 der_weimar_republik,1,0,1,1,0,0,0,0,1,0,1,1,1,
 derelldia,1,,,,,,0,,,,,,,
-derenus,1,1,1,1,0,0,1,0,1,1,0,0,1,
+derenus,1,1,1,1,0,0,1,0,1,1,0,0,1,1
 derland,,1,,,,,,,,,,,,
 des_sawuzavilockaver_islands,0,1,,0,,1,0,0,,0,,,1,
 desi_brittania,,,,1,,,,,,,,,,
@@ -2927,6 +2927,7 @@ glassland,1,,1,,,0,0,,,,1,,,
 glazania,1,1,1,,,,,,,,,,,
 glazerss,,,1,1,,,,,,0,,,,
 glecia,1,,,,,,,,,,,,,
+glerm,,,,,,,,,1,,,,,1
 gligglesadt,,,1,,,,,,,,,,,
 glisenmark,1,0,,,,,,,,,,,,
 glittering_green,,1,,,0,1,,,1,,,,,
@@ -3020,7 +3021,7 @@ grandena,,,,,,,1,1,,,,1,,
 grandia_1,1,,,,,,,,,,,,,
 grandianan,,,,,0,,,,,,0,,,
 grandocantorica,0,,0,0,0,,,,,0,1,,,
-grandrock,1,0,1,1,,0,0,0,1,0,1,1,1,
+grandrock,1,0,1,1,,0,0,0,1,0,1,1,1,1
 granevia,,1,0,1,0,,1,,,1,1,1,,
 granger_and_the_grange,,,,,,0,,,,,,,,
 granolia,,1,1,0,,,,,,1,,,,
@@ -3582,7 +3583,7 @@ independent_state_of_novgorod,,1,1,,0,0,0,0,1,0,1,1,1,1
 independent_vuran,,,,,,,1,,,,,1,,
 indesputatio,1,0,1,0,1,0,0,1,0,1,0,0,0,0
 indexoptions,,,,,,,0,,1,,,1,,
-indiajwwjwj,1,0,1,1,,,,,1,0,,,,
+indiajwwjwj,1,0,1,1,,,,,1,0,,,,1
 indian_empire,,,,,,,,0,1,0,,1,1,1
 indiguria,1,,,,,,0,,1,,,,,1
 indirapolis,,,1,,,,,,,0,,,,
@@ -3953,7 +3954,7 @@ katseyeworld,,,,,,1,,,,,,,,
 katyusha_empire,,,0,0,0,,,,,,1,,,
 kaufmagne,0,,0,,,,,,,,,,,
 kaulga,,1,1,1,0,0,0,0,1,1,1,1,,1
-kautas,,,,,,,,,1,,,,,
+kautas,,,,,,,,,1,,,,,1
 kavanos,,1,,,,,,,,,,,,
 kavkaziask,,,,,,,,1,,,,,1,
 kawany,,,,,,,,0,1,,,,1,1
@@ -3994,7 +3995,7 @@ kephallogne,,0,1,,,,,,,,,,,
 keplar22,,0,1,,0,,,,,,,,,
 kerbinzia,,,,,,,,1,,,,0,,
 kerisl,,1,1,1,,,,,,0,,,,
-kesho,,1,,1,0,,0,0,1,0,,1,1,
+kesho,,1,,1,0,,0,0,1,0,,1,1,1
 keshue,,,1,1,0,,,,,,1,,,
 kesoia,,,,,,,1,,,,,1,,
 kethania,0,1,0,0,,1,1,,0,0,,0,,1
@@ -4190,7 +4191,7 @@ kramenka,,,1,,,,1,,1,,,,,1
 kranez,1,1,1,1,0,,0,,,,1,1,,
 krankheit,,,,,,,,,,,,,1,
 kransahr,,0,,1,,,0,,,0,,,,
-krapinovka,1,1,,1,0,,0,,1,0,1,1,1,
+krapinovka,1,1,,1,0,,0,,1,0,1,1,1,1
 krarpera,,,,0,0,1,1,0,1,0,1,1,1,1
 kraskutchia,,,,,,,0,0,1,,,1,1,1
 krasnaya_kommissariat_soyuz,1,,,,,,,,,,,,,
@@ -4289,7 +4290,7 @@ labubue,,0,1,,0,,,,,0,1,,,
 labyrnna,,,,,0,0,,0,,,0,,,
 lac_yue,0,,,,,,,,,,,,,
 ladinacem_andia,1,,,,,,,,,,,,,
-ladonatalacton,,,,,,0,,0,,,,,,
+ladonatalacton,,,,,,0,,0,1,,,,,1
 lael_piotr,0,0,1,1,0,1,1,1,1,0,0,1,1,0
 lai_mai_ton,,,,,0,,,,,,1,,,
 laitneiro_alicirga,,,1,,0,1,0,,,,1,,,
@@ -5700,7 +5701,7 @@ nova_auroras,1,,1,1,0,,,,,0,1,,,
 nova_cabralia,1,1,,,,,,,,,,,,
 nova_centauri,,,,1,,,,,,0,,,,
 nova_danzig,1,0,1,1,0,0,0,0,1,,1,1,1,
-nova_earth,,,,,,,,,1,,,,1,
+nova_earth,,,,,,,,,1,,,,1,1
 nova_elisio,,,,,,,,,1,,,,1,1
 nova_enlasia,,0,,,,,,,1,,,,1,
 nova_finis_terrae,1,0,,,,,0,,,,,1,,
@@ -5918,7 +5919,7 @@ oramani,,,,,,1,,,,,,,,
 orandia,,,,,,1,,,,,,,,
 orangefield,,,0,1,0,1,0,0,1,1,0,1,1,
 orasil,1,1,1,1,0,0,1,0,1,0,1,1,1,1
-orastioara,,,,,,1,0,,,,,,,
+orastioara,,,,,,1,0,,1,,,,,1
 orcassia,,,1,1,,,0,,,0,,1,,
 ordent_ratland,1,0,1,,0,0,0,0,1,0,1,1,1,1
 ordes_man_sonchi,,,,1,0,0,0,0,,0,1,,1,
@@ -6243,7 +6244,7 @@ poached_onion,,,,,,,,,1,,,,,1
 podria,1,0,1,0,0,1,,,,0,1,,,
 pogaria,0,,0,0,0,,,0,,,1,,1,
 pogmalaysia,,,1,1,0,0,0,0,,0,1,1,1,
-poiseidonia,1,0,1,1,0,0,0,0,1,0,1,1,1,
+poiseidonia,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 poisonangel,1,,,,,,,0,,,,1,,
 pokemanland,0,1,0,1,0,1,0,,,0,1,1,,
 polabiny,,,1,1,,,,,,0,,,,
@@ -6662,7 +6663,7 @@ reynhold,1,1,,,,,,,,,,,,
 reyun,,,,1,,,,,,0,1,,,
 rezonovia,,,1,,,0,,,,,,,,
 rezvanada,0,,,,,,,,,,,,,
-rhaf,,,0,,0,0,,0,,,,,,
+rhaf,,,0,,0,0,,0,0,,,,,
 rhaza,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 rhazoria,1,1,1,1,0,0,,0,1,0,1,1,1,1
 rheaser,1,1,,,,0,0,0,1,,,1,1,1
@@ -7660,6 +7661,7 @@ suid_holland,1,0,1,0,0,,,0,,0,1,,1,
 sulivannia,1,1,1,1,,,0,0,1,0,,1,1,1
 sullaan,0,1,0,0,0,1,0,0,0,1,1,1,1,1
 sulphur_belt_cities,0,1,,1,0,0,,0,,0,,,,
+sultanate_of_mindanao,,,,,,,,,1,,,,,1
 sumaliya,,,,,,0,,,,,,,,
 sumatra_island,1,0,,,,,,,,,,,,
 sumentala,1,0,1,1,,0,,0,,0,1,,1,
@@ -9183,7 +9185,7 @@ villora,0,1,,,,,1,,,,,,,
 villuri,,,,1,0,,,,,,1,,,
 viltraam,1,,1,,,,,0,1,,,,0,
 viltrum_1,0,0,1,1,0,0,0,0,1,0,1,1,1,1
-vimaran,1,,1,,0,0,0,0,,0,1,,1,
+vimaran,1,,1,,0,0,0,0,1,0,1,,1,1
 vinaboro,0,,,1,0,,1,1,,1,1,1,1,
 vinandia,,,,,,,,,1,,,,,1
 vincone_cae,,,,,,0,,,,,,,,
