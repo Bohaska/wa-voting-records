@@ -749,7 +749,7 @@ azandia,,1,1,1,,,,,,0,,,,
 azekstan,1,0,1,1,0,,,,,0,,,,
 azerrat,1,0,0,0,0,0,0,1,1,1,1,1,0,0
 azflebrigan,1,,1,,0,,0,,1,1,,1,1,1
-azgaaristan,0,1,,,0,,,,,,1,,,
+azgaaristan,0,1,,,0,,,,0,,1,,,1
 azgoghk,,,,1,,,,,,,1,,,
 azharul,,,,,,0,,0,,,,,0,
 azkhel,,,,,,,0,,,,,0,,
@@ -1076,7 +1076,7 @@ boszap,1,0,1,1,0,0,0,,1,0,1,,,1
 botavia,,,,,,,,0,0,,,,1,1
 bouloun,1,,,,,,,,,,,,,
 bourgeoiss,1,,,,,,0,,,,,,,
-bovia_fangum,0,1,1,1,0,0,0,0,1,0,1,1,1,
+bovia_fangum,0,1,1,1,0,0,0,0,1,0,1,1,1,1
 bow_to_ernie,,0,,,,1,,,,,,,,
 bowelle,,,,1,,,,,,,1,,,
 boyarkinskaya,,,,,0,0,,,,,1,,,
@@ -1091,6 +1091,7 @@ bracksnit,1,,,,,0,0,0,,,,,,
 braddos,,0,1,,,,0,,,,,,,
 bradhim,,,0,1,,,,,,0,1,,,
 bragenn,,,,,,0,0,0,,,,1,,
+brainrots,,,,,,,,,0,,,,,1
 brakograd,0,,,,,,,,,,,,,
 bralru,,,,,,,,,1,,,,,1
 brando,1,0,1,1,0,,,0,1,0,1,,1,1
@@ -1185,7 +1186,7 @@ byrat,,,,,0,0,,,,,1,,,
 bystopia,0,,,,,,,,,,,,,
 bytaia,0,,0,,,,0,,,0,,1,,
 bythlan_salmia,1,0,0,1,0,0,0,0,1,0,1,1,1,1
-byzantiium,1,,1,,0,0,0,0,1,0,1,1,1,
+byzantiium,1,,1,,0,0,0,0,1,0,1,1,1,1
 byzantine_redsburry,,,,,1,1,,,,,,,,
 cachard_calia,,1,,,,,,,,,,,,
 cadiona,,,,,,1,,,,,,,,
@@ -2286,6 +2287,7 @@ enfindania,,,1,1,,0,,,,0,1,,,
 engalin,0,1,0,0,0,0,0,0,1,1,0,1,1,1
 engelhardenia,0,1,,1,,0,1,0,1,0,,1,1,1
 england_1,1,1,1,1,1,1,0,0,1,0,1,1,1,1
+england_america,,,,,,,,,1,,,,,1
 england_scotland_wales_and_north_ireland,1,0,,1,,,,,,0,,,,
 england_york,1,0,1,,,,,,,,,,,
 englandera,,,1,,,,,,1,,,,1,
@@ -2861,7 +2863,7 @@ geneseean,1,1,1,1,0,0,0,0,1,0,1,1,0,0
 genesis_fifteen,0,1,0,0,0,,0,0,0,0,1,,,
 genetic_labs_inc,,,1,,,,,0,,0,,,,
 gentry_grove,1,1,1,1,0,0,0,0,1,0,1,1,1,1
-georthia,1,0,,1,0,0,0,0,1,0,1,1,1,
+georthia,1,0,,1,0,0,0,0,1,0,1,1,1,1
 gerbasi,1,,,,,,,,,,,,,
 gerbils_on_crack,,,,,,0,,,,,,,,
 gergerzit,,,,0,,,,,,0,,,,
@@ -3043,7 +3045,7 @@ greaine,,0,1,1,0,0,0,0,1,0,1,1,1,1
 great-virginia,,0,,,,,,,,,,,,
 great_antakia,,0,0,1,0,0,1,0,,1,1,1,1,
 great_askye,1,,,,,,,,,,,,,
-great_aztlatan_commonwealth,,,,1,,,,,1,,1,,,
+great_aztlatan_commonwealth,,,,1,,,,,1,,1,,,1
 great_barvaria,,0,1,1,0,1,0,1,1,0,1,1,1,1
 great_bights_mum,,,,,,,,,,,1,0,,
 great_borelia,,,,,,,,0,1,,,1,1,1
@@ -3373,7 +3375,7 @@ hobbitat,,,,,,,1,,,,,,,
 hobura,,,,,,,,1,1,,,1,1,0
 hochfels,,,,,,,,,,,1,,,
 hodori,,,,,,,,,,,,1,,
-hodynu,1,0,,1,1,,,,,1,1,,,
+hodynu,1,0,,1,1,,,,1,1,1,,,1
 hoffania,1,,,,,,,,,,,,,
 hohenzollers,1,,,,0,,,,,,,,,
 hohenzolliern,,,,,,,1,,,,,,,
@@ -4983,7 +4985,7 @@ minas-tirith,,,,,,0,,,,,,,,
 minbalea,,,1,,,,,,,,,,,
 mindalia,,,,,,0,,,1,,,,0,
 minde,,1,,,,1,0,,,,,1,,
-minecraftiana,,,1,,,,,1,,,,,1,
+minecraftiana,,,1,,,,,1,0,,,,1,1
 minecraftians_of_minecraftia,,0,1,,,,,,,,,,,
 minelegotia_and_equestria,1,0,1,1,0,0,0,0,1,0,1,1,0,0
 mingde,1,0,1,1,0,,0,,,0,1,1,,
@@ -5217,7 +5219,7 @@ nationary,,,,,,,,,,1,,,,
 nationbest,0,1,1,0,,,,,,1,,,,
 nationbest1,,,,0,1,1,0,1,1,1,0,0,0,0
 nationeer,1,0,,1,0,0,0,0,1,0,1,,1,1
-nations_of_canzuk,1,0,1,1,0,0,0,0,,0,1,1,1,
+nations_of_canzuk,1,0,1,1,0,0,0,0,1,0,1,1,1,1
 natit_vakkazi,1,0,1,1,1,0,0,1,1,1,0,0,1,1
 natkr,,0,,,,,,,,,,,,
 natopid,1,,,,,,,0,,,,,1,
@@ -5504,6 +5506,7 @@ newne_carriebean7,,,,,,,,1,,,,,0,
 neworderofgermany,1,1,0,,0,,,,,,,,,
 newpeaceland,,,,,0,,,,,,1,,,
 newport_100s,,,,,,0,0,0,1,,,1,1,
+newrasyidin,,,,,,,,,0,,,,,1
 newtonio,0,1,1,1,0,1,,,,1,1,,,
 nexus_delta,,,1,,,,,,,0,,,,
 nezali,,,,,0,,,,,,1,,,
@@ -5902,7 +5905,7 @@ omnistria,1,0,1,1,0,0,,,,0,,,,
 omnitech,0,0,1,0,0,0,0,0,0,0,1,1,0,0
 omynix,,0,,,,,0,,,,,1,,
 onalandsee,,,1,,,,0,,,0,,,,
-onder_kelkia,,0,1,1,0,0,0,0,1,0,1,,1,
+onder_kelkia,,0,1,1,0,0,0,0,1,0,1,,1,1
 ondre,,,,,0,0,0,,,,1,1,,
 ondromedea,1,0,,,,,,,,,,,,
 one_nation_under_rob,,,,,0,,,,,,,,,
@@ -6538,6 +6541,7 @@ re_dispatch_office,1,,,,,,,,,,,,,
 reader,,,1,,,,,,,,,,,
 readlong,,,,,,,,,,0,,,,
 real_junta_de_marcadores,,,,,1,,,,,,,,,
+reality_warp,,,,,,,,,1,,,,,1
 realm_of_rho,1,,,,,,,0,,,,,1,
 reasonable_union,,,,,,,0,,,,,,,
 rebekn,,,,,0,0,0,0,1,,,,,
@@ -6679,7 +6683,7 @@ rhinosport,1,1,1,1,0,0,0,1,1,0,0,0,1,1
 rhixwen,,,0,,,,,,1,,,,,1
 rhizomerxi,,,,,0,1,0,0,,,1,1,,
 rhoadesia,1,1,1,1,0,0,1,,1,0,,1,,1
-rhoanna,0,,,0,0,,1,0,,0,,,0,
+rhoanna,0,,,0,0,,1,0,0,0,,,0,0
 rhoboeria,,,,,0,0,0,0,1,,1,1,1,
 rhodeesland,,,,,,,,,1,,,,,1
 rhodevus,1,0,1,1,0,0,0,0,1,0,,1,1,1
@@ -6695,6 +6699,7 @@ ricardo_skibidi,,,1,,,,,,,,,,,
 ricel,0,,1,,0,0,0,1,1,,,1,1,0
 rich_people_hate,,0,,,,,,,,,,,,
 richmond_union,1,,1,1,,,0,,1,0,,1,,1
+richy,,,,,,,,,0,,,,,1
 rico_of_port,,0,1,0,,,,,,0,,,,
 ricy_blavalstopia,,0,,,,,,,,,,,,
 ridehale,,,,,,0,,,,,,,,
@@ -7743,7 +7748,7 @@ swoonievile,,,,,,,0,,,,,1,,
 swoopy,,,,,,,,0,,,,,1,
 syaftyn,,,1,1,0,0,0,0,1,0,1,1,1,
 sycorat,,1,0,,,,,,,,,,,
-sycruliovin,1,1,0,,0,0,0,0,,,1,1,,
+sycruliovin,1,1,0,,0,0,0,0,1,,1,1,,0
 sydmark,,1,0,,,,,,,,,,,
 syiarm,,1,,,,,,,,,,,,
 syldis,1,1,1,,1,1,1,,,,1,1,,
@@ -7831,7 +7836,7 @@ taylor_allison_swift,,,,1,,,,,,0,1,,,
 tayron,,,,1,0,1,,,,1,,,,
 tayvis,1,,,,,,,,,,,,,
 tchaikovesky,,,,,,,,,1,,,,,1
-tea_jol,1,,1,1,,0,0,0,,0,,1,1,
+tea_jol,1,,1,1,,0,0,0,1,0,,1,1,1
 teapeneion,,,,,,,0,,,,,,,
 tearn,0,1,,,,,,,,,,,,
 tearnia,,0,,,,,,,,,,,,
@@ -8475,6 +8480,7 @@ the_united_states_of_austin,1,0,1,1,0,0,,,,0,1,,,
 the_united_terran_syndicates,0,,,,,,,,,,,,,
 the_university_of_tokyo,,,,,,,,0,,,,,,
 the_unsuspicious_butterfly,,,,1,,,,,,0,,,,
+the_upper_cilikar,,,,,,,,,1,,,,,1
 the_ussr_rebirth,,,1,1,1,0,1,1,,0,1,1,1,
 the_utes,0,1,0,0,0,0,0,0,0,0,1,1,0,0
 the_utopic_tyrant_dreams,,,,,1,,,,,,0,,,
@@ -8490,7 +8496,7 @@ the_vergville,1,,,,,,,0,,,,,1,
 the_viiiminnians,0,0,0,,,,,,,,,,,
 the_voices_are_alive,,,,,,0,0,,,,,,,
 the_void_cometh,,,1,,,,,,,,,,,
-the_voltarum,,1,0,1,0,,0,0,1,0,1,1,1,
+the_voltarum,,1,0,1,0,,0,0,1,0,1,1,1,1
 the_waffle_pockets,,,,,,,0,0,,,,1,1,
 the_warriors_of_determination,1,0,1,1,0,0,1,,,0,1,,,
 the_washington_federation,1,0,1,1,,0,,0,1,0,,1,1,1
@@ -8529,7 +8535,7 @@ thelank,,,,,,,0,,,,,1,,
 thelic_pearia,,,,,0,0,,,,,1,,,
 thelskwaringica,,,1,,,,,0,,,,,1,
 themis_serne,,,1,,,,,,,0,,,,
-themyscyra,,,,,,1,,0,,,,1,1,
+themyscyra,,,,,,1,,0,1,,,1,1,1
 thenarthican,1,1,,0,1,1,,,,0,1,,,
 theocratic_conservistan,,,1,1,0,0,,,,0,1,,,
 theologos,1,,,,,,,,,,,,,
@@ -8605,6 +8611,7 @@ tiodann,1,1,1,1,0,,0,1,1,0,0,1,1,1
 tipsytopia,,1,0,,,,,,,,,,,
 tir_gaelach,0,1,0,0,0,0,0,0,0,0,1,1,1,1
 tir_rois,,,,,,,0,0,1,,,1,1,1
+tirakin,,,,,,,,,1,,,,,1
 tiranat,,,,,,,0,0,1,,,1,1,1
 tircis,1,1,1,1,,,,,,0,,,,
 tircoru,,,0,,,,,,,,,,,
