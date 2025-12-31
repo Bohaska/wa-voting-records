@@ -654,7 +654,7 @@ atlanticium,0,1,0,0,0,,0,0,0,0,0,0,1,1,1
 atlantisa,,0,,,,,,,,,,,,,
 atlantyda,,,,,,,,,0,,,,,,0
 atlorland,1,0,,,,,,,,,,,,,
-atomic_garden,0,,,,,0,,0,1,,,,1,0,
+atomic_garden,0,,,,,0,,0,1,1,,,1,0,0
 atomicbomba,1,1,1,1,0,0,0,0,1,1,0,0,1,1,1
 atralasia,,,,,,1,0,,,,,,1,,1
 atremis,1,,,,,,,,,,,,,,
@@ -809,7 +809,7 @@ balban,1,0,1,1,1,0,1,0,1,1,1,0,1,1,1
 baldorium,1,1,1,1,0,0,0,0,1,0,0,1,1,1,1
 balgala,1,,,,,0,,,,,,,,,
 balgavia,1,0,1,,,,,,,,,,,,
-balibistan,,,,,,0,0,0,,,,,1,,
+balibistan,,,,,,0,0,0,,1,,,1,,1
 ball_cra_sec,0,,,1,0,,0,,,,0,,,,
 ballaria,0,0,1,1,0,0,0,0,1,1,0,1,1,1,1
 ballotonia,0,1,0,0,0,1,1,0,0,0,0,1,1,1,1
@@ -1493,7 +1493,7 @@ claysville,0,0,1,1,0,1,0,0,1,0,1,1,1,1,1
 clementine_islands,,,,,,,,0,,1,,,,1,
 clepton,,,,,,,,,,,0,,,,
 cleptonia,,,,1,1,0,,,,,,1,,,
-clialaad,0,0,1,0,0,0,0,,1,,0,1,1,1,1
+clialaad,0,0,1,0,0,0,0,,1,0,0,1,1,1,1
 clievere,0,1,0,1,0,0,,,,,0,1,,,
 clingy,,1,1,,0,0,1,0,,1,,0,1,,0
 cliyf_drines,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
@@ -1797,7 +1797,7 @@ de_socialistische_nederlanden,1,,,1,,,,,,,1,,,,
 deagandia,,1,,,,1,,,,,,,,,
 deamaria,1,0,1,1,0,,0,0,1,,0,1,1,1,1
 deathmurdertopialand,1,0,,,,,,1,,,,,1,,
-debarashtra,1,0,1,,,0,,0,,,0,,,1,
+debarashtra,1,0,1,,,0,,0,,1,0,,,1,
 deblar,1,,,,,,,,,,,,,,
 decacon,,,,,,,,,,,,1,1,,1
 decimus_maximus,,,,,0,1,1,,,,,1,1,,
@@ -2274,7 +2274,7 @@ elidian,1,1,1,1,1,,1,,,,1,1,,,
 elifrieden,,,,1,0,0,,,,,0,1,,,
 elihapan,,,,1,0,,,,,,0,1,,,
 elisabethshagen,1,1,0,1,0,0,0,0,1,1,0,1,1,1,1
-elissian,,,,,,,,,,,,,1,,
+elissian,,,,,,,,,,,,,1,,1
 elistiria,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1
 elite,,,,,,,,,,,,1,,,
 eljefe,,,,,,,,,1,,,,,,
@@ -2392,7 +2392,7 @@ estados_socialistas_independentes,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1
 estados_socialistas_unidos_de_iberia,1,1,0,1,0,0,0,0,1,1,0,1,1,1,1
 estagrand,,,,,,,0,,1,,,,1,,1
 estalicia,,,,,,,,0,,,,,,1,
-estalora,1,0,,,0,0,0,0,1,,,,1,1,1
+estalora,1,0,,,0,0,0,0,1,1,,,1,1,1
 estellan,1,,1,1,0,,0,0,1,1,0,1,1,1,1
 estellari,,,,,0,,,,,,,,,,
 esteneng,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1
@@ -2662,7 +2662,7 @@ foola,,,,,,0,,,,,,,,,
 foolsbane,,,,,,0,,,,,,,,,
 foraldn,,0,0,0,0,,0,0,0,,1,1,0,1,1
 forcaforta,,1,,,,1,,,1,,0,,,,1
-forfishing,1,1,1,0,0,0,1,1,1,1,0,1,1,1,0
+forfishing,1,1,1,0,0,0,1,1,1,1,0,1,1,1,1
 forgawik,1,1,0,0,0,0,0,0,1,1,1,,1,,
 forgin,,,,,,,,,,,0,,,,
 forgoriton,1,,,,0,,,,,,,1,,,
@@ -2793,7 +2793,7 @@ frostilandia,,0,1,0,,,,,,,,1,,,
 frostline,,,1,,,0,0,,,,,,,,
 frosty_orbit,1,0,1,1,0,0,0,0,1,,0,1,1,1,1
 frothensia,0,0,1,1,0,0,0,,,1,0,1,1,,1
-froybia,,,1,,,,1,,,,0,,1,,
+froybia,,,1,,,,1,,,,0,,1,,1
 frozen_crown,,,1,1,,0,,,,,0,,,,
 fruit_kingdom,1,0,,,,,,,,,,,,,
 fruit_ninja,,,,,,,,,,,,1,,,
@@ -2810,7 +2810,7 @@ fumodumo,,,,1,0,,,,,,,1,,,
 fund_of_the_king,1,0,,1,0,0,0,1,1,0,0,1,1,1,1
 funkadelia,,,,,,0,,,,,,,,,
 funnle_kake,1,,,,,,0,0,1,1,,,1,1,1
-furballland,,,,1,,0,1,0,1,,0,,1,1,1
+furballland,,,,1,,0,1,0,1,0,0,,1,1,1
 furcoverd,,,,,1,0,0,,,,,0,0,,
 furilisca,1,1,1,1,0,,0,,,,0,1,1,,
 furiso,,,,,,,,,1,,,,,,
@@ -3658,7 +3658,7 @@ indochinese_commune,,,,,,,1,,1,1,,,1,1,
 industric,0,1,,,,1,,0,,,,,1,1,
 industriush,,,,1,0,0,,,,,,1,,,
 inera,,1,,,,,,,,,,,,,
-ineritia,0,1,0,0,0,1,0,0,1,,0,0,1,1,
+ineritia,0,1,0,0,0,1,0,0,1,0,0,0,1,1,1
 ineva,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0
 inevitable_poverty,1,1,1,1,0,0,0,0,1,,0,1,1,1,1
 infect,,,,,,0,1,,,,,,1,,
@@ -4108,7 +4108,7 @@ kilowatt,,,,,,,,,1,,,,,,
 kilpatricka,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1
 kilpe,1,0,1,1,0,0,1,0,1,1,0,,1,1,1
 kilrymont,,0,,,,,,,,,,,,,
-kimderlopia,,,0,,,,,0,,1,,,,,
+kimderlopia,,,0,,,,,0,,1,,,,,1
 kimjonilia,,,,1,,,,0,,,0,,0,1,
 kimoia,1,0,1,1,0,1,0,0,1,1,0,1,1,1,0
 kimonoko,1,,,1,,0,0,,,,0,,1,,
@@ -5686,7 +5686,7 @@ norilskia,,,,,,,,,1,1,,,,,1
 norim_selen,,,,1,,,,,,,,,,,
 norland_angre,1,0,0,,0,,,,,,0,1,,,
 norrskog,,,,,,,,,,0,,,,,0
-nortallius,0,0,1,0,0,1,0,0,1,,1,0,,1,1
+nortallius,0,0,1,0,0,1,0,0,1,0,1,0,,1,1
 norte_de_america,,0,,,,,,,,,,,,,
 north-west_commland,1,0,1,1,0,,,,,,0,0,,,
 north-west_commland_overseas_embassy,,,,,,0,1,1,1,1,,,0,1,
@@ -6782,7 +6782,7 @@ revolutional_union_of_soviets,,,,1,0,1,,,,,,1,,,
 revolutionary_anarchy,0,0,0,1,0,1,0,0,1,1,1,0,1,1,1
 revostonia,,,,,,,,0,,,,,,1,
 rexx,,,,,,,,,,,,,0,,
-rexxas,1,0,1,,,,,0,,,,,,1,
+rexxas,1,0,1,,,,,0,,1,,,,1,1
 reyalda,1,,1,,,,0,,1,,,,,,
 reynhold,1,1,,,,,,,,,,,,,
 reyun,,,,1,,,,,,,0,1,,,
@@ -6864,7 +6864,7 @@ roeder,,,,,,,,0,,,,,,,
 roemah,0,1,0,1,0,,,,,,0,,,,
 rogram,,,0,,,,,,,,,,,,
 rogramme,,1,,,,,,,,,,,,,
-rogue_river,,,,,,,0,,,,,,1,1,1
+rogue_river,,,,,,,0,,,1,,,1,1,1
 roguncrantio,,,,,,,1,,1,,,,1,1,
 rohai,,,1,,,,0,,,,,,1,,
 roisin_dubh,,,0,,,,,0,,,,,,1,
@@ -6954,6 +6954,7 @@ rumargan,,0,,1,1,0,0,1,1,1,0,1,1,0,0
 rumine,1,1,1,1,0,,,,,,0,1,,,
 rupania,,,,,0,,,,,,,,,,
 rusivit,,,,,0,,0,,,,,0,,,
+ruskieland,,,,,,,,,,0,,,,,1
 rusozak,1,0,1,1,0,0,0,0,1,1,1,1,1,1,1
 russcopia,,,1,,,0,,,,,,,,,
 russian_archangelsk,,,,,0,,,,,,,1,,,
@@ -7406,7 +7407,7 @@ skideda,,,0,,,,,,,,0,,,,
 skijuunechiland,1,,,,,,,,,,,,,,
 skittles_lands,,,,1,,,,,,,,,,,
 skjeldmark,0,1,0,,,1,,,,,,,,,
-skjoldenmark,1,0,1,1,0,0,0,0,1,,0,1,1,1,
+skjoldenmark,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1
 skonfederowane_makroregiony,0,1,1,0,0,1,1,,1,1,1,0,1,1,1
 skookiea,1,,1,1,0,,,,,,1,1,,,
 skotteria,1,0,1,,0,,0,,1,,,1,,,1
@@ -7468,7 +7469,7 @@ snestar,,,,1,,,,,,,,,,,
 snevleton,,,1,1,,,,,,,1,,,,
 sngerlarsimaffik,1,,,,,,,,,,,,,,
 snorlaxia,1,0,1,,0,0,0,,,,,,1,,
-snout,,,,,,,,0,1,,,,,1,1
+snout,,,,,,,,0,1,0,,,,1,1
 snowza,,,0,,,,,,,,0,,,,
 so_called_hater,,0,,,,,0,1,,1,,,0,,1
 soantrias,,,,,,,1,,,,,,,,
@@ -9004,7 +9005,7 @@ union_of_slavicness,,,,,0,,,,,,,,,,
 union_of_the_canelists_of_forver_soda,,,,,,,,1,,,,,,1,
 union_of_zhaonan,,,,1,0,0,,0,,1,1,1,1,0,0
 unisiara,0,1,,0,0,,,,,,,,,,
-unitacee,,,,,0,1,1,0,0,,,,1,1,1
+unitacee,,,,,0,1,1,0,0,1,,,1,1,1
 unitan_republic,1,,1,,1,0,0,1,,,,0,1,,
 unitava,,,,1,,,,,,,,,,,
 unite_commune,1,,,,,,,,,,,,,,
@@ -9198,7 +9199,7 @@ valle_de_trucha,,,,0,,,,0,0,,,,1,,0
 valles_stellarum,,,,,,,0,0,,,,,,1,
 valmorath,,,,,,,,0,,,,,,1,
 valmorea,1,0,,,,,0,0,1,1,,,1,1,1
-valokstal,,,,,1,,,,0,,,,,1,0
+valokstal,,,,,1,,,,0,0,,,,1,0
 valonian_states,1,0,,1,0,,,0,,,0,1,1,,
 valorensia,0,1,1,1,0,1,0,0,1,,0,,1,1,1
 valoretia,,,,,,,0,1,1,,,,1,,0
