@@ -433,7 +433,7 @@ anti-void,,,,,,,,,,1,,,,,,
 anticorruption,,,1,0,,,,,,,0,0,,,,
 antilu,,1,1,,,,,0,1,1,,,,1,,
 antons_key,0,0,,0,0,1,1,0,0,0,1,1,1,0,0,0
-antontia,0,0,0,0,1,0,1,0,0,1,0,1,0,1,0,
+antontia,0,0,0,0,1,0,1,0,0,1,0,1,0,1,0,1
 antoraska,,,1,,,,,,,,,,,,,
 antrania,,,,,0,1,1,,,,,1,,,,
 anuadh,0,1,1,1,1,1,0,,,1,0,0,0,,1,1
@@ -525,7 +525,7 @@ argondy,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1
 arguara,1,1,1,,,,,,,,,,,,,
 argumeny,,0,1,1,1,,,,,,1,1,,,,
 argylia,,,,,1,,,1,,,,0,,,,
-ariaf,1,0,1,1,0,0,,,1,,0,1,,,,
+ariaf,1,0,1,1,0,0,,,1,1,0,1,,,,1
 ariklancere,0,,,,,,,,,,,,,,,
 ariner,,,,1,0,0,,0,,,,1,1,,,
 arirals,,1,,,,0,,,,,,,,,,
@@ -843,7 +843,7 @@ bareu,1,1,1,1,,1,0,0,1,1,0,1,1,1,1,
 barfleur,0,,,,0,,0,,,,,,0,,,
 barishka,,,,,1,,,,,,,1,,,,
 barredo,1,0,1,1,0,0,0,1,,1,0,1,1,,1,1
-barrnary,,0,1,1,0,,,0,1,,0,,,1,1,
+barrnary,,0,1,1,0,,,0,1,1,0,,,1,1,1
 barrow_cove,,,,,,0,0,,,,,1,,,,
 bartonia_nova,0,0,1,1,,0,0,0,1,1,,1,1,0,0,
 barvo,1,,1,1,0,,,,1,,1,1,,,1,
@@ -952,7 +952,7 @@ bhadno,,,,,,,,,,0,,,,,,1
 bhagyanagar,,,,,,,0,0,,,,,1,1,,
 bhang_bhang_duc,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1
 bharat_3,1,0,,,,,,,,,,,,,,
-bharat_desham,0,0,,0,,1,1,0,1,,,0,0,,1,
+bharat_desham,0,0,,0,,1,1,0,1,1,,0,0,,1,0
 bharathvarsh,1,0,1,1,0,0,0,0,1,,0,1,1,1,,
 bharatvarshey,,,,1,0,0,1,1,0,1,1,1,1,1,1,
 bhuten,,,1,,,,,,,,,,,,,
@@ -1004,7 +1004,7 @@ black_army_territories,,1,,1,0,1,,,,,1,,,,,
 black_cimeter,,,1,1,1,0,1,1,,,0,1,0,,,
 black_duncan,0,0,0,1,,,,,,,0,,,,,
 black_ivars,,0,0,,0,,0,0,0,,,0,0,0,0,
-blackblicky,1,0,1,1,0,0,0,1,,1,0,1,1,1,1,
+blackblicky,1,0,1,1,0,0,0,1,,1,0,1,1,1,1,1
 blackoutfire,,,,1,0,0,,,,,0,1,,,,
 blackrock_finance,,,,,1,,,,,,,,1,,,
 blackrock_mountain,,,1,1,0,0,,,1,,0,1,,,1,
@@ -1570,6 +1570,7 @@ communist_crackous,,1,,,,0,,0,,1,,,1,,,1
 communist_new_island,1,,1,,,,0,1,1,1,1,,1,,,
 communist_qing,,1,,,,,,,,,,,,,,
 communist_volkstrad,1,,,,1,,,,,0,,0,,,,
+communistchina,,,,,,,,,,1,,,,,,
 communitarian_states,1,1,1,1,0,,,0,1,1,0,,1,1,,
 compakt_repsublic,,,1,1,1,1,0,0,1,,0,,1,1,1,
 compnisam,,,,1,,,,,,,,,,,,
@@ -3093,7 +3094,7 @@ grand_republic_of_dave,,1,,1,,,,,,,1,,,,,
 grand_south_ssr,,,,,0,,,,,,,,,,,
 grand_technate_of_the_new_world,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1
 grand_wisteria,1,1,0,0,0,1,1,0,0,0,0,0,0,1,1,1
-grande_est,,1,1,1,0,1,0,0,1,1,0,1,1,1,1,
+grande_est,,1,1,1,0,1,0,0,1,1,0,1,1,1,1,1
 grande_guanabara,0,0,1,1,0,0,0,0,1,0,0,1,1,0,1,1
 grande_imperio_leonino,1,0,1,1,0,0,0,0,1,,0,1,1,1,,
 grandena,,,,,,,1,1,,,,,1,,,
@@ -3432,7 +3433,7 @@ hihihihihiiiii,1,0,1,,,,,,,,,,,,,
 hijfar,,,,,0,,0,,,,,,,,,
 hijjma,,,,1,,,,,,,,,,,,
 hikasun,,,1,,,,,,,,,,,,,
-hilagang_bituin,0,,1,1,0,,,0,1,,0,,1,1,1,
+hilagang_bituin,0,,1,1,0,,,0,1,1,0,,1,1,1,1
 hileville,,,,1,0,0,0,0,1,1,0,1,0,0,0,
 hillandia,,,,,,,,0,,,,,1,,,
 hille_islands,,0,,,,,,,,,,,,,,
@@ -3734,7 +3735,7 @@ intion_north,,,,,,0,0,0,,,,,,1,,
 investment_bankers,,,,,,,0,,1,,,,1,1,,
 invicterra,,,,,,1,,,,,,,,,,
 ioavollr,,,,,0,,,,,,,,,,,
-iona-ropa,1,0,0,1,0,,0,0,1,,0,1,,0,0,
+iona-ropa,1,0,0,1,0,,0,0,1,0,0,1,,0,0,0
 ionistan,1,,,,,,,0,,,,,,0,,
 ionysia,1,,,,,,0,1,,,,,,,,
 ioresca,,,,,,,,,,1,,,,,,
@@ -4389,6 +4390,7 @@ la_baja_california,1,0,1,1,0,0,0,0,1,,0,1,1,1,1,
 la_catalina,1,0,,,,,,,,,,,,,,
 la_france_sociale,1,,,,,1,,0,,,,1,1,,,
 la_mismidad,,,1,,,,,,,,,,1,,,
+la_naval_de_manila,,,,,,,,,,1,,,,,,1
 la_rez,1,,,,,,,,,,,,,,,
 la_xinga,1,0,1,1,1,0,0,1,1,1,0,1,1,1,0,1
 labix,,,,,,0,,,,,,,,,,
@@ -4734,7 +4736,7 @@ lupusterra,,,1,0,0,0,0,0,,1,0,1,1,1,1,1
 luque_and_ramberian,,,,,,0,0,,,,,,,,,
 lurraterra,,,,,,,,0,,,,,,1,,
 lurusitania,1,0,1,1,0,0,1,,,,0,1,1,,,
-lusanthria,1,0,0,0,1,1,,1,0,,1,1,,0,0,
+lusanthria,1,0,0,0,1,1,,1,0,0,1,1,,0,0,1
 lushiania,1,,,,,,,,,,,,,,,
 lusianie,,,0,,,,,,,,,,,,,
 luso-hispania,1,0,1,1,1,1,,,,,0,,,,,
@@ -6639,7 +6641,7 @@ qusban,,1,0,0,,,,,,,1,,,,,
 qwertian,,1,,,,0,,,,,0,,1,1,,
 qwitzikaka,1,1,1,1,0,1,,0,,,1,1,1,,,
 qyra,1,1,1,1,1,1,,1,1,,1,1,,1,1,
-r_h_o_m_a_n_i_a,,0,,,0,,1,,1,,,0,1,1,,
+r_h_o_m_a_n_i_a,,0,,,0,,1,,1,0,,0,1,1,,0
 racatonia,,,,1,0,,,,,,0,0,,,,
 raccland,,,,,,,1,1,1,1,,,0,1,1,
 raccquesi,,0,1,1,0,,,0,,,,1,1,,,
@@ -7016,7 +7018,7 @@ rumargan,,0,,1,1,0,0,1,1,1,0,1,1,0,0,0
 rumine,1,1,1,1,0,,,,,,0,1,,,,
 rupania,,,,,0,,,,,,,,,,,
 rusivit,,,,,0,,0,,,,,0,,,,
-ruskieland,,,,,,,,,,0,,,,,1,
+ruskieland,,,,,,,,,,0,,,,,1,1
 rusozak,1,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1
 russcopia,,,1,,,0,,,,,,,,,,
 russian_archangelsk,,,,,0,,,,,,,1,,,,
@@ -7107,7 +7109,7 @@ sakobell,1,1,0,1,0,0,1,0,1,,0,1,1,1,1,
 sakretia,,,,,0,,0,,,,,0,,,,
 sakuralis,1,,,,,,,,,,,,,,,
 sakuranoha,,1,,1,0,,,1,,,1,1,,1,,
-sakurielle,,,,,,0,0,0,1,1,,,1,1,1,
+sakurielle,,,,,,0,0,0,1,1,,,1,1,1,1
 sal_vikoland,,,,,,,,,,1,,,,,1,1
 salagavanya,,1,1,1,,,0,0,1,1,0,1,1,1,1,1
 salairat,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1
@@ -8250,7 +8252,7 @@ the_dimensional_coalition,,,,,,,1,,,,,,,,,
 the_discipled,,,,1,,,,,1,,0,,,,,
 the_divin_fist,1,0,1,1,0,,1,,,,1,,0,0,,
 the_doa,,,,0,0,0,1,0,0,0,,1,,1,1,
-the_dolein,0,1,0,1,0,0,1,0,1,,0,1,1,1,1,
+the_dolein,0,1,0,1,0,0,1,0,1,1,0,1,1,1,1,1
 the_dome,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1
 the_dominion_of_the_asmor_federation,,,,,,,,,,,,,,,0,
 the_dominion_of_the_asmorian_kingdom,,,1,,,0,1,,,0,0,1,,,,1
@@ -8632,7 +8634,7 @@ the_summerset_islands,,,,,0,0,,,,,,,,,,
 the_sun_on_rise,0,1,0,1,1,0,0,0,1,1,1,1,1,1,1,1
 the_supersteses,1,1,1,1,1,,,,,,0,1,,,,
 the_supreme_empraik_of_honchland,,,,,,,1,0,,,,,1,1,,
-the_supreme_ordi,,,,,,,,,1,,,,,,,
+the_supreme_ordi,,,,,,,,,1,0,,,,,,
 the_supreme_uncs,1,,1,1,0,0,0,,,,0,1,,,,
 the_swiftest_warriors,1,,0,1,0,0,1,,1,,0,1,0,1,1,
 the_talisman,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1
@@ -8704,13 +8706,13 @@ the_university_of_tokyo,,,,,,,,0,,,,,,,,
 the_unsuspicious_butterfly,,,,1,,,,,,0,0,,,,1,
 the_upper_cilikar,,,,,,,,,,,,,,,1,
 the_ussr_rebirth,,,1,1,1,0,1,1,,1,0,1,1,1,,
-the_utes,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,
+the_utes,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0
 the_utopic_tyrant_dreams,,,,,1,,,,,0,,0,,,,0
 the_valeron_kingdom,,1,,,,0,1,,,,,,,,,
 the_vally,,,,1,,1,0,,,,0,,1,,,
 the_van_der_linde_gang,1,0,,,,,,,,,,,,,,
 the_vanguardian_system,1,0,,,,,,,,,,,,,,
-the_vanic_imperium,1,0,,,0,0,,,1,1,,,1,,,
+the_vanic_imperium,1,0,,,0,0,,,1,1,,,1,,,0
 the_vassal_nation_of_the_utopic_tyrant,,,,,1,,,,,0,,0,,,,0
 the_vektensisles,,1,,,,,,,,,,,,,,
 the_veldt_strand,1,,,,,1,,,,,,,,,,
