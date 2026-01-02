@@ -542,6 +542,7 @@ arkariliatz,0,1,0,0,0,1,0,,,0,1,1,1,,0,
 arkengia,1,0,,1,0,0,0,,1,1,0,1,1,1,1,1
 arkkas,1,,,,,,,,0,0,,,,,1,
 arkozia,1,,,1,,,0,,,,0,,1,,,
+arku_none,,,,,,,,,,1,,,,,,
 arkuta,1,,0,1,0,1,0,0,1,,0,1,1,1,,
 arlanda,0,1,0,0,0,1,1,0,1,0,0,1,1,1,1,1
 arlandia_and_arzovia,1,,,,,1,,1,,,,,,0,,
@@ -3183,7 +3184,7 @@ great_republic_of_australian,0,,,,,,,,,,,,,,,
 great_schwarzburg,,0,,,0,,,,,,,1,,,,
 great_tarsia,,,,,,,,,,1,,,,,,
 great_usonia,0,,0,1,0,,,,,1,0,1,,,,1
-great_utopian_states,,,,,,,,,,0,,,,,,1
+great_utopian_states,,,,,,,,,,1,,,,,,1
 great_vankor,,,0,,0,,0,,,,,,,,,
 great_welshland,,,1,,,,,,,,,,,,,
 great_will_millennium,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1
@@ -3357,7 +3358,7 @@ harleying,1,,1,,,,,,,,,,,,,
 harmon_llc,1,,,,,,,,,,,,,,,
 harndon,,,,,,1,,,,1,,,,,,
 haroutito,,1,1,,,0,1,,,,,,,,,
-harperians,1,1,,1,0,1,,,0,1,,1,,,1,
+harperians,1,1,,1,0,1,,,0,1,,1,,,1,1
 harpiatopia,,0,,,,,,,,,,,,,,
 harro_waarudho,,,,,,,,,,,1,1,,,1,1
 hartward,,,,,,0,0,0,1,1,,,0,1,1,1
@@ -4768,7 +4769,7 @@ luminan,,1,,1,0,,,,,,0,,,,,
 luminerra,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1
 luminostan,,,,,,,,0,1,,,,,1,,
 luminous_incorporated,1,,1,1,0,,,,,,0,,,,,
-lumiose,,,1,,,0,0,,,,0,,1,,,
+lumiose,,,1,,,0,0,,,1,0,,1,,,1
 lumiose_land,1,,,,,,,,,,,,,,,
 lumista,1,,,1,,,,,,,0,,,,,
 lunaa,1,0,1,1,1,0,0,,1,,0,1,0,1,,
@@ -5590,7 +5591,7 @@ new_luxia_pluvinka,0,1,0,,,,1,,,,,,,,,
 new_madison,1,0,,1,,,,,,,0,0,,,,
 new_maxta,0,,,,0,,,,,1,,1,,,1,
 new_mexican_republics,1,0,0,,0,0,0,0,1,1,,0,1,1,1,1
-new_mizpah,1,0,1,1,0,1,0,0,1,0,1,1,1,1,1,
+new_mizpah,1,0,1,1,0,1,0,0,1,0,1,1,1,1,1,1
 new_moldovan,,,,1,,,,,,,0,,,,,
 new_molsaar,,,,,,,,,0,,,,,,0,
 new_mughal,,,,1,,,,,,,,1,,,,
@@ -5896,7 +5897,7 @@ nouristani,,,,1,,,,,,,,,,,,
 nouveau_strasbourg,1,,,,,,,,,,,,,,,
 nouvel_acadie,1,0,1,1,0,0,0,1,1,1,0,0,1,1,1,1
 nova-arcadia,0,1,0,1,0,1,,1,,,0,1,,1,,
-nova-rolanda,1,0,1,1,1,0,0,1,1,1,0,1,1,0,0,
+nova-rolanda,1,0,1,1,1,0,0,1,1,1,0,1,1,0,0,0
 nova_absittera,1,0,1,,,,0,,,,,,,,,
 nova_alternia,,,,,0,,,0,1,1,,,,,1,
 nova_angelus,0,0,0,,,,,,,,0,,,,,
@@ -6174,7 +6175,7 @@ osnauria,1,1,,,,,,0,,,,,1,,,
 ospasia,,,,0,,,,,,1,,1,,,1,
 ossomone,1,1,,1,0,0,,,1,,0,1,,,1,
 ost-scandinavia,,,,,0,,,,1,,,,,,,
-ostanisa,1,0,1,1,,,,,,,0,,,,,
+ostanisa,1,0,1,1,,,,,,0,0,,,,,0
 oster-bayern,,,,0,,,,,,,,,,,,
 ostermark_prussia,0,0,1,1,1,1,0,0,1,1,0,1,1,1,1,1
 ostio,1,0,1,1,0,1,0,,,,0,0,1,,,
@@ -7448,7 +7449,7 @@ shenendoah,1,,,,0,1,,,,,,0,,,,
 sheppy_the_king,1,0,1,1,0,0,0,0,1,,0,1,1,1,1,
 sherizia,,0,1,,,,,,,,0,,,,,
 shi_bao_zhang,,,,,,,,,,1,,,,,,1
-shiamyi,1,0,1,1,1,0,0,0,,,0,1,1,0,,
+shiamyi,1,0,1,1,1,0,0,0,,1,0,1,1,0,,0
 shibaton,0,1,0,0,0,1,,0,0,0,0,0,0,1,1,1
 shibutani,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1
 shieldholm,,0,1,,,,0,,,1,0,,1,,,0
@@ -7620,6 +7621,7 @@ social_democrats,0,1,0,1,0,0,0,0,1,0,0,1,1,1,1,1
 socialist_america_sa,,1,,,0,0,0,0,,,,1,,1,,
 socialist_balkan_states,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1
 socialist_civil_war_2_survivors,1,1,,,0,0,1,,,1,,,,,,
+socialist_equilibrium,,,,,,,,,,1,,,,,,1
 socialist_federation_of_the_balkans,,,,,,,,0,,,,,,,,
 socialist_hercegovina,1,0,0,1,0,0,0,0,1,1,0,1,1,1,1,0
 socialist_refuge,,1,0,1,0,1,,,,,0,1,,,,
@@ -8174,7 +8176,7 @@ terranica_states,1,1,1,1,0,1,0,0,1,1,0,1,1,1,1,1
 terraric_cermania,1,0,1,1,0,0,,,,,0,1,,,,
 terre_di_oros,0,,,,1,,0,,1,0,,1,1,,0,
 terridonia,,,,1,0,,,,,,0,1,,,,
-territorio_di_nessuno,1,,,,,,,,1,,,,,1,,
+territorio_di_nessuno,1,,,,,,,,1,1,,,,1,,1
 tertiar,,1,,,,,,,,,,,,,,
 tesco_aisle_17,,,1,,,,,1,,,,,,0,,
 tespeistein,,,,,,,,,,1,,,,,1,
@@ -8862,7 +8864,7 @@ thinngy,1,0,1,1,0,0,1,0,,,0,1,1,,,
 thiothard,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,1
 third_indochina,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1
 third_republic_of_venezuelan,,,,,,,,,1,1,,,,,,1
-thistkommissariat_cyberstan,1,0,1,1,0,1,0,0,1,1,1,1,1,1,1,
+thistkommissariat_cyberstan,1,0,1,1,0,1,0,0,1,1,1,1,1,1,1,1
 thistle_island,,,,1,,,,,,,1,1,,,,
 thomas_harriot,1,1,1,1,1,1,0,1,1,0,0,0,1,1,1,1
 thomastica,,,,1,,,0,,,0,0,,1,,1,
