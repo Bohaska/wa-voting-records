@@ -1018,6 +1018,7 @@ black_army_territories,,1,,1,0,1,,,,,1,,,,,
 black_cimeter,,,1,1,1,0,1,1,,,0,1,0,,,
 black_duncan,0,0,0,1,,,,,,,0,,,,,
 black_ivars,,0,0,,0,,0,0,0,,,0,0,0,0,
+black_sigil,,,,,,,,,,0,,,,,,1
 blackblicky,1,0,1,1,0,0,0,1,,1,0,1,1,1,1,1
 blackoutfire,,,,1,0,0,,,,,0,1,,,,
 blackrock_finance,,,,,1,,,,,,,,1,,,
@@ -1529,7 +1530,7 @@ clepton,,,,,,,,,,,0,,,,,
 cleptonia,,,,1,1,0,,,,,,1,,,,
 clialaad,0,0,1,0,0,0,0,,1,0,0,1,1,1,1,1
 clievere,0,1,0,1,0,0,,,,,0,1,,,,
-clingy,,1,1,,0,0,1,0,,1,,0,1,,0,
+clingy,,1,1,,0,0,1,0,,1,,0,1,,0,0
 cliyf_drines,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 clockwork_lands,,,,0,,1,1,0,0,1,0,,1,1,1,
 clodsiria,,,,1,0,,,,,,0,1,,,,
@@ -1560,7 +1561,7 @@ colendos,,1,,0,,,,,,,1,,,,,
 coliperland,0,1,,,,,,,,,,,,,,
 collar,1,0,,,,,,,,,,,,,,
 collective_provinces_of_the_benelux,,,,,,,,0,0,1,,,1,1,1,
-college_corner,1,0,1,1,0,0,1,0,0,,0,1,0,1,0,
+college_corner,1,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0
 collombia,,,1,,,,,,,,,,,,,
 colloms_golden_circle,0,1,0,0,0,,1,0,1,0,0,1,1,1,1,1
 colmis,1,1,1,,,,,,,,0,,,,,
@@ -1593,7 +1594,7 @@ communist_new_island,1,,1,,,,0,1,1,1,1,,1,,,
 communist_qing,,1,,,,,,,,,,,,,,
 communist_volkstrad,1,,,,1,,,,,0,,0,,,,
 communistchina,,,,,,,,,,1,,,,,,
-communitarian_states,1,1,1,1,0,,,0,1,1,0,,1,1,,
+communitarian_states,1,1,1,1,0,,,0,1,1,0,,1,1,,1
 compakt_repsublic,,,1,1,1,1,0,0,1,,0,,1,1,1,
 compnisam,,,,1,,,,,,,,,,,,
 comrade_itsuka_kotori,,1,,,,,,,,,,,,,,
@@ -1680,7 +1681,7 @@ cramberria,0,,0,,,,,,,,,,,,,
 crazari,,0,,,,1,,,,,,,,,,
 crazy_firemen,1,0,1,1,0,0,1,0,1,1,0,1,1,1,1,1
 crazy_girl,,,,,,,,,,,0,,,,,
-creajoin,1,0,,0,0,,,,,,,1,,1,,
+creajoin,1,0,,0,0,,,,,1,,1,,1,,1
 creationis,1,1,0,1,0,,,,,,0,1,,,,
 creator_land,1,1,0,1,0,1,1,0,,,1,0,1,,,
 creberg,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1
@@ -2325,7 +2326,7 @@ elgg_ch,,,1,,,1,,,,,,,,,,
 elidian,1,1,1,1,1,,1,,,,1,1,,,,
 elifrieden,,,,1,0,0,,,,,0,1,,,,
 elihapan,,,,1,0,,,,,,0,1,,,,
-elisabethshagen,1,1,0,1,0,0,0,0,1,1,0,1,1,1,1,
+elisabethshagen,1,1,0,1,0,0,0,0,1,1,0,1,1,1,1,1
 elissian,,,,,,,,,,,,,1,,1,
 elistiria,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1
 elite,,,,,,,,,,,,1,,,,
@@ -2485,6 +2486,7 @@ europatale,,,,1,0,,,0,,,,1,,1,,
 europe_or_eur,0,1,0,0,0,1,1,0,0,0,0,1,1,1,1,1
 european_demokratische_republik,,1,0,,0,0,,,,,1,,,,,
 european_kekistani_enclave,1,,,,0,0,,,,,,,,,,
+european_socialist_council-republics,,,,,,,,,,1,,,,,,1
 europeasia,0,1,0,1,0,0,1,0,1,1,0,1,1,1,0,1
 euroski,1,0,1,1,1,,0,1,1,1,0,1,1,,1,1
 eurruth_arcul,,,,,0,0,,,,,,,,,,
@@ -3460,7 +3462,7 @@ hi_nothing_to_see_here,1,1,,,,,,,,,,,,,,
 hia_sh,,,,1,,,,,,,0,1,,,,
 hiahlander,,,,,0,0,,,,,,1,,,,
 hibabies,,,,,,0,0,0,1,1,,,1,1,1,1
-hibernia_kaas,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,
+hibernia_kaas,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1
 hickuppy,,,,,,,,0,,,,,,1,,
 higgstonia,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1
 high_castle,,,,,,,,,,1,,,,,1,
@@ -5917,7 +5919,7 @@ nova_foundation,1,,1,1,,,,,1,0,0,1,,,0,1
 nova_france,,,,,,0,1,,,,,,,,,
 nova_grecia,1,0,1,1,0,0,0,,,,0,1,1,,,
 nova_imperial,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1
-nova_loca,1,1,1,1,,0,1,1,0,1,0,0,1,1,1,
+nova_loca,1,1,1,1,,0,1,1,0,1,0,0,1,1,1,1
 nova_mesthuania,1,,,1,,1,,,,1,0,,,,,1
 nova_moldavia,1,,,,,,,,,,,,,,,
 nova_morractia_lern,,,,,1,0,0,0,1,0,,,1,,1,1
@@ -6759,7 +6761,7 @@ raneice,,,,,,,,,1,1,,,,,1,
 ranium,,1,,1,,,,,,,,,,,,
 rantoomb,,,,,0,,,,,,,,,,,
 raphype,,,,1,0,,,,1,,,1,,,,
-rapolaan,1,0,1,,,,0,0,,,,,1,1,,
+rapolaan,1,0,1,,,,0,0,,1,,,1,1,,1
 raptorcraft,0,,1,,,,,,,,0,,,,,
 rary,,,,,,,,,,0,,,,,,
 rasamanaka,,,0,,,,0,,,,0,,1,,,
@@ -7216,7 +7218,7 @@ samslvania,,0,,,,,,1,,,,,,,,
 samuldia,,0,,,,,,,,,,,,,,
 samund_facobs,1,,1,1,0,0,0,0,1,1,0,1,1,1,1,1
 san_angelina,,,0,,0,0,,,,,,1,,,,
-san_arys,,,0,,0,0,0,0,,,,1,1,,,
+san_arys,,,0,,0,0,0,0,,1,,1,1,,,1
 san_coleno,,,,1,,0,,,,,0,,,,,
 san_fransico_ape_colony,1,,,,,,1,1,1,0,,,1,1,,1
 san_giuda,1,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1
@@ -7513,7 +7515,7 @@ simone_republic,,0,1,1,,,,0,,,0,,0,1,1,1
 simsreich,,,,,0,0,,,,,,,,,,
 sin_city_topia,1,0,1,,,,0,,,0,,,,,0,
 sinclairtown,,,,0,0,,,,,0,0,,,1,,
-sincorp,1,0,1,0,1,1,0,1,1,0,,,1,1,0,
+sincorp,1,0,1,0,1,1,0,1,1,0,,,1,1,0,1
 sinderwood,0,,1,,,1,1,0,1,,,,1,,0,
 sindoesia,1,,,,,,,,,,,,,,,
 singala,,,,1,,,,,,,0,,,,,
@@ -7816,7 +7818,7 @@ spiraltar,,0,,,,,,,,,,,,,,
 spirituality_with_christ,,,,,0,0,,,,,,1,,,,
 splandiaa,,,1,,,,,,,,,,,,,
 splena,1,,1,1,0,0,0,,0,0,0,1,0,1,1,1
-splotania,0,1,0,,0,1,0,0,1,,,0,,1,1,
+splotania,0,1,0,,0,1,0,0,1,0,,0,,1,1,1
 sponge_landia,0,,,,,1,,,,,,,,,,
 spooks_basement,1,,0,0,0,1,0,0,0,1,,1,1,1,1,
 sporaltryus,0,,1,1,0,,,0,1,1,0,1,1,1,1,1
@@ -7902,7 +7904,7 @@ ster_lovinia,,,,0,,,,,,,,1,,,,
 sternburg,,0,0,,,,,,,,,,,,,
 sternheim,,,,,0,0,,,,,,,,,,
 steve_world,,,1,1,0,,,,,,1,1,,,,
-stevie_country,,0,,,,,,,,,,,,,,
+stevie_country,,0,,,,,,,,1,,,,,,1
 stevist_guam,,0,1,1,,,,,1,1,0,,,1,1,
 sti_vismana,1,1,1,1,0,0,0,,1,1,0,1,,1,,1
 stickofark,1,0,1,1,0,0,0,0,1,1,0,1,1,1,1,1
