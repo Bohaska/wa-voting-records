@@ -322,7 +322,7 @@ america_samoa_territory,,,,,,,,,1,1,,,,,1,1,1,
 american-cascadia,1,,1,1,,,,,,1,0,0,,,,,1,1
 american_generations,1,0,1,1,0,0,0,0,1,1,,0,1,1,,1,,
 american_labor_republics,1,1,1,1,0,,,,,1,,0,1,,,1,,
-american_mercenaries,,,,,,,,,,,0,,,,,,1,
+american_mercenaries,,,,,,,,,,,0,,,,,,1,1
 american_midwestern_advancement,,,,,,,,,,,1,,,,,,,1
 american_nation_tpusa,,1,1,0,0,,,,,,,,1,,,,,
 american_protestant_states,,,1,,,,,,,,,,,,,,,
@@ -1968,7 +1968,7 @@ democratic_republic_of_drew,,,1,1,1,,,,,,,1,,,,,,
 democratic_republic_of_isgard,0,1,0,0,0,1,1,0,1,0,1,0,1,0,1,1,1,1
 democratic_republic_of_sheng,,0,,1,,,0,,1,0,,0,,1,1,1,,
 democratic_republic_of_zentin,,,,,,,,,,1,0,,,,,1,1,
-democratic_socialist_republic_of_africa,,,1,,0,0,0,,1,1,,,,1,1,1,1,
+democratic_socialist_republic_of_africa,,,1,,0,0,0,,1,1,0,,,1,1,1,1,1
 democratic_solberac_arthars,1,,1,,,1,0,,,,1,,,,,,,1
 democratic_sovereign_state_of_california,,,,,,,0,,,,,,,1,,,,
 democratic_states_of_zokshia,1,0,1,1,,,,,,,,0,,,,,,
@@ -3585,7 +3585,7 @@ her_excellency,1,,,,,,,,,,,,,,,,,
 her_majesty_queen_victoria,,,1,1,0,,0,,,,,0,1,1,,,1,1
 her_malue,1,1,0,0,0,1,1,0,0,0,1,1,1,0,1,1,1,1
 herashima,,,,,,,,,,,1,,,,,,1,
-herconia,0,,,,,1,,,,,,,,,,,,
+herconia,0,,,,,1,,,,,1,,,,,,,1
 hereditas,1,,,,,,,,,,,,,,,,,
 herfenzir,1,0,1,1,1,0,0,1,1,1,1,1,1,,0,0,1,0
 hergasst,1,0,1,1,0,0,0,0,1,1,,1,1,1,,0,1,
@@ -3814,7 +3814,7 @@ ice_cream_planets,,,,,0,,,,,,,,1,,,,,
 iceland_1,,,,,0,0,0,0,1,0,,,,1,1,1,,
 ichiran,,1,,1,0,0,,,,1,1,,,,,,,
 ichirokuhachi,1,0,1,1,1,0,0,1,1,1,0,0,0,1,1,0,,0
-ictus,,1,,,0,,,1,,,,,,,0,,,
+ictus,,1,,,0,,,1,,,1,,,,0,,,
 idinist_imauggland,1,1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,0
 idomme_kolia,,,,,,,,,1,,,,,,,1,,
 idontcare,1,0,1,1,0,0,0,0,1,1,0,0,1,1,1,1,1,1
@@ -4971,7 +4971,7 @@ luanmi,,,,1,,,,,1,,,0,,,0,,,
 luaskenia,,1,1,1,0,,,0,1,1,1,0,1,1,1,,,
 lucas_island,,,,,,,,,0,1,1,,,,1,1,1,1
 lucasson,0,1,1,,0,0,0,0,1,1,,0,1,1,1,,1,1
-luchyen,,1,0,0,0,,,,,,,1,0,,,,,
+luchyen,,1,0,0,0,,,,,,1,1,0,,,,,
 lucien_mounier,,,1,0,0,1,0,1,,,,0,0,,,,,
 luckae,1,,,1,,0,,,1,,0,1,,,1,,1,
 lucklife,,,,,,,,,,,,,,,,1,,1
@@ -6630,7 +6630,7 @@ pelbar,,,,,,,,1,,,,,,1,,,,
 pellinor,,,,,,,0,0,1,0,0,,,1,1,1,1,1
 pellston,1,0,,0,,,,,,,,,,,,,,
 pen_blanityion,1,0,1,1,0,0,1,0,1,0,0,0,1,1,1,1,1,1
-pence,,,1,1,0,0,0,0,1,1,0,0,1,1,1,1,1,
+pence,,,1,1,0,0,0,0,1,1,0,0,1,1,1,1,1,1
 pencil_sharpeners_2,1,,,,,,,,,,,,,,,,,
 penguin_and_man,,,,,0,0,0,,,,,,1,1,,,,
 penguin_imperium,1,0,1,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1
@@ -7026,7 +7026,7 @@ raeun,,,,,0,,,,,,,,1,,,,,
 rafdonia,,,,,,,0,,,,,,,1,,,,
 raffyland,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,1
 rage_against_your_mom,,,,,1,,,,,,,,1,,,,,
-raggafarion,,,,,,0,0,,,,,,,1,,,,
+raggafarion,,,,,,0,0,,,,0,,,1,,,,1
 raghallaigh,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1
 ragnaria,1,,,,,,0,,1,,1,,,,,1,,0
 ragolun,,,,,,,0,,,,,,,,,,,
@@ -7325,7 +7325,7 @@ roliganistan,,,1,0,,,0,,,,,,,,,,,
 rolooks,,,,,0,1,1,0,,1,1,,,1,,1,0,0
 rolven,,,,,,,,,1,,,,,,,1,,
 rom,,,,,,,,,,,,,1,1,,0,,
-roma_aeterna_victrix,,,,,0,1,0,0,,1,,,0,1,1,1,1,
+roma_aeterna_victrix,,,,,0,1,0,0,,1,1,,0,1,1,1,1,1
 romae-moldavianensis,,,,,,,,,1,,,,,,1,,,
 romalcea,,,,1,,,,,1,1,,0,,,,1,1,
 roman_american,1,,1,1,0,0,0,,,,,0,1,,,,,
@@ -7382,7 +7382,7 @@ royal_kasterian_inquisition,,,,,,,,,,,0,,,,,,1,1
 royal_kazakhstanation,,1,,,,,,,,,,,,,,,,
 royal_kingdom_of_australia,1,,,,,,,,,,,,,,,,,
 royali,,,,1,,,,,,,1,0,,,,,1,
-royaume_des_loups,,,,,,,0,,1,,,,,1,,1,,
+royaume_des_loups,,,,,,,0,,1,,0,,,1,,1,,1
 roylaii,1,1,1,1,0,0,0,0,1,1,1,0,1,1,1,1,1,1
 rozara,,,,,0,,,,,,,,,,,,,
 roznepal,1,,,,,,,,,,,,,,,,,
@@ -9891,7 +9891,7 @@ vernham,,,,,,,,0,,,,,,,1,,,
 vernidia,1,1,1,1,0,0,0,0,1,1,1,0,1,1,1,1,1,1
 versmark,,,1,,,,,,,,,,,,,,,
 vertigoism,1,,,,,,,,,,,,,,,,,
-vertis,,1,,1,,1,,,,,,0,,,,,,
+vertis,,1,,1,,1,,,,,1,0,,,,,,1
 vertuza,,,,,,,,0,1,,,,,1,1,,,
 veruguatensien,,,,1,,,1,1,,1,,,,,0,,,
 verum_pax,,,,,,,0,,,,,,,,,,,
@@ -9904,7 +9904,7 @@ veryaverage,,,,,0,0,,,,,,,,,,,,
 vesilen_island,0,1,0,0,0,1,1,0,,,,0,0,1,,,,
 vesperian,,,,,,0,,,,,,,,,,,,
 vespertina,0,,1,,0,,,,,,,,,,,,,
-vessentia,,,,,,,,,,,0,,,,,,,1
+vessentia,,,,,,,,,,,,,,,,,,1
 vestyria-greland-liermark,1,,,,,,,,,,,,,,,,,
 vesulcre,,,1,,,,,,,,,0,,,,,,
 veszcota,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,0,1
@@ -9943,7 +9943,7 @@ villuri,,,,1,0,,,,,,0,,1,,,,,0
 vilmoria,,,,,,,,,,1,1,,,,,,0,
 viltraam,1,,1,,,,,0,1,,1,,,,0,,0,
 viltrum_1,0,0,1,1,0,0,0,0,1,1,1,0,1,1,1,1,1,1
-vimaran,1,,1,,0,0,0,0,1,1,,0,1,,1,1,,
+vimaran,1,,1,,0,0,0,0,1,1,0,0,1,,1,1,,1
 vinaboro,0,,,1,0,,1,1,,,1,1,1,1,1,,1,
 vinandia,,,,,,,,,1,,0,,,,,1,1,
 vinavater,,,,,,,,,,1,1,,,,,,1,1
