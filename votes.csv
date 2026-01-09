@@ -553,7 +553,7 @@ arcturus_novus,0,1,0,1,0,1,0,0,,1,1,0,0,0,1,,1,,1
 arcx-1,,,,,,,,,,,,0,,,,,,,
 ardamion,,,,1,,,,,,,,1,,,,,,,1
 ardangarh,,1,,,0,1,,,,,,,0,,1,,,,
-ardareth,,0,0,1,0,,,0,,1,0,,1,1,,1,,1,1
+ardareth,,0,0,1,0,,,0,,1,0,1,1,1,,1,,1,1
 ardchu,,,,0,,,1,,,,,,1,,,,,,
 ardelain,,,1,,,,,,,,,,0,,,,,,
 ardelburg,1,0,,1,0,0,0,0,1,1,0,,0,1,1,1,1,1,
@@ -797,7 +797,7 @@ avalonium,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,1,1
 avaneesh,1,0,1,1,,,,,,,,,1,,,,,,
 avanguard_city,,,,,,,0,,,,,,,,,,,,
 avantasia,,,,,0,,,,,,,,,1,,,,,
-avarice_interests,,,1,1,0,1,,0,,,0,,0,1,,1,,,1
+avarice_interests,,,1,1,0,1,,0,,,0,1,0,1,,1,,,1
 avastine,,,1,1,0,,,,,,,,0,1,,,,,
 avengisian_nyx,1,,1,,0,0,,0,,,1,,0,1,,1,,1,
 aventuris,,1,,,,,,,,,,,,,,,,,
@@ -1036,7 +1036,7 @@ betashock,0,1,0,1,0,0,0,0,1,,,,0,1,1,1,,,
 betchioviche,0,,,,,,,,,,,,,,,,,,
 bethanora,,,,1,,,,,,0,,,0,,,,1,,
 bethesda_scamville,,,1,,,,,,,,,,,,,,,,
-better_indonesia,0,0,1,1,0,0,0,0,1,,0,,0,1,1,1,1,,1
+better_indonesia,0,0,1,1,0,0,0,0,1,,0,1,0,1,1,1,1,,1
 bexsomb,1,0,1,1,1,0,0,1,,1,0,1,,,0,0,0,0,0
 bextoria,,1,1,1,0,0,0,0,1,,,,1,1,0,1,,,
 bfdionefan,,,,1,,,,,,,,,0,,,,,,
@@ -1311,7 +1311,7 @@ buran_energia,,,,,,0,0,0,1,,1,0,,,1,,1,,1
 burback,,,,1,,,,,,,,,,,,,,,
 burg_land,0,0,1,1,0,0,1,0,1,1,0,1,0,1,1,,1,,1
 burgas-yambol,,,,,,,,,1,0,1,,,,,,,,
-burj_al-arab,1,1,1,0,,,0,,,,,,1,,1,,,,
+burj_al-arab,1,1,1,0,,,0,,,,,1,1,,1,,,,
 burneraccountie,,,,,,0,,,,,,,,,,,,,
 burning_love,,,0,,,,,,,,1,,0,,,,,,1
 burning_pants,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1
@@ -3158,6 +3158,7 @@ gandieland,1,,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1
 gandoor,1,1,1,,0,,0,0,1,,1,,0,1,1,1,1,1,1
 ganothi,,,,,,,,,,,,,,,,,,1,
 garamantia,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1
+garantam,,,,,,,,,,,,1,,,,,,,
 garaskord,,,,,,0,,,,,,,,,,,,,
 garaziaopia,,,1,,,,,,,,,,,,,,,,
 gardavasque,,,,,,0,,,,0,,,,,,,1,,
@@ -3331,7 +3332,7 @@ goldmandania,,0,,,,0,,,,,,,,,,,,,
 golexald,,,1,,,,,,,,,,0,,,,,,
 golinistan,1,1,0,1,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0
 golinkarlia,,,,,,,,0,,,,,,,,,,,
-gondosia,,,,1,,,0,0,1,,0,,0,,1,1,,,1
+gondosia,,,,1,,,0,0,1,,0,1,0,,1,1,,,1
 gonthavnor,0,,,,,,1,,1,,1,,,,,,1,,1
 goobergunchia,,,,,,,,,,,,,,,1,,,1,
 good_eatin,,,,,,,,,,1,1,1,,,,,1,1,
@@ -4228,7 +4229,7 @@ jayalompan,,,,1,0,0,0,,,,,,0,1,1,,,,
 jaydee_ii,,,,,0,0,,,,0,0,1,,1,1,,,1,1
 jazzia,0,1,1,,,,,,1,0,1,,0,,,1,,1,
 jc_jenson,1,0,1,1,1,1,0,1,1,0,0,1,0,1,1,1,0,1,1
-jdbld,,,,1,0,,,,,,0,,0,1,,,,1,
+jdbld,,,,1,0,,,,,,0,1,0,1,,,,1,
 jdjdjd,,,,,,,,,1,,,,,,,,1,,
 jean_jacket_russell_high_school,1,0,1,0,0,0,0,0,1,,0,1,0,0,0,0,,1,1
 jediroutari,,,,,,,,,,,,1,,,,,,,1
@@ -4426,6 +4427,7 @@ kastoviask,0,,,,,,,,,,,,,,,,,,
 kaszubskie,,1,,,,,,,,,,,,,,,,,
 katarina_miltiadou,1,1,1,,,,,,,,,,0,,,,,,
 katerji,,,,,,,,0,,1,,,,,1,1,1,,
+kathirn,,,,,,,,,,,,1,,,,,,,
 katiza,0,,,0,,1,,,,,,,1,,,,,,
 katowicq,,,,,,,,0,,1,,,,,,,,1,
 katseyeworld,,,,,,1,,,,,1,,,,,,,,1
@@ -5421,7 +5423,7 @@ maznistan,0,1,,,,,,,,,,,,,,,,,
 mazon,,,1,1,,,,,,,,,,,,,,,
 mazunda,,,,,,,,,,,,1,,,,,,,1
 mbok,,,,,,,,0,1,1,0,1,,,1,1,1,1,1
-mcancapistan,1,0,1,1,,,0,,,,,,0,,,,,,
+mcancapistan,1,0,1,1,,,0,,,,,1,0,,,,,,
 mcbettledom,0,,,,,,,,,,,,,,,,,,
 mccradonia_iii,,,,,,,,,,,,1,,,,,,,
 mcdonaldland5,,,,,,,,,,,,1,,,,,,,1
@@ -7272,7 +7274,7 @@ ranover,,,,,,,,,,,0,1,,,,,,,1
 ransacking,,,,,,,,,,,,1,,,,,,,
 rantoomb,,,,,0,,,,,,,,,,,,,,
 raphype,,,,1,0,,,,1,,0,1,,1,,,,,1
-rapolaan,1,0,1,,,,0,0,,1,0,,,,1,1,,1,
+rapolaan,1,0,1,,,,0,0,,1,0,1,,,1,1,,1,
 raptorcraft,0,,1,,,,,,,,,,0,,,,,,
 rary,,,,,,,,,,0,,,,,,,,,
 rasamanaka,,,0,,,,0,,,,,,0,,1,,,,
@@ -8368,7 +8370,7 @@ soviet_eddism,,,,,,,,,,,,1,,,,,,,
 soviet_federative_socialists,1,1,1,1,0,0,0,0,1,1,1,1,0,1,1,1,1,1,1
 soviet_hungarian_republics,,,,,,,,1,,,,,,,1,,,,
 soviet_petroburg,,,,,,,,0,,,,,,,,1,,,
-soviet_reuinion_part_two,0,0,1,,0,0,,,,,,,0,1,,,1,,
+soviet_reuinion_part_two,0,0,1,,0,0,,,,,,1,0,1,,,1,,
 soviet_socialist_republic_of_madagascar,1,1,,,,,,,,,,,,,,,,,
 soviet_stars,,,,,,,0,,,,,,,,1,,,,
 soviet_state_of_covernant,,,,,,,1,,,,,,,,,,,,
@@ -9061,7 +9063,7 @@ the_great_expanses,,,0,,,,,,,,,,0,,,,,,
 the_great_finnish_army,,,,1,,0,,,,,0,,0,,,,,1,
 the_great_lord_fail,,,,,,,,,,,,1,,,,,,,
 the_great_nevada_overlord,1,0,1,1,1,0,,1,,1,0,,0,1,,0,,0,0
-the_great_northern_isles,1,0,,0,0,0,0,,,,,,0,1,0,,,,
+the_great_northern_isles,1,0,,0,0,0,0,,,,,1,0,1,0,,,,
 the_great_orange_pochita,1,,,,,,,,,,,,,,,,,,
 the_great_plainers,,,,,,0,,,,,,,,,1,,,,
 the_great_sand_unions,1,0,1,1,0,0,,0,1,1,0,1,0,1,1,1,1,0,1
@@ -9230,7 +9232,7 @@ the_orca_space_program,0,,,,,,,,,,,,,,,,,,
 the_osc,,1,1,,,,,,,,,,,,,,,,
 the_other_margaret,1,0,1,1,1,0,0,1,1,1,0,1,0,1,1,0,0,0,1
 the_otsutsuki_clan,,,1,,,,,,,,,,0,,,,,,
-the_outer_union,,0,,,,,,,,,,,,,,,,,
+the_outer_union,,0,,,,,,,,,,0,,,,,,,
 the_pacific_enclave,1,0,1,,,,,,,,,1,,,,,,,1
 the_pacific_northwest,0,1,,0,0,,,,0,,1,1,0,1,,,1,1,1
 the_palace_of_god_2,0,1,0,1,0,1,,0,,1,,0,1,1,1,1,1,1,
@@ -9465,7 +9467,7 @@ the_vergville,1,,,,,,,0,,,,,,,,1,,,
 the_viiiminnians,0,0,0,,,,,,,,,,,,,,,,
 the_voices_are_alive,,,,,,0,0,,,,,1,,,,,,,1
 the_void_cometh,,,1,,,,,,,,,,,,,,,,
-the_voltarum,,1,0,1,0,,0,0,1,1,1,,0,1,1,1,1,0,1
+the_voltarum,,1,0,1,0,,0,0,1,1,1,1,0,1,1,1,1,0,1
 the_waffle_pockets,,,,,,,0,0,,,,,,,1,1,1,,
 the_warriors_of_determination,1,0,1,1,0,0,1,,,,,,0,1,,,,,
 the_washington_federation,1,0,1,1,,0,,0,1,1,0,,0,,1,1,1,1,1
@@ -9819,7 +9821,7 @@ ukrainian_soviets,,,0,,,,,,,,,,,,,,,,
 ukrainida,,,,,,,0,,,,,,,,,,,,
 ulancia,,0,1,1,,,,,,,,,,,,,,,
 ulfper,,1,1,0,0,1,,0,,,,,1,1,1,,,,
-ulm-memmingen,1,0,1,1,0,,0,0,,,,,1,1,1,1,,,
+ulm-memmingen,1,0,1,1,0,,0,0,,,,1,1,1,1,1,,,
 ulponia,,,1,,,,,0,1,,,,,,,1,1,,
 ultimate_confusion,,,,,,,,,,,,,1,,,,,,
 ultimategooner,1,,1,1,0,0,0,,,,0,1,0,1,1,,,,1
@@ -9925,7 +9927,7 @@ united_nations_expeditionary_forces,,,,,,0,0,0,1,0,0,1,,,1,1,1,1,1
 united_nations_of_liberal_iland,0,,,,,,,,,,,,,,,,,,
 united_nations_of_yener,1,,,,,,,,,,,,,,,,,,
 united_north_amerika,0,,1,1,0,1,0,,,,,,0,,,,,,
-united_northern_territories,0,,,,,1,0,0,,,,,,,,1,,,
+united_northern_territories,0,,,,,1,0,0,,,,0,,,,1,,,
 united_of_russia,1,0,1,1,0,,,,,,,,0,1,,,,,
 united_okticand,1,0,1,1,0,0,0,1,1,0,,1,,,,,,,
 united_orange_valley_states,1,1,1,1,0,0,0,0,1,1,,,0,1,1,1,1,1,1
