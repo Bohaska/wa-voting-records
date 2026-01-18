@@ -1768,7 +1768,7 @@ chopinopa,0,,,,,,,,,,,,,,,,,,,,
 choppyhausen,,0,1,,0,,,0,,,,,,,0,1,1,1,1,,
 choppyhausenian_inquisition,,,,,,,,,,,,,,1,,,,,,,
 chorkontaria,,,0,,,,,,,,,,,,,,,,,,
-chorovadnia,,,,,,,,,,,,,0,,,,,,,,
+chorovadnia,,,,,,,,,,,,,0,1,,,,,,,
 chosonguk,,,,,,,,0,1,0,0,1,,0,,,0,1,0,0,
 chotana,,,,,,0,0,,,1,0,1,,,,,,,1,1,1
 chotornia,,,,,,,,0,1,0,,,,,,,0,1,1,,
@@ -2019,6 +2019,7 @@ creator_land,1,1,0,1,0,1,1,0,,,,1,,,1,0,1,,,,1
 crebalia,,,,,,,,,,,,,,0,,,,,,,
 creberg,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,1,1,1,1
 creedsible,,,,,,,,,,,1,1,0,1,,,,,,1,1
+creekvalley,,,,,,,,,,,,,,1,,,,,,,
 creetaurt,1,0,,1,0,0,,,,1,,,,0,,1,,,1,,
 cref_frua,1,,1,,,,,,,,,,,,0,,,,,,
 crelya,,,1,,,,,,,,,,,,0,,,,,,
@@ -2567,6 +2568,7 @@ duxitia,,,1,1,,,,,,,,,,,0,,,,,,
 dwight_david_eisenhower,1,0,1,1,,0,0,1,1,,,,,,,,,,,,
 dyanderna,,,,,,,,,,,,,,,,,1,,,,
 dyasiabelsk,,,,,,,,,,,,,1,0,,,,,,,
+dyer_isles,,,,,,,,,,,,,,0,,,,,,,
 dyl,1,,,,,1,,,,,,1,,,,,,1,,,1
 dynasty_ubangoh7,,,,,,,,,,,,1,,,,,,,,,1
 dyschezia,1,0,,,,,,,,,,,,,,,,,,,
@@ -2646,7 +2648,7 @@ eastern_zalmania,,0,,,,,,,1,,,,,,,1,,,,,
 easterndeutschland,1,,,1,0,,0,0,1,1,0,1,1,0,1,1,1,,1,1,1
 eastfield_lodge,,1,,,,,,,,,,,,,,,,1,,,
 easthope,,,,,0,0,,,1,0,,,0,,,1,,,1,,
-eastoria,1,1,0,1,0,0,0,0,1,0,0,0,0,,0,1,1,1,1,1,1
+eastoria,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1
 eastwall,,,,,,,,,,,,,,1,,,,,,,
 ebenia,,,,1,,,,0,0,,1,1,1,1,,,,,,,
 ebergersoud,,,,,,,,,,0,,,,,,,,,,1,
@@ -3535,6 +3537,7 @@ gendirt,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,1,0
 general_tn,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1,1,1,1,1,1
 geneseean,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,1,1,0,0,0,0
 genesis_fifteen,0,1,0,0,0,,0,0,0,0,1,0,0,1,0,1,,,1,1,0
+genesis_the_third,,,,,,,,,,,,,,0,,,,,,,
 genetic_labs_inc,,,1,,,,,0,,,,1,0,,0,,,,,,1
 gentry_grove,1,1,1,1,0,0,0,0,1,1,1,,0,,0,1,1,1,1,1,1
 georgiana_bay,,,,,,,,,,,,,,1,,,,,,,
@@ -9747,7 +9750,7 @@ the_251,0,1,0,,,1,1,0,,,,,0,1,0,,0,,,,
 the_2nd_amendment,,0,,,,,,,,,,,,,,,,,,,
 the_2nd_fortnite_island,,,,,,,,,,,,,1,1,,,,,,,
 the_67_republic,,,,1,0,,,,,,,,,,1,0,,,,,
-the_7th_soviet_union,,,,,,,,0,,,,,,,,,1,,,,
+the_7th_soviet_union,,,,,,,,0,,,,,,1,,,1,,,,
 the_above_grounds,,0,0,,,,,,,,,,,,,,,,,,
 the_adric_empire,,,,,0,,,,,,,,,,,1,,,,,
 the_affini_compact,,1,,,,,,,,,,,,,,,,,,,
@@ -9932,7 +9935,7 @@ the_federation_of_osea_and_yukotobonia,,,,,,,,,,,,,0,,,,,,,,
 the_ferret_lands,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
 the_fifteen_united_netherlands,,,,,,,,,,1,1,,,,,,,,,1,0
 the_final_trinity,,0,,,,,,,,,,,,,,,,,,,
-the_finlands_heavy_dictators,,0,0,,,0,0,,,,1,,0,,0,,1,,,,1
+the_finlands_heavy_dictators,,0,0,,,0,0,,,,1,,0,1,0,,1,,,,1
 the_first_communist,,,,,,,,,,0,,,,,,,,,1,1,
 the_first_directorate,,,,1,,,,,,,,,,,0,1,,,,,
 the_first_italian_reich,,,,,,,,,,,,,1,,,,,,,,
@@ -10248,6 +10251,7 @@ the_republic_of_goat,,,,,0,,,,,,,,,,,1,,,,,
 the_republic_of_konflunse,,,,,,,,0,,,,,,,,,,1,,,
 the_republic_of_konsa,0,,,1,,,,0,1,1,,,0,1,0,,,1,1,,
 the_republic_of_mizara,,,,,,,,,,,,,1,1,,,,,,,
+the_republic_of_playboi_carti,,,,,,,,,,,,,,1,,,,,,,
 the_republic_of_the_united_marble_tribes,0,1,1,1,0,1,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1
 the_republic_of_united_tribes,,,,,,,,,,,,,,1,,,,,,,
 the_republic_of_western_sol,,,,,,,,,,,,1,0,,,,,,,,
