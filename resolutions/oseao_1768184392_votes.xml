@@ -12,10 +12,10 @@
 <OPTION>99</OPTION>
 <PROMOTED>1772557206</PROMOTED>
 <PROPOSED_BY>oseao</PROPOSED_BY>
-<TOTAL_NATIONS_AGAINST>1412</TOTAL_NATIONS_AGAINST>
-<TOTAL_NATIONS_FOR>1866</TOTAL_NATIONS_FOR>
-<TOTAL_VOTES_AGAINST>4113</TOTAL_VOTES_AGAINST>
-<TOTAL_VOTES_FOR>7240</TOTAL_VOTES_FOR>
+<TOTAL_NATIONS_AGAINST>1419</TOTAL_NATIONS_AGAINST>
+<TOTAL_NATIONS_FOR>1881</TOTAL_NATIONS_FOR>
+<TOTAL_VOTES_AGAINST>4124</TOTAL_VOTES_AGAINST>
+<TOTAL_VOTES_FOR>7255</TOTAL_VOTES_FOR>
 <VOTES_AGAINST><N>serenitas_novae</N>
 <N>the_violet_star</N>
 <N>tri_ann</N>
@@ -29,6 +29,7 @@
 <N>kogure</N>
 <N>the_united_nations_of_ukraine</N>
 <N>sisdonia</N>
+<N>savaska</N>
 <N>soustawi</N>
 <N>europe_or_eur</N>
 <N>socialist_balkan_states</N>
@@ -428,6 +429,7 @@
 <N>greater_agnolia</N>
 <N>haldeni</N>
 <N>england_1</N>
+<N>the_soylent_green_party</N>
 <N>compton-conway</N>
 <N>viperreich</N>
 <N>komunist_turkiyem</N>
@@ -563,6 +565,7 @@
 <N>wexbrooke</N>
 <N>requand</N>
 <N>northwestern_alpinia</N>
+<N>greater_strife</N>
 <N>notcommunist2</N>
 <N>amersmark</N>
 <N>novist</N>
@@ -658,6 +661,7 @@
 <N>mahardhikkan</N>
 <N>vylixan</N>
 <N>diatian_isles</N>
+<N>the_meridian_republic</N>
 <N>pantumaca</N>
 <N>untermite</N>
 <N>kirklandbrandsignature</N>
@@ -798,6 +802,7 @@
 <N>palish</N>
 <N>gigantias</N>
 <N>greater_arabistan</N>
+<N>dark_alps</N>
 <N>sanana</N>
 <N>democratic_kingdom_of_south_india</N>
 <N>romariania</N>
@@ -864,6 +869,7 @@
 <N>infernx_inc</N>
 <N>uragia</N>
 <N>expah_abria</N>
+<N>leugaria</N>
 <N>jonarar</N>
 <N>glittering_green</N>
 <N>the_cevanti_free_council</N>
@@ -964,8 +970,8 @@
 <N>artamisiland</N>
 <N>tuirsland</N>
 <N>canamn</N>
-<N>arkangelesk</N>
 <N>lightford</N>
+<N>arkangelesk</N>
 <N>past_beans</N>
 <N>federal_northwind</N>
 <N>kalakmul</N>
@@ -981,8 +987,8 @@
 <N>bicdic</N>
 <N>lodgi</N>
 <N>goudaravara</N>
-<N>kostemetsia</N>
 <N>new_vipa</N>
+<N>kostemetsia</N>
 <N>xiraia</N>
 <N>greater_theowherveld</N>
 <N>demon_girl</N>
@@ -1001,7 +1007,6 @@
 <N>giga_chadistan</N>
 <N>daneka</N>
 <N>potenzia</N>
-<N>south_neviersia</N>
 <N>piedra_negra</N>
 <N>acenbora</N>
 <N>umns_iznikmid</N>
@@ -1030,6 +1035,7 @@
 <N>patriamnox</N>
 <N>neue_ocksteinburg</N>
 <N>alstratzkon</N>
+<N>nova_angleterre</N>
 <N>bemenaey</N>
 <N>haykeren</N>
 <N>slavic_democratic_nations</N>
@@ -1090,9 +1096,9 @@
 <N>democratic_republic_of_animeo</N>
 <N>the_genovese_family</N>
 <N>eyluvmenia</N>
+<N>the_5_tribes_of_left_thought</N>
 <N>byithica</N>
 <N>little_jon</N>
-<N>the_5_tribes_of_left_thought</N>
 <N>tugana</N>
 <N>vivarex</N>
 <N>virksland</N>
@@ -1262,8 +1268,8 @@
 <N>king_zhaoxiang_of_qin</N>
 <N>eylstadt_principality</N>
 <N>trilaudhia</N>
-<N>united_estland</N>
 <N>the_dome</N>
+<N>united_estland</N>
 <N>the_utopic_tyrant_dreams</N>
 <N>komuna_del_simys</N>
 <N>greater_cuba</N>
@@ -1378,6 +1384,7 @@
 <N>novus_canadis</N>
 <N>duga</N>
 <N>syndic_australia</N>
+<N>telaret</N>
 <N>new_furspolisia</N>
 <N>usaint</N>
 <N>israel_emirates</N>
@@ -1423,8 +1430,8 @@
 <N>scallyland</N>
 <N>automatic_gunfire</N>
 <N>eastfield_lodge</N>
-<N>naturism</N>
 <N>sinderwood</N>
+<N>naturism</N>
 <N>inkraiya</N>
 <N>norvoz</N>
 <N>benicarlo</N></VOTES_AGAINST>
@@ -1566,19 +1573,20 @@
 <N>eiga</N>
 <N>cartoonia</N>
 <N>the_fremen_people</N>
+<N>dashji</N>
 <N>tir_rois</N>
 <N>laurentrum</N>
 <N>greedia</N>
 <N>kaidan</N>
 <N>skotteria</N>
-<N>new_bubastis</N>
 <N>nanostia</N>
+<N>new_bubastis</N>
 <N>bergien</N>
 <N>badger</N>
 <N>rio_de_mouro</N>
 <N>askvazia</N>
-<N>jabe</N>
 <N>cheksiz_asman</N>
+<N>jabe</N>
 <N>trudaq_thunds</N>
 <N>west_hempstead</N>
 <N>western_vire_borobsur</N>
@@ -1615,8 +1623,8 @@
 <N>new-amazonia</N>
 <N>catodiles</N>
 <N>araunia</N>
-<N>clantonia</N>
 <N>klopptopolis</N>
+<N>clantonia</N>
 <N>the_holy_baptist_church</N>
 <N>anti-void</N>
 <N>definitely_not_spartacus</N>
@@ -1627,6 +1635,7 @@
 <N>manstrosity</N>
 <N>welperto</N>
 <N>courathar</N>
+<N>ybova</N>
 <N>mongolz</N>
 <N>bai_lung</N>
 <N>alexein</N>
@@ -1639,6 +1648,7 @@
 <N>brendene</N>
 <N>palm_taxation</N>
 <N>nordgardia</N>
+<N>chipoli</N>
 <N>binar</N>
 <N>armorian_union</N>
 <N>rachion</N>
@@ -1662,8 +1672,8 @@
 <N>anarchan_free_territories</N>
 <N>vertis</N>
 <N>the_iron_lions</N>
-<N>famaristan</N>
 <N>system_britannia</N>
+<N>famaristan</N>
 <N>gran_azuria</N>
 <N>von_mor</N>
 <N>hybia</N>
@@ -1698,8 +1708,8 @@
 <N>new_bulacan</N>
 <N>danishire</N>
 <N>junkyland</N>
-<N>biaten</N>
 <N>woodsmere</N>
+<N>biaten</N>
 <N>sha_la_la_land</N>
 <N>filipino_union</N>
 <N>synthenos</N>
@@ -1728,8 +1738,8 @@
 <N>soantrias</N>
 <N>lazalia</N>
 <N>knights_of_lusitania</N>
-<N>krovnara</N>
 <N>stevist_guam</N>
+<N>krovnara</N>
 <N>zhs0715</N>
 <N>aleet</N>
 <N>the_philippine_islands_union</N>
@@ -1763,6 +1773,7 @@
 <N>kryzstof</N>
 <N>the_united_corporate_commonwealth</N>
 <N>inco</N>
+<N>limboese</N>
 <N>danjou</N>
 <N>farbelia</N>
 <N>adriatic_democratic_empire</N>
@@ -1881,6 +1892,7 @@
 <N>ienovo</N>
 <N>svalister</N>
 <N>elwher</N>
+<N>cannense</N>
 <N>drakenden</N>
 <N>adeligne</N>
 <N>bhang_bhang_duc</N>
@@ -2007,8 +2019,8 @@
 <N>dremaur</N>
 <N>capitalist_producers</N>
 <N>tokuto</N>
-<N>potass</N>
 <N>confederate_states_of_dixieland</N>
+<N>potass</N>
 <N>the_prototype_state</N>
 <N>communist_fardin</N>
 <N>white_noise</N>
@@ -2070,8 +2082,8 @@
 <N>damaskia</N>
 <N>jan_mackistan</N>
 <N>united_hephaestia</N>
-<N>libertopia_land_23</N>
 <N>iron_dog</N>
+<N>libertopia_land_23</N>
 <N>xechana</N>
 <N>azurnailia</N>
 <N>thyrall</N>
@@ -2165,8 +2177,8 @@
 <N>disinn</N>
 <N>pultorland</N>
 <N>northwest_north_america</N>
-<N>soruli</N>
 <N>jekabsland</N>
+<N>soruli</N>
 <N>ankuria</N>
 <N>neu_arbuckle</N>
 <N>saint_moonereaus</N>
@@ -2228,6 +2240,7 @@
 <N>feux</N>
 <N>alf_landon</N>
 <N>tullshell</N>
+<N>oscealia</N>
 <N>american_greenland</N>
 <N>revolutionary_anarchy</N>
 <N>slaca</N>
@@ -2245,6 +2258,7 @@
 <N>laws_and_bylaws</N>
 <N>the_empire_of_alerba</N>
 <N>wacman</N>
+<N>new_mughal</N>
 <N>zintai</N>
 <N>thx1138</N>
 <N>rantopia</N>
@@ -2349,6 +2363,7 @@
 <N>christian_autocratic_states_of_australia</N>
 <N>leuzinger</N>
 <N>zafika</N>
+<N>the_un-alive</N>
 <N>sandriam</N>
 <N>valknord</N>
 <N>nova_renascentia</N>
@@ -2385,13 +2400,14 @@
 <N>coppolta</N>
 <N>stareogratia</N>
 <N>socialist_union_of_alisa_mikhailovna</N>
-<N>freedomstaki</N>
 <N>macktavia</N>
+<N>freedomstaki</N>
 <N>neue_albania</N>
 <N>free_azrelia</N>
 <N>milcorp_sa</N>
 <N>nioshday</N>
 <N>bronzehamut</N>
+<N>prutland</N>
 <N>impabna</N>
 <N>imglishyr</N>
 <N>muspelgard</N>
@@ -2401,13 +2417,14 @@
 <N>republic_of_republic_of_dominia</N>
 <N>ostro-visigoth</N>
 <N>rhaza</N>
+<N>andoros</N>
 <N>sherizia</N>
 <N>the_great_city-state_of_zootopia</N>
 <N>the_midori_kaeru</N>
 <N>steamstate</N>
 <N>germanys_peoples_republic</N>
-<N>the_gerberia</N>
 <N>new_listenbourg</N>
+<N>the_gerberia</N>
 <N>the_dovahkiin_caliphate</N>
 <N>jonas_land</N>
 <N>aelyria</N>
@@ -2615,12 +2632,12 @@
 <N>poland_and_of_lithuania</N>
 <N>the_holy_empire_of_the_stars</N>
 <N>great_sino-vietnamese-american_state</N>
-<N>pazovia</N>
 <N>unsophisticate</N>
+<N>pazovia</N>
 <N>the_united_provinces_of_yeettopia</N>
 <N>charolsia</N>
-<N>stalkeri</N>
 <N>auskia</N>
+<N>stalkeri</N>
 <N>de_sao_paulo</N>
 <N>mark</N>
 <N>hindurastra</N>
@@ -2657,8 +2674,8 @@
 <N>srius</N>
 <N>tea_jol</N>
 <N>banaria</N>
-<N>liko</N>
 <N>sidanya</N>
+<N>liko</N>
 <N>suid_holland</N>
 <N>yardies</N>
 <N>syldis</N>
@@ -2699,8 +2716,8 @@
 <N>sfenya</N>
 <N>kylarnatia</N>
 <N>san_ricargo</N>
-<N>united_stsiborskyy_of_diekorakha</N>
 <N>mjau</N>
+<N>united_stsiborskyy_of_diekorakha</N>
 <N>the_united_patagonian_states</N>
 <N>cognosco</N>
 <N>mythicea</N>
@@ -2709,12 +2726,13 @@
 <N>plus_nova_imperii</N>
 <N>indo-pasific</N>
 <N>euterpee</N>
-<N>of_the_germanic_empire</N>
 <N>scuglandia</N>
+<N>of_the_germanic_empire</N>
 <N>the_grand_republic_of_mystikpolem</N>
 <N>valoryx</N>
 <N>xaragia</N>
 <N>kingburger5</N>
+<N>south_neviersia</N>
 <N>saint_saul_and_shirley</N>
 <N>saphman</N>
 <N>valharley</N>
@@ -2775,6 +2793,7 @@
 <N>president_hassan_rouhani</N>
 <N>xaeloa</N>
 <N>alski</N>
+<N>northern_german_federation</N>
 <N>wauka_mountain</N>
 <N>nick_carraway</N>
 <N>arqadiya</N>
@@ -2797,8 +2816,8 @@
 <N>wakeopolis</N>
 <N>subhamnation</N>
 <N>furcoverd</N>
-<N>motri</N>
 <N>lisman</N>
+<N>motri</N>
 <N>foixla</N>
 <N>barchadi</N>
 <N>zynthari</N>
@@ -2809,8 +2828,8 @@
 <N>glaciertop</N>
 <N>the_real_underground</N>
 <N>le_kartoffel</N>
-<N>dellcom</N>
 <N>taginvia</N>
+<N>dellcom</N>
 <N>loblolly</N>
 <N>melenchonia</N>
 <N>matatic_and_the_principality_of_surkis</N>
@@ -2848,8 +2867,8 @@
 <N>gallifrey_reborn</N>
 <N>speans</N>
 <N>crongoska</N>
-<N>grand_technate_of_the_new_world</N>
 <N>kingdom_of_kasiopea</N>
+<N>grand_technate_of_the_new_world</N>
 <N>hellslayer</N>
 <N>warzakie</N>
 <N>agderomat</N>
@@ -2870,8 +2889,8 @@
 <N>telta</N>
 <N>zanphil</N>
 <N>polansk</N>
-<N>the_agarthans</N>
 <N>bearstackof2015</N>
+<N>the_agarthans</N>
 <N>marxist_land_of_peoples</N>
 <N>the_armed_union</N>
 <N>verithlana</N>
@@ -2985,11 +3004,11 @@
 <N>the_hurricane</N>
 <N>yarabaha</N>
 <N>pipi_pampers</N>
+<N>dark_chaos_insurgency</N>
 <N>marvel_jesus</N>
 <N>velisila_ljudstva</N>
-<N>dark_chaos_insurgency</N>
-<N>new_aureum</N>
 <N>bitalie</N>
+<N>new_aureum</N>
 <N>heclanctonn</N>
 <N>glumen</N>
 <N>litchenstienen</N>
@@ -3087,6 +3106,7 @@
 <N>equability</N>
 <N>mexicans_and_savadorans</N>
 <N>the_psittacines</N>
+<N>tavok</N>
 <N>arembag</N>
 <N>okelia</N>
 <N>new_ostronesia</N>
@@ -3146,6 +3166,7 @@
 <N>abcariare</N>
 <N>luziferisch_reich</N>
 <N>das_republic</N>
+<N>wardian</N>
 <N>astralmere</N>
 <N>bayn_churax</N>
 <N>jaegerpondonia</N>
@@ -3171,8 +3192,8 @@
 <N>lilli_lands</N>
 <N>gobshite</N>
 <N>east_qaru</N>
-<N>dregs_of_the_earth</N>
 <N>rosearium</N>
+<N>dregs_of_the_earth</N>
 <N>logical_stimulus</N>
 <N>sycruliovin</N>
 <N>nazarionia</N>
@@ -3199,8 +3220,8 @@
 <N>drupec</N>
 <N>east_thule</N>
 <N>hashidi</N>
-<N>antara</N>
 <N>old_emporia</N>
+<N>antara</N>
 <N>skytasia</N>
 <N>isdormenye</N>
 <N>neopunk-brazil</N>
@@ -3249,8 +3270,8 @@
 <N>antylin</N>
 <N>taedonggang</N>
 <N>redbaronia</N>
-<N>big_uganda</N>
 <N>basque_dominion</N>
+<N>big_uganda</N>
 <N>wickedly_evil_people</N>
 <N>vergusk</N>
 <N>western_arba_fir</N>
@@ -3291,6 +3312,7 @@
 <N>the_new_ganges</N>
 <N>castelia</N>
 <N>hellawi</N>
+<N>joyussol</N>
 <N>alsion</N>
 <N>mercov</N>
 <N>greater_wolfinia</N></VOTES_FOR>
