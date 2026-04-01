@@ -1,14 +1,14 @@
 {
     "1": {
         "res_id": "cretox_state_1770759226",
-        "last_ts": 1775058011,
+        "last_ts": 1775063404,
         "end_ts": 1775361604,
         "res_name": "Repeal \"Humanitarian Transport\""
     },
     "2": {
-        "res_id": "ghost_1774668671",
-        "last_ts": 1775058011,
-        "end_ts": 1775059203,
-        "res_name": "Condemn Davelands"
+        "res_id": null,
+        "last_ts": null,
+        "end_ts": null,
+        "res_name": null
     }
 }
