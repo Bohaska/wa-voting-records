@@ -7,21 +7,44 @@ from os import listdir
 from os.path import isfile
 import json
 import re
+from html import unescape
 
 STATE_FILE = "state.json"
 TZ = timezone.utc
-COUNCILS = ["1", "2"]  # Monitor both General Assembly (1) and Security Council (2)
+COUNCILS = ["3", "2"]  # Monitor both General Assembly (3) and Security Council (2)
+
+
+def default_council_state():
+    return {'res_id': None, 'last_ts': None, 'end_ts': None, 'res_name': None}
+
+
+def normalize_resolution_name(name):
+    return unescape(name or '')
+
+
+def normalize_state(state):
+    """
+    Keeps persisted state compatible with the GA reset, which moved the active
+    General Assembly API council from 1 to 3.
+    """
+    if not isinstance(state, dict):
+        state = {}
+
+    if '3' not in state and state.get('1', {}).get('res_id') is not None:
+        state['3'] = state['1']
+
+    return {c: {**default_council_state(), **state.get(c, {})} for c in COUNCILS}
 
 def load_state():
     """Loads the script's state from the state file."""
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, 'r') as f:
             try:
-                # Structure: {'1': {'res_id': '...', 'last_ts': 12345}, '2': {...}}
-                return json.load(f)
+                # Structure: {'3': {'res_id': '...', 'last_ts': 12345}, '2': {...}}
+                return normalize_state(json.load(f))
             except json.JSONDecodeError:
-                return {c: {'res_id': None, 'last_ts': None, 'end_ts': None, 'res_name': None} for c in COUNCILS}
-    return {c: {'res_id': None, 'last_ts': None, 'end_ts': None, 'res_name': None} for c in COUNCILS}
+                return normalize_state({})
+    return normalize_state({})
 
 def save_state(state):
     """Saves the script's state to the state file."""
@@ -132,10 +155,11 @@ def backfill_missing_votes_via_happenings(council_id, res_id, res_name, last_ts,
     # Note: Event ID is a good secondary sort, as higher IDs are newer events.
     parsed_events = []
 
+    target_res_name = normalize_resolution_name(res_name)
     vote_pattern = re.compile(
-        r"@@(?P<nation>[a-zA-Z0-9_]+)@@ voted (?P<type>for|against) the World Assembly Resolution \"(?P<resname>.+?)\"\.")
+        r"@@(?P<nation>[^@]+)@@ voted (?P<type>for|against) the World Assembly Resolution \"(?P<resname>.+?)\"\.")
     withdraw_pattern = re.compile(
-        r"@@(?P<nation>[a-zA-Z0-9_]+)@@ withdrew its vote on the World Assembly Resolution \"(?P<resname>.+?)\"\.")
+        r"@@(?P<nation>[^@]+)@@ withdrew its vote on the World Assembly Resolution \"(?P<resname>.+?)\"\.")
 
     for event in all_events:
         try:
@@ -146,14 +170,14 @@ def backfill_missing_votes_via_happenings(council_id, res_id, res_name, last_ts,
             continue  # should not happen
 
         match = vote_pattern.search(text)
-        if match and match.group('resname') == res_name:
+        if match and normalize_resolution_name(match.group('resname')) == target_res_name:
             nation_id = match.group('nation')
             vote_type = match.group('type')
             parsed_events.append((timestamp, event_id, nation_id, vote_type))
             continue
 
         match = withdraw_pattern.search(text)
-        if match and match.group('resname') == res_name:
+        if match and normalize_resolution_name(match.group('resname')) == target_res_name:
             nation_id = match.group('nation')
             # 'withdraw' will clear the vote in the final step
             parsed_events.append((timestamp, event_id, nation_id, 'withdraw'))
@@ -238,8 +262,7 @@ def process_execution_request():
 
     for council_id in COUNCILS:
         print(f"\n--- Processing WA {council_id} ---")
-        current_state = script_state.get(council_id,
-                                         {'res_id': None, 'last_ts': None, 'end_ts': None, 'res_name': None})
+        current_state = script_state.get(council_id, default_council_state())
 
         try:
             raw_xml = fetch_api_xml(council_id)
@@ -320,7 +343,10 @@ def process_execution_request():
     save_state(script_state)
 
 def csv_vote_record():
-    res_files = listdir('resolutions')
+    res_files = [
+        file for file in listdir('resolutions')
+        if file.endswith('_votes.xml') and isfile('resolutions/' + file)
+    ]
     res_files.sort(key=lambda x: int(x.split('_')[-2]))
     all_votes = {}
     all_res = []

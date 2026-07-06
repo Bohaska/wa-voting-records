@@ -17,12 +17,12 @@ function timestampToDate(timestamp) {
 }
 
 /**
- * Converts council ID (1 or 2) to chamber name (GA or SC).
+ * Converts council ID to chamber name.
  * @param {string} council_id
  * @returns {string} Chamber name.
  */
 function getChamber(council_id) {
-    return council_id === '1' ? 'GA' : (council_id === '2' ? 'SC' : '');
+    return council_id === '1' || council_id === '3' ? 'GA' : (council_id === '2' ? 'SC' : '');
 }
 
 /**
