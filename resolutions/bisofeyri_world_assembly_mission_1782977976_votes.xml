@@ -34,10 +34,10 @@ Noting that, following the annihilation of the body previously occupying this sp
 <NAME>World Environmental Treaty</NAME>
 <PROMOTED>1784390404</PROMOTED>
 <PROPOSED_BY>bisofeyri_world_assembly_mission</PROPOSED_BY>
-<TOTAL_NATIONS_AGAINST>443</TOTAL_NATIONS_AGAINST>
-<TOTAL_NATIONS_FOR>2525</TOTAL_NATIONS_FOR>
-<TOTAL_VOTES_AGAINST>751</TOTAL_VOTES_AGAINST>
-<TOTAL_VOTES_FOR>8478</TOTAL_VOTES_FOR>
+<TOTAL_NATIONS_AGAINST>457</TOTAL_NATIONS_AGAINST>
+<TOTAL_NATIONS_FOR>2630</TOTAL_NATIONS_FOR>
+<TOTAL_VOTES_AGAINST>780</TOTAL_VOTES_AGAINST>
+<TOTAL_VOTES_FOR>8591</TOTAL_VOTES_FOR>
 <VOTES_AGAINST><N>the_united_menali_confederation</N>
 <N>karvadar</N>
 <N>indesputatio</N>
@@ -53,6 +53,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>free_cities_of_vrangravn</N>
 <N>valkyrie_reborn</N>
 <N>united_beherbia</N>
+<N>new-liberty</N>
 <N>ultangs_neso</N>
 <N>prinzeugenz</N>
 <N>of_the_golden_harp</N>
@@ -63,7 +64,9 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>ragsdale</N>
 <N>de_murcia</N>
 <N>the_soylent_green_party</N>
+<N>cooperia</N>
 <N>new_alleghenia</N>
+<N>nihil_anarkia</N>
 <N>egunsentia</N>
 <N>imperium_corporativum_romanum</N>
 <N>newne_carriebean7</N>
@@ -75,9 +78,11 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>neu_arbuckle</N>
 <N>blandowia</N>
 <N>tomfoolery_corporation</N>
+<N>glacola</N>
 <N>socialist_republic_of_luxemburg</N>
 <N>ascoiya</N>
 <N>winkeria</N>
+<N>turheim</N>
 <N>groznygrad</N>
 <N>asembloa</N>
 <N>kwaj</N>
@@ -129,6 +134,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>ea_corporations</N>
 <N>new_luciannova</N>
 <N>dong_chong_gone</N>
+<N>la_xinga</N>
 <N>york_zionia</N>
 <N>ferrandis</N>
 <N>knights_of_lusitania</N>
@@ -150,6 +156,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>oblitus_terras</N>
 <N>holy_orthodox_bulgaria</N>
 <N>trastal</N>
+<N>bacharelado_em_sistemas_de_informacao</N>
 <N>enclave_heartland_command</N>
 <N>bonkbonk</N>
 <N>west_alria</N>
@@ -190,8 +197,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>wattsland</N>
 <N>noobia_and_solare</N>
 <N>at-m6</N>
-<N>maloruslavka</N>
 <N>kractero</N>
+<N>maloruslavka</N>
 <N>delphinia</N>
 <N>north-west_commland_overseas_embassy</N>
 <N>free_svalbard</N>
@@ -217,8 +224,10 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>unibot_iii</N>
 <N>fjordlandia</N>
 <N>pravosia</N>
+<N>ealabasta</N>
 <N>click_ests_vimgalevytopia</N>
 <N>drokea</N>
+<N>infidel_state</N>
 <N>zavea</N>
 <N>the_grand_spanish_imperium</N>
 <N>taberland</N>
@@ -347,6 +356,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>grego</N>
 <N>socialista_de_bermelia</N>
 <N>theroria</N>
+<N>armha</N>
 <N>grosskaiserliche_deutsche_imperium</N>
 <N>cabestan</N>
 <N>samosil</N>
@@ -425,6 +435,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>falkheim</N>
 <N>die_eusan</N>
 <N>environmental_support</N>
+<N>north_southest_finkleton</N>
 <N>nouvel_acadie</N>
 <N>poram_companies</N>
 <N>artamisiland</N>
@@ -437,6 +448,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>genocidal</N>
 <N>zeroshima</N>
 <N>the_greater_imperial_russian_empire</N>
+<N>perseallon</N>
 <N>newland_city</N>
 <N>verdier</N>
 <N>new_found_america</N>
@@ -449,8 +461,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>augsheim</N>
 <N>syndikaatti</N>
 <N>owonyaania</N>
-<N>lucarion</N>
 <N>rebel_new</N>
+<N>lucarion</N>
 <N>chastonia</N>
 <N>romanaugustus</N>
 <N>mallaynn</N>
@@ -475,6 +487,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>duandia</N>
 <N>ewing_oil_co</N>
 <N>austrasul</N>
+<N>mountaye</N>
+<N>de_sao_paulo</N>
 <N>unikon</N>
 <N>forfishing</N>
 <N>agandur</N>
@@ -532,6 +546,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>divine_alkimia</N>
 <N>republic_of_sord1and</N>
 <N>ballotonia</N>
+<N>dorab</N>
 <N>bluu</N>
 <N>ivitai</N>
 <N>new_illyricum</N>
@@ -543,11 +558,14 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>solova</N>
 <N>idontcare</N>
 <N>triumphancy</N>
+<N>celdonie</N>
 <N>vietnamica</N>
 <N>olympvia</N>
 <N>nordiheim</N>
 <N>skovestenland_and_skytsengelo</N>
+<N>western_arba_fir</N>
 <N>bolian_island</N>
+<N>doumeira</N>
 <N>qual_gual</N>
 <N>corisia</N>
 <N>leszno</N>
@@ -564,6 +582,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>prackin_kelew</N>
 <N>mystris</N>
 <N>matukio</N>
+<N>yankeevill</N>
 <N>wizlandia</N>
 <N>cameronia_excellentia</N>
 <N>felid_robloxia</N>
@@ -594,6 +613,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>paradystopia</N>
 <N>kabran</N>
 <N>the_earths_people</N>
+<N>lbaniya</N>
 <N>republic_of_ravensport</N>
 <N>arcrovia</N>
 <N>mypixel</N>
@@ -604,6 +624,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>free_city_of_brismed</N>
 <N>ficklovia</N>
 <N>condemned_davelands</N>
+<N>eledras</N>
 <N>ibarabayashi</N>
 <N>orov_fent</N>
 <N>new_vardarland</N>
@@ -659,8 +680,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>tyumak</N>
 <N>vertigoism</N>
 <N>gameran_autocracy</N>
-<N>fredericksborg</N>
 <N>rhyssuan_peoples</N>
+<N>fredericksborg</N>
 <N>grod_island</N>
 <N>happy2222222222222</N>
 <N>tallinia</N>
@@ -699,6 +720,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>the_armed_free_peoples_socialist_party</N>
 <N>new_caribbean_island</N>
 <N>island_union</N>
+<N>gurtmenia</N>
 <N>vindsberg</N>
 <N>new_fernia</N>
 <N>moukden_and_kirin</N>
@@ -726,12 +748,15 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>toriski</N>
 <N>mirahge</N>
 <N>the_real_underground</N>
+<N>vallivene</N>
 <N>tridonica</N>
 <N>napajan</N>
 <N>faceeatingslug</N>
+<N>kensington</N>
 <N>kyriarsk</N>
 <N>meraud</N>
 <N>salzcovia</N>
+<N>logor_invantaria_1</N>
 <N>popunya</N>
 <N>casscata</N>
 <N>louvrandia</N>
@@ -774,6 +799,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>alf_landon</N>
 <N>prouthe</N>
 <N>christian_union_of_taewania</N>
+<N>nordinus</N>
 <N>xiggor</N>
 <N>shieldholm</N>
 <N>squishville</N>
@@ -783,8 +809,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>big_zebra</N>
 <N>bukajokh</N>
 <N>uluxe</N>
-<N>the_cascadian_bioregion</N>
 <N>yahlia</N>
+<N>the_cascadian_bioregion</N>
 <N>nikos-pikos</N>
 <N>euraxilia</N>
 <N>hitori_gotoh_bocchi</N>
@@ -825,6 +851,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>hanguk-nippon</N>
 <N>natsuki_state</N>
 <N>hai_dao</N>
+<N>jean_jacket_russell_high_school</N>
+<N>netrigi</N>
 <N>milimuppet</N>
 <N>cakrystan</N>
 <N>marlducro</N>
@@ -840,6 +868,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>czechoslovakia_repuplika</N>
 <N>sartaria</N>
 <N>paffnia</N>
+<N>stabby_stabby</N>
 <N>nyekograd</N>
 <N>moryazvia</N>
 <N>second_georgia</N>
@@ -848,6 +877,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>the_haughtherlands</N>
 <N>sokiata</N>
 <N>professor_sonia</N>
+<N>ogaitnas</N>
 <N>tacyant</N>
 <N>twisted_duality</N>
 <N>dombaness</N>
@@ -860,6 +890,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>mipierreraq</N>
 <N>new_bubastis</N>
 <N>workers_states</N>
+<N>the_united_states_of_adit</N>
 <N>rhaza</N>
 <N>quaeteno</N>
 <N>the_royal_republic_of_kumania</N>
@@ -873,6 +904,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>colmis</N>
 <N>kanduuri</N>
 <N>calinania</N>
+<N>araine</N>
 <N>detroit_pro_max_ai</N>
 <N>oskaan</N>
 <N>new_tussia</N>
@@ -888,8 +920,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>aaaaaaaaaaaaaaaaauuu</N>
 <N>a_mean_old_man</N>
 <N>stiliyan</N>
-<N>evinea</N>
 <N>zkraim</N>
+<N>evinea</N>
 <N>firhaven</N>
 <N>ithaque</N>
 <N>althne</N>
@@ -906,6 +938,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>rhinelander</N>
 <N>seranis</N>
 <N>zuuri</N>
+<N>druben</N>
 <N>fifaaf</N>
 <N>grand_niagara</N>
 <N>howszeccia</N>
@@ -930,6 +963,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>lannister_reich</N>
 <N>renaui</N>
 <N>carrotpolis</N>
+<N>odin</N>
 <N>rakscovia</N>
 <N>barwenia</N>
 <N>minnotopia</N>
@@ -987,8 +1021,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>vas_drucia</N>
 <N>minata</N>
 <N>orixia</N>
-<N>comia_noracon</N>
 <N>eastern_fuza</N>
+<N>comia_noracon</N>
 <N>kurranulla</N>
 <N>inner_nath</N>
 <N>eireip</N>
@@ -1017,8 +1051,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>chipoli</N>
 <N>no_freedoom</N>
 <N>estado_livre_da_concordia</N>
-<N>grace_wellesley_thayer</N>
 <N>omnitech</N>
+<N>grace_wellesley_thayer</N>
 <N>erwacivos</N>
 <N>ralphburg</N>
 <N>cromulent_peoples</N>
@@ -1046,10 +1080,12 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>ervald</N>
 <N>spyrin</N>
 <N>la_commune_anarchiste_de_france</N>
+<N>satiran</N>
 <N>chillicothe</N>
 <N>yerva</N>
 <N>neo-pritania</N>
 <N>retodia</N>
+<N>pirzdavor</N>
 <N>republica_federal_de_catalunya</N>
 <N>the_ancient_world</N>
 <N>western_vire_borobsur</N>
@@ -1087,7 +1123,9 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>bacaya</N>
 <N>chervenya</N>
 <N>topiaaa</N>
+<N>humanlonia</N>
 <N>dun_eideann_mor</N>
+<N>adinesi</N>
 <N>attestaltarragaby</N>
 <N>empth</N>
 <N>brunhold</N>
@@ -1096,6 +1134,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>chinchillaville</N>
 <N>burning_pants</N>
 <N>andso_mangis</N>
+<N>broken_coaltion</N>
 <N>garbelia</N>
 <N>greater_kilmarnock</N>
 <N>simsreich</N>
@@ -1121,6 +1160,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>yunmei</N>
 <N>emustralia</N>
 <N>sporaltryus</N>
+<N>geatlandia</N>
 <N>cascadian_free_states</N>
 <N>amathria</N>
 <N>dhaki_wa_hakim</N>
@@ -1130,6 +1170,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>jughru</N>
 <N>estados_socialistas_independentes</N>
 <N>heiqonnex</N>
+<N>hamtoniala</N>
 <N>rosearium</N>
 <N>roxium</N>
 <N>de_leon_river</N>
@@ -1226,6 +1267,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>glorios</N>
 <N>east_thule</N>
 <N>varsemia</N>
+<N>stratovar</N>
 <N>heavens_reach</N>
 <N>the_nordic_isles</N>
 <N>varanius</N>
@@ -1236,11 +1278,13 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>oktotheio</N>
 <N>glaciertop</N>
 <N>scandivielium</N>
+<N>canopytown</N>
 <N>tunasai</N>
 <N>australdof</N>
 <N>new_birblands</N>
 <N>grand_vangovian_empire</N>
 <N>ghau</N>
+<N>lesser_nanders</N>
 <N>neue_albania</N>
 <N>okoroneo</N>
 <N>orgation_ii</N>
@@ -1284,6 +1328,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>principado_blake</N>
 <N>fat_angel</N>
 <N>texaska</N>
+<N>domas</N>
 <N>holy_vatoll</N>
 <N>aavoniv_mona</N>
 <N>demon_girl</N>
@@ -1310,8 +1355,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>shapeville</N>
 <N>wala_yosenianganjism</N>
 <N>unaufrfunds</N>
-<N>lantheia</N>
 <N>terminus_solus</N>
+<N>lantheia</N>
 <N>great_skinish_empire</N>
 <N>the_holy_empire_of_the_stars</N>
 <N>greater_portu</N>
@@ -1325,6 +1370,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>liyunsha</N>
 <N>kostemetsia</N>
 <N>terre_st-laurent</N>
+<N>mark</N>
 <N>adziolandia</N>
 <N>rhostohn</N>
 <N>fetridge</N>
@@ -1346,8 +1392,10 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>the_southern_great_lakes</N>
 <N>sonyasia</N>
 <N>wengala</N>
+<N>aracelicosenera</N>
 <N>lux_good</N>
 <N>true_koreas_peoples_nation_of_democracy</N>
+<N>verumir</N>
 <N>poblacht_na_gcostai_aontaithe</N>
 <N>kilpatricka</N>
 <N>nova_bellvoria</N>
@@ -1363,6 +1411,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>kopyrlandia</N>
 <N>certantel</N>
 <N>flor-fina</N>
+<N>ventelia</N>
 <N>andox_legarce</N>
 <N>maggriststan</N>
 <N>otayo</N>
@@ -1390,6 +1439,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>nrds987</N>
 <N>kaschovia</N>
 <N>himavarta</N>
+<N>arucaria</N>
+<N>vlana_egamska</N>
 <N>vendellamoore</N>
 <N>diatian_isles</N>
 <N>aigania</N>
@@ -1421,6 +1472,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>idunn</N>
 <N>wa_klopstock</N>
 <N>shinar</N>
+<N>weeto</N>
 <N>north_europe_and_greater_atlantica</N>
 <N>robin_and_lyn</N>
 <N>fremandia</N>
@@ -1481,6 +1533,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>the_makerfields_and_burnham</N>
 <N>agora_kingdom</N>
 <N>freecriers</N>
+<N>asurge</N>
 <N>eastern_christania</N>
 <N>gay_miku</N>
 <N>ciruno</N>
@@ -1520,10 +1573,12 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>fremet</N>
 <N>estalora</N>
 <N>catisland</N>
+<N>russian_united_federation</N>
 <N>equal_prosperity</N>
 <N>goatseania</N>
 <N>el_sandor</N>
 <N>kurshivar</N>
+<N>house_tarkin</N>
 <N>absolute_measure</N>
 <N>jonkle_land</N>
 <N>very_new_republic_of_madinia</N>
@@ -1555,6 +1610,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>nisat</N>
 <N>grimmwurm</N>
 <N>hythos</N>
+<N>beefoslavia</N>
 <N>harjad</N>
 <N>duravian</N>
 <N>altosia_fitareekradzland</N>
@@ -1574,6 +1630,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>maikova</N>
 <N>voxum_mortalum</N>
 <N>ruskevia</N>
+<N>nakai-makai</N>
 <N>aweentitante</N>
 <N>inthikios</N>
 <N>united_states_zwiland</N>
@@ -1588,8 +1645,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>elisabethshagen</N>
 <N>navocain</N>
 <N>takegashii</N>
-<N>bongrovia</N>
 <N>vszekilyrmbourg</N>
+<N>bongrovia</N>
 <N>ostrovskiy</N>
 <N>virlen</N>
 <N>dreyland</N>
@@ -1647,8 +1704,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>veln</N>
 <N>santa-barbara</N>
 <N>auraesia</N>
-<N>littlelund</N>
 <N>the_union_of_koslenv</N>
+<N>littlelund</N>
 <N>new_rustonia</N>
 <N>new_opolopia</N>
 <N>free_socialism</N>
@@ -1660,6 +1717,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>polarea</N>
 <N>direnne</N>
 <N>tukkar</N>
+<N>aliata</N>
 <N>unioneitaliana</N>
 <N>ausvelt</N>
 <N>world_government_nation</N>
@@ -1668,6 +1726,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>united_allied_systems_nations</N>
 <N>mildo_tuh</N>
 <N>rovanya</N>
+<N>sao_paulo_futebol_clube</N>
 <N>potatofarmers</N>
 <N>the_united_commonwealth_of_shire_valley</N>
 <N>scoria-flaria</N>
@@ -1675,19 +1734,21 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>duga</N>
 <N>moduland</N>
 <N>aruma</N>
-<N>brezzia</N>
 <N>southwestern_federal_republic</N>
+<N>brezzia</N>
 <N>laus_val</N>
 <N>minjiang</N>
+<N>neyana</N>
 <N>npo2</N>
 <N>free_soter</N>
 <N>lillistroniralocksne</N>
 <N>criil</N>
+<N>rathanur</N>
 <N>oxeron</N>
 <N>kaoia</N>
-<N>the_american_empire</N>
 <N>the_buns_of_korhal</N>
 <N>frismana</N>
+<N>nova_esperanca</N>
 <N>ayti</N>
 <N>narvatus</N>
 <N>cathendale</N>
@@ -1703,6 +1764,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>marmellata</N>
 <N>-priola</N>
 <N>xtralandia</N>
+<N>nordoya</N>
 <N>blikhold</N>
 <N>delitai</N>
 <N>ameroind</N>
@@ -1721,7 +1783,9 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>voldsoy_ridge</N>
 <N>the_tri</N>
 <N>warnen</N>
+<N>grondani</N>
 <N>mamt</N>
+<N>inner_albania</N>
 <N>lysset</N>
 <N>the_shaymen</N>
 <N>libate</N>
@@ -1803,6 +1867,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>seventh_heaven</N>
 <N>kophee23</N>
 <N>freemer</N>
+<N>new_oscary</N>
 <N>danjou</N>
 <N>mujistan</N>
 <N>krestempir</N>
@@ -1825,6 +1890,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>boobiestan</N>
 <N>duchy_of_liverpool</N>
 <N>tithio</N>
+<N>the_devskian_revolutionary_republic</N>
 <N>rosettan_overwatch</N>
 <N>newjerusalem</N>
 <N>oswast</N>
@@ -1888,7 +1954,9 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>enou</N>
 <N>slaca</N>
 <N>kalmykhia</N>
+<N>perpendicular_bisector</N>
 <N>democratic_kingdom_of_south_india</N>
+<N>maariko</N>
 <N>tansan</N>
 <N>ratateague</N>
 <N>matarata</N>
@@ -1941,6 +2009,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>lautthal</N>
 <N>ghost_of_the_order</N>
 <N>rumargan</N>
+<N>the_outer_union</N>
 <N>kisovec</N>
 <N>revivalist_india</N>
 <N>yugoslavs</N>
@@ -1953,6 +2022,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>turpotia</N>
 <N>neuvo_bulgaria</N>
 <N>pruani</N>
+<N>liko</N>
 <N>nokopia</N>
 <N>differences-in-differences</N>
 <N>weghstate</N>
@@ -1971,7 +2041,9 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>the_utopia_dynasty</N>
 <N>prestonland</N>
 <N>kiret-falnai</N>
+<N>prevails</N>
 <N>xarikistan</N>
+<N>northportugal</N>
 <N>archmagia</N>
 <N>oneil_land</N>
 <N>drentor</N>
@@ -2006,11 +2078,12 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>peanu-butteria</N>
 <N>demeter</N>
 <N>malatoga</N>
-<N>torregal</N>
 <N>vistilistae</N>
+<N>torregal</N>
 <N>nova_corrisia</N>
 <N>south_ursa</N>
 <N>lobulrwa</N>
+<N>imitation_socialism</N>
 <N>the_sun_on_rise</N>
 <N>random_island_in_the_arctic</N>
 <N>new_hirschland</N>
@@ -2061,6 +2134,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>agos</N>
 <N>frier_pie-rats</N>
 <N>nothern_fores</N>
+<N>sasilen</N>
 <N>insonblia</N>
 <N>pichvi</N>
 <N>nu-normandy</N>
@@ -2075,6 +2149,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>arasburgia</N>
 <N>sorelois</N>
 <N>croblade</N>
+<N>anti-goatsack</N>
 <N>alsion</N>
 <N>new_solway</N>
 <N>canadain</N>
@@ -2093,6 +2168,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>strogamehouf</N>
 <N>safiloa</N>
 <N>maximus_rex_land</N>
+<N>ostermark_prussia</N>
 <N>maraganta</N>
 <N>skechland</N>
 <N>piura</N>
@@ -2111,6 +2187,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>the_holy_roman-empire</N>
 <N>korwin</N>
 <N>neo-asiatica</N>
+<N>muning</N>
 <N>camesa</N>
 <N>samicana</N>
 <N>bestnation_ever</N>
@@ -2121,8 +2198,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>jerma-topia</N>
 <N>australia_and_the_outback</N>
 <N>nowa_europa</N>
-<N>strawberry_moon</N>
 <N>sil_dorsett</N>
+<N>arzotskia</N>
 <N>beanastan</N>
 <N>sardinavia</N>
 <N>taniwha_wairua</N>
@@ -2155,6 +2232,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>arwin</N>
 <N>enkhaltan</N>
 <N>roctubiazan</N>
+<N>bosken_state</N>
 <N>millennial</N>
 <N>zena</N>
 <N>orthy</N>
@@ -2203,14 +2281,14 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>kunigsrrock</N>
 <N>mij_ann</N>
 <N>central_osternia</N>
-<N>conioste</N>
 <N>luminous_valentine</N>
+<N>conioste</N>
 <N>gahais</N>
 <N>south_baba</N>
 <N>almanny</N>
 <N>luxis</N>
-<N>leuzinger</N>
 <N>kitasan</N>
+<N>leuzinger</N>
 <N>gundalia</N>
 <N>the_grand_snake_empire</N>
 <N>united_turkish_federation</N>
@@ -2222,7 +2300,9 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>the_deccan_federation</N>
 <N>rolven</N>
 <N>taurang-ul</N>
+<N>pohan</N>
 <N>zimbabwy</N>
+<N>fresfia</N>
 <N>hwingai</N>
 <N>new_scotoisy</N>
 <N>alien_a</N>
@@ -2232,6 +2312,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>carlia_and_imaginaria</N>
 <N>laminarix</N>
 <N>united_states_of_belvaria</N>
+<N>floride</N>
 <N>ashkenazi_regime</N>
 <N>donestk</N>
 <N>mountain_roamers</N>
@@ -2252,6 +2333,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>pink_diamond_esmerald</N>
 <N>acaer</N>
 <N>neo_imperial_america</N>
+<N>narticol</N>
 <N>phantomee</N>
 <N>vertumna</N>
 <N>the_soviet_states_of_europe</N>
@@ -2272,8 +2354,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>orgina</N>
 <N>hilonde</N>
 <N>noxvolkia</N>
-<N>saint_mascarilio</N>
 <N>new_ryansville</N>
+<N>saint_mascarilio</N>
 <N>hendersonia</N>
 <N>remil</N>
 <N>all_creation</N>
@@ -2287,6 +2369,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>the_new_english_nation</N>
 <N>killerma</N>
 <N>equalityforeveryone</N>
+<N>zharptiza</N>
+<N>etarria</N>
 <N>preziculca</N>
 <N>thehouseofsilly</N>
 <N>orasil</N>
@@ -2298,6 +2382,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>spinkenlandia</N>
 <N>feux</N>
 <N>malkerta</N>
+<N>tomzilla</N>
 <N>singamadri</N>
 <N>osborl</N>
 <N>rome_sublime</N>
@@ -2327,6 +2412,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>the_anarchist_federation_of_spain</N>
 <N>the_united_kindom_under_socialist_rule</N>
 <N>owions_empire</N>
+<N>reutschland</N>
 <N>tripod_ii</N>
 <N>kui_yuan</N>
 <N>rellenia</N>
@@ -2358,9 +2444,10 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>fleurance</N>
 <N>lysvika</N>
 <N>industromilicomplex</N>
+<N>tir_rois</N>
 <N>new_azornas</N>
-<N>wesh_chiba</N>
 <N>nuseanesia</N>
+<N>wesh_chiba</N>
 <N>fadnesia</N>
 <N>hisenna</N>
 <N>daggria</N>
@@ -2375,8 +2462,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>the_united_neptumousian_empire</N>
 <N>southern_nunavut</N>
 <N>biberoromia</N>
-<N>seleniaos</N>
 <N>nuremgard</N>
+<N>seleniaos</N>
 <N>new_tawisn</N>
 <N>nam-io</N>
 <N>kurgao</N>
@@ -2387,6 +2474,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>gob_gob</N>
 <N>aristocratia_communistica</N>
 <N>mardatan</N>
+<N>united_estland</N>
 <N>free_zones_of_america</N>
 <N>priti_purple_wonderland</N>
 <N>haldeni</N>
@@ -2424,6 +2512,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>nagpur_and_vishakhapatnam</N>
 <N>smiling_sinners</N>
 <N>longingland</N>
+<N>philosophorum</N>
 <N>united_empire_states_of_america</N>
 <N>2slimetico</N>
 <N>dyl</N>
@@ -2454,6 +2543,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>uzaczar</N>
 <N>ebonhand</N>
 <N>vesperelle</N>
+<N>model_97</N>
 <N>cherusalem</N>
 <N>datalearner</N>
 <N>pleroma_sans_romans</N>
@@ -2478,6 +2568,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>buende</N>
 <N>angvar</N>
 <N>equestrian_kingdom</N>
+<N>hefenland</N>
 <N>derthalen</N>
 <N>vjorka</N>
 <N>ingentus_progressia</N>
@@ -2506,10 +2597,13 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>hyaline_gardens</N>
 <N>zurithe</N>
 <N>great_drunea</N>
+<N>strumixian</N>
 <N>kayowa</N>
 <N>monteriggioni_e_firenze</N>
+<N>dootinbow</N>
 <N>borivika</N>
 <N>gurridge</N>
+<N>heroica</N>
 <N>asuka_middle_land</N>
 <N>semirara</N>
 <N>hadrex</N>
@@ -2561,8 +2655,10 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>der_sachsenlandische_reich</N>
 <N>federation_of_the_resentine_kingdom</N>
 <N>merlovich</N>
+<N>pogaria</N>
 <N>cahokian_egypt</N>
 <N>plexaris</N>
+<N>technocratic_pragmatists</N>
 <N>gran_river</N>
 <N>katowes</N>
 <N>jaxons213</N>
@@ -2570,8 +2666,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>slovakastan</N>
 <N>camadaland</N>
 <N>bisofeyri_world_assembly_mission</N>
-<N>honeymoon_avenue</N>
 <N>el_pasaran</N>
+<N>honeymoon_avenue</N>
 <N>durnil_islands</N>
 <N>the_earldom_of_fallsbury</N>
 <N>dogteeth</N>
@@ -2579,6 +2675,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>the_socialist_peoples_republic_of_merka</N>
 <N>yarraqistan</N>
 <N>tartland</N>
+<N>new_phalen</N>
 <N>sir_cumberbun_of_gloucester</N>
 <N>dutchformosa</N>
 <N>sun_yi</N>
@@ -2628,9 +2725,11 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>jutsa</N>
 <N>the_prosperous_coast</N>
 <N>christian_killeshandra</N>
+<N>the_inquisitorial_aldercliand_syndicate</N>
 <N>sedetland</N>
 <N>los_santos</N>
 <N>oconomowoc</N>
+<N>wauka_mountain</N>
 <N>ironblood</N>
 <N>kispaming</N>
 <N>invaded_oregon_washington_and_idaho</N>
@@ -2656,15 +2755,17 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>the_jamdoin</N>
 <N>litovaltio</N>
 <N>pabtlau</N>
+<N>slurpee</N>
 <N>the_crescenia</N>
 <N>sakhaland</N>
 <N>zimobia</N>
 <N>nakeyy</N>
-<N>the_united_soviet_kingdoms</N>
 <N>jliang</N>
+<N>the_united_soviet_kingdoms</N>
 <N>evil_sag_ties</N>
 <N>greater_hongshan</N>
 <N>ythaly</N>
+<N>lesbia</N>
 <N>awesome_lesbianland</N>
 <N>ithya</N>
 <N>united_information</N>
@@ -2711,11 +2812,12 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>civaliana</N>
 <N>minelegotia_and_equestria</N>
 <N>xjeff</N>
+<N>bolesia</N>
 <N>wutar_katari</N>
 <N>umeria</N>
 <N>new_aquitaine</N>
-<N>veryan</N>
 <N>aggharia</N>
+<N>veryan</N>
 <N>rio_de_mouro</N>
 <N>kharakhovistan</N>
 <N>the_plumage</N>
@@ -2724,6 +2826,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>novelin-niederstadtpfalzen</N>
 <N>ruddsy</N>
 <N>islamic_japanistan</N>
+<N>glorpesia</N>
 <N>saorysa</N>
 <N>djor</N>
 <N>paxaria</N>
@@ -2739,6 +2842,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>gendirt</N>
 <N>pellinor</N>
 <N>saint_moonereaus</N>
+<N>prydania</N>
 <N>nedeniya</N>
 <N>obrakistan</N>
 <N>the_three_rivers_nations</N>
@@ -2758,6 +2862,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>new_gehenna</N>
 <N>imperium_de_hominibus</N>
 <N>mavilay</N>
+<N>the_khunk_islands</N>
 <N>lovarpia</N>
 <N>revolutionary_italica</N>
 <N>sycorat</N>
@@ -2774,6 +2879,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>pinesap_island</N>
 <N>gran_azuria</N>
 <N>agniraashtra</N>
+<N>psuke</N>
 <N>valles_auri</N>
 <N>kalixia</N>
 <N>saarland-westpalia</N>
@@ -2784,8 +2890,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>thuanu</N>
 <N>isachile_tum</N>
 <N>north_korea_choson</N>
-<N>pogmalaysia</N>
 <N>free_land_of_the_holy_land</N>
+<N>pogmalaysia</N>
 <N>merpiana</N>
 <N>jobinia</N>
 <N>pia_solomex_lounitz</N>
@@ -2806,6 +2912,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>bharat_desham</N>
 <N>the_dome</N>
 <N>arantha</N>
+<N>deluolu</N>
 <N>theunited_beigaoqi</N>
 <N>aksharan</N>
 <N>hubdova</N>
@@ -2828,6 +2935,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>ricel</N>
 <N>new_aequalitas</N>
 <N>parozia</N>
+<N>communistchina</N>
 <N>nukhov</N>
 <N>meowzer_nation</N>
 <N>eggtowne</N>
@@ -2877,6 +2985,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>kazackhistan</N>
 <N>rad_asia</N>
 <N>jeffreys_wa_puppet</N>
+<N>island_of_catland</N>
+<N>nafoland</N>
 <N>communist_fardin</N>
 <N>xenmor</N>
 <N>from_new_world</N>
@@ -2891,16 +3001,19 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>azure_mines</N>
 <N>eashavist</N>
 <N>n0rth_italia</N>
+<N>snorlaxia</N>
 <N>slembana</N>
 <N>vectus</N>
 <N>the_southern_antartic</N>
 <N>rokatov</N>
 <N>eurobi</N>
 <N>new_kisha</N>
+<N>thistle_crown</N>
 <N>des_sawuzavilockaver_islands</N>
 <N>hinomia</N>
 <N>the_xenio</N>
 <N>foronai</N>
+<N>indochinese_commune</N>
 <N>the_uhhhh</N>
 <N>grand_wisteria</N>
 <N>dojestan</N>
@@ -2923,6 +3036,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>furecia</N>
 <N>penaconia</N>
 <N>cobalite</N>
+<N>the_sigometh_dynasty</N>
 <N>darmen</N>
 <N>az_merchaz</N>
 <N>pgsom</N>
@@ -2931,6 +3045,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>gran_patria_de_las_antillas</N>
 <N>ambr0xia</N>
 <N>helleborine</N>
+<N>new_trisone</N>
 <N>tornagul</N>
 <N>jamnagar</N>
 <N>reichtangle_the_best</N>
@@ -2960,6 +3075,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>taginvia</N>
 <N>planetmercury</N>
 <N>iujhj</N>
+<N>jtalvio</N>
 <N>ferfeceadtopia</N>
 <N>kirien</N>
 <N>inttr</N>
@@ -2971,8 +3087,8 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>malchata</N>
 <N>kanluna</N>
 <N>satn</N>
-<N>hannako</N>
 <N>mbok</N>
+<N>hannako</N>
 <N>choppyhausen</N>
 <N>greater_north-america</N>
 <N>lemon_soviet_socialist_republics</N>
@@ -2989,6 +3105,7 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>free_socialist_republik_of_novastovia</N>
 <N>darthevilious</N>
 <N>silveron</N>
+<N>buavela</N>
 <N>vallis_poenina</N>
 <N>halsoni</N>
 <N>west_harajyon</N>
@@ -3002,10 +3119,12 @@ Noting that, following the annihilation of the body previously occupying this sp
 <N>new_lakemba</N>
 <N>dun_frest</N>
 <N>the_seven_western_kingdoms</N>
+<N>omegadrax</N>
 <N>hengeyokai_valley</N>
 <N>nova_pirapemas</N>
 <N>shakibaii</N>
-<N>lancs</N></VOTES_FOR>
+<N>lancs</N>
+<N>suvo</N></VOTES_FOR>
 <FORUM_TOPIC_URL>https://forum.nationstates.net/viewtopic.php?f=9&amp;t=584662</FORUM_TOPIC_URL>
 <FORUM_TOPIC_ID>584662</FORUM_TOPIC_ID>
 <SITE_URL>https://www.nationstates.net/page=WA_current_resolution/council=3</SITE_URL>
