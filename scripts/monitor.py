@@ -7,11 +7,15 @@ from os import listdir
 from os.path import isfile
 import json
 import re
+import subprocess
+import sys
 from html import unescape
 
 STATE_FILE = "state.json"
+WVDB_SCRIPT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "WVDB.py"))
+WVDB_FILE = "votes.wvdb"
 TZ = timezone.utc
-COUNCILS = ["3", "2"]  # Monitor both General Assembly (3) and Security Council (2)
+COUNCILS = ["3", "2"]
 
 
 def default_council_state():
@@ -40,7 +44,6 @@ def load_state():
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, 'r') as f:
             try:
-                # Structure: {'3': {'res_id': '...', 'last_ts': 12345}, '2': {...}}
                 return normalize_state(json.load(f))
             except json.JSONDecodeError:
                 return normalize_state({})
@@ -54,7 +57,6 @@ def save_state(state):
 
 def fetch_api_xml(council_id):
     """Fetches the raw XML from the NationStates API for a given council."""
-    # NationStates requires a User-Agent header to identify the script.
     api_url = f"https://www.nationstates.net/cgi-bin/api.cgi?wa={council_id}&q=resolution+voters"
     headers = {'User-Agent': os.environ.get('USER_AGENT', 'WA voting recorder (Default UserAgent)')}
     response = requests.get(api_url, headers=headers)
@@ -82,13 +84,11 @@ def fetch_happenings_page(sincetime, beforetime, limit=100, beforeid=None):
 
     next_before_id = None
     if events:
-        # Events are returned newest (first) to oldest (last) when using 'beforeid'
         oldest_event = events[-1]
         try:
             oldest_id = int(oldest_event.get('id'))
             next_before_id = oldest_id
         except (ValueError, TypeError):
-            # Should not happen
             pass
 
     return response.text, next_before_id
@@ -101,7 +101,6 @@ def backfill_missing_votes_via_happenings(council_id, res_id, res_name, last_ts,
     """
     print(f"WA {council_id} Resolution {res_id}: Backfilling votes from {last_ts} to {end_ts}...")
 
-    # Fetch ALL missing vote happenings (newest to oldest, as API provides)
     all_events = []
     next_before_id = None
     limit = 100
@@ -131,16 +130,13 @@ def backfill_missing_votes_via_happenings(council_id, res_id, res_name, last_ts,
 
         all_events.extend(events_on_page)
 
-        # If the page returned less than the limit, we have reached the end of the events.
         if len(events_on_page) < limit:
             print(
                 f"Fetched {len(events_on_page)} events, which is less than the limit of {limit}. Stopping pagination.")
             break
 
-        # If page returned limit, get the next ID for the next page fetch
         next_before_id = next_before_id_for_next_page
         if next_before_id is None:
-            # If NS is trolling us
             print("Received full page but no next_before_id. Stopping pagination.")
             break
 
@@ -148,11 +144,6 @@ def backfill_missing_votes_via_happenings(council_id, res_id, res_name, last_ts,
         print(f"WA {council_id} Resolution {res_id}: No new votes found in happenings.")
         return
 
-    # Process events in CHRONOLOGICAL order (OLDEST to NEWEST)
-    # The list is currently newest to oldest. Sorting by TIMESTAMP (oldest first)
-    # We need to apply the oldest vote first so subsequent changes overwrite it.
-
-    # Note: Event ID is a good secondary sort, as higher IDs are newer events.
     parsed_events = []
 
     target_res_name = normalize_resolution_name(res_name)
@@ -167,7 +158,7 @@ def backfill_missing_votes_via_happenings(council_id, res_id, res_name, last_ts,
             timestamp = int(event.find('TIMESTAMP').text)
             event_id = int(event.get('id'))
         except (ValueError, TypeError, AttributeError):
-            continue  # should not happen
+            continue
 
         match = vote_pattern.search(text)
         if match and normalize_resolution_name(match.group('resname')) == target_res_name:
@@ -179,16 +170,13 @@ def backfill_missing_votes_via_happenings(council_id, res_id, res_name, last_ts,
         match = withdraw_pattern.search(text)
         if match and normalize_resolution_name(match.group('resname')) == target_res_name:
             nation_id = match.group('nation')
-            # 'withdraw' will clear the vote in the final step
             parsed_events.append((timestamp, event_id, nation_id, 'withdraw'))
 
-    # Sort by timestamp (primary) and event ID (secondary) to get chronological order
     parsed_events.sort(key=lambda x: (x[0], x[1]))
 
     new_votes = {}
 
     for timestamp, event_id, nation_id, vote_type in parsed_events:
-        # Later (newer) events will overwrite earlier ones for the same nation_id
         new_votes[nation_id] = vote_type
 
     filename = f"resolutions/{res_id}_votes.xml"
@@ -207,7 +195,6 @@ def backfill_missing_votes_via_happenings(council_id, res_id, res_name, last_ts,
 
     final_votes = {}
 
-    # Collect votes from the existing XML
     votes_for_tag = resolution_tag.find('VOTES_FOR')
     votes_against_tag = resolution_tag.find('VOTES_AGAINST')
 
@@ -269,13 +256,10 @@ def process_execution_request():
             root = ET.fromstring(raw_xml)
             resolution_tag = root.find('RESOLUTION')
 
-            # No active resolution
             if resolution_tag is None or resolution_tag.find('ID') is None:
                 print(f"Council {council_id}: No resolution currently at vote.")
 
-                # Check if a resolution just ended
                 if current_state['res_id'] is not None and current_state['last_ts'] is not None:
-                    # Trigger backfill using the last state data.
                     res_id = current_state['res_id']
                     last_ts = current_state['last_ts']
                     end_ts = current_state['end_ts']
@@ -290,12 +274,10 @@ def process_execution_request():
                     current_state['last_ts'] = None
                     current_state['end_ts'] = None
 
-            # Active resolution
             else:
                 resolution_id = resolution_tag.find('ID').text
                 resolution_name = resolution_tag.find('NAME').text
 
-                # Check if resolution was switched
                 if current_state['res_id'] is not None and current_state['res_id'] != resolution_id:
                     print(f"WA {council_id}: Resolution {current_state['res_id']} replaced by {resolution_id}.")
                     backfill_missing_votes_via_happenings(
@@ -309,7 +291,6 @@ def process_execution_request():
                 filename = f"resolutions/{resolution_id}_votes.xml"
                 promoted_ts = int(resolution_tag.find('PROMOTED').text)
 
-                # Resolution voting periods last exactly 4 days (345600 seconds).
                 TIME_TO_VOTE_END_SECONDS = 345600
                 voting_end_timestamp = promoted_ts + TIME_TO_VOTE_END_SECONDS
 
@@ -319,10 +300,8 @@ def process_execution_request():
                 os.system('git config user.name "GitHub Actions Bot"')
                 os.system('git config user.email "github-actions-bot@users.noreply.github.com"')
                 os.system(f'git add {filename}')
-                # Use || true in case the file hasn't changed
                 os.system(f'git commit -m "UPDATE: Hourly vote record for resolution {resolution_id}" || true')
 
-                # Update state
                 current_state['res_id'] = resolution_id
                 current_state['res_name'] = resolution_name
                 current_state['last_ts'] = current_timestamp
@@ -395,10 +374,14 @@ def csv_vote_record():
         for nation_id, votes in sorted(all_votes.items()):
             writer.writerow(votes)
 
+    subprocess.run(
+        [sys.executable, WVDB_SCRIPT, 'encode', 'votes.csv', WVDB_FILE],
+        check=True,
+    )
+
     os.system('git config user.name "GitHub Actions Bot"')
     os.system('git config user.email "github-actions-bot@users.noreply.github.com"')
-    os.system(f'git add votes.csv resolutions.csv {STATE_FILE}')
-    # Use || true in case the file hasn't changed since the last hour.
+    os.system(f'git add votes.csv {WVDB_FILE} resolutions.csv {STATE_FILE}')
     os.system(f'git commit -m "UPDATE: Vote record CSV" || true')
     os.system('git push')
 

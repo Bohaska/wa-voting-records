@@ -4,19 +4,22 @@ title: WA Voting Records
 custom_scripts: |
     <script src="scripts/fuse.basic.min.js"></script>
     <script>
-        let allResolutions = []; // Array version
-        let allResolutionsMap = {}; // Map version for nation search
-        let allVotes = [];
-        let votesHeader = [];
+        let allResolutions = [];
+        let allResolutionsMap = {};
+        let voteTable = null;
+        let voteColumnById = new Map();
+        let nationRowById = new Map();
+        let nationSearchRecords = [];
 
-        /** Fetches and processes resolution and vote data using the shared loader. */
         async function loadData() {
             try {
                 const data = await loadAllData();
                 allResolutions = data.resolutionsArray;
                 allResolutionsMap = data.resolutionsMap;
-                allVotes = data.allVotes;
-                votesHeader = data.votesHeader;
+                voteTable = data.voteTable;
+                voteColumnById = new Map(voteTable.columns.map((id, index) => [id, index]));
+                nationRowById = new Map(voteTable.ids.map((id, index) => [id, index]));
+                nationSearchRecords = voteTable.ids.map(nation_id => ({ nation_id }));
 
                 populateTable(allResolutions);
                 handleRouting();
@@ -27,12 +30,10 @@ custom_scripts: |
             }
         }
 
-        /** Populates the resolution table with filtered or all data. */
         function populateTable(resList) {
             const tbody = document.getElementById('resolutions-table-body');
             tbody.innerHTML = '';
 
-            // Sort by promoted timestamp descending
             resList.sort((a, b) => parseInt(b.promoted) - parseInt(a.promoted));
 
             resList.forEach((res, index) => {
@@ -57,7 +58,6 @@ custom_scripts: |
             });
         }
 
-        /** Filters the resolutions table based on author and keyword input. */
         function filterResolutions() {
             const keyword = document.getElementById('id_keyword').value.toLowerCase();
             const author = document.getElementById('id_author_name').value.toLowerCase();
@@ -71,7 +71,6 @@ custom_scripts: |
             populateTable(filtered);
         }
 
-        /** Changes the HTML to show resolution voting info. */
         function renderDetailContent(resId) {
             const res = allResolutions.find(r => r.id === resId);
             if (!res) return;
@@ -89,15 +88,18 @@ custom_scripts: |
             const votersFor = [];
             const votersAgainst = [];
 
-            allVotes.forEach(nationVoteRecord => {
-                const nationId = nationVoteRecord.nation_id;
-                const vote = nationVoteRecord[resId];
-                if (vote === '1') {
-                    votersFor.push(nationId);
-                } else if (vote === '0') {
-                    votersAgainst.push(nationId);
+            const column = voteColumnById.get(resId);
+            if (column !== undefined) {
+                for (let row = 0; row < voteTable.rowCount; row++) {
+                    const nationId = voteTable.ids[row];
+                    const vote = voteTable.getVote(row, column);
+                    if (vote === 1) {
+                        votersFor.push(nationId);
+                    } else if (vote === 0) {
+                        votersAgainst.push(nationId);
+                    }
                 }
-            });
+            }
 
             const nfObject = new Intl.NumberFormat('en-US')
             const totalVoters = votersFor.length + votersAgainst.length
@@ -115,24 +117,20 @@ custom_scripts: |
             window.scrollTo(0, 0);
         }
 
-        /** Shows the detailed view for a specific resolution ID. */
         function showDetailView(resId) {
             window.location.hash = `res=${resId}`;
         }
 
-        /** Hides the resolution details and shows list */
         function renderListContent() {
             hideAllViews();
             document.getElementById('resolutions-list-view').style.display = 'block';
             window.scrollTo(0, 0);
         }
 
-        /** Switches back to the main list view. */
         function showListView() {
             window.location.hash = 'resolutions';
         }
 
-        /** Nation Search Logic */
         function renderNationSearchContent(nationId = null) {
             hideAllViews();
             document.getElementById('nation-search-view').style.display = 'block';
@@ -158,14 +156,13 @@ custom_scripts: |
                 return;
             }
 
-            // Update hash without triggering reload if possible, but hash change is fine
             window.location.hash = `nation=${encodeURIComponent(nationIdSearch)}`;
 
-            const nationVotesRecord = allVotes.find(record => record.nation_id === nationIdSearch);
+            const nationRow = nationRowById.get(nationIdSearch);
 
-            if (!nationVotesRecord) {
+            if (nationRow === undefined) {
                 const options = { includeScore: true, keys: ['nation_id'], threshold: 0.6 };
-                const fuse = new Fuse(allVotes, options);
+                const fuse = new Fuse(nationSearchRecords, options);
                 const result = fuse.search(nationIdSearch);
 
                 if (result.length > 0) {
@@ -186,16 +183,17 @@ custom_scripts: |
             let html = `<h2>Voting record for: <a href="https://www.nationstates.net/nation=${nationIdSearch}">${nationIdSearch.replace(/_/g, ' ')}</a></h2>`;
             html += `<table class="decorated"><thead><tr><th>Date (UTC)</th><th>Chamber</th><th>Resolution Title</th><th>Author</th><th>Vote</th></tr></thead><tbody>`;
 
-            const resolutionIds = votesHeader.filter(h => h !== 'nation_id');
+            const resolutionIds = voteTable.columns.slice();
             resolutionIds.sort((a, b) => (parseInt(allResolutionsMap[b]?.promoted) || 0) - (parseInt(allResolutionsMap[a]?.promoted) || 0));
 
             resolutionIds.forEach(resId => {
-                const vote = nationVotesRecord[resId];
+                const column = voteColumnById.get(resId);
+                const vote = column === undefined ? null : voteTable.getVote(nationRow, column);
                 const res = allResolutionsMap[resId];
                 if (!res) return;
 
-                const voteDisplay = vote === '1' ? 'FOR' : vote === '0' ? 'AGAINST' : 'N/A';
-                const tdClasses = `min vote ${vote === '1' ? 'for' : vote === '0' ? 'against' : ''}`.trim();
+                const voteDisplay = vote === 1 ? 'FOR' : vote === 0 ? 'AGAINST' : 'N/A';
+                const tdClasses = `min vote ${vote === 1 ? 'for' : vote === 0 ? 'against' : ''}`.trim();
                 const chamber = getChamber(res.council);
 
                 html += `<tr>
@@ -290,7 +288,6 @@ custom_scripts: |
     <p><span style="font-size: 12px">Date based on resolution promotion time (UTC).</span></p>
 </div>
 
-<!-- Resolution View (Client-Side) -->
 <div id="resolution-detail-view" style="display: none;">
     <button onclick="showListView()" style="margin-bottom: 20px;">← Back to Resolutions List</button>
     <h1 id="detail-title"></h1>
@@ -313,7 +310,6 @@ custom_scripts: |
     </p>
 </div>
 
-<!-- Nation Search View (Client-Side) -->
 <div id="nation-search-view" style="display: none;">
     <button onclick="showListView()" style="margin-bottom: 20px;">← Back to Resolutions List</button>
     <h1>Search Nation Votes</h1>
